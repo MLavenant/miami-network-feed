@@ -1,0 +1,38 @@
+# Miami Network Event Feed
+
+Public JSON feed of fine / luxury / hospitality / networking events in Miami.
+Refreshed daily by GitHub Actions. Consumed by Matthias’s personal Command dashboard Network tab.
+
+**Live feed (after Pages is enabled):**
+`https://mlavenant.github.io/miami-network-feed/events.json`
+
+## What this is
+
+- Python collector that polls official websites, RSS, and iCal feeds
+- Normalizes, deduplicates, scores for luxury/networking relevance
+- Publishes `docs/events.json` + `docs/status.json` via GitHub Pages
+- No Instagram scraping, no private RSVP harvesting, no finance/workout data
+
+## Local run
+
+```bash
+python -m venv .venv
+# Windows:
+.venv\Scripts\activate
+pip install -r requirements.txt
+python -m collector.cli --out docs/events.json --status docs/status.json
+pytest -q
+```
+
+## Daily automation
+
+GitHub Action `Collect Miami Events` runs ~6:00 AM America/New_York and on `workflow_dispatch`.
+Failed individual sources are recorded in `status.json`; a previous valid feed is preserved when a run would publish empty/malformed data.
+
+## Schema
+
+See [docs/schema.md](docs/schema.md).
+
+## Sources
+
+See [docs/sources.md](docs/sources.md).

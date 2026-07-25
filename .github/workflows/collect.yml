@@ -1,0 +1,89 @@
+name: Collect Miami Events
+
+on:
+  schedule:
+    # ~6:00 AM America/New_York (EDT = UTC-4 → 10:00 UTC; EST = UTC-5 → 11:00 UTC)
+    - cron: "0 10 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "collector/**"
+      - "tests/**"
+      - "requirements.txt"
+      - ".github/workflows/collect.yml"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: collect-miami-events
+  cancel-in-progress: true
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run tests
+        run: pytest -q
+
+      - name: Collect events
+        run: python -m collector.cli --out docs/events.json --status docs/status.json
+
+      - name: Validate feed exists
+        run: |
+          test -f docs/events.json
+          test -f docs/status.json
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          feed = json.loads(Path("docs/events.json").read_text())
+          assert feed.get("version") == 1
+          assert isinstance(feed.get("events"), list)
+          print("feed ok:", feed.get("event_count"))
+          PY
+
+      - name: Commit feed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/events.json docs/status.json
+          if git diff --staged --quiet; then
+            echo "No feed changes"
+          else
+            git commit -m "chore: refresh Miami network event feed"
+            git push
+          fi
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+  deploy:
+    needs: collect
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
