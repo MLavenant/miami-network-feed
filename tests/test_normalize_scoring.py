@@ -1,7 +1,14 @@
 from datetime import datetime, timedelta, timezone
 
 from collector.models import RawEvent
-from collector.normalize import build_feed, event_key, merge_and_score, validate_feed
+from collector.normalize import (
+    assign_industry,
+    build_feed,
+    event_key,
+    is_generic_event,
+    merge_and_score,
+    validate_feed,
+)
 from collector.parsers import infer_access, looks_miami, parse_ics, parse_rss
 from collector.scoring import score_event
 
@@ -127,8 +134,8 @@ END:VCALENDAR
 def test_validate_feed():
     now = datetime(2026, 7, 25, tzinfo=timezone.utc)
     raw = RawEvent(
-        title="Beacon Council Breakfast",
-        summary="Business networking breakfast in Miami",
+        title="Beacon Council Real Estate Development Breakfast",
+        summary="Hotel development and commercial property networking in Miami",
         starts_at=now + timedelta(days=5),
         venue="Brickell",
         city="Miami",
@@ -142,3 +149,96 @@ def test_validate_feed():
     feed = build_feed(events, generated_at=now)
     ok, reason = validate_feed(feed)
     assert ok, reason
+    assert feed["events"][0]["industry"] == "real_estate"
+    assert feed["events"][0]["access_tip"]
+    assert feed["access_directory"]
+
+
+def test_generic_museum_tour_is_excluded():
+    now = datetime(2026, 7, 25, 12, 0, tzinfo=timezone.utc)
+    tour = RawEvent(
+        title="The Bass Highlight Tours",
+        summary="A guided museum tour for families",
+        starts_at=now + timedelta(hours=3),
+        venue="The Bass",
+        city="Miami Beach",
+        url="https://thebass.org/event/the-bass-highlight-tours/2026-07-25/",
+        categories=["art", "culture"],
+        source_id="the_bass",
+        source_name="The Bass",
+        source_url="https://thebass.org/events/",
+    )
+    assert is_generic_event(tour)
+    assert merge_and_score([tour], now=now) == []
+
+
+def test_generic_museum_program_without_premium_signal_is_excluded():
+    now = datetime(2026, 7, 25, 12, 0, tzinfo=timezone.utc)
+    program = RawEvent(
+        title="Optical Adventures - Art Tricks",
+        summary="Daily museum program",
+        starts_at=now + timedelta(days=2),
+        venue="The Bass",
+        city="Miami Beach",
+        url="https://thebass.org/event/optical-adventures/",
+        categories=["art", "culture"],
+        source_id="the_bass",
+        source_name="The Bass",
+        source_url="https://thebass.org/events/",
+    )
+    assert merge_and_score([program], now=now) == []
+
+
+def test_top_tier_industry_assignment():
+    cases = [
+        ("wr_chess", "Opening Reception at Faena", "sports"),
+        ("w_south_beach", "W South Beach Cocktail", "hospitality"),
+        ("sobewff_ics", "Chef Dinner", "culinary"),
+        ("naiop_sfl", "Development Forum", "real_estate"),
+        ("design_miami", "Collector Preview", "art_fashion"),
+    ]
+    for source_id, title, expected in cases:
+        raw = RawEvent(title=title, source_id=source_id)
+        assert assign_industry(raw) == expected
+
+
+def test_private_dinner_gets_access_guidance():
+    now = datetime(2026, 7, 25, 12, 0, tzinfo=timezone.utc)
+    dinner = RawEvent(
+        title="Future Bass Private Dinner with Artist",
+        starts_at=now + timedelta(days=3),
+        venue="The Bass",
+        city="Miami Beach",
+        url="https://thebass.org/event/private-dinner/",
+        access="invitation-only",
+        categories=["art", "culinary"],
+        source_id="the_bass",
+        source_name="The Bass",
+        source_url="https://thebass.org/events/",
+    )
+    events = merge_and_score([dinner], now=now)
+    assert len(events) == 1
+    assert events[0].industry == "culinary"
+    assert "No public RSVP" in events[0].access_tip
+
+
+def test_editorial_guides_and_office_hours_are_excluded():
+    now = datetime(2026, 7, 25, 12, 0, tzinfo=timezone.utc)
+    guide = RawEvent(
+        title="The Complete Guide to the Best Luxury Hotels in Miami",
+        summary="Cocktails, hospitality and resorts",
+        categories=["editorial", "luxury"],
+        source_id="haute_living",
+        source_name="Haute Living",
+        source_url="https://hauteliving.com/",
+    )
+    office = RawEvent(
+        title="Strive305 Office Hours",
+        summary="Business development support",
+        starts_at=now + timedelta(days=2),
+        categories=["networking", "real_estate"],
+        source_id="beacon_council",
+        source_name="Beacon Council",
+        source_url="https://example.com/",
+    )
+    assert merge_and_score([guide, office], now=now) == []

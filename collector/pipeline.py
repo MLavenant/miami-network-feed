@@ -6,7 +6,7 @@ from pathlib import Path
 from typing import Any
 
 from .http_client import HttpClient
-from .normalize import build_feed, load_previous, merge_and_score, validate_feed
+from .normalize import ACCESS_DIRECTORY, build_feed, load_previous, merge_and_score, validate_feed
 from .sources import collect_all
 
 
@@ -37,6 +37,8 @@ def run_collection(
             "timezone": "America/New_York",
             "version": 1,
             "event_count": len(previous),
+            "industries": ["hospitality", "sports", "real_estate", "culinary", "art_fashion"],
+            "access_directory": ACCESS_DIRECTORY,
             "events": list(previous.values()),
             "preserved_from_previous": True,
             "preserve_reason": reason if not ok else "empty collection",

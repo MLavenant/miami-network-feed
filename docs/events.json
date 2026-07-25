@@ -1,46 +1,67 @@
 {
-  "generated_at": "2026-07-25T15:36:50.628596+00:00",
+  "generated_at": "2026-07-25T18:44:53.576206+00:00",
   "timezone": "America/New_York",
   "version": 1,
-  "event_count": 82,
-  "events": [
+  "event_count": 9,
+  "industries": [
+    "hospitality",
+    "sports",
+    "real_estate",
+    "culinary",
+    "art_fashion"
+  ],
+  "access_directory": [
     {
-      "id": "315408b6b6c5ed6d504c77b619636ef7e68aa463",
-      "title": "Opening Reception — WR Chess at Faena",
-      "summary": "Opening Reception related to WR Chess Match programming at Faena Forum.",
-      "starts_at": "2026-07-24T19:00:00-04:00",
-      "ends_at": null,
-      "all_day": false,
-      "venue": "Faena Forum",
-      "neighborhood": "Miami Beach",
-      "city": "Miami Beach",
-      "url": "https://wr-chess.com/events/usa-vs-uzbekistan-wr-chess-match-2026",
-      "rsvp_url": "https://wr-chess.com/events/usa-vs-uzbekistan-wr-chess-match-2026",
-      "image_url": null,
-      "access": "invitation-only",
-      "categories": [
-        "hospitality",
-        "luxury",
-        "networking"
-      ],
-      "score": 100,
-      "confidence": 0.98,
-      "why_it_matters": "Official WR Chess programming — invitation-only access — luxury + networking keywords — at Faena Forum",
-      "source_id": "wr_chess",
-      "source_name": "WR Chess",
-      "source_url": "https://wr-chess.com/events/usa-vs-uzbekistan-wr-chess-match-2026",
-      "first_seen_at": "2026-07-25T13:08:35.109827+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
-      "lead_hours": -15,
-      "source_trail": [
-        {
-          "source_id": "wr_chess",
-          "source_name": "WR Chess",
-          "seen_at": "2026-07-25T13:08:35.109827+00:00",
-          "url": "https://wr-chess.com/events/usa-vs-uzbekistan-wr-chess-match-2026"
-        }
-      ]
+      "name": "Faena Rose",
+      "type": "Private cultural membership",
+      "url": "https://www.faena.com/faena-rose",
+      "apply_url": "https://forms.rosemembers.faena.com/membership-interest",
+      "tip": "Submit the official membership-interest form. Rose programming is member-only and is not published on Faena's public calendar."
     },
+    {
+      "name": "The Moore Miami",
+      "type": "Private members club",
+      "url": "https://www.mooremiami.com/club",
+      "apply_url": "https://www.mooremiami.com/become-a-member",
+      "tip": "Apply for membership; accepted members receive invitations to the private programming calendar."
+    },
+    {
+      "name": "Soho Beach House",
+      "type": "Private members club",
+      "url": "https://www.sohohouse.com/en-us/houses/soho-beach-house",
+      "apply_url": "https://www.sohohouse.com/en-us/membership",
+      "tip": "House events live in the member app. Apply through the official Soho House membership route."
+    },
+    {
+      "name": "Casa Tua Club",
+      "type": "Private members club",
+      "url": "https://www.casatualife.com/Miami.html",
+      "apply_url": "https://apply.casatualife.com/membership-application",
+      "tip": "Select Miami as your primary house in the official application. Founder Membership is invitation-only."
+    },
+    {
+      "name": "ZZ's Club Miami",
+      "type": "Private dining membership",
+      "url": "https://www.majorfood.com/brands/zzs-club",
+      "apply_url": "https://zzsclub.com/miami-applications/",
+      "tip": "Apply through the Miami membership page or submit an official membership/events inquiry."
+    },
+    {
+      "name": "The Bath Club",
+      "type": "Private social club",
+      "url": "https://www.thebathclub.com/",
+      "apply_url": "https://www.thebathclub.com/membership-inquiries",
+      "tip": "Use the membership inquiry. The club recognizes member, concierge, private-bank, real-estate and cultural introductions."
+    },
+    {
+      "name": "EDITION Beach Club",
+      "type": "Hotel beach-club membership",
+      "url": "https://www.editionhotels.com/miami-beach/beach-and-pools/beach-club/",
+      "apply_url": "https://www.editionhotels.com/miami-beach/beach-and-pools/membership-application/",
+      "tip": "Apply for Beach Club membership; official benefits include access to exclusive member events."
+    }
+  ],
+  "events": [
     {
       "id": "9a982617ffa96e54bdf0198f2acd818f55fd427c",
       "title": "Closing Dinner — WR Chess at Faena",
@@ -55,19 +76,23 @@
       "rsvp_url": "https://wr-chess.com/events/usa-vs-uzbekistan-wr-chess-match-2026",
       "image_url": null,
       "access": "invitation-only",
+      "industry": "sports",
       "categories": [
         "culinary",
         "luxury",
         "networking"
       ],
-      "score": 90,
+      "access_tip": "No public RSVP is listed for private receptions. Follow WR Chess and Faena, then request an official host or press introduction.",
+      "contact_url": "https://wr-chess.com/events/usa-vs-uzbekistan-wr-chess-match-2026",
+      "contact_email": null,
+      "score": 86,
       "confidence": 0.98,
       "why_it_matters": "Official WR Chess programming — invitation-only access — luxury / hospitality keywords — at La Cava",
       "source_id": "wr_chess",
       "source_name": "WR Chess",
       "source_url": "https://wr-chess.com/events/usa-vs-uzbekistan-wr-chess-match-2026",
       "first_seen_at": "2026-07-25T13:08:35.111401+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
+      "last_seen_at": "2026-07-25T18:44:53.506501+00:00",
       "lead_hours": 80,
       "source_trail": [
         {
@@ -79,38 +104,82 @@
       ]
     },
     {
-      "id": "78a504eca2ba6516ac23d9a515f3550f2ba38e88",
-      "title": "The Best Luxury Spas in Miami: From Shamanic Rituals to Mineral Pools",
-      "summary": "From Faena's shamanic Tierra Santa journey to Hurrem Hammam's authentic Turkish ritual, the best spas in Miami Beach. The post The Best Luxury Spas in Miami: From Shamanic Rituals to Mineral Pools appeared first on Haute Living .",
-      "starts_at": "2026-07-25T13:00:49+00:00",
+      "id": "6a6d73a49b3481c57555779800f55cac9c34ea74",
+      "title": "Haute Living and 5W AI Communications Launch the South Florida Luxury Real Estate AI Visibility Index™ — Cipri...",
+      "summary": "First monthly benchmark of how ChatGPT, Claude, Gemini, Perplexity, and Google AI Overviews describe South Florida’s top new luxury developments When an ultra-high-net-worth buyer asks ChatGPT, “What are the best new luxury condos in Miami?” — what comes back? Which developments does the AI name first? Which ones does it miss entirely? And does the […] The post Haute Living and 5W AI Communications Launch the South F",
+      "starts_at": null,
       "ends_at": null,
       "all_day": false,
       "venue": "",
-      "neighborhood": "Miami Beach",
+      "neighborhood": "Miami",
       "city": "Miami",
-      "url": "https://hauteliving.com/2026/07/best-luxury-spas-miami/793026/",
-      "rsvp_url": "https://hauteliving.com/2026/07/best-luxury-spas-miami/793026/",
+      "url": "https://hauteliving.com/2026/07/south-florida-luxury-real-estate-ai-visibility-index/792866/",
+      "rsvp_url": "https://hauteliving.com/2026/07/south-florida-luxury-real-estate-ai-visibility-index/792866/",
       "image_url": null,
       "access": "public",
+      "industry": "real_estate",
       "categories": [
         "editorial",
         "luxury"
       ],
+      "access_tip": "Open the official source for current admission details. Reserve early if a booking option is shown.",
+      "contact_url": "https://hauteliving.com/2026/07/south-florida-luxury-real-estate-ai-visibility-index/792866/",
+      "contact_email": null,
       "score": 84,
-      "confidence": 0.8,
-      "why_it_matters": "Early editorial signal from Haute Living — luxury / hospitality keywords",
+      "confidence": 0.6,
+      "why_it_matters": "Early editorial signal from Haute Living — luxury + networking keywords",
       "source_id": "haute_living",
       "source_name": "Haute Living",
       "source_url": "https://hauteliving.com/feed/",
-      "first_seen_at": "2026-07-25T13:11:42.296486+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
-      "lead_hours": -1,
+      "first_seen_at": "2026-07-25T18:40:53.430713+00:00",
+      "last_seen_at": "2026-07-25T18:44:53.506501+00:00",
+      "lead_hours": null,
       "source_trail": [
         {
           "source_id": "haute_living",
           "source_name": "Haute Living",
-          "seen_at": "2026-07-25T13:11:42.296486+00:00",
-          "url": "https://hauteliving.com/2026/07/best-luxury-spas-miami/793026/"
+          "seen_at": "2026-07-25T18:40:53.430713+00:00",
+          "url": "https://hauteliving.com/2026/07/south-florida-luxury-real-estate-ai-visibility-index/792866/"
+        }
+      ]
+    },
+    {
+      "id": "74c554ec4b012b7fd2fa25cd2f32d77cb7ba530e",
+      "title": "Haute Living and DaGrosa Capital Celebrate the Kempinski Residences Miami Design District Sales Gallery",
+      "summary": "DaGrosa Capital Development Partners, in partnership with Haute Living, celebrated the unveiling of the Kempinski Residences Miami Design District Sales Gallery with an exclusive evening that brought together some of the most prominent names in luxury real estate, business, and culture. Prominent executives, investors, tastemakers, and members of the media gathered to witness a milestone […] The post Haute Living and",
+      "starts_at": null,
+      "ends_at": null,
+      "all_day": false,
+      "venue": "",
+      "neighborhood": "Design District",
+      "city": "Miami",
+      "url": "https://hauteliving.com/2026/07/haute-living-and-dagrosa-capital-celebrate-the-kempinski-residences-miami-design-district-sales-gallery/792760/",
+      "rsvp_url": "https://hauteliving.com/2026/07/haute-living-and-dagrosa-capital-celebrate-the-kempinski-residences-miami-design-district-sales-gallery/792760/",
+      "image_url": null,
+      "access": "public",
+      "industry": "real_estate",
+      "categories": [
+        "editorial",
+        "luxury"
+      ],
+      "access_tip": "Open the official source for current admission details. Reserve early if a booking option is shown.",
+      "contact_url": "https://hauteliving.com/2026/07/haute-living-and-dagrosa-capital-celebrate-the-kempinski-residences-miami-design-district-sales-gallery/792760/",
+      "contact_email": null,
+      "score": 78,
+      "confidence": 0.6,
+      "why_it_matters": "Early editorial signal from Haute Living — luxury / hospitality keywords",
+      "source_id": "haute_living",
+      "source_name": "Haute Living",
+      "source_url": "https://hauteliving.com/feed/",
+      "first_seen_at": "2026-07-25T18:40:53.444550+00:00",
+      "last_seen_at": "2026-07-25T18:44:53.506501+00:00",
+      "lead_hours": null,
+      "source_trail": [
+        {
+          "source_id": "haute_living",
+          "source_name": "Haute Living",
+          "seen_at": "2026-07-25T18:40:53.444550+00:00",
+          "url": "https://hauteliving.com/2026/07/haute-living-and-dagrosa-capital-celebrate-the-kempinski-residences-miami-design-district-sales-gallery/792760/"
         }
       ]
     },
@@ -128,19 +197,23 @@
       "rsvp_url": "https://luma.com/mnea6tmj",
       "image_url": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/https://images.unsplash.com/photo-1518645666305-5f5e7469e52a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjQyMjF8MHwxfHNlYXJjaHw5fHxnYWxhfGVufDB8fHx8MTc4MzM4NjM4MXww&ixlib=rb-4.1.0&q=80&w=1080",
       "access": "public",
+      "industry": "hospitality",
       "categories": [
         "culture",
         "networking",
         "nightlife"
       ],
-      "score": 70,
+      "access_tip": "Open the official source for current admission details. Reserve early if a booking option is shown.",
+      "contact_url": "https://luma.com/mnea6tmj",
+      "contact_email": null,
+      "score": 74,
       "confidence": 0.8,
       "why_it_matters": "From Luma Miami — networking keywords — at Dua Miami, Autograph Collection",
       "source_id": "luma_miami",
       "source_name": "Luma Miami",
       "source_url": "https://luma.com/miami",
       "first_seen_at": "2026-07-25T13:06:32.598170+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
+      "last_seen_at": "2026-07-25T18:44:53.506501+00:00",
       "lead_hours": 7,
       "source_trail": [
         {
@@ -165,18 +238,22 @@
       "rsvp_url": "https://thebass.org/event/future-bass-private-dinner-with-artist-sara-zapata/",
       "image_url": null,
       "access": "invitation-only",
+      "industry": "culinary",
       "categories": [
         "art",
         "culture"
       ],
-      "score": 70,
+      "access_tip": "No public RSVP is listed. Follow the official organizer and venue, join their newsletter, then request a host, member, concierge or PR introduction. Never use unofficial ticket links.",
+      "contact_url": "https://thebass.org/event/future-bass-private-dinner-with-artist-sara-zapata/",
+      "contact_email": null,
+      "score": 74,
       "confidence": 0.9,
       "why_it_matters": "From The Bass — invitation-only access — luxury / hospitality keywords",
       "source_id": "the_bass",
       "source_name": "The Bass",
       "source_url": "https://thebass.org/events/?ical=1",
       "first_seen_at": "2026-07-25T13:05:56.355426+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
+      "last_seen_at": "2026-07-25T18:44:53.506501+00:00",
       "lead_hours": 107,
       "source_trail": [
         {
@@ -184,1546 +261,6 @@
           "source_name": "The Bass",
           "seen_at": "2026-07-25T13:05:56.355426+00:00",
           "url": "https://thebass.org/event/future-bass-private-dinner-with-artist-sara-zapata/"
-        }
-      ]
-    },
-    {
-      "id": "d971b11d4a222db52d97b7e897162511c6f5ac76",
-      "title": "Say Hello! Vol. 4 | Creative Mixer",
-      "summary": "",
-      "starts_at": "2026-07-25T19:00:00-04:00",
-      "ends_at": "2026-07-25T22:00:00-04:00",
-      "all_day": false,
-      "venue": "Over Under",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://luma.com/1i7oiv7a",
-      "rsvp_url": "https://luma.com/1i7oiv7a",
-      "image_url": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/uploads/3s/d76d9aad-41d5-4c51-af85-bdbb4b28ddd0.png",
-      "access": "public",
-      "categories": [
-        "culture",
-        "networking",
-        "nightlife"
-      ],
-      "score": 64,
-      "confidence": 0.8,
-      "why_it_matters": "From Luma Miami — networking keywords — at Over Under",
-      "source_id": "luma_miami",
-      "source_name": "Luma Miami",
-      "source_url": "https://luma.com/miami",
-      "first_seen_at": "2026-07-25T13:06:32.599353+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
-      "lead_hours": 9,
-      "source_trail": [
-        {
-          "source_id": "luma_miami",
-          "source_name": "Luma Miami",
-          "seen_at": "2026-07-25T13:06:32.599353+00:00",
-          "url": "https://luma.com/1i7oiv7a"
-        }
-      ]
-    },
-    {
-      "id": "2e05e7090139b0f675c5aef86c7127e0c6610ace",
-      "title": "Flip the Switch: Sea Turtle Beach Cleanup",
-      "summary": "Participants will enjoy a guided beach cleanup and learn about marine debris, how it affects local sea turtle nesting and best practices for coastal conservation. Following the beach cleanup, volunteers are invited to a Happy Hour event with educational materials about sea turtles. Date: Tuesday, July 28 Location: 45 Street Beach Time: 4 – 6 PM RSVP Online Learn more about sea turtles",
-      "starts_at": "2026-07-28T16:00:00-04:00",
-      "ends_at": "2026-07-28T18:00:00-04:00",
-      "all_day": false,
-      "venue": "45 Street Beach, 4525 Collins Ave, Miami Beach, FL, 33140, United States",
-      "neighborhood": "Miami Beach",
-      "city": "Miami Beach",
-      "url": "https://events.miamibeachfl.gov/event/flip-the-switch-sea-turtle-beach-cleanup/",
-      "rsvp_url": "https://events.miamibeachfl.gov/event/flip-the-switch-sea-turtle-beach-cleanup/",
-      "image_url": null,
-      "access": "registration",
-      "categories": [
-        "culture",
-        "networking"
-      ],
-      "score": 60,
-      "confidence": 0.9,
-      "why_it_matters": "From City of Miami Beach Events — networking keywords — at 45 Street Beach, 4525 Collins Ave, Miami Beach, FL, 33140, United States",
-      "source_id": "miami_beach_events",
-      "source_name": "City of Miami Beach Events",
-      "source_url": "https://events.miamibeachfl.gov/events/?ical=1",
-      "first_seen_at": "2026-07-25T13:05:54.043399+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
-      "lead_hours": 78,
-      "source_trail": [
-        {
-          "source_id": "miami_beach_events",
-          "source_name": "City of Miami Beach Events",
-          "seen_at": "2026-07-25T13:05:54.043399+00:00",
-          "url": "https://events.miamibeachfl.gov/event/flip-the-switch-sea-turtle-beach-cleanup/"
-        }
-      ]
-    },
-    {
-      "id": "62faeee537926ea4792fdf0a39a92f823d63e150",
-      "title": "Open Studio",
-      "summary": "",
-      "starts_at": "2026-07-25T12:30:00-04:00",
-      "ends_at": "2026-07-25T16:30:00-04:00",
-      "all_day": false,
-      "venue": "",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://thebass.org/event/open-studio/2026-07-25/",
-      "rsvp_url": "https://thebass.org/event/open-studio/2026-07-25/",
-      "image_url": null,
-      "access": "public",
-      "categories": [
-        "art",
-        "culture"
-      ],
-      "score": 58,
-      "confidence": 0.8,
-      "why_it_matters": "From The Bass",
-      "source_id": "the_bass",
-      "source_name": "The Bass",
-      "source_url": "https://thebass.org/events/?ical=1",
-      "first_seen_at": "2026-07-25T13:05:56.352921+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
-      "lead_hours": 3,
-      "source_trail": [
-        {
-          "source_id": "the_bass",
-          "source_name": "The Bass",
-          "seen_at": "2026-07-25T13:05:56.352921+00:00",
-          "url": "https://thebass.org/event/open-studio/2026-07-25/"
-        },
-        {
-          "source_id": "the_bass_rss",
-          "source_name": "The Bass RSS",
-          "seen_at": "2026-07-25T13:05:57.088719+00:00",
-          "url": "https://thebass.org/event/open-studio/2026-07-25/"
-        }
-      ]
-    },
-    {
-      "id": "018f87cc2b6c6b3e318b3fb401c17272c54c488a",
-      "title": "The Bass Highlight Tours",
-      "summary": "",
-      "starts_at": "2026-07-25T14:00:00-07:00",
-      "ends_at": "2026-07-25T14:45:00-07:00",
-      "all_day": false,
-      "venue": "",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://thebass.org/event/the-bass-highlight-tours/2026-07-25/",
-      "rsvp_url": "https://thebass.org/event/the-bass-highlight-tours/2026-07-25/",
-      "image_url": null,
-      "access": "public",
-      "categories": [
-        "art",
-        "culture"
-      ],
-      "score": 58,
-      "confidence": 0.8,
-      "why_it_matters": "From The Bass",
-      "source_id": "the_bass",
-      "source_name": "The Bass",
-      "source_url": "https://thebass.org/events/?ical=1",
-      "first_seen_at": "2026-07-25T13:05:56.353149+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
-      "lead_hours": 7,
-      "source_trail": [
-        {
-          "source_id": "the_bass",
-          "source_name": "The Bass",
-          "seen_at": "2026-07-25T13:05:56.353149+00:00",
-          "url": "https://thebass.org/event/the-bass-highlight-tours/2026-07-25/"
-        },
-        {
-          "source_id": "the_bass_rss",
-          "source_name": "The Bass RSS",
-          "seen_at": "2026-07-25T13:05:57.089951+00:00",
-          "url": "https://thebass.org/event/the-bass-highlight-tours/2026-07-25/"
-        }
-      ]
-    },
-    {
-      "id": "57cab05697ebe1977c7cbce1576298c3eae522e9",
-      "title": "Family Sundays at ICA Miami: Music & Movement with Paloma Dueñas – Move, Imagine, Connect",
-      "summary": "Stretch, balance, and play on July 26th at Music & Movement with Paloma Dueñas! Children and caregivers will explore art through fun, guided creative motion.",
-      "starts_at": "2026-07-26T11:00:00+00:00",
-      "ends_at": "2026-07-25T19:00:00+00:00",
-      "all_day": false,
-      "venue": "Institute of Contemporary Art, Miami",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://icamiami.org/calendar/",
-      "rsvp_url": "https://icamiami.org/calendar/",
-      "image_url": "https://media-icamiami-org.imgix.net/2024/09/6938c7b7-cmc_1734-e1726599660151.jpg?auto=compress,format&cs=srgb",
-      "access": "public",
-      "categories": [
-        "art",
-        "culture"
-      ],
-      "score": 58,
-      "confidence": 0.8,
-      "why_it_matters": "From ICA Miami — at Institute of Contemporary Art, Miami",
-      "source_id": "ica_miami",
-      "source_name": "ICA Miami",
-      "source_url": "https://icamiami.org/calendar/",
-      "first_seen_at": "2026-07-25T13:06:09.037390+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
-      "lead_hours": 21,
-      "source_trail": [
-        {
-          "source_id": "ica_miami",
-          "source_name": "ICA Miami",
-          "seen_at": "2026-07-25T13:06:09.037390+00:00",
-          "url": "https://icamiami.org/calendar/"
-        }
-      ]
-    },
-    {
-      "id": "592559cba1d75fd4a66e7f7e29f822df92ddccc7",
-      "title": "Open Studio",
-      "summary": "",
-      "starts_at": "2026-07-26T12:30:00-04:00",
-      "ends_at": "2026-07-26T16:30:00-04:00",
-      "all_day": false,
-      "venue": "",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://thebass.org/event/open-studio/2026-07-26/",
-      "rsvp_url": "https://thebass.org/event/open-studio/2026-07-26/",
-      "image_url": null,
-      "access": "public",
-      "categories": [
-        "art",
-        "culture"
-      ],
-      "score": 58,
-      "confidence": 0.8,
-      "why_it_matters": "From The Bass",
-      "source_id": "the_bass",
-      "source_name": "The Bass",
-      "source_url": "https://thebass.org/events/?ical=1",
-      "first_seen_at": "2026-07-25T13:05:56.353339+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
-      "lead_hours": 27,
-      "source_trail": [
-        {
-          "source_id": "the_bass",
-          "source_name": "The Bass",
-          "seen_at": "2026-07-25T13:05:56.353339+00:00",
-          "url": "https://thebass.org/event/open-studio/2026-07-26/"
-        },
-        {
-          "source_id": "the_bass_rss",
-          "source_name": "The Bass RSS",
-          "seen_at": "2026-07-25T13:05:57.091049+00:00",
-          "url": "https://thebass.org/event/open-studio/2026-07-26/"
-        }
-      ]
-    },
-    {
-      "id": "9ef39dcd8d2b0f1919d9424a45d9b982e47f2e75",
-      "title": "Beach Stones & Bright Tones",
-      "summary": "",
-      "starts_at": "2026-07-26T14:00:00-07:00",
-      "ends_at": "2026-07-26T16:00:00-07:00",
-      "all_day": false,
-      "venue": "",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://thebass.org/event/beach-stones-bright-tones/",
-      "rsvp_url": "https://thebass.org/event/beach-stones-bright-tones/",
-      "image_url": null,
-      "access": "public",
-      "categories": [
-        "art",
-        "culture"
-      ],
-      "score": 58,
-      "confidence": 0.8,
-      "why_it_matters": "From The Bass",
-      "source_id": "the_bass",
-      "source_name": "The Bass",
-      "source_url": "https://thebass.org/events/?ical=1",
-      "first_seen_at": "2026-07-25T13:05:56.353543+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
-      "lead_hours": 31,
-      "source_trail": [
-        {
-          "source_id": "the_bass",
-          "source_name": "The Bass",
-          "seen_at": "2026-07-25T13:05:56.353543+00:00",
-          "url": "https://thebass.org/event/beach-stones-bright-tones/"
-        },
-        {
-          "source_id": "the_bass_rss",
-          "source_name": "The Bass RSS",
-          "seen_at": "2026-07-25T13:05:57.091839+00:00",
-          "url": "https://thebass.org/event/beach-stones-bright-tones/"
-        }
-      ]
-    },
-    {
-      "id": "ec13786fe0b1e6476f74ce23e9d9b2b4c254493b",
-      "title": "Lincoln Road Farmer's Market",
-      "summary": "On Meridian Avenue through Washington Avenue, local vendors gather along Lincoln Road to sell fruits, vegetables, fresh-cut flowers and more. Rain or shine, guests are welcome to explore the area to find regional treasures. Every Sunday at 9:00 AM – 6:00 PM on Lincoln Road.",
-      "starts_at": "2026-07-26T09:00:00-04:00",
-      "ends_at": "2026-07-26T18:00:00-04:00",
-      "all_day": false,
-      "venue": "Lenox Avenue & Lincoln Road, Miami Beach, 33139, United States",
-      "neighborhood": "Miami Beach",
-      "city": "Miami Beach",
-      "url": "https://events.miamibeachfl.gov/event/lincoln-road-farmers-market/2026-07-26/",
-      "rsvp_url": "https://events.miamibeachfl.gov/event/lincoln-road-farmers-market/2026-07-26/",
-      "image_url": null,
-      "access": "public",
-      "categories": [
-        "culture",
-        "networking"
-      ],
-      "score": 56,
-      "confidence": 0.9,
-      "why_it_matters": "From City of Miami Beach Events — at Lenox Avenue & Lincoln Road, Miami Beach, 33139, United States",
-      "source_id": "miami_beach_events",
-      "source_name": "City of Miami Beach Events",
-      "source_url": "https://events.miamibeachfl.gov/events/?ical=1",
-      "first_seen_at": "2026-07-25T13:05:54.027524+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
-      "lead_hours": 23,
-      "source_trail": [
-        {
-          "source_id": "miami_beach_events",
-          "source_name": "City of Miami Beach Events",
-          "seen_at": "2026-07-25T13:05:54.027524+00:00",
-          "url": "https://events.miamibeachfl.gov/event/lincoln-road-farmers-market/2026-07-26/"
-        }
-      ]
-    },
-    {
-      "id": "5c0e541226be974bcd0e57a7f974fbe31c6981d5",
-      "title": "The Bass Free Community Day",
-      "summary": "Families with children of all ages are invited to join us for Family Day—an afternoon of art-making, exploration, and fun! Activities include in-person projects in The Bass Creativity Center, where materials are provided to encourage hands-on creativity and experimentation. Families can also embark on a prompted art exploration of our current exhibitions using an art explorer guide—a playful scavenger hunt through th",
-      "starts_at": "2026-07-26T12:00:00-04:00",
-      "ends_at": "2026-07-26T17:00:00-04:00",
-      "all_day": false,
-      "venue": "The Bass Museum of Art, 2100 Collins Avenue, Miami Beach, 33139, United States",
-      "neighborhood": "Miami Beach",
-      "city": "Miami Beach",
-      "url": "https://events.miamibeachfl.gov/event/the-bass-free-community-day/2026-07-26/",
-      "rsvp_url": "https://events.miamibeachfl.gov/event/the-bass-free-community-day/2026-07-26/",
-      "image_url": null,
-      "access": "public",
-      "categories": [
-        "culture",
-        "networking"
-      ],
-      "score": 56,
-      "confidence": 0.9,
-      "why_it_matters": "From City of Miami Beach Events — at The Bass Museum of Art, 2100 Collins Avenue, Miami Beach, 33139, United States",
-      "source_id": "miami_beach_events",
-      "source_name": "City of Miami Beach Events",
-      "source_url": "https://events.miamibeachfl.gov/events/?ical=1",
-      "first_seen_at": "2026-07-25T13:05:54.030062+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
-      "lead_hours": 26,
-      "source_trail": [
-        {
-          "source_id": "miami_beach_events",
-          "source_name": "City of Miami Beach Events",
-          "seen_at": "2026-07-25T13:05:54.030062+00:00",
-          "url": "https://events.miamibeachfl.gov/event/the-bass-free-community-day/2026-07-26/"
-        }
-      ]
-    },
-    {
-      "id": "68f29db0b6171a00450a3371188d87dbee2d988f",
-      "title": "The Ocean Drive Promenade Music Series",
-      "summary": "Ocean Drive Arts presents culturally rich experiences in the heart of beautiful Miami Beach. Featuring free concerts, visual art fairs, literary events, health & wellness activities and culinary activations, these family friendly programs celebrate the best of Miami Beach with exciting local talents. Events take place Sunday afternoons among the swaying palm trees wrapped in gentle ocean breezes on the Ocean Drive Pr",
-      "starts_at": "2026-07-26T17:00:00-04:00",
-      "ends_at": "2026-07-26T18:00:00-04:00",
-      "all_day": false,
-      "venue": "Lummus Park – 14 Street & Ocean Drive",
-      "neighborhood": "Miami Beach",
-      "city": "Miami",
-      "url": "https://events.miamibeachfl.gov/event/the-ocean-drive-promenade-music-series/2026-07-26/",
-      "rsvp_url": "https://events.miamibeachfl.gov/event/the-ocean-drive-promenade-music-series/2026-07-26/",
-      "image_url": null,
-      "access": "public",
-      "categories": [
-        "culture",
-        "networking"
-      ],
-      "score": 56,
-      "confidence": 0.9,
-      "why_it_matters": "From City of Miami Beach Events — at Lummus Park – 14 Street & Ocean Drive",
-      "source_id": "miami_beach_events",
-      "source_name": "City of Miami Beach Events",
-      "source_url": "https://events.miamibeachfl.gov/events/?ical=1",
-      "first_seen_at": "2026-07-25T13:05:54.030840+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
-      "lead_hours": 31,
-      "source_trail": [
-        {
-          "source_id": "miami_beach_events",
-          "source_name": "City of Miami Beach Events",
-          "seen_at": "2026-07-25T13:05:54.030840+00:00",
-          "url": "https://events.miamibeachfl.gov/event/the-ocean-drive-promenade-music-series/2026-07-26/"
-        }
-      ]
-    },
-    {
-      "id": "e64f70498772d6732ece2a8204505b827c23e939",
-      "title": "Cuerda & Clave at The Betsy Piano Bar",
-      "summary": "The Betsy Piano Bar hosts Cuerda & Clave every Sunday from 6 PM to 11 PM as part of Miami Beach’s longest-running live jazz series—seven days a week, nine shows weekly. Enjoy the dynamic sounds of acclaimed pianist and composer Edgar Pantoja, whose music blends Cuban roots with global rhythms, alongside percussionist Gabriel Ramon Placido, a Puerto Rican artist with international orchestral and jazz experience. Toget",
-      "starts_at": "2026-07-26T18:00:00-04:00",
-      "ends_at": "2026-07-26T23:00:00-04:00",
-      "all_day": false,
-      "venue": "betsey hotel, 1440 Ocean Dr, Miami Beach, Fl, 33139",
-      "neighborhood": "Miami Beach",
-      "city": "Miami Beach",
-      "url": "https://events.miamibeachfl.gov/event/cuerda-clave-at-the-betsy-piano-bar/2026-07-26/",
-      "rsvp_url": "https://events.miamibeachfl.gov/event/cuerda-clave-at-the-betsy-piano-bar/2026-07-26/",
-      "image_url": null,
-      "access": "public",
-      "categories": [
-        "culture",
-        "networking"
-      ],
-      "score": 56,
-      "confidence": 0.9,
-      "why_it_matters": "From City of Miami Beach Events — at betsey hotel, 1440 Ocean Dr, Miami Beach, Fl, 33139",
-      "source_id": "miami_beach_events",
-      "source_name": "City of Miami Beach Events",
-      "source_url": "https://events.miamibeachfl.gov/events/?ical=1",
-      "first_seen_at": "2026-07-25T13:05:54.031562+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
-      "lead_hours": 32,
-      "source_trail": [
-        {
-          "source_id": "miami_beach_events",
-          "source_name": "City of Miami Beach Events",
-          "seen_at": "2026-07-25T13:05:54.031562+00:00",
-          "url": "https://events.miamibeachfl.gov/event/cuerda-clave-at-the-betsy-piano-bar/2026-07-26/"
-        }
-      ]
-    },
-    {
-      "id": "ca89e782b604c821096360733b938dc4f3b2fe68",
-      "title": "Dance Fusion for Seniors (L)",
-      "summary": "Dance Fusion is available every Monday and Wednesday free of charge to all Miami Beach seniors at Flamingo Park Lodge located at 1200 Meridian Avenue. Registration required. For more information, call 305.673.7779.",
-      "starts_at": "2026-07-27T09:00:00-04:00",
-      "ends_at": "2026-07-27T10:00:00-04:00",
-      "all_day": false,
-      "venue": "Flamingo Park Lodge, 1200 Meridian Avenue, Miami Beach, FL, 33139, United States",
-      "neighborhood": "Miami Beach",
-      "city": "Miami Beach",
-      "url": "https://events.miamibeachfl.gov/event/dance-fusion-for-seniors-l/2026-07-27/",
-      "rsvp_url": "https://events.miamibeachfl.gov/event/dance-fusion-for-seniors-l/2026-07-27/",
-      "image_url": null,
-      "access": "registration",
-      "categories": [
-        "culture",
-        "networking"
-      ],
-      "score": 54,
-      "confidence": 0.9,
-      "why_it_matters": "From City of Miami Beach Events — at Flamingo Park Lodge, 1200 Meridian Avenue, Miami Beach, FL, 33139, United States",
-      "source_id": "miami_beach_events",
-      "source_name": "City of Miami Beach Events",
-      "source_url": "https://events.miamibeachfl.gov/events/?ical=1",
-      "first_seen_at": "2026-07-25T13:05:54.032058+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
-      "lead_hours": 47,
-      "source_trail": [
-        {
-          "source_id": "miami_beach_events",
-          "source_name": "City of Miami Beach Events",
-          "seen_at": "2026-07-25T13:05:54.032058+00:00",
-          "url": "https://events.miamibeachfl.gov/event/dance-fusion-for-seniors-l/2026-07-27/"
-        }
-      ]
-    },
-    {
-      "id": "34fbebdd6a85186e5c147b2bd2fa57f325b90919",
-      "title": "Tai Chi for Seniors (UN)",
-      "summary": "Tai Chi is available every Monday and Wednesday free of charge to all Miami Beach seniors at the North Beach Senior Center located at 7251 Collins Avenue. Registration required. For more information, contact the UNIDAD Senior Center at 305.867.0051.",
-      "starts_at": "2026-07-27T09:05:00-04:00",
-      "ends_at": "2026-07-27T10:05:00-04:00",
-      "all_day": false,
-      "venue": "UNIDAD – 7251 Collins Avenue",
-      "neighborhood": "Miami Beach",
-      "city": "Miami",
-      "url": "https://events.miamibeachfl.gov/event/tai-chi-for-seniors-2-2/2026-07-27/",
-      "rsvp_url": "https://events.miamibeachfl.gov/event/tai-chi-for-seniors-2-2/2026-07-27/",
-      "image_url": null,
-      "access": "registration",
-      "categories": [
-        "culture",
-        "networking"
-      ],
-      "score": 54,
-      "confidence": 0.9,
-      "why_it_matters": "From City of Miami Beach Events — at UNIDAD – 7251 Collins Avenue",
-      "source_id": "miami_beach_events",
-      "source_name": "City of Miami Beach Events",
-      "source_url": "https://events.miamibeachfl.gov/events/?ical=1",
-      "first_seen_at": "2026-07-25T13:05:54.032515+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
-      "lead_hours": 47,
-      "source_trail": [
-        {
-          "source_id": "miami_beach_events",
-          "source_name": "City of Miami Beach Events",
-          "seen_at": "2026-07-25T13:05:54.032515+00:00",
-          "url": "https://events.miamibeachfl.gov/event/tai-chi-for-seniors-2-2/2026-07-27/"
-        }
-      ]
-    },
-    {
-      "id": "67aca1728d829cb766f40a446a4ba82e1edbb64f",
-      "title": "Tai Chi Ruler for Seniors (UN)",
-      "summary": "Tai Chi Ruler is available every Monday and Wednesday free of charge to all Miami Beach seniors on the second floor terrace of the North Beach Senior Center located at 7251 Collins Avenue. Registration required. For more information, contact the UNIDAD Senior Center at 305.867.0051.",
-      "starts_at": "2026-07-27T10:05:00-04:00",
-      "ends_at": "2026-07-27T10:20:00-04:00",
-      "all_day": false,
-      "venue": "UNIDAD – 7251 Collins Avenue",
-      "neighborhood": "Miami Beach",
-      "city": "Miami",
-      "url": "https://events.miamibeachfl.gov/event/tai-chi-ruler-for-seniors-2-2/2026-07-27/",
-      "rsvp_url": "https://events.miamibeachfl.gov/event/tai-chi-ruler-for-seniors-2-2/2026-07-27/",
-      "image_url": null,
-      "access": "registration",
-      "categories": [
-        "culture",
-        "networking"
-      ],
-      "score": 54,
-      "confidence": 0.9,
-      "why_it_matters": "From City of Miami Beach Events — at UNIDAD – 7251 Collins Avenue",
-      "source_id": "miami_beach_events",
-      "source_name": "City of Miami Beach Events",
-      "source_url": "https://events.miamibeachfl.gov/events/?ical=1",
-      "first_seen_at": "2026-07-25T13:05:54.032985+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
-      "lead_hours": 48,
-      "source_trail": [
-        {
-          "source_id": "miami_beach_events",
-          "source_name": "City of Miami Beach Events",
-          "seen_at": "2026-07-25T13:05:54.032985+00:00",
-          "url": "https://events.miamibeachfl.gov/event/tai-chi-ruler-for-seniors-2-2/2026-07-27/"
-        }
-      ]
-    },
-    {
-      "id": "1872925ac70ab15e478104e14009edcb0c5bbdb7",
-      "title": "Calisthenics for Seniors (UN)",
-      "summary": "Calisthenics is available every Monday and Wednesday free of charge to all Miami Beach seniors at the North Beach Senior Center located at 7251 Collins Avenue. Registration required. For more information, contact the UNIDAD Senior Center at 305.867.0051.",
-      "starts_at": "2026-07-27T10:30:00-04:00",
-      "ends_at": "2026-07-27T11:30:00-04:00",
-      "all_day": false,
-      "venue": "",
-      "neighborhood": "Miami Beach",
-      "city": "Miami",
-      "url": "https://events.miamibeachfl.gov/event/calisthenics-un-2-2/2026-07-27/",
-      "rsvp_url": "https://events.miamibeachfl.gov/event/calisthenics-un-2-2/2026-07-27/",
-      "image_url": null,
-      "access": "registration",
-      "categories": [
-        "culture",
-        "networking"
-      ],
-      "score": 54,
-      "confidence": 0.8,
-      "why_it_matters": "From City of Miami Beach Events",
-      "source_id": "miami_beach_events",
-      "source_name": "City of Miami Beach Events",
-      "source_url": "https://events.miamibeachfl.gov/events/?ical=1",
-      "first_seen_at": "2026-07-25T13:05:54.033303+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
-      "lead_hours": 49,
-      "source_trail": [
-        {
-          "source_id": "miami_beach_events",
-          "source_name": "City of Miami Beach Events",
-          "seen_at": "2026-07-25T13:05:54.033303+00:00",
-          "url": "https://events.miamibeachfl.gov/event/calisthenics-un-2-2/2026-07-27/"
-        }
-      ]
-    },
-    {
-      "id": "208a3d0acd41d0294ad47545bf62b70e98769483",
-      "title": "Water Aerobics (FL)",
-      "summary": "Water Aerobics is available every Monday and Wednesday free of charge to all Miami Beach seniors at Flamingo Park Pool located at 1200 Meridian Avenue. Registration required. For more information, call 305.673.7779.",
-      "starts_at": "2026-07-27T12:00:00-04:00",
-      "ends_at": "2026-07-27T13:00:00-04:00",
-      "all_day": false,
-      "venue": "Flamingo Park Pool, 1200 Michigan Avenue, Miami Beach, FL, 33139, United States",
-      "neighborhood": "Miami Beach",
-      "city": "Miami Beach",
-      "url": "https://events.miamibeachfl.gov/event/water-aerobics-fl-2/2026-07-27/",
-      "rsvp_url": "https://events.miamibeachfl.gov/event/water-aerobics-fl-2/2026-07-27/",
-      "image_url": null,
-      "access": "registration",
-      "categories": [
-        "culture",
-        "networking"
-      ],
-      "score": 54,
-      "confidence": 0.9,
-      "why_it_matters": "From City of Miami Beach Events — at Flamingo Park Pool, 1200 Michigan Avenue, Miami Beach, FL, 33139, United States",
-      "source_id": "miami_beach_events",
-      "source_name": "City of Miami Beach Events",
-      "source_url": "https://events.miamibeachfl.gov/events/?ical=1",
-      "first_seen_at": "2026-07-25T13:05:54.034044+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
-      "lead_hours": 50,
-      "source_trail": [
-        {
-          "source_id": "miami_beach_events",
-          "source_name": "City of Miami Beach Events",
-          "seen_at": "2026-07-25T13:05:54.034044+00:00",
-          "url": "https://events.miamibeachfl.gov/event/water-aerobics-fl-2/2026-07-27/"
-        }
-      ]
-    },
-    {
-      "id": "8e744cd7615c63d2176a99ac7158a28f4f5c4add",
-      "title": "Art Class for Seniors (UN)",
-      "summary": "Art Class is available every Monday and Friday free of charge to all Miami Beach seniors at the North Beach Senior Center located at 7251 Collins Avenue. Registration required. For more information, contact the UNIDAD Senior Center at 305.867.0051.",
-      "starts_at": "2026-07-27T13:30:00-04:00",
-      "ends_at": "2026-07-27T15:30:00-04:00",
-      "all_day": false,
-      "venue": "",
-      "neighborhood": "Miami Beach",
-      "city": "Miami",
-      "url": "https://events.miamibeachfl.gov/event/art-class-for-seniors-2-2/2026-07-27/",
-      "rsvp_url": "https://events.miamibeachfl.gov/event/art-class-for-seniors-2-2/2026-07-27/",
-      "image_url": null,
-      "access": "registration",
-      "categories": [
-        "culture",
-        "networking"
-      ],
-      "score": 54,
-      "confidence": 0.8,
-      "why_it_matters": "From City of Miami Beach Events",
-      "source_id": "miami_beach_events",
-      "source_name": "City of Miami Beach Events",
-      "source_url": "https://events.miamibeachfl.gov/events/?ical=1",
-      "first_seen_at": "2026-07-25T13:05:54.034936+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
-      "lead_hours": 52,
-      "source_trail": [
-        {
-          "source_id": "miami_beach_events",
-          "source_name": "City of Miami Beach Events",
-          "seen_at": "2026-07-25T13:05:54.034936+00:00",
-          "url": "https://events.miamibeachfl.gov/event/art-class-for-seniors-2-2/2026-07-27/"
-        }
-      ]
-    },
-    {
-      "id": "3b2d197d0905bbe4a077c2a783f922dd4caaa384",
-      "title": "Sound Therapy for Seniors (UN)",
-      "summary": "Sound therapy yoga is available every Monday free of charge to all Miami Beach seniors at the North Beach Senior Center located at 7251 Collins Avenue. Registration required. For more information, contact the UNIDAD Senior Center at 305.867.0051.",
-      "starts_at": "2026-07-27T13:30:00-04:00",
-      "ends_at": "2026-07-27T14:30:00-04:00",
-      "all_day": false,
-      "venue": "UNIDAD – 7251 Collins Avenue",
-      "neighborhood": "Miami Beach",
-      "city": "Miami",
-      "url": "https://events.miamibeachfl.gov/event/sound-therapy-un-2-2/2026-07-27/",
-      "rsvp_url": "https://events.miamibeachfl.gov/event/sound-therapy-un-2-2/2026-07-27/",
-      "image_url": null,
-      "access": "registration",
-      "categories": [
-        "culture",
-        "networking"
-      ],
-      "score": 54,
-      "confidence": 0.9,
-      "why_it_matters": "From City of Miami Beach Events — at UNIDAD – 7251 Collins Avenue",
-      "source_id": "miami_beach_events",
-      "source_name": "City of Miami Beach Events",
-      "source_url": "https://events.miamibeachfl.gov/events/?ical=1",
-      "first_seen_at": "2026-07-25T13:05:54.034599+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
-      "lead_hours": 52,
-      "source_trail": [
-        {
-          "source_id": "miami_beach_events",
-          "source_name": "City of Miami Beach Events",
-          "seen_at": "2026-07-25T13:05:54.034599+00:00",
-          "url": "https://events.miamibeachfl.gov/event/sound-therapy-un-2-2/2026-07-27/"
-        }
-      ]
-    },
-    {
-      "id": "4814962883bd7acd1a19ea1464627b6615bc0832",
-      "title": "Computing Digital Device for Seniors (UN)",
-      "summary": "Computing Digital Device class is available the last Monday of the month free of charge to all Miami Beach seniors on the second floor terrace of the North Beach Senior Center located at 7251 Collins Avenue. Registration required. For more information, contact the UNIDAD Senior Center at 305.867.0051.",
-      "starts_at": "2026-07-27T14:45:00-04:00",
-      "ends_at": "2026-07-27T15:45:00-04:00",
-      "all_day": false,
-      "venue": "UNIDAD – 7251 Collins Avenue",
-      "neighborhood": "Miami Beach",
-      "city": "Miami",
-      "url": "https://events.miamibeachfl.gov/event/computing-digital-device-for-seniors-un-2/2026-07-27/",
-      "rsvp_url": "https://events.miamibeachfl.gov/event/computing-digital-device-for-seniors-un-2/2026-07-27/",
-      "image_url": null,
-      "access": "registration",
-      "categories": [
-        "culture",
-        "networking"
-      ],
-      "score": 54,
-      "confidence": 0.9,
-      "why_it_matters": "From City of Miami Beach Events — at UNIDAD – 7251 Collins Avenue",
-      "source_id": "miami_beach_events",
-      "source_name": "City of Miami Beach Events",
-      "source_url": "https://events.miamibeachfl.gov/events/?ical=1",
-      "first_seen_at": "2026-07-25T13:05:54.035445+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
-      "lead_hours": 53,
-      "source_trail": [
-        {
-          "source_id": "miami_beach_events",
-          "source_name": "City of Miami Beach Events",
-          "seen_at": "2026-07-25T13:05:54.035445+00:00",
-          "url": "https://events.miamibeachfl.gov/event/computing-digital-device-for-seniors-un-2/2026-07-27/"
-        }
-      ]
-    },
-    {
-      "id": "ab308331bb353ab52797d41c4ac3f9a68410ddc4",
-      "title": "Outdoor Yoga for Seniors (UN)",
-      "summary": "Outdoor yoga is available every Tuesday and Thursday free of charge to all Miami Beach seniors on the second floor terrace of the North Beach Senior Center located at 7251 Collins Avenue. Temporarily relocating to North Shore Park Youth Center (501 72 Street) Dance Room. Registration required. For more information, contact the UNIDAD Senior Center at 305.867.0051.",
-      "starts_at": "2026-07-28T08:00:00-04:00",
-      "ends_at": "2026-07-28T09:00:00-04:00",
-      "all_day": false,
-      "venue": "UNIDAD – 7251 Collins Avenue",
-      "neighborhood": "Miami Beach",
-      "city": "Miami",
-      "url": "https://events.miamibeachfl.gov/event/outdoor-yoga-for-seniors-2/2026-07-28/",
-      "rsvp_url": "https://events.miamibeachfl.gov/event/outdoor-yoga-for-seniors-2/2026-07-28/",
-      "image_url": null,
-      "access": "registration",
-      "categories": [
-        "culture",
-        "networking"
-      ],
-      "score": 54,
-      "confidence": 0.9,
-      "why_it_matters": "From City of Miami Beach Events — at UNIDAD – 7251 Collins Avenue",
-      "source_id": "miami_beach_events",
-      "source_name": "City of Miami Beach Events",
-      "source_url": "https://events.miamibeachfl.gov/events/?ical=1",
-      "first_seen_at": "2026-07-25T13:05:54.035972+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
-      "lead_hours": 70,
-      "source_trail": [
-        {
-          "source_id": "miami_beach_events",
-          "source_name": "City of Miami Beach Events",
-          "seen_at": "2026-07-25T13:05:54.035972+00:00",
-          "url": "https://events.miamibeachfl.gov/event/outdoor-yoga-for-seniors-2/2026-07-28/"
-        }
-      ]
-    },
-    {
-      "id": "245d79efa634c25bb8c9f2edc3c5c01270da2471",
-      "title": "Tai Chi for Seniors (L)",
-      "summary": "Tai Chi is available every Tuesday and Thursday free of charge to all Miami Beach seniors at Flamingo Park Lodge located at 1200 Meridian Avenue. Registration required. For more information, call 305.673.7779.",
-      "starts_at": "2026-07-28T09:00:00-04:00",
-      "ends_at": "2026-07-28T10:00:00-04:00",
-      "all_day": false,
-      "venue": "Flamingo Park Lodge, 1200 Meridian Avenue, Miami Beach, FL, 33139, United States",
-      "neighborhood": "Miami Beach",
-      "city": "Miami Beach",
-      "url": "https://events.miamibeachfl.gov/event/tai-chi-for-seniors-l/2026-07-28/",
-      "rsvp_url": "https://events.miamibeachfl.gov/event/tai-chi-for-seniors-l/2026-07-28/",
-      "image_url": null,
-      "access": "registration",
-      "categories": [
-        "culture",
-        "networking"
-      ],
-      "score": 54,
-      "confidence": 0.9,
-      "why_it_matters": "From City of Miami Beach Events — at Flamingo Park Lodge, 1200 Meridian Avenue, Miami Beach, FL, 33139, United States",
-      "source_id": "miami_beach_events",
-      "source_name": "City of Miami Beach Events",
-      "source_url": "https://events.miamibeachfl.gov/events/?ical=1",
-      "first_seen_at": "2026-07-25T13:05:54.036411+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
-      "lead_hours": 71,
-      "source_trail": [
-        {
-          "source_id": "miami_beach_events",
-          "source_name": "City of Miami Beach Events",
-          "seen_at": "2026-07-25T13:05:54.036411+00:00",
-          "url": "https://events.miamibeachfl.gov/event/tai-chi-for-seniors-l/2026-07-28/"
-        }
-      ]
-    },
-    {
-      "id": "8dd3696b99aa7b2c674bb3c818abee5685ec640a",
-      "title": "Chair Yoga for Seniors (UN)",
-      "summary": "Chair yoga is available every Tuesday and Thursday free of charge to all Miami Beach seniors at the North Beach Senior Center located at 7251 Collins Avenue. Registration required. For more information, contact the UNIDAD Senior Center at 305.867.0051.",
-      "starts_at": "2026-07-28T09:15:00-04:00",
-      "ends_at": "2026-07-28T10:15:00-04:00",
-      "all_day": false,
-      "venue": "UNIDAD – 7251 Collins Avenue",
-      "neighborhood": "Miami Beach",
-      "city": "Miami",
-      "url": "https://events.miamibeachfl.gov/event/chair-yoga-for-seniors-2/2026-07-28/",
-      "rsvp_url": "https://events.miamibeachfl.gov/event/chair-yoga-for-seniors-2/2026-07-28/",
-      "image_url": null,
-      "access": "registration",
-      "categories": [
-        "culture",
-        "networking"
-      ],
-      "score": 54,
-      "confidence": 0.9,
-      "why_it_matters": "From City of Miami Beach Events — at UNIDAD – 7251 Collins Avenue",
-      "source_id": "miami_beach_events",
-      "source_name": "City of Miami Beach Events",
-      "source_url": "https://events.miamibeachfl.gov/events/?ical=1",
-      "first_seen_at": "2026-07-25T13:05:54.036849+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
-      "lead_hours": 72,
-      "source_trail": [
-        {
-          "source_id": "miami_beach_events",
-          "source_name": "City of Miami Beach Events",
-          "seen_at": "2026-07-25T13:05:54.036849+00:00",
-          "url": "https://events.miamibeachfl.gov/event/chair-yoga-for-seniors-2/2026-07-28/"
-        }
-      ]
-    },
-    {
-      "id": "696d9d5dcde158af2156b4e3c2d74c4df1133ebd",
-      "title": "Dance Fusion for Seniors (UN) - Tue",
-      "summary": "Dance fusion is available every Tuesday and Friday free of charge to all Miami Beach seniors at the North Beach Senior Center located at 7251 Collins Avenue. Registration required. For more information, contact the UNIDAD Senior Center at 305.867.0051.",
-      "starts_at": "2026-07-28T10:15:00-04:00",
-      "ends_at": "2026-07-28T11:15:00-04:00",
-      "all_day": false,
-      "venue": "UNIDAD – 7251 Collins Avenue",
-      "neighborhood": "Miami Beach",
-      "city": "Miami",
-      "url": "https://events.miamibeachfl.gov/event/dance-fusion-for-seniors-un-tue-2/2026-07-28/",
-      "rsvp_url": "https://events.miamibeachfl.gov/event/dance-fusion-for-seniors-un-tue-2/2026-07-28/",
-      "image_url": null,
-      "access": "registration",
-      "categories": [
-        "culture",
-        "networking"
-      ],
-      "score": 54,
-      "confidence": 0.9,
-      "why_it_matters": "From City of Miami Beach Events — at UNIDAD – 7251 Collins Avenue",
-      "source_id": "miami_beach_events",
-      "source_name": "City of Miami Beach Events",
-      "source_url": "https://events.miamibeachfl.gov/events/?ical=1",
-      "first_seen_at": "2026-07-25T13:05:54.037291+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
-      "lead_hours": 73,
-      "source_trail": [
-        {
-          "source_id": "miami_beach_events",
-          "source_name": "City of Miami Beach Events",
-          "seen_at": "2026-07-25T13:05:54.037291+00:00",
-          "url": "https://events.miamibeachfl.gov/event/dance-fusion-for-seniors-un-tue-2/2026-07-28/"
-        }
-      ]
-    },
-    {
-      "id": "d572448494328c43c20901d84ddafd7e92403026",
-      "title": "Pole Walking for Seniors (UN)",
-      "summary": "Pole Walking is available every Tuesday and Thursday free of charge to all Miami Beach seniors at the North Beach Senior Center located at 7251 Collins Avenue. Registration required. For more information, contact the UNIDAD Senior Center at 305.867.0051.",
-      "starts_at": "2026-07-28T10:30:00-04:00",
-      "ends_at": "2026-07-28T11:30:00-04:00",
-      "all_day": false,
-      "venue": "UNIDAD – 7251 Collins Avenue",
-      "neighborhood": "Miami Beach",
-      "city": "Miami",
-      "url": "https://events.miamibeachfl.gov/event/pole-walking-for-seniors-un-3/2026-07-28/",
-      "rsvp_url": "https://events.miamibeachfl.gov/event/pole-walking-for-seniors-un-3/2026-07-28/",
-      "image_url": null,
-      "access": "registration",
-      "categories": [
-        "culture",
-        "networking"
-      ],
-      "score": 54,
-      "confidence": 0.9,
-      "why_it_matters": "From City of Miami Beach Events — at UNIDAD – 7251 Collins Avenue",
-      "source_id": "miami_beach_events",
-      "source_name": "City of Miami Beach Events",
-      "source_url": "https://events.miamibeachfl.gov/events/?ical=1",
-      "first_seen_at": "2026-07-25T13:05:54.037776+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
-      "lead_hours": 73,
-      "source_trail": [
-        {
-          "source_id": "miami_beach_events",
-          "source_name": "City of Miami Beach Events",
-          "seen_at": "2026-07-25T13:05:54.037776+00:00",
-          "url": "https://events.miamibeachfl.gov/event/pole-walking-for-seniors-un-3/2026-07-28/"
-        }
-      ]
-    },
-    {
-      "id": "bb79d08f17f78e38b08524ed776068c7eb2d1178",
-      "title": "Bingo for Seniors (UN)",
-      "summary": "Bingo is available every Tuesday free of charge to all Miami Beach seniors at the North Beach Senior Center located at 7251 Collins Avenue. Registration required. For more information, contact the UNIDAD Senior Center at 305.867.0051.",
-      "starts_at": "2026-07-28T13:30:00-04:00",
-      "ends_at": "2026-07-28T14:30:00-04:00",
-      "all_day": false,
-      "venue": "UNIDAD – 7251 Collins Avenue",
-      "neighborhood": "Miami Beach",
-      "city": "Miami",
-      "url": "https://events.miamibeachfl.gov/event/bingo-for-seniors-un/2026-07-28/",
-      "rsvp_url": "https://events.miamibeachfl.gov/event/bingo-for-seniors-un/2026-07-28/",
-      "image_url": null,
-      "access": "registration",
-      "categories": [
-        "culture",
-        "networking"
-      ],
-      "score": 54,
-      "confidence": 0.9,
-      "why_it_matters": "From City of Miami Beach Events — at UNIDAD – 7251 Collins Avenue",
-      "source_id": "miami_beach_events",
-      "source_name": "City of Miami Beach Events",
-      "source_url": "https://events.miamibeachfl.gov/events/?ical=1",
-      "first_seen_at": "2026-07-25T13:05:54.040010+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
-      "lead_hours": 76,
-      "source_trail": [
-        {
-          "source_id": "miami_beach_events",
-          "source_name": "City of Miami Beach Events",
-          "seen_at": "2026-07-25T13:05:54.040010+00:00",
-          "url": "https://events.miamibeachfl.gov/event/bingo-for-seniors-un/2026-07-28/"
-        }
-      ]
-    },
-    {
-      "id": "6c5376cdd139a60d5920e22cb9d170f992e2a4d4",
-      "title": "Spanish Class for Seniors (UN)",
-      "summary": "Spanish class is available every Tuesday free of charge to all Miami Beach seniors on the second floor terrace of the North Beach Senior Center located at 7251 Collins Avenue. Registration required. For more information, contact the UNIDAD Senior Center at 305.867.0051.",
-      "starts_at": "2026-07-28T15:00:00-04:00",
-      "ends_at": "2026-07-28T16:30:00-04:00",
-      "all_day": false,
-      "venue": "UNIDAD – 7251 Collins Avenue",
-      "neighborhood": "Miami Beach",
-      "city": "Miami",
-      "url": "https://events.miamibeachfl.gov/event/spanish-class-for-seniors-2/2026-07-28/",
-      "rsvp_url": "https://events.miamibeachfl.gov/event/spanish-class-for-seniors-2/2026-07-28/",
-      "image_url": null,
-      "access": "registration",
-      "categories": [
-        "culture",
-        "networking"
-      ],
-      "score": 54,
-      "confidence": 0.9,
-      "why_it_matters": "From City of Miami Beach Events — at UNIDAD – 7251 Collins Avenue",
-      "source_id": "miami_beach_events",
-      "source_name": "City of Miami Beach Events",
-      "source_url": "https://events.miamibeachfl.gov/events/?ical=1",
-      "first_seen_at": "2026-07-25T13:05:54.041286+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
-      "lead_hours": 77,
-      "source_trail": [
-        {
-          "source_id": "miami_beach_events",
-          "source_name": "City of Miami Beach Events",
-          "seen_at": "2026-07-25T13:05:54.041286+00:00",
-          "url": "https://events.miamibeachfl.gov/event/spanish-class-for-seniors-2/2026-07-28/"
-        }
-      ]
-    },
-    {
-      "id": "099ecfcf521e7d7d5794bbe65cc2156caea87673",
-      "title": "Choir for Seniors (UN)",
-      "summary": "Choir is available every Thursday free of charge to all Miami Beach seniors at the North Beach Senior Center located at 7251 Collins Avenue. Registration required. For more information, contact UNIDAD at 305.867.0051.",
-      "starts_at": "2026-07-28T16:00:00-04:00",
-      "ends_at": "2026-07-28T17:00:00-04:00",
-      "all_day": false,
-      "venue": "UNIDAD – 7251 Collins Avenue",
-      "neighborhood": "Miami Beach",
-      "city": "Miami",
-      "url": "https://events.miamibeachfl.gov/event/choir-for-seniors-2/2026-07-28/",
-      "rsvp_url": "https://events.miamibeachfl.gov/event/choir-for-seniors-2/2026-07-28/",
-      "image_url": null,
-      "access": "registration",
-      "categories": [
-        "culture",
-        "networking"
-      ],
-      "score": 54,
-      "confidence": 0.9,
-      "why_it_matters": "From City of Miami Beach Events — at UNIDAD – 7251 Collins Avenue",
-      "source_id": "miami_beach_events",
-      "source_name": "City of Miami Beach Events",
-      "source_url": "https://events.miamibeachfl.gov/events/?ical=1",
-      "first_seen_at": "2026-07-25T13:05:54.042171+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
-      "lead_hours": 78,
-      "source_trail": [
-        {
-          "source_id": "miami_beach_events",
-          "source_name": "City of Miami Beach Events",
-          "seen_at": "2026-07-25T13:05:54.042171+00:00",
-          "url": "https://events.miamibeachfl.gov/event/choir-for-seniors-2/2026-07-28/"
-        }
-      ]
-    },
-    {
-      "id": "15f9e7c9f8e6a4d0e4dc39de3cb73f451dba48d0",
-      "title": "Dance Fusion for Seniors (L)",
-      "summary": "Dance Fusion is available every Monday and Wednesday free of charge to all Miami Beach seniors at Flamingo Park Lodge located at 1200 Meridian Avenue. Registration required. For more information, call 305.673.7779.",
-      "starts_at": "2026-07-29T09:00:00-04:00",
-      "ends_at": "2026-07-29T10:00:00-04:00",
-      "all_day": false,
-      "venue": "Flamingo Park Lodge, 1200 Meridian Avenue, Miami Beach, FL, 33139, United States",
-      "neighborhood": "Miami Beach",
-      "city": "Miami Beach",
-      "url": "https://events.miamibeachfl.gov/event/dance-fusion-for-seniors-l/2026-07-29/",
-      "rsvp_url": "https://events.miamibeachfl.gov/event/dance-fusion-for-seniors-l/2026-07-29/",
-      "image_url": null,
-      "access": "registration",
-      "categories": [
-        "culture",
-        "networking"
-      ],
-      "score": 54,
-      "confidence": 0.9,
-      "why_it_matters": "From City of Miami Beach Events — at Flamingo Park Lodge, 1200 Meridian Avenue, Miami Beach, FL, 33139, United States",
-      "source_id": "miami_beach_events",
-      "source_name": "City of Miami Beach Events",
-      "source_url": "https://events.miamibeachfl.gov/events/?ical=1",
-      "first_seen_at": "2026-07-25T13:05:54.044826+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
-      "lead_hours": 95,
-      "source_trail": [
-        {
-          "source_id": "miami_beach_events",
-          "source_name": "City of Miami Beach Events",
-          "seen_at": "2026-07-25T13:05:54.044826+00:00",
-          "url": "https://events.miamibeachfl.gov/event/dance-fusion-for-seniors-l/2026-07-29/"
-        }
-      ]
-    },
-    {
-      "id": "17ab2165d9104c54b919befab2d78a2f15110bbe",
-      "title": "Tai Chi for Seniors (UN)",
-      "summary": "Tai Chi is available every Monday and Wednesday free of charge to all Miami Beach seniors at the North Beach Senior Center located at 7251 Collins Avenue. Registration required. For more information, contact the UNIDAD Senior Center at 305.867.0051.",
-      "starts_at": "2026-07-29T09:05:00-04:00",
-      "ends_at": "2026-07-29T10:05:00-04:00",
-      "all_day": false,
-      "venue": "UNIDAD – 7251 Collins Avenue",
-      "neighborhood": "Miami Beach",
-      "city": "Miami",
-      "url": "https://events.miamibeachfl.gov/event/tai-chi-for-seniors-2-2/2026-07-29/",
-      "rsvp_url": "https://events.miamibeachfl.gov/event/tai-chi-for-seniors-2-2/2026-07-29/",
-      "image_url": null,
-      "access": "registration",
-      "categories": [
-        "culture",
-        "networking"
-      ],
-      "score": 54,
-      "confidence": 0.9,
-      "why_it_matters": "From City of Miami Beach Events — at UNIDAD – 7251 Collins Avenue",
-      "source_id": "miami_beach_events",
-      "source_name": "City of Miami Beach Events",
-      "source_url": "https://events.miamibeachfl.gov/events/?ical=1",
-      "first_seen_at": "2026-07-25T13:05:54.045329+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
-      "lead_hours": 95,
-      "source_trail": [
-        {
-          "source_id": "miami_beach_events",
-          "source_name": "City of Miami Beach Events",
-          "seen_at": "2026-07-25T13:05:54.045329+00:00",
-          "url": "https://events.miamibeachfl.gov/event/tai-chi-for-seniors-2-2/2026-07-29/"
-        }
-      ]
-    },
-    {
-      "id": "b34db7b79d49a8a7bf6ef4e1065e8692ea70063d",
-      "title": "Tai Chi Ruler for Seniors (UN)",
-      "summary": "Tai Chi Ruler is available every Monday and Wednesday free of charge to all Miami Beach seniors on the second floor terrace of the North Beach Senior Center located at 7251 Collins Avenue. Registration required. For more information, contact the UNIDAD Senior Center at 305.867.0051.",
-      "starts_at": "2026-07-29T10:05:00-04:00",
-      "ends_at": "2026-07-29T10:20:00-04:00",
-      "all_day": false,
-      "venue": "UNIDAD – 7251 Collins Avenue",
-      "neighborhood": "Miami Beach",
-      "city": "Miami",
-      "url": "https://events.miamibeachfl.gov/event/tai-chi-ruler-for-seniors-2-2/2026-07-29/",
-      "rsvp_url": "https://events.miamibeachfl.gov/event/tai-chi-ruler-for-seniors-2-2/2026-07-29/",
-      "image_url": null,
-      "access": "registration",
-      "categories": [
-        "culture",
-        "networking"
-      ],
-      "score": 54,
-      "confidence": 0.9,
-      "why_it_matters": "From City of Miami Beach Events — at UNIDAD – 7251 Collins Avenue",
-      "source_id": "miami_beach_events",
-      "source_name": "City of Miami Beach Events",
-      "source_url": "https://events.miamibeachfl.gov/events/?ical=1",
-      "first_seen_at": "2026-07-25T13:05:54.045822+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
-      "lead_hours": 96,
-      "source_trail": [
-        {
-          "source_id": "miami_beach_events",
-          "source_name": "City of Miami Beach Events",
-          "seen_at": "2026-07-25T13:05:54.045822+00:00",
-          "url": "https://events.miamibeachfl.gov/event/tai-chi-ruler-for-seniors-2-2/2026-07-29/"
-        }
-      ]
-    },
-    {
-      "id": "3b6bad221426f94095e6aa26e27c966028bea61c",
-      "title": "Optical Adventures – Art Tricks!",
-      "summary": "",
-      "starts_at": "2026-07-27T09:00:00-07:00",
-      "ends_at": "2026-07-27T15:30:00-07:00",
-      "all_day": false,
-      "venue": "",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://thebass.org/event/optical-adventures-art-tricks/2026-07-27/",
-      "rsvp_url": "https://thebass.org/event/optical-adventures-art-tricks/2026-07-27/",
-      "image_url": null,
-      "access": "public",
-      "categories": [
-        "art",
-        "culture"
-      ],
-      "score": 52,
-      "confidence": 0.8,
-      "why_it_matters": "From The Bass",
-      "source_id": "the_bass",
-      "source_name": "The Bass",
-      "source_url": "https://thebass.org/events/?ical=1",
-      "first_seen_at": "2026-07-25T13:05:56.353755+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
-      "lead_hours": 50,
-      "source_trail": [
-        {
-          "source_id": "the_bass",
-          "source_name": "The Bass",
-          "seen_at": "2026-07-25T13:05:56.353755+00:00",
-          "url": "https://thebass.org/event/optical-adventures-art-tricks/2026-07-27/"
-        },
-        {
-          "source_id": "the_bass_rss",
-          "source_name": "The Bass RSS",
-          "seen_at": "2026-07-25T13:05:57.092497+00:00",
-          "url": "https://thebass.org/event/optical-adventures-art-tricks/2026-07-27/"
-        }
-      ]
-    },
-    {
-      "id": "3413593127fc82623355c51bd5d859e57dc2e027",
-      "title": "Optical Adventures – Perception + Perspective",
-      "summary": "",
-      "starts_at": "2026-07-27T09:00:00-07:00",
-      "ends_at": "2026-07-27T15:30:00-07:00",
-      "all_day": false,
-      "venue": "",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://thebass.org/event/optical-adventures-perception-perspective/2026-07-27/",
-      "rsvp_url": "https://thebass.org/event/optical-adventures-perception-perspective/2026-07-27/",
-      "image_url": null,
-      "access": "public",
-      "categories": [
-        "art",
-        "culture"
-      ],
-      "score": 52,
-      "confidence": 0.8,
-      "why_it_matters": "From The Bass",
-      "source_id": "the_bass",
-      "source_name": "The Bass",
-      "source_url": "https://thebass.org/events/?ical=1",
-      "first_seen_at": "2026-07-25T13:05:56.353945+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
-      "lead_hours": 50,
-      "source_trail": [
-        {
-          "source_id": "the_bass",
-          "source_name": "The Bass",
-          "seen_at": "2026-07-25T13:05:56.353945+00:00",
-          "url": "https://thebass.org/event/optical-adventures-perception-perspective/2026-07-27/"
-        },
-        {
-          "source_id": "the_bass_rss",
-          "source_name": "The Bass RSS",
-          "seen_at": "2026-07-25T13:05:57.092938+00:00",
-          "url": "https://thebass.org/event/optical-adventures-perception-perspective/2026-07-27/"
-        }
-      ]
-    },
-    {
-      "id": "b1ef23e9166169779b001646708ba6b7a9c560e8",
-      "title": "NMG Book Club - Women Only",
-      "summary": "",
-      "starts_at": "2026-07-27T19:00:00-04:00",
-      "ends_at": "2026-07-27T21:00:00-04:00",
-      "all_day": false,
-      "venue": "Miami, FL",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://luma.com/j0ncq23a",
-      "rsvp_url": "https://luma.com/j0ncq23a",
-      "image_url": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/uploads/mc/d49ef5a3-253a-4f98-908e-94aac6cf6e5d.png",
-      "access": "public",
-      "categories": [
-        "culture",
-        "networking",
-        "nightlife"
-      ],
-      "score": 52,
-      "confidence": 0.8,
-      "why_it_matters": "From Luma Miami — at Miami, FL",
-      "source_id": "luma_miami",
-      "source_name": "Luma Miami",
-      "source_url": "https://luma.com/miami",
-      "first_seen_at": "2026-07-25T13:06:32.600277+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
-      "lead_hours": 57,
-      "source_trail": [
-        {
-          "source_id": "luma_miami",
-          "source_name": "Luma Miami",
-          "seen_at": "2026-07-25T13:06:32.600277+00:00",
-          "url": "https://luma.com/j0ncq23a"
-        }
-      ]
-    },
-    {
-      "id": "29ad3f8f46ec5704fc28d3c971298a87483319d3",
-      "title": "Optical Adventures – Art Tricks!",
-      "summary": "",
-      "starts_at": "2026-07-28T09:00:00-07:00",
-      "ends_at": "2026-07-28T15:30:00-07:00",
-      "all_day": false,
-      "venue": "",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://thebass.org/event/optical-adventures-art-tricks/2026-07-28/",
-      "rsvp_url": "https://thebass.org/event/optical-adventures-art-tricks/2026-07-28/",
-      "image_url": null,
-      "access": "public",
-      "categories": [
-        "art",
-        "culture"
-      ],
-      "score": 52,
-      "confidence": 0.8,
-      "why_it_matters": "From The Bass",
-      "source_id": "the_bass",
-      "source_name": "The Bass",
-      "source_url": "https://thebass.org/events/?ical=1",
-      "first_seen_at": "2026-07-25T13:05:56.354125+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
-      "lead_hours": 74,
-      "source_trail": [
-        {
-          "source_id": "the_bass",
-          "source_name": "The Bass",
-          "seen_at": "2026-07-25T13:05:56.354125+00:00",
-          "url": "https://thebass.org/event/optical-adventures-art-tricks/2026-07-28/"
-        },
-        {
-          "source_id": "the_bass_rss",
-          "source_name": "The Bass RSS",
-          "seen_at": "2026-07-25T13:05:57.093402+00:00",
-          "url": "https://thebass.org/event/optical-adventures-art-tricks/2026-07-28/"
-        }
-      ]
-    },
-    {
-      "id": "ad385b8d91127c7b74dab094a8698ab86179f9f9",
-      "title": "Optical Adventures – Perception + Perspective",
-      "summary": "",
-      "starts_at": "2026-07-28T09:00:00-07:00",
-      "ends_at": "2026-07-28T15:30:00-07:00",
-      "all_day": false,
-      "venue": "",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://thebass.org/event/optical-adventures-perception-perspective/2026-07-28/",
-      "rsvp_url": "https://thebass.org/event/optical-adventures-perception-perspective/2026-07-28/",
-      "image_url": null,
-      "access": "public",
-      "categories": [
-        "art",
-        "culture"
-      ],
-      "score": 52,
-      "confidence": 0.8,
-      "why_it_matters": "From The Bass",
-      "source_id": "the_bass",
-      "source_name": "The Bass",
-      "source_url": "https://thebass.org/events/?ical=1",
-      "first_seen_at": "2026-07-25T13:05:56.354306+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
-      "lead_hours": 74,
-      "source_trail": [
-        {
-          "source_id": "the_bass",
-          "source_name": "The Bass",
-          "seen_at": "2026-07-25T13:05:56.354306+00:00",
-          "url": "https://thebass.org/event/optical-adventures-perception-perspective/2026-07-28/"
-        },
-        {
-          "source_id": "the_bass_rss",
-          "source_name": "The Bass RSS",
-          "seen_at": "2026-07-25T13:05:57.093864+00:00",
-          "url": "https://thebass.org/event/optical-adventures-perception-perspective/2026-07-28/"
-        }
-      ]
-    },
-    {
-      "id": "02dc9aab5132e7d5443633a813ab5e8dc7cd3928",
-      "title": "Optical Adventures – Art Tricks!",
-      "summary": "",
-      "starts_at": "2026-07-29T09:00:00-07:00",
-      "ends_at": "2026-07-29T15:30:00-07:00",
-      "all_day": false,
-      "venue": "",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://thebass.org/event/optical-adventures-art-tricks/2026-07-29/",
-      "rsvp_url": "https://thebass.org/event/optical-adventures-art-tricks/2026-07-29/",
-      "image_url": null,
-      "access": "public",
-      "categories": [
-        "art",
-        "culture"
-      ],
-      "score": 52,
-      "confidence": 0.8,
-      "why_it_matters": "From The Bass",
-      "source_id": "the_bass",
-      "source_name": "The Bass",
-      "source_url": "https://thebass.org/events/?ical=1",
-      "first_seen_at": "2026-07-25T13:05:56.354480+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
-      "lead_hours": 98,
-      "source_trail": [
-        {
-          "source_id": "the_bass",
-          "source_name": "The Bass",
-          "seen_at": "2026-07-25T13:05:56.354480+00:00",
-          "url": "https://thebass.org/event/optical-adventures-art-tricks/2026-07-29/"
-        },
-        {
-          "source_id": "the_bass_rss",
-          "source_name": "The Bass RSS",
-          "seen_at": "2026-07-25T13:05:57.094362+00:00",
-          "url": "https://thebass.org/event/optical-adventures-art-tricks/2026-07-29/"
-        }
-      ]
-    },
-    {
-      "id": "42dcb9ea969e3445516480fa7476c9d2aea9a791",
-      "title": "Optical Adventures – Perception + Perspective",
-      "summary": "",
-      "starts_at": "2026-07-29T09:00:00-07:00",
-      "ends_at": "2026-07-29T15:30:00-07:00",
-      "all_day": false,
-      "venue": "",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://thebass.org/event/optical-adventures-perception-perspective/2026-07-29/",
-      "rsvp_url": "https://thebass.org/event/optical-adventures-perception-perspective/2026-07-29/",
-      "image_url": null,
-      "access": "public",
-      "categories": [
-        "art",
-        "culture"
-      ],
-      "score": 52,
-      "confidence": 0.8,
-      "why_it_matters": "From The Bass",
-      "source_id": "the_bass",
-      "source_name": "The Bass",
-      "source_url": "https://thebass.org/events/?ical=1",
-      "first_seen_at": "2026-07-25T13:05:56.355002+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
-      "lead_hours": 98,
-      "source_trail": [
-        {
-          "source_id": "the_bass",
-          "source_name": "The Bass",
-          "seen_at": "2026-07-25T13:05:56.355002+00:00",
-          "url": "https://thebass.org/event/optical-adventures-perception-perspective/2026-07-29/"
-        },
-        {
-          "source_id": "the_bass_rss",
-          "source_name": "The Bass RSS",
-          "seen_at": "2026-07-25T13:05:57.094818+00:00",
-          "url": "https://thebass.org/event/optical-adventures-perception-perspective/2026-07-29/"
-        }
-      ]
-    },
-    {
-      "id": "18b31d5392b6074e8df93bab930aa779958de9c3",
-      "title": "Women in Miami Tech July Happy Hour",
-      "summary": "",
-      "starts_at": "2026-07-29T18:00:00-04:00",
-      "ends_at": "2026-07-29T20:00:00-04:00",
-      "all_day": false,
-      "venue": "The DOCK",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://luma.com/a7m03k89",
-      "rsvp_url": "https://luma.com/a7m03k89",
-      "image_url": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/uploads/af/623ea1f9-cf8e-4971-bddb-c280d7f53e42.png",
-      "access": "public",
-      "categories": [
-        "culture",
-        "networking",
-        "nightlife"
-      ],
-      "score": 52,
-      "confidence": 0.8,
-      "why_it_matters": "From Luma Miami — at The DOCK",
-      "source_id": "luma_miami",
-      "source_name": "Luma Miami",
-      "source_url": "https://luma.com/miami",
-      "first_seen_at": "2026-07-25T13:06:32.601300+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
-      "lead_hours": 104,
-      "source_trail": [
-        {
-          "source_id": "luma_miami",
-          "source_name": "Luma Miami",
-          "seen_at": "2026-07-25T13:06:32.601300+00:00",
-          "url": "https://luma.com/a7m03k89"
-        }
-      ]
-    },
-    {
-      "id": "0d8f8a72a81528d80ec9ca4e6e8da8b3a8d3750e",
-      "title": "Optical Adventures – Art Tricks!",
-      "summary": "",
-      "starts_at": "2026-07-30T09:00:00-07:00",
-      "ends_at": "2026-07-30T15:30:00-07:00",
-      "all_day": false,
-      "venue": "",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://thebass.org/event/optical-adventures-art-tricks/2026-07-30/",
-      "rsvp_url": "https://thebass.org/event/optical-adventures-art-tricks/2026-07-30/",
-      "image_url": null,
-      "access": "public",
-      "categories": [
-        "art",
-        "culture"
-      ],
-      "score": 52,
-      "confidence": 0.8,
-      "why_it_matters": "From The Bass",
-      "source_id": "the_bass",
-      "source_name": "The Bass",
-      "source_url": "https://thebass.org/events/?ical=1",
-      "first_seen_at": "2026-07-25T13:05:56.355674+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
-      "lead_hours": 122,
-      "source_trail": [
-        {
-          "source_id": "the_bass",
-          "source_name": "The Bass",
-          "seen_at": "2026-07-25T13:05:56.355674+00:00",
-          "url": "https://thebass.org/event/optical-adventures-art-tricks/2026-07-30/"
-        }
-      ]
-    },
-    {
-      "id": "e9778e45ed46ce56e88810c33224c9e7935e4145",
-      "title": "Optical Adventures – Perception + Perspective",
-      "summary": "",
-      "starts_at": "2026-07-30T09:00:00-07:00",
-      "ends_at": "2026-07-30T15:30:00-07:00",
-      "all_day": false,
-      "venue": "",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://thebass.org/event/optical-adventures-perception-perspective/2026-07-30/",
-      "rsvp_url": "https://thebass.org/event/optical-adventures-perception-perspective/2026-07-30/",
-      "image_url": null,
-      "access": "public",
-      "categories": [
-        "art",
-        "culture"
-      ],
-      "score": 52,
-      "confidence": 0.8,
-      "why_it_matters": "From The Bass",
-      "source_id": "the_bass",
-      "source_name": "The Bass",
-      "source_url": "https://thebass.org/events/?ical=1",
-      "first_seen_at": "2026-07-25T13:05:56.356037+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
-      "lead_hours": 122,
-      "source_trail": [
-        {
-          "source_id": "the_bass",
-          "source_name": "The Bass",
-          "seen_at": "2026-07-25T13:05:56.356037+00:00",
-          "url": "https://thebass.org/event/optical-adventures-perception-perspective/2026-07-30/"
-        }
-      ]
-    },
-    {
-      "id": "358ab006280b82d5dd632cd7f3287ec646abd784",
-      "title": "Health Tech Flock Meetup",
-      "summary": "",
-      "starts_at": "2026-07-30T17:30:00-04:00",
-      "ends_at": "2026-07-30T19:30:00-04:00",
-      "all_day": false,
-      "venue": "Rum Room Restaurant & Venu",
-      "neighborhood": "Miami Beach",
-      "city": "Miami Beach",
-      "url": "https://luma.com/w21upkit",
-      "rsvp_url": "https://luma.com/w21upkit",
-      "image_url": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/uploads/rc/b987de97-d1d5-43d0-bb22-f4d4f6e96c26.png",
-      "access": "public",
-      "categories": [
-        "culture",
-        "networking",
-        "nightlife"
-      ],
-      "score": 52,
-      "confidence": 0.8,
-      "why_it_matters": "From Luma Miami — at Rum Room Restaurant & Venu",
-      "source_id": "luma_miami",
-      "source_name": "Luma Miami",
-      "source_url": "https://luma.com/miami",
-      "first_seen_at": "2026-07-25T13:06:32.602233+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
-      "lead_hours": 128,
-      "source_trail": [
-        {
-          "source_id": "luma_miami",
-          "source_name": "Luma Miami",
-          "seen_at": "2026-07-25T13:06:32.602233+00:00",
-          "url": "https://luma.com/w21upkit"
         }
       ]
     },
@@ -1741,19 +278,23 @@
       "rsvp_url": "https://luma.com/cdhwxl1c",
       "image_url": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/event-covers/30/3d2dfe93-1f28-4f5a-8901-d70c1c0de7e8.jpg",
       "access": "public",
+      "industry": "sports",
       "categories": [
         "culture",
         "networking",
         "nightlife"
       ],
-      "score": 52,
-      "confidence": 0.8,
-      "why_it_matters": "From Luma Miami — at The Moore",
+      "access_tip": "Open the official source for current admission details. Reserve early if a booking option is shown.",
+      "contact_url": "https://luma.com/cdhwxl1c",
+      "contact_email": null,
+      "score": 72,
+      "confidence": 0.9,
+      "why_it_matters": "From Luma Miami — luxury / hospitality keywords — at The Moore",
       "source_id": "luma_miami",
       "source_name": "Luma Miami",
       "source_url": "https://luma.com/miami",
       "first_seen_at": "2026-07-25T13:06:32.603124+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
+      "last_seen_at": "2026-07-25T18:44:53.506501+00:00",
       "lead_hours": 129,
       "source_trail": [
         {
@@ -1765,1274 +306,122 @@
       ]
     },
     {
-      "id": "8f9d28c10c9492b52154e3429c93615e5886f262",
-      "title": "Optical Adventures – Art Tricks!",
-      "summary": "",
-      "starts_at": "2026-07-31T09:00:00-07:00",
-      "ends_at": "2026-07-31T15:30:00-07:00",
-      "all_day": false,
-      "venue": "",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://thebass.org/event/optical-adventures-art-tricks/2026-07-31/",
-      "rsvp_url": "https://thebass.org/event/optical-adventures-art-tricks/2026-07-31/",
-      "image_url": null,
-      "access": "public",
-      "categories": [
-        "art",
-        "culture"
-      ],
-      "score": 52,
-      "confidence": 0.8,
-      "why_it_matters": "From The Bass",
-      "source_id": "the_bass",
-      "source_name": "The Bass",
-      "source_url": "https://thebass.org/events/?ical=1",
-      "first_seen_at": "2026-07-25T13:05:56.356356+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
-      "lead_hours": 146,
-      "source_trail": [
-        {
-          "source_id": "the_bass",
-          "source_name": "The Bass",
-          "seen_at": "2026-07-25T13:05:56.356356+00:00",
-          "url": "https://thebass.org/event/optical-adventures-art-tricks/2026-07-31/"
-        }
-      ]
-    },
-    {
-      "id": "124b7ebf267a4a9a78f9ab564ae2c9649371cbb0",
-      "title": "Optical Adventures – Perception + Perspective",
-      "summary": "",
-      "starts_at": "2026-07-31T09:00:00-07:00",
-      "ends_at": "2026-07-31T15:30:00-07:00",
-      "all_day": false,
-      "venue": "",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://thebass.org/event/optical-adventures-perception-perspective/2026-07-31/",
-      "rsvp_url": "https://thebass.org/event/optical-adventures-perception-perspective/2026-07-31/",
-      "image_url": null,
-      "access": "public",
-      "categories": [
-        "art",
-        "culture"
-      ],
-      "score": 52,
-      "confidence": 0.8,
-      "why_it_matters": "From The Bass",
-      "source_id": "the_bass",
-      "source_name": "The Bass",
-      "source_url": "https://thebass.org/events/?ical=1",
-      "first_seen_at": "2026-07-25T13:05:56.357129+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
-      "lead_hours": 146,
-      "source_trail": [
-        {
-          "source_id": "the_bass",
-          "source_name": "The Bass",
-          "seen_at": "2026-07-25T13:05:56.357129+00:00",
-          "url": "https://thebass.org/event/optical-adventures-perception-perspective/2026-07-31/"
-        }
-      ]
-    },
-    {
-      "id": "f67e24866d48c4d065d57e157db5cee2a33f8c68",
-      "title": "Water Aerobics (FL)",
-      "summary": "Water Aerobics is available every Monday and Wednesday at the Flamingo Park Pool. Call 305.673.7779 for more information.",
-      "starts_at": "2026-07-27T12:00:00-04:00",
-      "ends_at": "2026-07-27T13:00:00-04:00",
-      "all_day": false,
-      "venue": "",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://events.miamibeachfl.gov/event/water-aerobics-fl/2026-07-27/",
-      "rsvp_url": "https://events.miamibeachfl.gov/event/water-aerobics-fl/2026-07-27/",
-      "image_url": null,
-      "access": "public",
-      "categories": [
-        "culture",
-        "networking"
-      ],
-      "score": 50,
-      "confidence": 0.8,
-      "why_it_matters": "From City of Miami Beach Events",
-      "source_id": "miami_beach_events",
-      "source_name": "City of Miami Beach Events",
-      "source_url": "https://events.miamibeachfl.gov/events/?ical=1",
-      "first_seen_at": "2026-07-25T13:05:54.033611+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
-      "lead_hours": 50,
-      "source_trail": [
-        {
-          "source_id": "miami_beach_events",
-          "source_name": "City of Miami Beach Events",
-          "seen_at": "2026-07-25T13:05:54.033611+00:00",
-          "url": "https://events.miamibeachfl.gov/event/water-aerobics-fl/2026-07-27/"
-        }
-      ]
-    },
-    {
-      "id": "7513beaf34e74ffe034c16c4d0ac51a5cdba535b",
-      "title": "Disability Access Committee – ADA 36th Anniversary",
-      "summary": "Join the City of Miami Beach Disability Access Committee in celebrating the 36th Anniversary of the Americans with Disabilities Act. The Karen Peterson Dancers will mark the anniversary with a performance at 12:30 p.m. in City Hall. Some of the dancers in the company perform in wheelchairs. Other event highlights include interactive disability simulations and the opportunity to connect with available resources from t",
-      "starts_at": "2026-07-28T11:00:00-04:00",
-      "ends_at": "2026-07-28T15:00:00-04:00",
-      "all_day": false,
-      "venue": "City Hall First Floor, 1700 Convention Center Drive, Miami Beach, FL, 33139, United States",
-      "neighborhood": "Miami Beach",
-      "city": "Miami Beach",
-      "url": "https://events.miamibeachfl.gov/event/disability-access-committee-ada-36th-anniversary/",
-      "rsvp_url": "https://events.miamibeachfl.gov/event/disability-access-committee-ada-36th-anniversary/",
-      "image_url": null,
-      "access": "public",
-      "categories": [
-        "culture",
-        "networking"
-      ],
-      "score": 50,
-      "confidence": 0.9,
-      "why_it_matters": "From City of Miami Beach Events — at City Hall First Floor, 1700 Convention Center Drive, Miami Beach, FL, 33139, United States",
-      "source_id": "miami_beach_events",
-      "source_name": "City of Miami Beach Events",
-      "source_url": "https://events.miamibeachfl.gov/events/?ical=1",
-      "first_seen_at": "2026-07-25T13:05:54.038701+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
-      "lead_hours": 73,
-      "source_trail": [
-        {
-          "source_id": "miami_beach_events",
-          "source_name": "City of Miami Beach Events",
-          "seen_at": "2026-07-25T13:05:54.038701+00:00",
-          "url": "https://events.miamibeachfl.gov/event/disability-access-committee-ada-36th-anniversary/"
-        }
-      ]
-    },
-    {
-      "id": "03edb4f8ea13f59ee48788180c7e0dd2a127e52a",
-      "title": "Hall of Fame Committee 2026",
-      "summary": "Hybrid Meeting https://bit.ly/4wMnGuo Meeting ID: 292379896231388# Passcode: 3Sc2yf2H 1.786.636.1480 Access ID: 223015154# Miami Beach City Hall 1755 Meridian Avenue, 5th Floor Conference Room",
-      "starts_at": "2026-07-28T13:00:00-04:00",
-      "ends_at": "2026-07-28T15:00:00-04:00",
+      "id": "73eb2aca566e1c7575c12d85fea5e382f07e6905",
+      "title": "WR Chess Brings Elite International Team Tournament to Miami With Historic U.S. Debut",
+      "summary": "WR Chess debuts in the U.S. as Team USA faces Team Uzbekistan in an elite rapid and blitz tournament at Faena Miami Beach on July 27 to 28, 2026. The post WR Chess Brings Elite International Team Tournament to Miami With Historic U.S. Debut appeared first on Haute Living .",
+      "starts_at": null,
+      "ends_at": null,
       "all_day": false,
       "venue": "",
       "neighborhood": "Miami Beach",
       "city": "Miami",
-      "url": "https://events.miamibeachfl.gov/event/hall-of-fame-committee-2026/",
-      "rsvp_url": "https://events.miamibeachfl.gov/event/hall-of-fame-committee-2026/",
+      "url": "https://hauteliving.com/2026/07/wr-chess-brings-elite-international-team-tournament-to-miami-with-historic-u-s-debut/792999/",
+      "rsvp_url": "https://hauteliving.com/2026/07/wr-chess-brings-elite-international-team-tournament-to-miami-with-historic-u-s-debut/792999/",
       "image_url": null,
       "access": "public",
+      "industry": "sports",
       "categories": [
-        "culture",
+        "editorial",
+        "luxury"
+      ],
+      "access_tip": "Open the official source for current admission details. Reserve early if a booking option is shown.",
+      "contact_url": "https://hauteliving.com/2026/07/wr-chess-brings-elite-international-team-tournament-to-miami-with-historic-u-s-debut/792999/",
+      "contact_email": null,
+      "score": 72,
+      "confidence": 0.6,
+      "why_it_matters": "Early editorial signal from Haute Living — luxury / hospitality keywords",
+      "source_id": "haute_living",
+      "source_name": "Haute Living",
+      "source_url": "https://hauteliving.com/feed/",
+      "first_seen_at": "2026-07-25T18:40:53.413956+00:00",
+      "last_seen_at": "2026-07-25T18:44:53.506501+00:00",
+      "lead_hours": null,
+      "source_trail": [
+        {
+          "source_id": "haute_living",
+          "source_name": "Haute Living",
+          "seen_at": "2026-07-25T18:40:53.413956+00:00",
+          "url": "https://hauteliving.com/2026/07/wr-chess-brings-elite-international-team-tournament-to-miami-with-historic-u-s-debut/792999/"
+        }
+      ]
+    },
+    {
+      "id": "1f2c090eae46c98f4071f76491dd7fb95dd490b8",
+      "title": "Government Affairs Breakfast",
+      "summary": "Tuesday, August 18, 2026",
+      "starts_at": "2026-08-18T00:00:00+00:00",
+      "ends_at": null,
+      "all_day": false,
+      "venue": "",
+      "neighborhood": "Miami",
+      "city": "Miami",
+      "url": "https://members.gmbha.com/events/Details/government-affairs-breakfast-1857784?sourceTypeId=Website",
+      "rsvp_url": "https://members.gmbha.com/events/Details/government-affairs-breakfast-1857784?sourceTypeId=Website",
+      "image_url": null,
+      "access": "public",
+      "industry": "hospitality",
+      "categories": [
+        "hospitality",
         "networking"
       ],
-      "score": 50,
+      "access_tip": "Register through GMBHA. Membership or partner status may unlock industry luncheons and leadership events.",
+      "contact_url": "https://members.gmbha.com/events",
+      "contact_email": null,
+      "score": 56,
       "confidence": 0.8,
-      "why_it_matters": "From City of Miami Beach Events",
-      "source_id": "miami_beach_events",
-      "source_name": "City of Miami Beach Events",
-      "source_url": "https://events.miamibeachfl.gov/events/?ical=1",
-      "first_seen_at": "2026-07-25T13:05:54.039258+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
-      "lead_hours": 75,
+      "why_it_matters": "From Greater Miami & The Beaches Hotel Association",
+      "source_id": "gmbha",
+      "source_name": "Greater Miami & The Beaches Hotel Association",
+      "source_url": "https://members.gmbha.com/events",
+      "first_seen_at": "2026-07-25T18:37:20.956103+00:00",
+      "last_seen_at": "2026-07-25T18:44:53.506501+00:00",
+      "lead_hours": 557,
       "source_trail": [
         {
-          "source_id": "miami_beach_events",
-          "source_name": "City of Miami Beach Events",
-          "seen_at": "2026-07-25T13:05:54.039258+00:00",
-          "url": "https://events.miamibeachfl.gov/event/hall-of-fame-committee-2026/"
+          "source_id": "gmbha",
+          "source_name": "Greater Miami & The Beaches Hotel Association",
+          "seen_at": "2026-07-25T18:37:20.956103+00:00",
+          "url": "https://members.gmbha.com/events/Details/government-affairs-breakfast-1857784?sourceTypeId=Website"
         }
       ]
     },
     {
-      "id": "a776b7ade8b50459ed0f6bc007c9703d6f038371",
-      "title": "Alton City Center Overlay",
-      "summary": "Zoom Meeting https://us06web.zoom.us/j/89919728679",
-      "starts_at": "2026-07-28T17:30:00-04:00",
-      "ends_at": "2026-07-28T18:30:00-04:00",
+      "id": "efb9e18ee0ba8b0c2d4fe1e1d9febaf85ae35acc",
+      "title": "Executive Board Meeting + Hospitality Unwind",
+      "summary": "Thursday, August 27, 2026",
+      "starts_at": "2026-08-27T00:00:00+00:00",
+      "ends_at": null,
       "all_day": false,
       "venue": "",
       "neighborhood": "Miami",
       "city": "Miami",
-      "url": "https://events.miamibeachfl.gov/event/alton-city-center-overlay-2/",
-      "rsvp_url": "https://events.miamibeachfl.gov/event/alton-city-center-overlay-2/",
+      "url": "https://members.gmbha.com/events/Details/executive-board-meeting-hospitality-unwind-1859378?sourceTypeId=Website",
+      "rsvp_url": "https://members.gmbha.com/events/Details/executive-board-meeting-hospitality-unwind-1859378?sourceTypeId=Website",
       "image_url": null,
       "access": "public",
+      "industry": "hospitality",
       "categories": [
-        "culture",
+        "hospitality",
         "networking"
       ],
-      "score": 50,
+      "access_tip": "Register through GMBHA. Membership or partner status may unlock industry luncheons and leadership events.",
+      "contact_url": "https://members.gmbha.com/events",
+      "contact_email": null,
+      "score": 56,
       "confidence": 0.8,
-      "why_it_matters": "From City of Miami Beach Events",
-      "source_id": "miami_beach_events",
-      "source_name": "City of Miami Beach Events",
-      "source_url": "https://events.miamibeachfl.gov/events/?ical=1",
-      "first_seen_at": "2026-07-25T13:05:54.043841+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
-      "lead_hours": 80,
+      "why_it_matters": "From Greater Miami & The Beaches Hotel Association — networking keywords",
+      "source_id": "gmbha",
+      "source_name": "Greater Miami & The Beaches Hotel Association",
+      "source_url": "https://members.gmbha.com/events",
+      "first_seen_at": "2026-07-25T18:37:20.958178+00:00",
+      "last_seen_at": "2026-07-25T18:44:53.506501+00:00",
+      "lead_hours": 773,
       "source_trail": [
         {
-          "source_id": "miami_beach_events",
-          "source_name": "City of Miami Beach Events",
-          "seen_at": "2026-07-25T13:05:54.043841+00:00",
-          "url": "https://events.miamibeachfl.gov/event/alton-city-center-overlay-2/"
-        }
-      ]
-    },
-    {
-      "id": "77c531f645766584915032e074a4ceb15dc34ada",
-      "title": "Virtual Community Meeting: Alton City Overlay",
-      "summary": "The City of Miami Beach is hosting a second virtual community meeting and workshop to discuss the Alton City Center Overlay. The meeting will focus on proposed amendments to the City Code and Comprehensive Plan, including an increase in maximum allowable floor area (FAR), as part of potential incentives to support and encourage mixed-use development in the area. Alton City Center Overlay Tuesday, July 28, 2026 at 5:3",
-      "starts_at": "2026-07-28T17:30:00-04:00",
-      "ends_at": "2026-07-28T19:00:00-04:00",
-      "all_day": false,
-      "venue": "",
-      "neighborhood": "Miami Beach",
-      "city": "Miami",
-      "url": "https://events.miamibeachfl.gov/event/virtual-community-meeting-alton-city-overlay/",
-      "rsvp_url": "https://events.miamibeachfl.gov/event/virtual-community-meeting-alton-city-overlay/",
-      "image_url": null,
-      "access": "public",
-      "categories": [
-        "culture",
-        "networking"
-      ],
-      "score": 50,
-      "confidence": 0.8,
-      "why_it_matters": "From City of Miami Beach Events",
-      "source_id": "miami_beach_events",
-      "source_name": "City of Miami Beach Events",
-      "source_url": "https://events.miamibeachfl.gov/events/?ical=1",
-      "first_seen_at": "2026-07-25T13:05:54.044319+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
-      "lead_hours": 80,
-      "source_trail": [
-        {
-          "source_id": "miami_beach_events",
-          "source_name": "City of Miami Beach Events",
-          "seen_at": "2026-07-25T13:05:54.044319+00:00",
-          "url": "https://events.miamibeachfl.gov/event/virtual-community-meeting-alton-city-overlay/"
-        }
-      ]
-    },
-    {
-      "id": "94be57cea75724daf58d818f149980abe72359cf",
-      "title": "Strive305 Office Hours",
-      "summary": "Our experts provide one-on-one mentorship to support business development, help navigate opportunities, and connect you with valuable resources to help you thrive in the 305.",
-      "starts_at": "2026-07-30T10:00:00+00:00",
-      "ends_at": "2026-07-30T16:00:00+00:00",
-      "all_day": false,
-      "venue": "Various Locations",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://www.beaconcouncil.com/event/strive305-office-hours/",
-      "rsvp_url": "https://www.beaconcouncil.com/event/strive305-office-hours/",
-      "image_url": null,
-      "access": "public",
-      "categories": [
-        "networking",
-        "real_estate"
-      ],
-      "score": 50,
-      "confidence": 0.9,
-      "why_it_matters": "From Beacon Council — at Various Locations",
-      "source_id": "beacon_council",
-      "source_name": "Beacon Council",
-      "source_url": "https://www.beaconcouncil.com/events/?ical=1",
-      "first_seen_at": "2026-07-25T13:06:01.182580+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
-      "lead_hours": 116,
-      "source_trail": [
-        {
-          "source_id": "beacon_council",
-          "source_name": "Beacon Council",
-          "seen_at": "2026-07-25T13:06:01.182580+00:00",
-          "url": "https://www.beaconcouncil.com/event/strive305-office-hours/"
-        }
-      ]
-    },
-    {
-      "id": "94ed117a6adcdbeaaa1610e911a7a10d1b8e3332",
-      "title": "Open Studio",
-      "summary": "",
-      "starts_at": "2026-08-01T12:30:00-04:00",
-      "ends_at": "2026-08-01T16:30:00-04:00",
-      "all_day": false,
-      "venue": "",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://thebass.org/event/open-studio/2026-08-01/",
-      "rsvp_url": "https://thebass.org/event/open-studio/2026-08-01/",
-      "image_url": null,
-      "access": "public",
-      "categories": [
-        "art",
-        "culture"
-      ],
-      "score": 46,
-      "confidence": 0.8,
-      "why_it_matters": "From The Bass",
-      "source_id": "the_bass",
-      "source_name": "The Bass",
-      "source_url": "https://thebass.org/events/?ical=1",
-      "first_seen_at": "2026-07-25T13:05:56.357549+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
-      "lead_hours": 171,
-      "source_trail": [
-        {
-          "source_id": "the_bass",
-          "source_name": "The Bass",
-          "seen_at": "2026-07-25T13:05:56.357549+00:00",
-          "url": "https://thebass.org/event/open-studio/2026-08-01/"
-        }
-      ]
-    },
-    {
-      "id": "3c674d0f375348282a283f01531895337d19673c",
-      "title": "The Bass Highlight Tours",
-      "summary": "",
-      "starts_at": "2026-08-01T14:00:00-07:00",
-      "ends_at": "2026-08-01T14:45:00-07:00",
-      "all_day": false,
-      "venue": "",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://thebass.org/event/the-bass-highlight-tours/2026-08-01/",
-      "rsvp_url": "https://thebass.org/event/the-bass-highlight-tours/2026-08-01/",
-      "image_url": null,
-      "access": "public",
-      "categories": [
-        "art",
-        "culture"
-      ],
-      "score": 46,
-      "confidence": 0.8,
-      "why_it_matters": "From The Bass",
-      "source_id": "the_bass",
-      "source_name": "The Bass",
-      "source_url": "https://thebass.org/events/?ical=1",
-      "first_seen_at": "2026-07-25T13:05:56.357773+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
-      "lead_hours": 175,
-      "source_trail": [
-        {
-          "source_id": "the_bass",
-          "source_name": "The Bass",
-          "seen_at": "2026-07-25T13:05:56.357773+00:00",
-          "url": "https://thebass.org/event/the-bass-highlight-tours/2026-08-01/"
-        }
-      ]
-    },
-    {
-      "id": "400a36a17d224bd77a37978696b78c8f21c5ba14",
-      "title": "Miami | Claude Impact Lab",
-      "summary": "",
-      "starts_at": "2026-08-02T10:00:00-04:00",
-      "ends_at": "2026-08-02T16:00:00-04:00",
-      "all_day": false,
-      "venue": "The LAB Miami",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://luma.com/claude-p1z7",
-      "rsvp_url": "https://luma.com/claude-p1z7",
-      "image_url": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/api-uploads/dh/da9a9f49-3ccf-4e0b-917d-cb1f955b1b03.png",
-      "access": "public",
-      "categories": [
-        "culture",
-        "networking",
-        "nightlife"
-      ],
-      "score": 46,
-      "confidence": 0.8,
-      "why_it_matters": "From Luma Miami — at The LAB Miami",
-      "source_id": "luma_miami",
-      "source_name": "Luma Miami",
-      "source_url": "https://luma.com/miami",
-      "first_seen_at": "2026-07-25T13:06:32.604294+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
-      "lead_hours": 192,
-      "source_trail": [
-        {
-          "source_id": "luma_miami",
-          "source_name": "Luma Miami",
-          "seen_at": "2026-07-25T13:06:32.604294+00:00",
-          "url": "https://luma.com/claude-p1z7"
-        }
-      ]
-    },
-    {
-      "id": "2e22215ef46f1449264cffc1dfc84c9a43c6a017",
-      "title": "Open Studio",
-      "summary": "",
-      "starts_at": "2026-08-02T12:30:00-04:00",
-      "ends_at": "2026-08-02T16:30:00-04:00",
-      "all_day": false,
-      "venue": "",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://thebass.org/event/open-studio/2026-08-02/",
-      "rsvp_url": "https://thebass.org/event/open-studio/2026-08-02/",
-      "image_url": null,
-      "access": "public",
-      "categories": [
-        "art",
-        "culture"
-      ],
-      "score": 46,
-      "confidence": 0.8,
-      "why_it_matters": "From The Bass",
-      "source_id": "the_bass",
-      "source_name": "The Bass",
-      "source_url": "https://thebass.org/events/?ical=1",
-      "first_seen_at": "2026-07-25T13:05:56.358170+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
-      "lead_hours": 195,
-      "source_trail": [
-        {
-          "source_id": "the_bass",
-          "source_name": "The Bass",
-          "seen_at": "2026-07-25T13:05:56.358170+00:00",
-          "url": "https://thebass.org/event/open-studio/2026-08-02/"
-        }
-      ]
-    },
-    {
-      "id": "f50c2ad809bdda1509a4a8f63a121c2cefd71612",
-      "title": "Immersive Worlds – Installation Nation",
-      "summary": "",
-      "starts_at": "2026-08-03T09:00:00-07:00",
-      "ends_at": "2026-08-03T15:30:00-07:00",
-      "all_day": false,
-      "venue": "",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://thebass.org/event/immersive-worlds-installation-nation/2026-08-03/",
-      "rsvp_url": "https://thebass.org/event/immersive-worlds-installation-nation/2026-08-03/",
-      "image_url": null,
-      "access": "public",
-      "categories": [
-        "art",
-        "culture"
-      ],
-      "score": 46,
-      "confidence": 0.8,
-      "why_it_matters": "From The Bass",
-      "source_id": "the_bass",
-      "source_name": "The Bass",
-      "source_url": "https://thebass.org/events/?ical=1",
-      "first_seen_at": "2026-07-25T13:05:56.359883+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
-      "lead_hours": 218,
-      "source_trail": [
-        {
-          "source_id": "the_bass",
-          "source_name": "The Bass",
-          "seen_at": "2026-07-25T13:05:56.359883+00:00",
-          "url": "https://thebass.org/event/immersive-worlds-installation-nation/2026-08-03/"
-        }
-      ]
-    },
-    {
-      "id": "d9aa07b2ea21b123de514ae961f0927dfd589fab",
-      "title": "Immersive Worlds – Step Inside the Art!",
-      "summary": "",
-      "starts_at": "2026-08-03T09:00:00-07:00",
-      "ends_at": "2026-08-03T15:30:00-07:00",
-      "all_day": false,
-      "venue": "",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://thebass.org/event/immersive-worlds-step-inside-the-art/2026-08-03/",
-      "rsvp_url": "https://thebass.org/event/immersive-worlds-step-inside-the-art/2026-08-03/",
-      "image_url": null,
-      "access": "public",
-      "categories": [
-        "art",
-        "culture"
-      ],
-      "score": 46,
-      "confidence": 0.8,
-      "why_it_matters": "From The Bass",
-      "source_id": "the_bass",
-      "source_name": "The Bass",
-      "source_url": "https://thebass.org/events/?ical=1",
-      "first_seen_at": "2026-07-25T13:05:56.359060+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
-      "lead_hours": 218,
-      "source_trail": [
-        {
-          "source_id": "the_bass",
-          "source_name": "The Bass",
-          "seen_at": "2026-07-25T13:05:56.359060+00:00",
-          "url": "https://thebass.org/event/immersive-worlds-step-inside-the-art/2026-08-03/"
-        }
-      ]
-    },
-    {
-      "id": "a0060c14aacd840347328058ec906c8a1de51dba",
-      "title": "Immersive Worlds – Installation Nation",
-      "summary": "",
-      "starts_at": "2026-08-04T09:00:00-07:00",
-      "ends_at": "2026-08-04T15:30:00-07:00",
-      "all_day": false,
-      "venue": "",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://thebass.org/event/immersive-worlds-installation-nation/2026-08-04/",
-      "rsvp_url": "https://thebass.org/event/immersive-worlds-installation-nation/2026-08-04/",
-      "image_url": null,
-      "access": "public",
-      "categories": [
-        "art",
-        "culture"
-      ],
-      "score": 46,
-      "confidence": 0.8,
-      "why_it_matters": "From The Bass",
-      "source_id": "the_bass",
-      "source_name": "The Bass",
-      "source_url": "https://thebass.org/events/?ical=1",
-      "first_seen_at": "2026-07-25T13:05:56.360390+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
-      "lead_hours": 242,
-      "source_trail": [
-        {
-          "source_id": "the_bass",
-          "source_name": "The Bass",
-          "seen_at": "2026-07-25T13:05:56.360390+00:00",
-          "url": "https://thebass.org/event/immersive-worlds-installation-nation/2026-08-04/"
-        }
-      ]
-    },
-    {
-      "id": "a7f2525a61e9cf8f39e6b999abbd2ba110d13d2d",
-      "title": "Immersive Worlds – Step Inside the Art!",
-      "summary": "",
-      "starts_at": "2026-08-04T09:00:00-07:00",
-      "ends_at": "2026-08-04T15:30:00-07:00",
-      "all_day": false,
-      "venue": "",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://thebass.org/event/immersive-worlds-step-inside-the-art/2026-08-04/",
-      "rsvp_url": "https://thebass.org/event/immersive-worlds-step-inside-the-art/2026-08-04/",
-      "image_url": null,
-      "access": "public",
-      "categories": [
-        "art",
-        "culture"
-      ],
-      "score": 46,
-      "confidence": 0.8,
-      "why_it_matters": "From The Bass",
-      "source_id": "the_bass",
-      "source_name": "The Bass",
-      "source_url": "https://thebass.org/events/?ical=1",
-      "first_seen_at": "2026-07-25T13:05:56.360172+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
-      "lead_hours": 242,
-      "source_trail": [
-        {
-          "source_id": "the_bass",
-          "source_name": "The Bass",
-          "seen_at": "2026-07-25T13:05:56.360172+00:00",
-          "url": "https://thebass.org/event/immersive-worlds-step-inside-the-art/2026-08-04/"
-        }
-      ]
-    },
-    {
-      "id": "5fa27355561a44141aa52cdf97026bcd92d47728",
-      "title": "Immersive Worlds – Installation Nation",
-      "summary": "",
-      "starts_at": "2026-08-05T09:00:00-07:00",
-      "ends_at": "2026-08-05T15:30:00-07:00",
-      "all_day": false,
-      "venue": "",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://thebass.org/event/immersive-worlds-installation-nation/2026-08-05/",
-      "rsvp_url": "https://thebass.org/event/immersive-worlds-installation-nation/2026-08-05/",
-      "image_url": null,
-      "access": "public",
-      "categories": [
-        "art",
-        "culture"
-      ],
-      "score": 46,
-      "confidence": 0.8,
-      "why_it_matters": "From The Bass",
-      "source_id": "the_bass",
-      "source_name": "The Bass",
-      "source_url": "https://thebass.org/events/?ical=1",
-      "first_seen_at": "2026-07-25T13:05:56.360748+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
-      "lead_hours": 266,
-      "source_trail": [
-        {
-          "source_id": "the_bass",
-          "source_name": "The Bass",
-          "seen_at": "2026-07-25T13:05:56.360748+00:00",
-          "url": "https://thebass.org/event/immersive-worlds-installation-nation/2026-08-05/"
-        }
-      ]
-    },
-    {
-      "id": "04889f0d1bf1336cecab2ec694fd80698e1d670c",
-      "title": "Immersive Worlds – Step Inside the Art!",
-      "summary": "",
-      "starts_at": "2026-08-05T09:00:00-07:00",
-      "ends_at": "2026-08-05T15:30:00-07:00",
-      "all_day": false,
-      "venue": "",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://thebass.org/event/immersive-worlds-step-inside-the-art/2026-08-05/",
-      "rsvp_url": "https://thebass.org/event/immersive-worlds-step-inside-the-art/2026-08-05/",
-      "image_url": null,
-      "access": "public",
-      "categories": [
-        "art",
-        "culture"
-      ],
-      "score": 46,
-      "confidence": 0.8,
-      "why_it_matters": "From The Bass",
-      "source_id": "the_bass",
-      "source_name": "The Bass",
-      "source_url": "https://thebass.org/events/?ical=1",
-      "first_seen_at": "2026-07-25T13:05:56.360576+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
-      "lead_hours": 266,
-      "source_trail": [
-        {
-          "source_id": "the_bass",
-          "source_name": "The Bass",
-          "seen_at": "2026-07-25T13:05:56.360576+00:00",
-          "url": "https://thebass.org/event/immersive-worlds-step-inside-the-art/2026-08-05/"
-        }
-      ]
-    },
-    {
-      "id": "a8055c574bcf29ba5b93203a70aeba5a1e07a783",
-      "title": "Immersive Worlds – Installation Nation",
-      "summary": "",
-      "starts_at": "2026-08-06T09:00:00-07:00",
-      "ends_at": "2026-08-06T15:30:00-07:00",
-      "all_day": false,
-      "venue": "",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://thebass.org/event/immersive-worlds-installation-nation/2026-08-06/",
-      "rsvp_url": "https://thebass.org/event/immersive-worlds-installation-nation/2026-08-06/",
-      "image_url": null,
-      "access": "public",
-      "categories": [
-        "art",
-        "culture"
-      ],
-      "score": 46,
-      "confidence": 0.8,
-      "why_it_matters": "From The Bass",
-      "source_id": "the_bass",
-      "source_name": "The Bass",
-      "source_url": "https://thebass.org/events/?ical=1",
-      "first_seen_at": "2026-07-25T13:05:56.361252+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
-      "lead_hours": 290,
-      "source_trail": [
-        {
-          "source_id": "the_bass",
-          "source_name": "The Bass",
-          "seen_at": "2026-07-25T13:05:56.361252+00:00",
-          "url": "https://thebass.org/event/immersive-worlds-installation-nation/2026-08-06/"
-        }
-      ]
-    },
-    {
-      "id": "cbd8a644d86c08e2c7de1e5de7331cc665300f16",
-      "title": "Immersive Worlds – Step Inside the Art!",
-      "summary": "",
-      "starts_at": "2026-08-06T09:00:00-07:00",
-      "ends_at": "2026-08-06T15:30:00-07:00",
-      "all_day": false,
-      "venue": "",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://thebass.org/event/immersive-worlds-step-inside-the-art/2026-08-06/",
-      "rsvp_url": "https://thebass.org/event/immersive-worlds-step-inside-the-art/2026-08-06/",
-      "image_url": null,
-      "access": "public",
-      "categories": [
-        "art",
-        "culture"
-      ],
-      "score": 46,
-      "confidence": 0.8,
-      "why_it_matters": "From The Bass",
-      "source_id": "the_bass",
-      "source_name": "The Bass",
-      "source_url": "https://thebass.org/events/?ical=1",
-      "first_seen_at": "2026-07-25T13:05:56.361070+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
-      "lead_hours": 290,
-      "source_trail": [
-        {
-          "source_id": "the_bass",
-          "source_name": "The Bass",
-          "seen_at": "2026-07-25T13:05:56.361070+00:00",
-          "url": "https://thebass.org/event/immersive-worlds-step-inside-the-art/2026-08-06/"
-        }
-      ]
-    },
-    {
-      "id": "3a849f2b63f3820a6e629d71d9d53740d37a8512",
-      "title": "Cursor Miami: Ship Night",
-      "summary": "",
-      "starts_at": "2026-08-06T16:00:00-04:00",
-      "ends_at": "2026-08-06T23:30:00-04:00",
-      "all_day": false,
-      "venue": "Miami, FL",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://luma.com/cursor-8hml",
-      "rsvp_url": "https://luma.com/cursor-8hml",
-      "image_url": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/uploads/7h/9e6d6648-3fae-4bb7-ac07-24a543ea9424.png",
-      "access": "public",
-      "categories": [
-        "culture",
-        "networking",
-        "nightlife"
-      ],
-      "score": 46,
-      "confidence": 0.8,
-      "why_it_matters": "From Luma Miami — at Miami, FL",
-      "source_id": "luma_miami",
-      "source_name": "Luma Miami",
-      "source_url": "https://luma.com/miami",
-      "first_seen_at": "2026-07-25T13:06:32.605215+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
-      "lead_hours": 294,
-      "source_trail": [
-        {
-          "source_id": "luma_miami",
-          "source_name": "Luma Miami",
-          "seen_at": "2026-07-25T13:06:32.605215+00:00",
-          "url": "https://luma.com/cursor-8hml"
-        }
-      ]
-    },
-    {
-      "id": "cd6b798637c4a61b523ff94490854b29728f1c23",
-      "title": "Immersive Worlds – Installation Nation",
-      "summary": "",
-      "starts_at": "2026-08-07T09:00:00-07:00",
-      "ends_at": "2026-08-07T15:30:00-07:00",
-      "all_day": false,
-      "venue": "",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://thebass.org/event/immersive-worlds-installation-nation/2026-08-07/",
-      "rsvp_url": "https://thebass.org/event/immersive-worlds-installation-nation/2026-08-07/",
-      "image_url": null,
-      "access": "public",
-      "categories": [
-        "art",
-        "culture"
-      ],
-      "score": 46,
-      "confidence": 0.8,
-      "why_it_matters": "From The Bass",
-      "source_id": "the_bass",
-      "source_name": "The Bass",
-      "source_url": "https://thebass.org/events/?ical=1",
-      "first_seen_at": "2026-07-25T13:05:56.361582+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
-      "lead_hours": 314,
-      "source_trail": [
-        {
-          "source_id": "the_bass",
-          "source_name": "The Bass",
-          "seen_at": "2026-07-25T13:05:56.361582+00:00",
-          "url": "https://thebass.org/event/immersive-worlds-installation-nation/2026-08-07/"
-        }
-      ]
-    },
-    {
-      "id": "1ff5ae917b7aa44595ff2ad7eefad1e06d382658",
-      "title": "Immersive Worlds – Step Inside the Art!",
-      "summary": "",
-      "starts_at": "2026-08-07T09:00:00-07:00",
-      "ends_at": "2026-08-07T15:30:00-07:00",
-      "all_day": false,
-      "venue": "",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://thebass.org/event/immersive-worlds-step-inside-the-art/2026-08-07/",
-      "rsvp_url": "https://thebass.org/event/immersive-worlds-step-inside-the-art/2026-08-07/",
-      "image_url": null,
-      "access": "public",
-      "categories": [
-        "art",
-        "culture"
-      ],
-      "score": 46,
-      "confidence": 0.8,
-      "why_it_matters": "From The Bass",
-      "source_id": "the_bass",
-      "source_name": "The Bass",
-      "source_url": "https://thebass.org/events/?ical=1",
-      "first_seen_at": "2026-07-25T13:05:56.361415+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
-      "lead_hours": 314,
-      "source_trail": [
-        {
-          "source_id": "the_bass",
-          "source_name": "The Bass",
-          "seen_at": "2026-07-25T13:05:56.361415+00:00",
-          "url": "https://thebass.org/event/immersive-worlds-step-inside-the-art/2026-08-07/"
-        }
-      ]
-    },
-    {
-      "id": "6930f27ff445d71170bc43154cc5549732e75eca",
-      "title": "Open Studio",
-      "summary": "",
-      "starts_at": "2026-08-08T12:30:00-04:00",
-      "ends_at": "2026-08-08T16:30:00-04:00",
-      "all_day": false,
-      "venue": "",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://thebass.org/event/open-studio/2026-08-08/",
-      "rsvp_url": "https://thebass.org/event/open-studio/2026-08-08/",
-      "image_url": null,
-      "access": "public",
-      "categories": [
-        "art",
-        "culture"
-      ],
-      "score": 46,
-      "confidence": 0.8,
-      "why_it_matters": "From The Bass",
-      "source_id": "the_bass",
-      "source_name": "The Bass",
-      "source_url": "https://thebass.org/events/?ical=1",
-      "first_seen_at": "2026-07-25T13:05:56.361802+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
-      "lead_hours": 339,
-      "source_trail": [
-        {
-          "source_id": "the_bass",
-          "source_name": "The Bass",
-          "seen_at": "2026-07-25T13:05:56.361802+00:00",
-          "url": "https://thebass.org/event/open-studio/2026-08-08/"
-        }
-      ]
-    },
-    {
-      "id": "8fd5c6d4bfffba80a1a04ea18de5db0f09a9895a",
-      "title": "The Bass Highlight Tours",
-      "summary": "",
-      "starts_at": "2026-08-08T14:00:00-07:00",
-      "ends_at": "2026-08-08T14:45:00-07:00",
-      "all_day": false,
-      "venue": "",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://thebass.org/event/the-bass-highlight-tours/2026-08-08/",
-      "rsvp_url": "https://thebass.org/event/the-bass-highlight-tours/2026-08-08/",
-      "image_url": null,
-      "access": "public",
-      "categories": [
-        "art",
-        "culture"
-      ],
-      "score": 46,
-      "confidence": 0.8,
-      "why_it_matters": "From The Bass",
-      "source_id": "the_bass",
-      "source_name": "The Bass",
-      "source_url": "https://thebass.org/events/?ical=1",
-      "first_seen_at": "2026-07-25T13:05:56.361962+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
-      "lead_hours": 343,
-      "source_trail": [
-        {
-          "source_id": "the_bass",
-          "source_name": "The Bass",
-          "seen_at": "2026-07-25T13:05:56.361962+00:00",
-          "url": "https://thebass.org/event/the-bass-highlight-tours/2026-08-08/"
-        }
-      ]
-    },
-    {
-      "id": "067f938d73328a5e973cedaba85722d7d967346b",
-      "title": "Fort Lauderdale Las Olas Rooftop EVO VC & Startups Social🍸🎉",
-      "summary": "",
-      "starts_at": "2026-08-12T19:00:00-04:00",
-      "ends_at": "2026-08-12T22:00:00-04:00",
-      "all_day": false,
-      "venue": "Rooftop @1WLO",
-      "neighborhood": "Fort Lauderdale",
-      "city": "Fort Lauderdale",
-      "url": "https://luma.com/gprdv2ur",
-      "rsvp_url": "https://luma.com/gprdv2ur",
-      "image_url": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/event-covers/b3/b8d3d068-6148-4d8c-85ca-5c5fcf52d10e.jpg",
-      "access": "public",
-      "categories": [
-        "culture",
-        "networking",
-        "nightlife"
-      ],
-      "score": 46,
-      "confidence": 0.8,
-      "why_it_matters": "From Luma Miami — at Rooftop @1WLO",
-      "source_id": "luma_miami",
-      "source_name": "Luma Miami",
-      "source_url": "https://luma.com/miami",
-      "first_seen_at": "2026-07-25T13:06:32.606277+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
-      "lead_hours": 441,
-      "source_trail": [
-        {
-          "source_id": "luma_miami",
-          "source_name": "Luma Miami",
-          "seen_at": "2026-07-25T13:06:32.606277+00:00",
-          "url": "https://luma.com/gprdv2ur"
-        }
-      ]
-    },
-    {
-      "id": "dda572de6534a399765db18b8b5637c851638f91",
-      "title": "Dinner: Leveraging AI Agents",
-      "summary": "",
-      "starts_at": "2026-08-13T19:00:00-04:00",
-      "ends_at": "2026-08-13T20:30:00-04:00",
-      "all_day": false,
-      "venue": "The Capital Grille",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://luma.com/mia-ai-dinner",
-      "rsvp_url": "https://luma.com/mia-ai-dinner",
-      "image_url": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/uploads/cb/f2c27a8e-bfcc-443d-9cb6-bf2471d630d8.png",
-      "access": "public",
-      "categories": [
-        "culture",
-        "networking",
-        "nightlife"
-      ],
-      "score": 46,
-      "confidence": 0.8,
-      "why_it_matters": "From Luma Miami — at The Capital Grille",
-      "source_id": "luma_miami",
-      "source_name": "Luma Miami",
-      "source_url": "https://luma.com/miami",
-      "first_seen_at": "2026-07-25T13:06:32.607324+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
-      "lead_hours": 465,
-      "source_trail": [
-        {
-          "source_id": "luma_miami",
-          "source_name": "Luma Miami",
-          "seen_at": "2026-07-25T13:06:32.607324+00:00",
-          "url": "https://luma.com/mia-ai-dinner"
-        }
-      ]
-    },
-    {
-      "id": "74db34bf65af08f4e93ea2cd4510052f1cfa5a72",
-      "title": "Joyful Revival Block Party",
-      "summary": "",
-      "starts_at": "2026-08-15T15:00:00-04:00",
-      "ends_at": "2026-08-15T19:00:00-04:00",
-      "all_day": false,
-      "venue": "Fort Lauderdale, FL",
-      "neighborhood": "Fort Lauderdale",
-      "city": "Fort Lauderdale",
-      "url": "https://luma.com/joyfulrevivalftl",
-      "rsvp_url": "https://luma.com/joyfulrevivalftl",
-      "image_url": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/uploads/ea/7df7acb7-5887-4a07-a8d8-42fc8ed5913e.png",
-      "access": "public",
-      "categories": [
-        "culture",
-        "networking",
-        "nightlife"
-      ],
-      "score": 46,
-      "confidence": 0.8,
-      "why_it_matters": "From Luma Miami — at Fort Lauderdale, FL",
-      "source_id": "luma_miami",
-      "source_name": "Luma Miami",
-      "source_url": "https://luma.com/miami",
-      "first_seen_at": "2026-07-25T13:06:32.608309+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
-      "lead_hours": 509,
-      "source_trail": [
-        {
-          "source_id": "luma_miami",
-          "source_name": "Luma Miami",
-          "seen_at": "2026-07-25T13:06:32.608309+00:00",
-          "url": "https://luma.com/joyfulrevivalftl"
-        }
-      ]
-    },
-    {
-      "id": "e7757d41c26bee479dfcb5a965f2069813cc8125",
-      "title": "Zero Waste Miami Celebration",
-      "summary": "",
-      "starts_at": "2026-08-15T18:00:00-04:00",
-      "ends_at": "2026-08-15T21:00:00-04:00",
-      "all_day": false,
-      "venue": "The Wetlab",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://luma.com/9i7uy69h",
-      "rsvp_url": "https://luma.com/9i7uy69h",
-      "image_url": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/uploads/dc/3fea0f27-8b58-41e4-b9f9-c5b02a3a4499.png",
-      "access": "public",
-      "categories": [
-        "culture",
-        "networking",
-        "nightlife"
-      ],
-      "score": 46,
-      "confidence": 0.8,
-      "why_it_matters": "From Luma Miami — at The Wetlab",
-      "source_id": "luma_miami",
-      "source_name": "Luma Miami",
-      "source_url": "https://luma.com/miami",
-      "first_seen_at": "2026-07-25T13:06:32.609402+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
-      "lead_hours": 512,
-      "source_trail": [
-        {
-          "source_id": "luma_miami",
-          "source_name": "Luma Miami",
-          "seen_at": "2026-07-25T13:06:32.609402+00:00",
-          "url": "https://luma.com/9i7uy69h"
-        }
-      ]
-    },
-    {
-      "id": "b45c851bc7975176062e97f3c58927ebcc73eefa",
-      "title": "Christopher Ward x MIA Watch Club",
-      "summary": "",
-      "starts_at": "2026-08-19T19:00:00-04:00",
-      "ends_at": "2026-08-19T21:00:00-04:00",
-      "all_day": false,
-      "venue": "Hagerty Garage and Social - Miami",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://luma.com/a3v450h2",
-      "rsvp_url": "https://luma.com/a3v450h2",
-      "image_url": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/uploads/hc/41257183-be2b-4365-981b-d981a5bc5d51.jpg",
-      "access": "public",
-      "categories": [
-        "culture",
-        "networking",
-        "nightlife"
-      ],
-      "score": 46,
-      "confidence": 0.8,
-      "why_it_matters": "From Luma Miami — at Hagerty Garage and Social - Miami",
-      "source_id": "luma_miami",
-      "source_name": "Luma Miami",
-      "source_url": "https://luma.com/miami",
-      "first_seen_at": "2026-07-25T13:06:32.610443+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
-      "lead_hours": 609,
-      "source_trail": [
-        {
-          "source_id": "luma_miami",
-          "source_name": "Luma Miami",
-          "seen_at": "2026-07-25T13:06:32.610443+00:00",
-          "url": "https://luma.com/a3v450h2"
-        }
-      ]
-    },
-    {
-      "id": "0fe08b1f486755e3904b418d1979718f2c461465",
-      "title": "Strive305 Office Hours",
-      "summary": "Our experts provide one-on-one mentorship to support business development, help navigate opportunities, and connect you with valuable resources to help you thrive in the 305. The post Strive305 Office Hours appeared first on Miami-Dade Beacon Council .",
-      "starts_at": "2026-07-30T10:00:00+00:00",
-      "ends_at": null,
-      "all_day": false,
-      "venue": "",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://www.beaconcouncil.com/event/strive305-office-hours/",
-      "rsvp_url": "https://www.beaconcouncil.com/event/strive305-office-hours/",
-      "image_url": null,
-      "access": "public",
-      "categories": [
-        "networking",
-        "real_estate"
-      ],
-      "score": 44,
-      "confidence": 0.7,
-      "why_it_matters": "From Beacon Council RSS",
-      "source_id": "beacon_council_rss",
-      "source_name": "Beacon Council RSS",
-      "source_url": "https://www.beaconcouncil.com/events/feed/",
-      "first_seen_at": "2026-07-25T13:06:01.470037+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
-      "lead_hours": 116,
-      "source_trail": [
-        {
-          "source_id": "beacon_council_rss",
-          "source_name": "Beacon Council RSS",
-          "seen_at": "2026-07-25T13:06:01.470037+00:00",
-          "url": "https://www.beaconcouncil.com/event/strive305-office-hours/"
-        }
-      ]
-    },
-    {
-      "id": "6adeb3f36e3c69469db1f61061de898f931b827e",
-      "title": "Introduction to HARB - Specter Aerospace",
-      "summary": "",
-      "starts_at": "2026-08-03T11:30:00+00:00",
-      "ends_at": "2026-08-03T12:30:00+00:00",
-      "all_day": false,
-      "venue": "Miami-Dade Beacon Council, 80 Sw 8th Street Suite 2400, Miami, FL 33130, Miami, FL, 33130, US",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://www.beaconcouncil.com/event/introduction-to-harb-specter-aerospace/",
-      "rsvp_url": "https://www.beaconcouncil.com/event/introduction-to-harb-specter-aerospace/",
-      "image_url": null,
-      "access": "public",
-      "categories": [
-        "networking",
-        "real_estate"
-      ],
-      "score": 44,
-      "confidence": 0.9,
-      "why_it_matters": "From Beacon Council — at Miami-Dade Beacon Council, 80 Sw 8th Street Suite 2400, Miami, FL 33130, Miami, FL, 33130, US",
-      "source_id": "beacon_council",
-      "source_name": "Beacon Council",
-      "source_url": "https://www.beaconcouncil.com/events/?ical=1",
-      "first_seen_at": "2026-07-25T13:06:01.182941+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
-      "lead_hours": 214,
-      "source_trail": [
-        {
-          "source_id": "beacon_council",
-          "source_name": "Beacon Council",
-          "seen_at": "2026-07-25T13:06:01.182941+00:00",
-          "url": "https://www.beaconcouncil.com/event/introduction-to-harb-specter-aerospace/"
-        }
-      ]
-    },
-    {
-      "id": "60401e798596df210b6bb349f8d954a7b1be5383",
-      "title": "View our Event Calendar",
-      "summary": "Home » Resort Home » View our Event Calendar » July 2026",
-      "starts_at": "2026-07-25T00:00:00+00:00",
-      "ends_at": null,
-      "all_day": false,
-      "venue": "",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://www.loewshotels.com/miami-beach/event-calendar",
-      "rsvp_url": "https://www.loewshotels.com/miami-beach/event-calendar",
-      "image_url": null,
-      "access": "public",
-      "categories": [
-        "hospitality"
-      ],
-      "score": 38,
-      "confidence": 0.7,
-      "why_it_matters": "From Loews Miami Beach",
-      "source_id": "loews_miami",
-      "source_name": "Loews Miami Beach",
-      "source_url": "https://www.loewshotels.com/miami-beach/event-calendar",
-      "first_seen_at": "2026-07-25T13:10:19.998461+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
-      "lead_hours": -14,
-      "source_trail": [
-        {
-          "source_id": "loews_miami",
-          "source_name": "Loews Miami Beach",
-          "seen_at": "2026-07-25T13:10:19.998461+00:00",
-          "url": "https://www.loewshotels.com/miami-beach/event-calendar"
-        }
-      ]
-    },
-    {
-      "id": "19de93b319d715298e48f69ecddd8d57722951d3",
-      "title": "Introduction to HARB – Specter Aerospace",
-      "summary": "The post Introduction to HARB – Specter Aerospace appeared first on Miami-Dade Beacon Council .",
-      "starts_at": "2026-08-03T11:30:00+00:00",
-      "ends_at": null,
-      "all_day": false,
-      "venue": "",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://www.beaconcouncil.com/event/introduction-to-harb-specter-aerospace/",
-      "rsvp_url": "https://www.beaconcouncil.com/event/introduction-to-harb-specter-aerospace/",
-      "image_url": null,
-      "access": "public",
-      "categories": [
-        "networking",
-        "real_estate"
-      ],
-      "score": 38,
-      "confidence": 0.7,
-      "why_it_matters": "From Beacon Council RSS",
-      "source_id": "beacon_council_rss",
-      "source_name": "Beacon Council RSS",
-      "source_url": "https://www.beaconcouncil.com/events/feed/",
-      "first_seen_at": "2026-07-25T13:06:01.472995+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
-      "lead_hours": 214,
-      "source_trail": [
-        {
-          "source_id": "beacon_council_rss",
-          "source_name": "Beacon Council RSS",
-          "seen_at": "2026-07-25T13:06:01.472995+00:00",
-          "url": "https://www.beaconcouncil.com/event/introduction-to-harb-specter-aerospace/"
-        }
-      ]
-    },
-    {
-      "id": "820bdb10fad491590fffacf0fadcc171750fb7bb",
-      "title": "Q4 International Advisory Council Meeting",
-      "summary": "Featuring Italy, including remarks by Italian Consul General Misto Michele as well as a spotlight on Italian business “Eataly” located in Aventura. The post Q4 International Advisory Council Meeting appeared first on Miami-Dade Beacon Council .",
-      "starts_at": "2026-09-08T15:00:00+00:00",
-      "ends_at": null,
-      "all_day": false,
-      "venue": "",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://www.beaconcouncil.com/event/q4-international-advisory-council-meeting/",
-      "rsvp_url": "https://www.beaconcouncil.com/event/q4-international-advisory-council-meeting/",
-      "image_url": null,
-      "access": "public",
-      "categories": [
-        "networking",
-        "real_estate"
-      ],
-      "score": 32,
-      "confidence": 0.7,
-      "why_it_matters": "From Beacon Council RSS",
-      "source_id": "beacon_council_rss",
-      "source_name": "Beacon Council RSS",
-      "source_url": "https://www.beaconcouncil.com/events/feed/",
-      "first_seen_at": "2026-07-25T15:36:17.476283+00:00",
-      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
-      "lead_hours": 1079,
-      "source_trail": [
-        {
-          "source_id": "beacon_council",
-          "source_name": "Beacon Council",
-          "seen_at": "2026-07-25T15:36:16.392499+00:00",
-          "url": "https://www.beaconcouncil.com/event/q4-international-advisory-council-meeting/"
-        },
-        {
-          "source_id": "beacon_council_rss",
-          "source_name": "Beacon Council RSS",
-          "seen_at": "2026-07-25T15:36:17.476283+00:00",
-          "url": "https://www.beaconcouncil.com/event/q4-international-advisory-council-meeting/"
+          "source_id": "gmbha",
+          "source_name": "Greater Miami & The Beaches Hotel Association",
+          "seen_at": "2026-07-25T18:37:20.958178+00:00",
+          "url": "https://members.gmbha.com/events/Details/executive-board-meeting-hospitality-unwind-1859378?sourceTypeId=Website"
         }
       ]
     }

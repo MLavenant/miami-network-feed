@@ -10,6 +10,39 @@ Priority order for discovering Miami luxury / hospitality events **before** they
 6. **Editorial RSS** (Haute Living early signal; World Red Eye mostly same-day/post)
 7. **PR / ticketing signals** (PR Newswire filters, Luma Miami calendars)
 
+## Curated source tiers
+
+The live feed now publishes only five primary industries: Hospitality, Sports, Real Estate, Culinary, and Art/Fashion. Generic tours, community classes, family programming, farmers markets, office hours, and similar listings are excluded.
+
+### Top-tier hospitality and clubs
+
+- Faena Miami Beach / Faena Rose
+- Delano Miami Beach
+- W South Beach
+- 1 Hotel South Beach
+- The Standard Spa Miami Beach
+- The Setai
+- Fontainebleau Miami Beach
+- Miami Beach EDITION / Beach Club
+- Four Seasons at The Surf Club
+- St. Regis Bal Harbour
+- The Moore Miami
+- Soho Beach House
+- Casa Tua Club
+- ZZ's Club
+- The Bath Club
+- Casa Neos / MM Club
+
+Private club calendars are not scraped behind authentication. The feed exposes official membership, concierge, newsletter, and application routes instead.
+
+### Industry calendars
+
+- Hospitality: GMBHA and AHLA
+- Sports: F1 Miami, Miami Open, Inter Miami, Miami HEAT, FIFA hospitality, WR Chess
+- Real Estate: ULI, NAIOP South Florida, MIAMI REALTORS, Bisnow, Beacon Council
+- Culinary: SOBEWFF official ICS and event inventory
+- Art/Fashion: Art Basel, Design Miami, Design District, ICA and The Bass only when programming has a premium signal such as a private dinner, gala, preview, or reception
+
 ## Instagram
 
 Not scraped. Public Instagram discovery is unreliable and restricted. Prefer newsletters and official pages.

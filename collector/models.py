@@ -20,12 +20,21 @@ CATEGORIES = {
     "art",
     "fashion",
     "culinary",
+    "sports",
     "yacht",
     "real_estate",
     "networking",
     "nightlife",
     "culture",
     "editorial",
+}
+
+INDUSTRIES = {
+    "hospitality",
+    "sports",
+    "real_estate",
+    "culinary",
+    "art_fashion",
 }
 
 
@@ -55,7 +64,11 @@ class Event:
     rsvp_url: str | None
     image_url: str | None
     access: str
+    industry: str
     categories: list[str]
+    access_tip: str
+    contact_url: str | None
+    contact_email: str | None
     score: int
     confidence: float
     why_it_matters: str
@@ -88,7 +101,11 @@ class RawEvent:
     rsvp_url: str | None = None
     image_url: str | None = None
     access: str = "public"
+    industry: str = ""
     categories: list[str] = field(default_factory=list)
+    access_tip: str = ""
+    contact_url: str | None = None
+    contact_email: str | None = None
     source_id: str = ""
     source_name: str = ""
     source_url: str = ""

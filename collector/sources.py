@@ -21,10 +21,14 @@ class SourceDef:
     kind: str  # rss | ics | jsonld | links | custom
     url: str
     categories: list[str]
+    industry: str = ""
     require_miami: bool = False
     link_selector: str = "a"
     enabled: bool = True
     note: str = ""
+    access_tip: str = ""
+    contact_url: str | None = None
+    contact_email: str | None = None
 
 
 SOURCES: list[SourceDef] = [
@@ -53,6 +57,8 @@ SOURCES: list[SourceDef] = [
         url="https://events.miamibeachfl.gov/events/?ical=1",
         categories=["culture", "networking"],
         require_miami=False,
+        enabled=False,
+        note="Disabled: broad civic calendar produces community-event noise.",
     ),
     SourceDef(
         id="the_bass",
@@ -98,7 +104,10 @@ SOURCES: list[SourceDef] = [
         kind="jsonld",
         url="https://www.faena.com/miami-beach/things-to-do",
         categories=["luxury", "hospitality", "nightlife"],
+        industry="hospitality",
         note="Official Faena happenings page.",
+        access_tip="Use the event booking link for public programming. For Faena Rose events, submit the official membership-interest form.",
+        contact_url="https://forms.rosemembers.faena.com/membership-interest",
     ),
     SourceDef(
         id="faena_links",
@@ -106,9 +115,12 @@ SOURCES: list[SourceDef] = [
         kind="links",
         url="https://www.faena.com/miami-beach/things-to-do",
         categories=["luxury", "hospitality"],
+        industry="hospitality",
         link_selector="a[href*='/things-to-do/'], a[href*='/event']",
         enabled=True,
         note="Strict href filter to avoid nav/dining boilerplate.",
+        access_tip="Book public Faena programming from the official page; private Rose programming requires membership.",
+        contact_url="https://forms.rosemembers.faena.com/membership-interest",
     ),
     SourceDef(
         id="wr_chess",
@@ -116,7 +128,10 @@ SOURCES: list[SourceDef] = [
         kind="jsonld",
         url="https://wr-chess.com/events/usa-vs-uzbekistan-wr-chess-match-2026",
         categories=["luxury", "hospitality", "networking"],
+        industry="sports",
         note="Owned page for Faena WR Chess programming.",
+        access_tip="No public RSVP is listed for private receptions. Follow WR Chess and Faena, then request an official host or press introduction.",
+        contact_url="https://wr-chess.com/events/usa-vs-uzbekistan-wr-chess-match-2026",
     ),
     SourceDef(
         id="wr_chess_links",
@@ -140,8 +155,11 @@ SOURCES: list[SourceDef] = [
         id="fontainebleau",
         name="Fontainebleau Miami Beach",
         kind="jsonld",
-        url="https://www.fontainebleau.com/miamibeach/events/",
+        url="https://www.fontainebleau.com/miamibeach/nightlife/event-calendar/",
         categories=["luxury", "hospitality"],
+        industry="hospitality",
+        access_tip="Buy or reserve through the official calendar. Hotel guests can ask the concierge to arrange access.",
+        contact_url="https://www.fontainebleau.com/miamibeach/pre-arrival/",
     ),
     SourceDef(
         id="loews_miami",
@@ -156,6 +174,153 @@ SOURCES: list[SourceDef] = [
         kind="jsonld",
         url="https://event.marriott.com/miaxr-the-st-regis-bal-harbour-resort/events",
         categories=["luxury", "hospitality"],
+        industry="hospitality",
+        access_tip="Reserve on the official Marriott event page or ask Guest Recognition/Concierge; some events may require a stay.",
+        contact_url="https://www.marriott.com/en-us/hotels/miaxr-the-st-regis-bal-harbour-resort/experiences/",
+    ),
+    SourceDef(
+        id="delano_miami",
+        name="Delano Miami Beach",
+        kind="links",
+        url="https://delanohotels.com/miami-beach/",
+        categories=["luxury", "hospitality"],
+        industry="hospitality",
+        link_selector="a[href*='event'], a[href*='experience'], a[href*='happening']",
+        access_tip="Subscribe to Delano's official Be In The Know list. Hotel guests can register for listed property activities.",
+        contact_url="https://delanohotels.com/be-in-the-know/",
+        note="No public master calendar; watches official property links.",
+    ),
+    SourceDef(
+        id="w_south_beach",
+        name="W South Beach",
+        kind="jsonld",
+        url="https://event.marriott.com/miaws-w-south-beach/events",
+        categories=["luxury", "hospitality"],
+        industry="hospitality",
+        access_tip="Follow the official event instructions. For guest activities, reserve through W South Beach Concierge before the stated cutoff.",
+        contact_url="https://www.marriott.com/en-us/hotels/miaws-w-south-beach/experiences/",
+    ),
+    SourceDef(
+        id="one_hotel_south_beach",
+        name="1 Hotel South Beach",
+        kind="jsonld",
+        url="https://www.1hotels.com/south-beach/do/events",
+        categories=["luxury", "hospitality"],
+        industry="hospitality",
+        access_tip="Use the booking link on the official happening. Event planners can join the official Gathering Together invitation list.",
+        contact_url="https://www.1hotels.com/gather/email-signup",
+    ),
+    SourceDef(
+        id="the_standard_miami",
+        name="The Standard Spa Miami Beach",
+        kind="jsonld",
+        url="https://www.standardhotels.com/happenings",
+        categories=["hospitality", "luxury"],
+        industry="hospitality",
+        require_miami=True,
+        access_tip="Book directly from the official happening. For private-event access, contact the hotel's official events team.",
+        contact_url="https://www.standardhotels.com/miami/properties/miami-beach",
+        contact_email="MiamiEvents@StandardMiami.com",
+    ),
+    SourceDef(
+        id="setai_miami",
+        name="The Setai Miami Beach",
+        kind="links",
+        url="https://www.thesetaihotel.com/miami-beach-restaurants/jaya",
+        categories=["luxury", "hospitality", "culinary"],
+        industry="culinary",
+        link_selector="a[href*='event'], a[href*='brunch'], a[href*='dining'], a[href*='experience']",
+        access_tip="Reserve the official dining experience or ask The Setai concierge for current programming.",
+        contact_url="https://www.thesetaihotel.com/contact",
+        contact_email="concierge@thesetaihotel.com",
+    ),
+    SourceDef(
+        id="surf_club",
+        name="Four Seasons at The Surf Club",
+        kind="jsonld",
+        url="https://www.fourseasons.com/surfside/seasonal/",
+        categories=["luxury", "hospitality", "culinary"],
+        industry="hospitality",
+        access_tip="Reserve through the official event channel or ask the hotel concierge for current guest experiences.",
+        contact_url="https://www.fourseasons.com/surfside/seasonal/",
+    ),
+    SourceDef(
+        id="edition_miami",
+        name="Miami Beach EDITION",
+        kind="links",
+        url="https://www.editionhotels.com/miami-beach/",
+        categories=["luxury", "hospitality"],
+        industry="hospitality",
+        link_selector="a[href*='happening'], a[href*='event'], a[href$='.pdf']",
+        access_tip="Use the official monthly happenings guide. Beach Club members receive invitations to exclusive member events.",
+        contact_url="https://www.editionhotels.com/miami-beach/beach-and-pools/membership-application/",
+        contact_email="mb.membership@editionhotels.com",
+    ),
+    SourceDef(
+        id="moore_miami",
+        name="The Moore Miami",
+        kind="links",
+        url="https://www.mooremiami.com/events",
+        categories=["luxury", "hospitality", "art"],
+        industry="hospitality",
+        link_selector="a[href*='event'], a[href*='program'], a[href*='member']",
+        access_tip="The programming calendar is member-only. Apply through The Moore's official membership page.",
+        contact_url="https://www.mooremiami.com/become-a-member",
+    ),
+    SourceDef(
+        id="soho_beach_house",
+        name="Soho Beach House",
+        kind="links",
+        url="https://www.sohohouse.com/en-us/houses/soho-beach-house",
+        categories=["luxury", "hospitality"],
+        industry="hospitality",
+        link_selector="a[href*='event'], a[href*='membership']",
+        access_tip="Daily House events are in the member app. Apply through Soho House's official membership route.",
+        contact_url="https://www.sohohouse.com/en-us/membership",
+    ),
+    SourceDef(
+        id="casa_tua_club",
+        name="Casa Tua Club",
+        kind="links",
+        url="https://www.casatualife.com/Miami.html",
+        categories=["luxury", "hospitality", "culinary"],
+        industry="hospitality",
+        link_selector="a[href*='event'], a[href*='club'], a[href*='membership']",
+        access_tip="Apply with Miami as your primary house. Founder Membership is invitation-only.",
+        contact_url="https://apply.casatualife.com/membership-application",
+    ),
+    SourceDef(
+        id="zzs_club",
+        name="ZZ's Club Miami",
+        kind="links",
+        url="https://www.majorfood.com/brands/zzs-club",
+        categories=["luxury", "hospitality", "culinary"],
+        industry="hospitality",
+        link_selector="a[href*='event'], a[href*='membership'], a[href*='application']",
+        access_tip="Apply through the official Miami application or submit a membership/events inquiry.",
+        contact_url="https://zzsclub.com/miami-applications/",
+    ),
+    SourceDef(
+        id="bath_club",
+        name="The Bath Club",
+        kind="links",
+        url="https://www.thebathclub.com/",
+        categories=["luxury", "hospitality"],
+        industry="hospitality",
+        link_selector="a[href*='event'], a[href*='membership']",
+        access_tip="Submit the official membership inquiry; member, concierge, private-bank and cultural introductions are recognized routes.",
+        contact_url="https://www.thebathclub.com/membership-inquiries",
+    ),
+    SourceDef(
+        id="casa_neos",
+        name="Casa Neos / MM Club",
+        kind="links",
+        url="https://www.casa-neos.com/",
+        categories=["luxury", "hospitality", "culinary"],
+        industry="hospitality",
+        link_selector="a[href*='event'], a[href*='ritual'], a[href*='member'], a[href*='rooftop']",
+        access_tip="Public restaurant bookings do not include MM Club access. Use the official rooftop membership-interest route.",
+        contact_url="https://www.casa-neos.com/mm-rooftop",
     ),
     SourceDef(
         id="art_basel",
@@ -202,6 +367,19 @@ SOURCES: list[SourceDef] = [
         url="https://corporate.sobewff.org/",
         categories=["culinary", "luxury", "networking"],
         link_selector="a[href*='event'], a[href*='ticket'], a[href*='dinner']",
+        industry="culinary",
+        access_tip="Buy or reserve only through the official SOBEWFF event page; high-demand dinners sell out early.",
+        contact_url="https://sobewff.org/events/",
+    ),
+    SourceDef(
+        id="sobewff_ics",
+        name="SOBEWFF Official Calendar",
+        kind="ics",
+        url="https://sobewff.org/wp-content/uploads/2024/10/SOBEWFF-2026.ics",
+        categories=["culinary", "luxury"],
+        industry="culinary",
+        access_tip="Use the official SOBEWFF event page for tickets and waitlists.",
+        contact_url="https://sobewff.org/events/",
     ),
     SourceDef(
         id="boat_show",
@@ -227,6 +405,106 @@ SOURCES: list[SourceDef] = [
         categories=["real_estate", "networking"],
         link_selector="a[href*='/events/']",
         require_miami=False,
+    ),
+    SourceDef(
+        id="naiop_sfl",
+        name="NAIOP South Florida",
+        kind="links",
+        url="https://members.naiopsfl.org/eventcalendar",
+        categories=["real_estate", "networking"],
+        industry="real_estate",
+        link_selector="a[href*='event'], a[href*='calendar'], a[href*='details']",
+        access_tip="Register through the official NAIOP South Florida event page; member pricing may apply.",
+        contact_url="https://members.naiopsfl.org/eventcalendar",
+    ),
+    SourceDef(
+        id="miami_realtors",
+        name="MIAMI REALTORS",
+        kind="links",
+        url="https://www.miamirealtors.com/events/category/events/upcoming-events/",
+        categories=["real_estate", "networking"],
+        industry="real_estate",
+        link_selector="a[href*='/event'], a[href*='/events/']",
+        access_tip="Register on the official MIAMI REALTORS page; some sessions require membership.",
+        contact_url="https://www.miamirealtors.com/events/category/events/upcoming-events/",
+    ),
+    SourceDef(
+        id="gmbha",
+        name="Greater Miami & The Beaches Hotel Association",
+        kind="links",
+        url="https://members.gmbha.com/events",
+        categories=["hospitality", "networking"],
+        industry="hospitality",
+        link_selector="a[href*='event'], a[href*='details']",
+        access_tip="Register through GMBHA. Membership or partner status may unlock industry luncheons and leadership events.",
+        contact_url="https://members.gmbha.com/events",
+    ),
+    SourceDef(
+        id="ahla",
+        name="American Hotel & Lodging Association",
+        kind="links",
+        url="https://www.ahla.com/events",
+        categories=["hospitality", "networking"],
+        industry="hospitality",
+        link_selector="a[href*='event'], a[href*='conference'], a[href*='show']",
+        require_miami=True,
+        access_tip="Register through AHLA's official event page; hotel-industry membership may provide access or pricing.",
+        contact_url="https://www.ahla.com/events",
+    ),
+    SourceDef(
+        id="f1_miami",
+        name="Formula 1 Miami Grand Prix",
+        kind="links",
+        url="https://f1miamigp.com/tickets/luxury/",
+        categories=["sports", "luxury", "hospitality"],
+        industry="sports",
+        link_selector="a[href*='ticket'], a[href*='luxury'], a[href*='hospitality'], a[href*='paddock']",
+        access_tip="Use official F1 Miami premium sales for Casa Tua, Paddock Club or 72 Club hospitality.",
+        contact_url="https://f1miamigp.com/tickets/luxury/",
+    ),
+    SourceDef(
+        id="miami_open",
+        name="Miami Open",
+        kind="links",
+        url="https://www.miamiopen.com/tickets/luxury/",
+        categories=["sports", "luxury", "hospitality"],
+        industry="sports",
+        link_selector="a[href*='ticket'], a[href*='luxury'], a[href*='premium'], a[href*='schedule']",
+        access_tip="Submit the official luxury-seating or premium-sales form for suites and hospitality.",
+        contact_url="https://www.miamiopen.com/tickets/luxury/",
+    ),
+    SourceDef(
+        id="inter_miami",
+        name="Inter Miami CF",
+        kind="links",
+        url="https://www.intermiamicf.com/schedule/matches",
+        categories=["sports", "hospitality"],
+        industry="sports",
+        link_selector="a[href*='match'], a[href*='ticket'], a[href*='schedule'], a[href*='premium']",
+        access_tip="Use the official match or premium-interest page. Subscribe to the club newsletter for member events.",
+        contact_url="https://www.intermiamicf.com/schedule/matches",
+    ),
+    SourceDef(
+        id="miami_heat",
+        name="Miami HEAT",
+        kind="links",
+        url="https://www.nba.com/heat/schedule",
+        categories=["sports", "hospitality"],
+        industry="sports",
+        link_selector="a[href*='ticket'], a[href*='schedule'], a[href*='membership'], a[href*='premium']",
+        access_tip="Use official HEAT tickets or Prestige membership; premium membership includes selected private events.",
+        contact_url="https://www.nba.com/heat/tickets/season-ticket-memberships",
+    ),
+    SourceDef(
+        id="fifa_miami",
+        name="FIFA World Cup 2026 Miami Hospitality",
+        kind="links",
+        url="https://fifaworldcup26.hospitality.fifa.com/venues/miami",
+        categories=["sports", "luxury", "hospitality"],
+        industry="sports",
+        link_selector="a[href*='hospitality'], a[href*='package'], a[href*='ticket']",
+        access_tip="Use On Location, FIFA's official hospitality provider, for legitimate suites and lounges.",
+        contact_url="https://fifaworldcup26.hospitality.fifa.com/venues/miami",
     ),
     SourceDef(
         id="luma_miami",
@@ -339,6 +617,20 @@ def fetch_source(client: HttpClient, src: SourceDef) -> SourceResult:
         # Custom enrichment for WR Chess schedule text when JSON-LD is thin
         if src.id in ("wr_chess", "wr_chess_links"):
             events = _enrich_wr_chess(result.text, events, src)
+
+        for event in events:
+            if "editorial" in src.categories:
+                # RSS timestamps are publication times, not event start times.
+                event.starts_at = None
+                event.ends_at = None
+            if src.industry and not event.industry:
+                event.industry = src.industry
+            if src.access_tip and not event.access_tip:
+                event.access_tip = src.access_tip
+            if src.contact_url and not event.contact_url:
+                event.contact_url = src.contact_url
+            if src.contact_email and not event.contact_email:
+                event.contact_email = src.contact_email
 
         return SourceResult(
             src.id,

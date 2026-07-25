@@ -23,7 +23,11 @@
       "rsvp_url": "https://…",
       "image_url": null,
       "access": "invitation-only",
+      "industry": "sports",
       "categories": ["hospitality", "luxury", "networking"],
+      "access_tip": "No public RSVP is listed. Follow the official organizer...",
+      "contact_url": "https://...",
+      "contact_email": null,
       "score": 92,
       "confidence": 0.86,
       "why_it_matters": "Official Faena/WR Chess reception — high-signal hospitality networking.",
@@ -48,6 +52,14 @@
 ### Categories
 
 `luxury` · `hospitality` · `art` · `fashion` · `culinary` · `yacht` · `real_estate` · `networking` · `nightlife` · `culture` · `editorial`
+
+### Primary industries
+
+Every published event has exactly one restrictive `industry`:
+
+`hospitality` · `sports` · `real_estate` · `culinary` · `art_fashion`
+
+Generic museum tours, family programs, senior classes, farmers markets, office hours and other community listings are excluded. `access_tip`, `contact_url`, and `contact_email` only use official public access channels; no private guest lists or unofficial ticket links are collected.
 
 ## `status.json`
 
