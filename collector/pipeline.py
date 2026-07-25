@@ -26,8 +26,8 @@ def run_collection(
             previous_people = json.loads(previous_path.read_text(encoding="utf-8")).get("people") or []
         except Exception:
             previous_people = []
-    client = client or HttpClient()
     results = collect_all(client=client)
+    client = client or HttpClient()
     raw_events = []
     for r in results:
         raw_events.extend(r.events)

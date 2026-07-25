@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T19:42:55.764387+00:00",
+  "generated_at": "2026-07-25T19:49:42.494437+00:00",
   "timezone": "America/New_York",
   "version": 1,
   "event_count": 14,
@@ -593,14 +593,14 @@
       "source_id": "faena",
       "source_name": "Faena Miami Beach",
       "source_url": "https://www.faena.com/miami-beach/things-to-do",
-      "first_seen_at": "2026-07-25T19:26:02.829460+00:00",
-      "last_seen_at": "2026-07-25T19:42:44.331984+00:00",
+      "first_seen_at": "2026-07-25T19:49:12.274768+00:00",
+      "last_seen_at": "2026-07-25T19:49:29.687012+00:00",
       "lead_hours": 4,
       "source_trail": [
         {
           "source_id": "faena",
           "source_name": "Faena Miami Beach",
-          "seen_at": "2026-07-25T19:26:02.829460+00:00",
+          "seen_at": "2026-07-25T19:49:12.274768+00:00",
           "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/obsession"
         }
       ]
@@ -635,14 +635,14 @@
       "source_id": "faena",
       "source_name": "Faena Miami Beach",
       "source_url": "https://www.faena.com/miami-beach/things-to-do",
-      "first_seen_at": "2026-07-25T19:17:34.766279+00:00",
-      "last_seen_at": "2026-07-25T19:42:44.331984+00:00",
+      "first_seen_at": "2026-07-25T19:49:26.385809+00:00",
+      "last_seen_at": "2026-07-25T19:49:29.687012+00:00",
       "lead_hours": 164,
       "source_trail": [
         {
           "source_id": "faena",
           "source_name": "Faena Miami Beach",
-          "seen_at": "2026-07-25T19:17:34.766279+00:00",
+          "seen_at": "2026-07-25T19:49:26.385809+00:00",
           "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/miami-spice-at-faena"
         }
       ]
@@ -677,14 +677,14 @@
       "source_id": "wr_chess",
       "source_name": "WR Chess",
       "source_url": "https://wr-chess.com/events/usa-vs-uzbekistan-wr-chess-match-2026",
-      "first_seen_at": "2026-07-25T13:08:35.111401+00:00",
-      "last_seen_at": "2026-07-25T19:42:44.331984+00:00",
-      "lead_hours": 80,
+      "first_seen_at": "2026-07-25T19:49:11.251408+00:00",
+      "last_seen_at": "2026-07-25T19:49:29.687012+00:00",
+      "lead_hours": 74,
       "source_trail": [
         {
           "source_id": "wr_chess",
           "source_name": "WR Chess",
-          "seen_at": "2026-07-25T13:08:35.111401+00:00",
+          "seen_at": "2026-07-25T19:49:11.251408+00:00",
           "url": "https://wr-chess.com/events/usa-vs-uzbekistan-wr-chess-match-2026"
         }
       ]
@@ -719,14 +719,14 @@
       "source_id": "faena",
       "source_name": "Faena Miami Beach",
       "source_url": "https://www.faena.com/miami-beach/things-to-do",
-      "first_seen_at": "2026-07-25T19:26:05.054718+00:00",
-      "last_seen_at": "2026-07-25T19:42:44.331984+00:00",
+      "first_seen_at": "2026-07-25T19:49:16.875892+00:00",
+      "last_seen_at": "2026-07-25T19:49:29.687012+00:00",
       "lead_hours": 20,
       "source_trail": [
         {
           "source_id": "faena",
           "source_name": "Faena Miami Beach",
-          "seen_at": "2026-07-25T19:26:05.054718+00:00",
+          "seen_at": "2026-07-25T19:49:16.875892+00:00",
           "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/sunday-asado-at-los-fuegos"
         }
       ]
@@ -760,14 +760,14 @@
       "source_id": "haute_living",
       "source_name": "Haute Living",
       "source_url": "https://hauteliving.com/feed/",
-      "first_seen_at": "2026-07-25T18:40:53.430713+00:00",
-      "last_seen_at": "2026-07-25T19:42:44.331984+00:00",
+      "first_seen_at": "2026-07-25T19:49:20.308221+00:00",
+      "last_seen_at": "2026-07-25T19:49:29.687012+00:00",
       "lead_hours": null,
       "source_trail": [
         {
           "source_id": "haute_living",
           "source_name": "Haute Living",
-          "seen_at": "2026-07-25T18:40:53.430713+00:00",
+          "seen_at": "2026-07-25T19:49:20.308221+00:00",
           "url": "https://hauteliving.com/2026/07/south-florida-luxury-real-estate-ai-visibility-index/792866/"
         }
       ]
@@ -802,14 +802,14 @@
       "source_id": "faena",
       "source_name": "Faena Miami Beach",
       "source_url": "https://www.faena.com/miami-beach/things-to-do",
-      "first_seen_at": "2026-07-25T19:26:12.429537+00:00",
-      "last_seen_at": "2026-07-25T19:42:44.331984+00:00",
+      "first_seen_at": "2026-07-25T19:49:23.647335+00:00",
+      "last_seen_at": "2026-07-25T19:49:29.687012+00:00",
       "lead_hours": 50,
       "source_trail": [
         {
           "source_id": "faena",
           "source_name": "Faena Miami Beach",
-          "seen_at": "2026-07-25T19:26:12.429537+00:00",
+          "seen_at": "2026-07-25T19:49:23.647335+00:00",
           "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/a-martini-affair"
         }
       ]
@@ -844,14 +844,14 @@
       "source_id": "faena",
       "source_name": "Faena Miami Beach",
       "source_url": "https://www.faena.com/miami-beach/things-to-do",
-      "first_seen_at": "2026-07-25T19:26:06.051119+00:00",
-      "last_seen_at": "2026-07-25T19:42:44.331984+00:00",
+      "first_seen_at": "2026-07-25T19:49:18.112785+00:00",
+      "last_seen_at": "2026-07-25T19:49:29.687012+00:00",
       "lead_hours": 76,
       "source_trail": [
         {
           "source_id": "faena",
           "source_name": "Faena Miami Beach",
-          "seen_at": "2026-07-25T19:26:06.051119+00:00",
+          "seen_at": "2026-07-25T19:49:18.112785+00:00",
           "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/vinyl-tuesdays-at-the-living-room"
         }
       ]
@@ -886,20 +886,20 @@
       "source_id": "backgammon_social_miami",
       "source_name": "Backgammon Social Miami",
       "source_url": "https://luma.com/backgammonsocialmiami",
-      "first_seen_at": "2026-07-25T13:06:32.603124+00:00",
-      "last_seen_at": "2026-07-25T19:42:44.331984+00:00",
-      "lead_hours": 129,
+      "first_seen_at": "2026-07-25T19:49:28.333870+00:00",
+      "last_seen_at": "2026-07-25T19:49:29.687012+00:00",
+      "lead_hours": 123,
       "source_trail": [
-        {
-          "source_id": "luma_miami",
-          "source_name": "Luma Miami",
-          "seen_at": "2026-07-25T13:06:32.603124+00:00",
-          "url": "https://luma.com/cdhwxl1c"
-        },
         {
           "source_id": "backgammon_social_miami",
           "source_name": "Backgammon Social Miami",
-          "seen_at": "2026-07-25T19:19:07.944316+00:00",
+          "seen_at": "2026-07-25T19:49:28.333870+00:00",
+          "url": "https://luma.com/cdhwxl1c"
+        },
+        {
+          "source_id": "luma_miami",
+          "source_name": "Luma Miami",
+          "seen_at": "2026-07-25T19:49:29.675876+00:00",
           "url": "https://luma.com/cdhwxl1c"
         }
       ]
@@ -933,14 +933,14 @@
       "source_id": "haute_living",
       "source_name": "Haute Living",
       "source_url": "https://hauteliving.com/feed/",
-      "first_seen_at": "2026-07-25T18:40:53.444550+00:00",
-      "last_seen_at": "2026-07-25T19:42:44.331984+00:00",
+      "first_seen_at": "2026-07-25T19:49:20.314006+00:00",
+      "last_seen_at": "2026-07-25T19:49:29.687012+00:00",
       "lead_hours": null,
       "source_trail": [
         {
           "source_id": "haute_living",
           "source_name": "Haute Living",
-          "seen_at": "2026-07-25T18:40:53.444550+00:00",
+          "seen_at": "2026-07-25T19:49:20.314006+00:00",
           "url": "https://hauteliving.com/2026/07/haute-living-and-dagrosa-capital-celebrate-the-kempinski-residences-miami-design-district-sales-gallery/792760/"
         }
       ]
@@ -975,14 +975,14 @@
       "source_id": "luma_miami",
       "source_name": "Luma Miami",
       "source_url": "https://luma.com/miami",
-      "first_seen_at": "2026-07-25T13:06:32.598170+00:00",
-      "last_seen_at": "2026-07-25T19:42:44.331984+00:00",
-      "lead_hours": 7,
+      "first_seen_at": "2026-07-25T19:49:29.671865+00:00",
+      "last_seen_at": "2026-07-25T19:49:29.687012+00:00",
+      "lead_hours": 1,
       "source_trail": [
         {
           "source_id": "luma_miami",
           "source_name": "Luma Miami",
-          "seen_at": "2026-07-25T13:06:32.598170+00:00",
+          "seen_at": "2026-07-25T19:49:29.671865+00:00",
           "url": "https://luma.com/mnea6tmj"
         }
       ]
@@ -1016,14 +1016,14 @@
       "source_id": "the_bass",
       "source_name": "The Bass",
       "source_url": "https://thebass.org/events/?ical=1",
-      "first_seen_at": "2026-07-25T13:05:56.355426+00:00",
-      "last_seen_at": "2026-07-25T19:42:44.331984+00:00",
-      "lead_hours": 107,
+      "first_seen_at": "2026-07-25T19:49:11.106160+00:00",
+      "last_seen_at": "2026-07-25T19:49:29.687012+00:00",
+      "lead_hours": 101,
       "source_trail": [
         {
           "source_id": "the_bass",
           "source_name": "The Bass",
-          "seen_at": "2026-07-25T13:05:56.355426+00:00",
+          "seen_at": "2026-07-25T19:49:11.106160+00:00",
           "url": "https://thebass.org/event/future-bass-private-dinner-with-artist-sara-zapata/"
         }
       ]
@@ -1057,14 +1057,14 @@
       "source_id": "haute_living",
       "source_name": "Haute Living",
       "source_url": "https://hauteliving.com/feed/",
-      "first_seen_at": "2026-07-25T18:40:53.413956+00:00",
-      "last_seen_at": "2026-07-25T19:42:44.331984+00:00",
+      "first_seen_at": "2026-07-25T19:49:20.298009+00:00",
+      "last_seen_at": "2026-07-25T19:49:29.687012+00:00",
       "lead_hours": null,
       "source_trail": [
         {
           "source_id": "haute_living",
           "source_name": "Haute Living",
-          "seen_at": "2026-07-25T18:40:53.413956+00:00",
+          "seen_at": "2026-07-25T19:49:20.298009+00:00",
           "url": "https://hauteliving.com/2026/07/wr-chess-brings-elite-international-team-tournament-to-miami-with-historic-u-s-debut/792999/"
         }
       ]
@@ -1098,14 +1098,14 @@
       "source_id": "gmbha",
       "source_name": "Greater Miami & The Beaches Hotel Association",
       "source_url": "https://members.gmbha.com/events",
-      "first_seen_at": "2026-07-25T18:37:20.956103+00:00",
-      "last_seen_at": "2026-07-25T19:42:44.331984+00:00",
-      "lead_hours": 557,
+      "first_seen_at": "2026-07-25T19:49:26.377175+00:00",
+      "last_seen_at": "2026-07-25T19:49:29.687012+00:00",
+      "lead_hours": 556,
       "source_trail": [
         {
           "source_id": "gmbha",
           "source_name": "Greater Miami & The Beaches Hotel Association",
-          "seen_at": "2026-07-25T18:37:20.956103+00:00",
+          "seen_at": "2026-07-25T19:49:26.377175+00:00",
           "url": "https://members.gmbha.com/events/Details/government-affairs-breakfast-1857784?sourceTypeId=Website"
         }
       ]
@@ -1139,14 +1139,14 @@
       "source_id": "gmbha",
       "source_name": "Greater Miami & The Beaches Hotel Association",
       "source_url": "https://members.gmbha.com/events",
-      "first_seen_at": "2026-07-25T18:37:20.958178+00:00",
-      "last_seen_at": "2026-07-25T19:42:44.331984+00:00",
-      "lead_hours": 773,
+      "first_seen_at": "2026-07-25T19:49:26.381410+00:00",
+      "last_seen_at": "2026-07-25T19:49:29.687012+00:00",
+      "lead_hours": 772,
       "source_trail": [
         {
           "source_id": "gmbha",
           "source_name": "Greater Miami & The Beaches Hotel Association",
-          "seen_at": "2026-07-25T18:37:20.958178+00:00",
+          "seen_at": "2026-07-25T19:49:26.381410+00:00",
           "url": "https://members.gmbha.com/events/Details/executive-board-meeting-hospitality-unwind-1859378?sourceTypeId=Website"
         }
       ]

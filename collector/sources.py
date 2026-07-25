@@ -2,10 +2,11 @@ from __future__ import annotations
 
 import re
 import time
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from dataclasses import dataclass
 from datetime import datetime, timedelta
 from typing import Callable
-from urllib.parse import urljoin
+from urllib.parse import urljoin, urlparse
 from zoneinfo import ZoneInfo
 
 from bs4 import BeautifulSoup
@@ -962,10 +963,24 @@ def collect_all(
     client: HttpClient | None = None,
     source_filter: Callable[[SourceDef], bool] | None = None,
 ) -> list[SourceResult]:
-    client = client or HttpClient()
-    results: list[SourceResult] = []
-    for src in SOURCES:
-        if source_filter and not source_filter(src):
-            continue
-        results.append(fetch_source(client, src))
-    return results
+    selected = [src for src in SOURCES if not source_filter or source_filter(src)]
+    if client is not None:
+        return [fetch_source(client, src) for src in selected]
+
+    # Different websites can be fetched concurrently. Sources on the same host
+    # stay sequential and share one client so the per-host throttle is preserved.
+    groups: dict[str, list[tuple[int, SourceDef]]] = {}
+    for index, src in enumerate(selected):
+        host = urlparse(src.url).netloc.lower() or f"disabled-{index}"
+        groups.setdefault(host, []).append((index, src))
+
+    def fetch_group(items: list[tuple[int, SourceDef]]) -> list[tuple[int, SourceResult]]:
+        group_client = HttpClient()
+        return [(index, fetch_source(group_client, src)) for index, src in items]
+
+    indexed_results: list[tuple[int, SourceResult]] = []
+    with ThreadPoolExecutor(max_workers=min(8, max(1, len(groups)))) as pool:
+        futures = [pool.submit(fetch_group, items) for items in groups.values()]
+        for future in as_completed(futures):
+            indexed_results.extend(future.result())
+    return [result for _, result in sorted(indexed_results, key=lambda item: item[0])]
