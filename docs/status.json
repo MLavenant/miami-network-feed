@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-25T19:31:29.675908+00:00",
+  "generated_at": "2026-07-25T19:42:55.765920+00:00",
   "ok": true,
   "event_count": 14,
   "preserved_previous": false,
-  "raw_fetched": 261,
+  "raw_fetched": 238,
   "sources": [
     {
       "id": "haute_living",
@@ -11,7 +11,7 @@
       "ok": true,
       "fetched": 14,
       "error": null,
-      "duration_ms": 4758
+      "duration_ms": 4923
     },
     {
       "id": "world_red_eye",
@@ -19,7 +19,7 @@
       "ok": true,
       "fetched": 12,
       "error": null,
-      "duration_ms": 1437
+      "duration_ms": 1504
     },
     {
       "id": "miami_beach_events",
@@ -35,7 +35,7 @@
       "ok": true,
       "fetched": 30,
       "error": null,
-      "duration_ms": 1689
+      "duration_ms": 1399
     },
     {
       "id": "the_bass_rss",
@@ -43,7 +43,7 @@
       "ok": true,
       "fetched": 10,
       "error": null,
-      "duration_ms": 1032
+      "duration_ms": 1152
     },
     {
       "id": "design_district",
@@ -51,7 +51,7 @@
       "ok": true,
       "fetched": 10,
       "error": null,
-      "duration_ms": 1704
+      "duration_ms": 1886
     },
     {
       "id": "beacon_council",
@@ -59,7 +59,7 @@
       "ok": true,
       "fetched": 5,
       "error": null,
-      "duration_ms": 1616
+      "duration_ms": 1593
     },
     {
       "id": "beacon_council_rss",
@@ -67,7 +67,7 @@
       "ok": true,
       "fetched": 5,
       "error": null,
-      "duration_ms": 948
+      "duration_ms": 1002
     },
     {
       "id": "faena",
@@ -75,7 +75,7 @@
       "ok": true,
       "fetched": 12,
       "error": null,
-      "duration_ms": 16344
+      "duration_ms": 16657
     },
     {
       "id": "faena_links",
@@ -83,7 +83,7 @@
       "ok": true,
       "fetched": 0,
       "error": null,
-      "duration_ms": 1239
+      "duration_ms": 904
     },
     {
       "id": "wr_chess",
@@ -91,7 +91,7 @@
       "ok": true,
       "fetched": 7,
       "error": null,
-      "duration_ms": 2243
+      "duration_ms": 2208
     },
     {
       "id": "wr_chess_links",
@@ -107,7 +107,7 @@
       "ok": true,
       "fetched": 1,
       "error": null,
-      "duration_ms": 1313
+      "duration_ms": 1277
     },
     {
       "id": "fontainebleau",
@@ -115,7 +115,7 @@
       "ok": true,
       "fetched": 5,
       "error": null,
-      "duration_ms": 10174
+      "duration_ms": 25750
     },
     {
       "id": "loews_miami",
@@ -123,7 +123,7 @@
       "ok": true,
       "fetched": 20,
       "error": null,
-      "duration_ms": 1542
+      "duration_ms": 1683
     },
     {
       "id": "st_regis_bal_harbour",
@@ -131,7 +131,7 @@
       "ok": true,
       "fetched": 1,
       "error": null,
-      "duration_ms": 1321
+      "duration_ms": 2008
     },
     {
       "id": "delano_miami",
@@ -139,7 +139,7 @@
       "ok": true,
       "fetched": 0,
       "error": null,
-      "duration_ms": 1317
+      "duration_ms": 1296
     },
     {
       "id": "w_south_beach",
@@ -147,7 +147,7 @@
       "ok": true,
       "fetched": 1,
       "error": null,
-      "duration_ms": 67
+      "duration_ms": 2113
     },
     {
       "id": "one_hotel_south_beach",
@@ -155,7 +155,7 @@
       "ok": true,
       "fetched": 12,
       "error": null,
-      "duration_ms": 1427
+      "duration_ms": 1910
     },
     {
       "id": "the_standard_miami",
@@ -163,7 +163,7 @@
       "ok": true,
       "fetched": 7,
       "error": null,
-      "duration_ms": 10123
+      "duration_ms": 10234
     },
     {
       "id": "setai_miami",
@@ -171,7 +171,7 @@
       "ok": true,
       "fetched": 6,
       "error": null,
-      "duration_ms": 1430
+      "duration_ms": 1581
     },
     {
       "id": "surf_club",
@@ -179,7 +179,7 @@
       "ok": true,
       "fetched": 5,
       "error": null,
-      "duration_ms": 1344
+      "duration_ms": 1349
     },
     {
       "id": "edition_miami",
@@ -187,7 +187,7 @@
       "ok": true,
       "fetched": 2,
       "error": null,
-      "duration_ms": 1351
+      "duration_ms": 1359
     },
     {
       "id": "moore_miami",
@@ -195,7 +195,7 @@
       "ok": true,
       "fetched": 4,
       "error": null,
-      "duration_ms": 1319
+      "duration_ms": 1301
     },
     {
       "id": "soho_beach_house",
@@ -203,15 +203,15 @@
       "ok": true,
       "fetched": 6,
       "error": null,
-      "duration_ms": 2551
+      "duration_ms": 1874
     },
     {
       "id": "casa_tua_club",
       "name": "Casa Tua Club",
-      "ok": true,
+      "ok": false,
       "fetched": 0,
-      "error": null,
-      "duration_ms": 1291
+      "error": "HTTPSConnectionPool(host='www.casatualife.com', port=443): Max retries exceeded with url: /Miami.html (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.casatualife.com', port=443) at 0x7fbf61cd7dd0>, 'Connection to www.casatualife.com timed out. (connect timeout=25)'))",
+      "duration_ms": 148200
     },
     {
       "id": "zzs_club",
@@ -219,7 +219,7 @@
       "ok": true,
       "fetched": 2,
       "error": null,
-      "duration_ms": 1659
+      "duration_ms": 2041
     },
     {
       "id": "bath_club",
@@ -227,7 +227,7 @@
       "ok": true,
       "fetched": 0,
       "error": null,
-      "duration_ms": 1306
+      "duration_ms": 1292
     },
     {
       "id": "casa_neos",
@@ -243,7 +243,7 @@
       "ok": true,
       "fetched": 0,
       "error": null,
-      "duration_ms": 1776
+      "duration_ms": 2012
     },
     {
       "id": "design_miami",
@@ -251,7 +251,7 @@
       "ok": true,
       "fetched": 6,
       "error": null,
-      "duration_ms": 1577
+      "duration_ms": 1845
     },
     {
       "id": "miami_fashion_week",
@@ -275,7 +275,7 @@
       "ok": true,
       "fetched": 1,
       "error": null,
-      "duration_ms": 1343
+      "duration_ms": 1342
     },
     {
       "id": "sobewff_ics",
@@ -283,7 +283,7 @@
       "ok": true,
       "fetched": 1,
       "error": null,
-      "duration_ms": 1473
+      "duration_ms": 1546
     },
     {
       "id": "boat_show",
@@ -291,7 +291,7 @@
       "ok": true,
       "fetched": 2,
       "error": null,
-      "duration_ms": 1320
+      "duration_ms": 1295
     },
     {
       "id": "uli_seflorida",
@@ -299,7 +299,7 @@
       "ok": false,
       "fetched": 0,
       "error": "HTTP 403",
-      "duration_ms": 1329
+      "duration_ms": 1270
     },
     {
       "id": "bisnow_sf",
@@ -307,7 +307,7 @@
       "ok": true,
       "fetched": 1,
       "error": null,
-      "duration_ms": 1993
+      "duration_ms": 1371
     },
     {
       "id": "naiop_sfl",
@@ -315,7 +315,7 @@
       "ok": true,
       "fetched": 2,
       "error": null,
-      "duration_ms": 1547
+      "duration_ms": 1482
     },
     {
       "id": "miami_realtors",
@@ -323,7 +323,7 @@
       "ok": false,
       "fetched": 0,
       "error": "HTTP 403",
-      "duration_ms": 1281
+      "duration_ms": 1261
     },
     {
       "id": "gmbha",
@@ -331,7 +331,7 @@
       "ok": true,
       "fetched": 3,
       "error": null,
-      "duration_ms": 1549
+      "duration_ms": 1495
     },
     {
       "id": "ahla",
@@ -339,23 +339,23 @@
       "ok": true,
       "fetched": 0,
       "error": null,
-      "duration_ms": 1401
+      "duration_ms": 1415
     },
     {
       "id": "f1_miami",
       "name": "Formula 1 Miami Grand Prix",
-      "ok": true,
-      "fetched": 6,
-      "error": null,
-      "duration_ms": 1561
+      "ok": false,
+      "fetched": 0,
+      "error": "HTTPSConnectionPool(host='f1miamigp.com', port=443): Max retries exceeded with url: /tickets/luxury/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='f1miamigp.com', port=443) at 0x7fbf61b1b500>, 'Connection to f1miamigp.com timed out. (connect timeout=25)'))",
+      "duration_ms": 37092
     },
     {
       "id": "miami_open",
       "name": "Miami Open",
-      "ok": true,
-      "fetched": 14,
-      "error": null,
-      "duration_ms": 1392
+      "ok": false,
+      "fetched": 0,
+      "error": "HTTPSConnectionPool(host='www.miamiopen.com', port=443): Max retries exceeded with url: /tickets/luxury/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.miamiopen.com', port=443) at 0x7fbf61b1a5a0>, 'Connection to www.miamiopen.com timed out. (connect timeout=25)'))",
+      "duration_ms": 37158
     },
     {
       "id": "inter_miami",
@@ -363,7 +363,7 @@
       "ok": true,
       "fetched": 5,
       "error": null,
-      "duration_ms": 1498
+      "duration_ms": 1667
     },
     {
       "id": "miami_heat",
@@ -371,15 +371,15 @@
       "ok": false,
       "fetched": 0,
       "error": "HTTP 403",
-      "duration_ms": 1348
+      "duration_ms": 1281
     },
     {
       "id": "fifa_miami",
       "name": "FIFA World Cup 2026 Miami Hospitality",
-      "ok": true,
-      "fetched": 4,
-      "error": null,
-      "duration_ms": 1929
+      "ok": false,
+      "fetched": 0,
+      "error": "HTTPSConnectionPool(host='fifaworldcup26.lounge.fifa.com', port=443): Max retries exceeded with url: /?c=onlocationexp&e=fwc26ecom20250714&ver=fastly-vcl-1.0%26cver%3D0&t=https%3A%2F%2Ffifaworldcup26.hospitality.fifa.com%2Fvenues%2Fmiami (Caused by ConnectTimeoutError(<HTTPSConnection(host='fifaworldcup26.lounge.fifa.com', port=443) at 0x7fbf61877a40>, 'Connection to fifaworldcup26.lounge.fifa.com timed out. (connect timeout=25)'))",
+      "duration_ms": 76381
     },
     {
       "id": "backgammon_social_miami",
@@ -387,15 +387,15 @@
       "ok": true,
       "fetched": 1,
       "error": null,
-      "duration_ms": 1830
+      "duration_ms": 1437
     },
     {
       "id": "luma_miami",
       "name": "Luma Miami",
       "ok": true,
-      "fetched": 15,
+      "fetched": 16,
       "error": null,
-      "duration_ms": 1047
+      "duration_ms": 1425
     },
     {
       "id": "groot_purple",
@@ -403,7 +403,7 @@
       "ok": true,
       "fetched": 1,
       "error": null,
-      "duration_ms": 1299
+      "duration_ms": 1288
     },
     {
       "id": "gmcvb",
@@ -411,7 +411,7 @@
       "ok": true,
       "fetched": 20,
       "error": null,
-      "duration_ms": 1619
+      "duration_ms": 1750
     },
     {
       "id": "pr_newswire_miami",
@@ -419,7 +419,7 @@
       "ok": true,
       "fetched": 0,
       "error": null,
-      "duration_ms": 1515
+      "duration_ms": 3439
     }
   ]
 }
