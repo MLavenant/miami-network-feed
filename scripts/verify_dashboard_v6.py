@@ -6,9 +6,9 @@ from pathlib import Path
 
 from playwright.sync_api import sync_playwright
 
-ROOT = Path(r"C:\Users\MatthiasLavenant\Downloads")
-DASH = ROOT / "today-dashboard (6).html"
-FEED = ROOT / "miami-network-feed" / "docs" / "events.json"
+WORKSPACE = Path(r"C:\Users\MatthiasLavenant\Documents\rdg-dj-dashboard")
+DASH = WORKSPACE / "today-dashboard-with-network.html"
+FEED = Path(r"C:\Users\MatthiasLavenant\Downloads\miami-network-feed\docs\events.json")
 
 
 def exercise(page) -> tuple[int, str]:
@@ -44,12 +44,21 @@ def exercise(page) -> tuple[int, str]:
     assert page.locator(f'[data-day="{day_key}"]').count() == 1
     assert page.locator(".net-card").count() >= 1
     assert page.locator(".net-access-tip").count() >= 1
+    assert page.locator(".net-ask").count() >= 1
     assert page.locator(".net-source").count() >= 1
 
     page.click("#netSignalsBtn")
     assert "Early signals" in page.locator("#netDayTitle").inner_text()
     page.click('#netCatFilters [data-cat="sports"]')
     assert page.locator('#netCatFilters [data-cat="sports"].active').count() == 1
+    page.click('[data-net-view="connect"]')
+    assert page.locator("#netConnectView:visible").count() == 1
+    assert page.locator(".net-person").count() >= 5
+    assert page.locator(".net-person-sources a").count() >= 1
+    page.click('#netPeopleFilters [data-people-cat="real_estate"]')
+    assert page.locator('#netPeopleFilters [data-people-cat="real_estate"].active').count() == 1
+    assert page.locator(".net-person").count() >= 1
+    page.click('[data-net-view="calendar"]')
 
     for tab in ("today", "workout", "reading", "finance", "health", "network"):
         page.click(f'.tab-btn[data-tab="{tab}"]')

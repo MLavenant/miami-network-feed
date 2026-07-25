@@ -11,6 +11,7 @@ import feedparser
 from bs4 import BeautifulSoup
 from dateutil import parser as date_parser
 from icalendar import Calendar
+from zoneinfo import ZoneInfo
 
 from .models import RawEvent
 
@@ -75,6 +76,49 @@ def clean_text(value: str | None, limit: int = 500) -> str:
     text = BeautifulSoup(value, "html.parser").get_text(" ", strip=True)
     text = re.sub(r"\s+", " ", text).strip()
     return text[:limit]
+
+
+def parse_event_datetime_text(text: str, year: int | None = None) -> datetime | None:
+    """Best-effort public event date parser, localized to Miami."""
+    year = year or datetime.now().year
+    normalized = re.sub(r"\s+", " ", text or "")
+    month = (
+        r"January|February|March|April|May|June|July|August|"
+        r"September|October|November|December|Jan|Feb|Mar|Apr|Jun|Jul|Aug|Sep|Sept|Oct|Nov|Dec"
+    )
+    patterns = [
+        rf"\b(?P<month>{month})\s+(?P<day>\d{{1,2}})(?:\s*[-–]\s*\d{{1,2}})?(?:,\s*(?P<year>20\d{{2}}))?",
+        rf"\b(?P<day>\d{{1,2}})\s+(?P<month>{month})(?:\s+(?P<year>20\d{{2}}))?",
+    ]
+    match = None
+    for pattern in patterns:
+        match = re.search(pattern, normalized, re.I)
+        if match:
+            break
+    if not match:
+        return None
+    date_text = f"{match.group('month')} {match.group('day')} {match.group('year') or year}"
+    try:
+        date_part = date_parser.parse(date_text, fuzzy=False)
+    except Exception:
+        return None
+    following = normalized[match.end() : match.end() + 100]
+    time_match = re.search(r"\b(\d{1,2})(?::(\d{2}))?\s*(am|pm)\b", following, re.I)
+    hour = 12
+    minute = 0
+    if time_match:
+        hour = int(time_match.group(1)) % 12
+        if time_match.group(3).lower() == "pm":
+            hour += 12
+        minute = int(time_match.group(2) or 0)
+    return datetime(
+        date_part.year,
+        date_part.month,
+        date_part.day,
+        hour,
+        minute,
+        tzinfo=ZoneInfo("America/New_York"),
+    )
 
 
 def parse_rss(
@@ -242,6 +286,14 @@ def json_ld_to_raw(
     elif isinstance(image, dict):
         image_url = str(image.get("url") or "") or None
     blob = f"{title} {summary} {venue} {city}"
+    organizers = node.get("organizer") or []
+    if not isinstance(organizers, list):
+        organizers = [organizers]
+    organizer_names = [
+        clean_text(str(item.get("name") or ""), 80)
+        for item in organizers
+        if isinstance(item, dict) and item.get("name")
+    ]
     return RawEvent(
         title=title,
         summary=summary,
@@ -254,6 +306,7 @@ def json_ld_to_raw(
         image_url=image_url,
         access=infer_access(blob),
         categories=list(default_categories or ["culture"]),
+        ask_for=", ".join(dict.fromkeys(organizer_names))[:180],
         source_id=source_id,
         source_name=source_name,
         source_url=source_url,

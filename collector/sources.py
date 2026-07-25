@@ -1,13 +1,21 @@
 from __future__ import annotations
 
+import re
 import time
 from dataclasses import dataclass
+from datetime import datetime, timedelta
 from typing import Callable
+from urllib.parse import urljoin
+from zoneinfo import ZoneInfo
 
+from bs4 import BeautifulSoup
 from .http_client import HttpClient
 from .models import RawEvent, SourceResult
 from .parsers import (
+    clean_text,
+    infer_access,
     parse_html_json_ld_events,
+    parse_event_datetime_text,
     parse_ics,
     parse_link_cards,
     parse_rss,
@@ -29,6 +37,7 @@ class SourceDef:
     access_tip: str = ""
     contact_url: str | None = None
     contact_email: str | None = None
+    ask_for: str = ""
 
 
 SOURCES: list[SourceDef] = [
@@ -40,6 +49,7 @@ SOURCES: list[SourceDef] = [
         categories=["editorial", "luxury"],
         require_miami=True,
         note="Early editorial signal; robots allow crawl.",
+        ask_for="The named event host, brand publicist, or venue communications team in the source article",
     ),
     SourceDef(
         id="world_red_eye",
@@ -49,6 +59,7 @@ SOURCES: list[SourceDef] = [
         categories=["editorial", "nightlife"],
         require_miami=True,
         note="Mostly same-day / post-event photography.",
+        ask_for="The host or sponsor named in the World Red Eye article",
     ),
     SourceDef(
         id="miami_beach_events",
@@ -66,6 +77,7 @@ SOURCES: list[SourceDef] = [
         kind="ics",
         url="https://thebass.org/events/?ical=1",
         categories=["art", "culture"],
+        ask_for="The Bass Membership or Development Team for private dinners and patron previews",
     ),
     SourceDef(
         id="the_bass_rss",
@@ -108,6 +120,7 @@ SOURCES: list[SourceDef] = [
         note="Official Faena happenings page.",
         access_tip="Use the event booking link for public programming. For Faena Rose events, submit the official membership-interest form.",
         contact_url="https://forms.rosemembers.faena.com/membership-interest",
+        ask_for="Faena Theater box office for public tickets; Faena Rose Membership Team for Rose programming",
     ),
     SourceDef(
         id="faena_links",
@@ -121,6 +134,7 @@ SOURCES: list[SourceDef] = [
         note="Strict href filter to avoid nav/dining boilerplate.",
         access_tip="Book public Faena programming from the official page; private Rose programming requires membership.",
         contact_url="https://forms.rosemembers.faena.com/membership-interest",
+        ask_for="Faena Reservations or the Faena Rose Membership Team",
     ),
     SourceDef(
         id="wr_chess",
@@ -132,6 +146,7 @@ SOURCES: list[SourceDef] = [
         note="Owned page for Faena WR Chess programming.",
         access_tip="No public RSVP is listed for private receptions. Follow WR Chess and Faena, then request an official host or press introduction.",
         contact_url="https://wr-chess.com/events/usa-vs-uzbekistan-wr-chess-match-2026",
+        ask_for="WR Chess organizer/press team or Faena Forum Guest Relations",
     ),
     SourceDef(
         id="wr_chess_links",
@@ -160,6 +175,7 @@ SOURCES: list[SourceDef] = [
         industry="hospitality",
         access_tip="Buy or reserve through the official calendar. Hotel guests can ask the concierge to arrange access.",
         contact_url="https://www.fontainebleau.com/miamibeach/pre-arrival/",
+        ask_for="Fontainebleau Concierge or the event's official box office",
     ),
     SourceDef(
         id="loews_miami",
@@ -177,6 +193,7 @@ SOURCES: list[SourceDef] = [
         industry="hospitality",
         access_tip="Reserve on the official Marriott event page or ask Guest Recognition/Concierge; some events may require a stay.",
         contact_url="https://www.marriott.com/en-us/hotels/miaxr-the-st-regis-bal-harbour-resort/experiences/",
+        ask_for="St. Regis Guest Recognition or Concierge",
     ),
     SourceDef(
         id="delano_miami",
@@ -188,6 +205,8 @@ SOURCES: list[SourceDef] = [
         link_selector="a[href*='event'], a[href*='experience'], a[href*='happening']",
         access_tip="Subscribe to Delano's official Be In The Know list. Hotel guests can register for listed property activities.",
         contact_url="https://delanohotels.com/be-in-the-know/",
+        contact_email="membership.miamibeach@delanohotels.com",
+        ask_for="Delano Members Club Membership Team or Lifestyle Concierge",
         note="No public master calendar; watches official property links.",
     ),
     SourceDef(
@@ -199,6 +218,7 @@ SOURCES: list[SourceDef] = [
         industry="hospitality",
         access_tip="Follow the official event instructions. For guest activities, reserve through W South Beach Concierge before the stated cutoff.",
         contact_url="https://www.marriott.com/en-us/hotels/miaws-w-south-beach/experiences/",
+        ask_for="W South Beach Concierge",
     ),
     SourceDef(
         id="one_hotel_south_beach",
@@ -209,6 +229,7 @@ SOURCES: list[SourceDef] = [
         industry="hospitality",
         access_tip="Use the booking link on the official happening. Event planners can join the official Gathering Together invitation list.",
         contact_url="https://www.1hotels.com/gather/email-signup",
+        ask_for="1 Hotel South Beach Concierge or 1 Club Member Services",
     ),
     SourceDef(
         id="the_standard_miami",
@@ -221,6 +242,7 @@ SOURCES: list[SourceDef] = [
         access_tip="Book directly from the official happening. For private-event access, contact the hotel's official events team.",
         contact_url="https://www.standardhotels.com/miami/properties/miami-beach",
         contact_email="MiamiEvents@StandardMiami.com",
+        ask_for="The Standard Miami Events Team or Spa Concierge",
     ),
     SourceDef(
         id="setai_miami",
@@ -233,6 +255,7 @@ SOURCES: list[SourceDef] = [
         access_tip="Reserve the official dining experience or ask The Setai concierge for current programming.",
         contact_url="https://www.thesetaihotel.com/contact",
         contact_email="concierge@thesetaihotel.com",
+        ask_for="The Setai Concierge or Dining Reservations Team",
     ),
     SourceDef(
         id="surf_club",
@@ -243,6 +266,7 @@ SOURCES: list[SourceDef] = [
         industry="hospitality",
         access_tip="Reserve through the official event channel or ask the hotel concierge for current guest experiences.",
         contact_url="https://www.fourseasons.com/surfside/seasonal/",
+        ask_for="The Surf Club Concierge",
     ),
     SourceDef(
         id="edition_miami",
@@ -255,6 +279,7 @@ SOURCES: list[SourceDef] = [
         access_tip="Use the official monthly happenings guide. Beach Club members receive invitations to exclusive member events.",
         contact_url="https://www.editionhotels.com/miami-beach/beach-and-pools/membership-application/",
         contact_email="mb.membership@editionhotels.com",
+        ask_for="EDITION Beach Club Membership Team or Hotel Concierge",
     ),
     SourceDef(
         id="moore_miami",
@@ -266,6 +291,7 @@ SOURCES: list[SourceDef] = [
         link_selector="a[href*='event'], a[href*='program'], a[href*='member']",
         access_tip="The programming calendar is member-only. Apply through The Moore's official membership page.",
         contact_url="https://www.mooremiami.com/become-a-member",
+        ask_for="The Moore Membership Team or the event co-host named on the invitation",
     ),
     SourceDef(
         id="soho_beach_house",
@@ -277,6 +303,7 @@ SOURCES: list[SourceDef] = [
         link_selector="a[href*='event'], a[href*='membership']",
         access_tip="Daily House events are in the member app. Apply through Soho House's official membership route.",
         contact_url="https://www.sohohouse.com/en-us/membership",
+        ask_for="Soho House Membership Team or a current member host",
     ),
     SourceDef(
         id="casa_tua_club",
@@ -288,6 +315,7 @@ SOURCES: list[SourceDef] = [
         link_selector="a[href*='event'], a[href*='club'], a[href*='membership']",
         access_tip="Apply with Miami as your primary house. Founder Membership is invitation-only.",
         contact_url="https://apply.casatualife.com/membership-application",
+        ask_for="Casa Tua Club Membership Committee",
     ),
     SourceDef(
         id="zzs_club",
@@ -299,6 +327,7 @@ SOURCES: list[SourceDef] = [
         link_selector="a[href*='event'], a[href*='membership'], a[href*='application']",
         access_tip="Apply through the official Miami application or submit a membership/events inquiry.",
         contact_url="https://zzsclub.com/miami-applications/",
+        ask_for="ZZ's Club Miami Membership or Events Team",
     ),
     SourceDef(
         id="bath_club",
@@ -310,6 +339,7 @@ SOURCES: list[SourceDef] = [
         link_selector="a[href*='event'], a[href*='membership']",
         access_tip="Submit the official membership inquiry; member, concierge, private-bank and cultural introductions are recognized routes.",
         contact_url="https://www.thebathclub.com/membership-inquiries",
+        ask_for="The Bath Club Membership Team through a recognized member/concierge introduction",
     ),
     SourceDef(
         id="casa_neos",
@@ -321,6 +351,7 @@ SOURCES: list[SourceDef] = [
         link_selector="a[href*='event'], a[href*='ritual'], a[href*='member'], a[href*='rooftop']",
         access_tip="Public restaurant bookings do not include MM Club access. Use the official rooftop membership-interest route.",
         contact_url="https://www.casa-neos.com/mm-rooftop",
+        ask_for="MM Club Membership Team",
     ),
     SourceDef(
         id="art_basel",
@@ -438,6 +469,7 @@ SOURCES: list[SourceDef] = [
         link_selector="a[href*='event'], a[href*='details']",
         access_tip="Register through GMBHA. Membership or partner status may unlock industry luncheons and leadership events.",
         contact_url="https://members.gmbha.com/events",
+        ask_for="GMBHA Events and Membership Team",
     ),
     SourceDef(
         id="ahla",
@@ -507,11 +539,24 @@ SOURCES: list[SourceDef] = [
         contact_url="https://fifaworldcup26.hospitality.fifa.com/venues/miami",
     ),
     SourceDef(
+        id="backgammon_social_miami",
+        name="Backgammon Social Miami",
+        kind="jsonld",
+        url="https://luma.com/backgammonsocialmiami",
+        categories=["sports", "networking", "hospitality"],
+        industry="sports",
+        access_tip="Register through the official Backgammon Social Miami Luma calendar. The event co-host shown on the event page is the correct person to request.",
+        contact_url="https://luma.com/backgammonsocialmiami",
+        ask_for="Backgammon Social Miami or the named Luma event co-host",
+        note="Official public Miami programming calendar.",
+    ),
+    SourceDef(
         id="luma_miami",
         name="Luma Miami",
         kind="jsonld",
         url="https://luma.com/miami",
         categories=["networking", "nightlife", "culture"],
+        ask_for="The organizer named on the Luma event page",
     ),
     SourceDef(
         id="groot_purple",
@@ -539,6 +584,173 @@ SOURCES: list[SourceDef] = [
         require_miami=True,
     ),
 ]
+
+
+def _parse_one_hotel_cards(html: str, src: SourceDef) -> list[RawEvent]:
+    """Parse the stable date/title card structure on 1 Hotel's calendar."""
+    from zoneinfo import ZoneInfo
+
+    soup = BeautifulSoup(html, "html.parser")
+    out: list[RawEvent] = []
+    seen: set[str] = set()
+    for anchor in soup.select("a[href*='/south-beach/do/events/']"):
+        href = anchor.get("href") or ""
+        title_el = anchor.select_one("h3")
+        date_el = anchor.select_one(".date")
+        if not href or not title_el or not date_el or href in seen:
+            continue
+        title = clean_text(title_el.get_text(" ", strip=True), 160)
+        date_text = clean_text(date_el.get_text(" ", strip=True), 80)
+        starts = parse_event_datetime_text(f"{date_text} {datetime.now().year}")
+        venue_el = anchor.select_one(".property-location")
+        venue = clean_text(venue_el.get_text(" ", strip=True), 100) if venue_el else "1 Hotel South Beach"
+        blob = f"{title} {venue}"
+        out.append(
+            RawEvent(
+                title=title,
+                summary=clean_text(anchor.get_text(" ", strip=True), 420),
+                starts_at=starts,
+                venue=venue or "1 Hotel South Beach",
+                city="Miami Beach",
+                url=urljoin(src.url, href),
+                rsvp_url=urljoin(src.url, href),
+                access=infer_access(blob),
+                categories=list(src.categories),
+                source_id=src.id,
+                source_name=src.name,
+                source_url=src.url,
+            )
+        )
+        seen.add(href)
+    return out
+
+
+def _linked_detail_events(
+    client: HttpClient,
+    listing_html: str,
+    src: SourceDef,
+    selector: str,
+    max_pages: int = 12,
+) -> list[RawEvent]:
+    """Follow official calendar cards and parse dated detail pages."""
+    soup = BeautifulSoup(listing_html, "html.parser")
+    urls: list[str] = []
+    for anchor in soup.select(selector):
+        href = anchor.get("href") or ""
+        if not href:
+            continue
+        url = urljoin(src.url, href)
+        if url not in urls:
+            urls.append(url)
+        if len(urls) >= max_pages:
+            break
+
+    out: list[RawEvent] = []
+    for url in urls:
+        fetched = client.get(url)
+        if not fetched.ok:
+            continue
+        parsed = parse_html_json_ld_events(
+            fetched.text,
+            source_id=src.id,
+            source_name=src.name,
+            source_url=url,
+            default_categories=src.categories,
+            require_miami=False,
+        )
+        dated = [event for event in parsed if event.starts_at]
+        if dated:
+            for event in dated:
+                event.url = event.url or url
+                event.rsvp_url = event.rsvp_url or url
+            out.extend(dated)
+            continue
+
+        detail = BeautifulSoup(fetched.text, "html.parser")
+        h1 = detail.find("h1")
+        title = clean_text(h1.get_text(" ", strip=True), 180) if h1 else ""
+        if not title:
+            continue
+        scope = detail.find("article") or detail.find("main") or detail
+        body = clean_text(scope.get_text(" ", strip=True), 12000)
+        if body.lower().startswith("404 ") or "page you are looking for has moved" in body.lower()[:300]:
+            continue
+        starts = _next_recurring_datetime(body) or parse_event_datetime_text(body)
+        description = detail.find("meta", attrs={"name": "description"})
+        summary = clean_text(description.get("content") if description else body, 500)
+        venue = src.name
+        for candidate in (
+            "Faena Forum",
+            "Faena Theater",
+            "The Living Room",
+            "Los Fuegos",
+            "Saxony Bar",
+            "Tierra Santa Healing House",
+            "Fontainebleau Miami Beach",
+            "The Standard Spa Miami Beach",
+        ):
+            if candidate.lower() in body.lower():
+                venue = candidate
+                break
+        out.append(
+            RawEvent(
+                title=title,
+                summary=summary,
+                starts_at=starts,
+                venue=venue,
+                city="Miami Beach",
+                url=url,
+                rsvp_url=url,
+                access=infer_access(body),
+                categories=list(src.categories),
+                source_id=src.id,
+                source_name=src.name,
+                source_url=src.url,
+            )
+        )
+    return out
+
+
+def _next_recurring_datetime(text: str) -> datetime | None:
+    """Resolve weekly hotel programming to its next occurrence."""
+    intro = (text or "")[:280]
+    if re.search(
+        r"\b(?:Jan(?:uary)?|Feb(?:ruary)?|Mar(?:ch)?|Apr(?:il)?|May|Jun(?:e)?|"
+        r"Jul(?:y)?|Aug(?:ust)?|Sep(?:t(?:ember)?)?|Oct(?:ober)?|Nov(?:ember)?|"
+        r"Dec(?:ember)?)\s+\d{1,2}\b",
+        intro,
+        re.I,
+    ):
+        return None
+    weekdays = {
+        "monday": 0,
+        "tuesday": 1,
+        "wednesday": 2,
+        "thursday": 3,
+        "friday": 4,
+        "saturday": 5,
+        "sunday": 6,
+    }
+    selected = {number for name, number in weekdays.items() if re.search(rf"\b{name}s?\b", intro, re.I)}
+    daily = bool(re.search(r"\bdaily\b", intro, re.I))
+    if not selected and not daily:
+        return None
+    time_match = re.search(r"\b(\d{1,2})(?::(\d{2}))?\s*(am|pm)\b", intro, re.I)
+    hour, minute = (20, 0)
+    if time_match:
+        hour = int(time_match.group(1)) % 12
+        if time_match.group(3).lower() == "pm":
+            hour += 12
+        minute = int(time_match.group(2) or 0)
+    now = datetime.now(ZoneInfo("America/New_York"))
+    for offset in range(8):
+        candidate_day = now + timedelta(days=offset)
+        if not daily and candidate_day.weekday() not in selected:
+            continue
+        candidate = candidate_day.replace(hour=hour, minute=minute, second=0, microsecond=0)
+        if candidate > now:
+            return candidate
+    return None
 
 
 def fetch_source(client: HttpClient, src: SourceDef) -> SourceResult:
@@ -614,6 +826,33 @@ def fetch_source(client: HttpClient, src: SourceDef) -> SourceResult:
         else:
             return SourceResult(src.id, src.name, False, 0, f"unknown kind {src.kind}", int((time.perf_counter() - started) * 1000), [])
 
+        if src.id == "one_hotel_south_beach":
+            events = _parse_one_hotel_cards(result.text, src)
+        elif src.id == "faena":
+            events = _linked_detail_events(
+                client,
+                result.text,
+                src,
+                "a[href*='/things-to-do/event-calendar/']",
+                max_pages=18,
+            )
+        elif src.id == "fontainebleau":
+            events = _linked_detail_events(
+                client,
+                result.text,
+                src,
+                "a[href*='/event-calendar/']",
+                max_pages=12,
+            )
+        elif src.id == "the_standard_miami":
+            events = _linked_detail_events(
+                client,
+                result.text,
+                src,
+                "a[href*='/miami/happenings/']",
+                max_pages=10,
+            )
+
         # Custom enrichment for WR Chess schedule text when JSON-LD is thin
         if src.id in ("wr_chess", "wr_chess_links"):
             events = _enrich_wr_chess(result.text, events, src)
@@ -631,6 +870,8 @@ def fetch_source(client: HttpClient, src: SourceDef) -> SourceResult:
                 event.contact_url = src.contact_url
             if src.contact_email and not event.contact_email:
                 event.contact_email = src.contact_email
+            if src.ask_for and not event.ask_for:
+                event.ask_for = src.ask_for
 
         return SourceResult(
             src.id,

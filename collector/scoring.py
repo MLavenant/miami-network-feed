@@ -60,6 +60,7 @@ SOURCE_WEIGHT = {
     "paraiso": 20,
     "sobewff": 20,
     "boat_show": 16,
+    "backgammon_social_miami": 24,
     "f1_miami": 24,
     "miami_open": 22,
     "inter_miami": 18,

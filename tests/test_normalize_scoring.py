@@ -9,7 +9,7 @@ from collector.normalize import (
     merge_and_score,
     validate_feed,
 )
-from collector.parsers import infer_access, looks_miami, parse_ics, parse_rss
+from collector.parsers import infer_access, looks_miami, parse_event_datetime_text, parse_ics, parse_rss
 from collector.scoring import score_event
 
 
@@ -151,6 +151,8 @@ def test_validate_feed():
     assert ok, reason
     assert feed["events"][0]["industry"] == "real_estate"
     assert feed["events"][0]["access_tip"]
+    assert "ask_for" in feed["events"][0]
+    assert feed["people"] == []
     assert feed["access_directory"]
 
 
@@ -242,3 +244,24 @@ def test_editorial_guides_and_office_hours_are_excluded():
         source_url="https://example.com/",
     )
     assert merge_and_score([guide, office], now=now) == []
+
+
+def test_public_calendar_date_parser_uses_miami_timezone():
+    parsed = parse_event_datetime_text("Monday, July 27 | 6:30 PM | Faena Theater", year=2026)
+    assert parsed is not None
+    assert parsed.isoformat() == "2026-07-27T18:30:00-04:00"
+
+
+def test_generic_hotel_wellness_program_is_excluded():
+    now = datetime(2026, 7, 25, 12, 0, tzinfo=timezone.utc)
+    wellness = RawEvent(
+        title="Daily Movement & Mindfulness",
+        summary="A daily yoga and meditation class",
+        starts_at=now + timedelta(days=1),
+        venue="Luxury Hotel Spa",
+        source_id="faena",
+        source_name="Faena Miami Beach",
+        source_url="https://www.faena.com/",
+    )
+    assert is_generic_event(wellness)
+    assert merge_and_score([wellness], now=now) == []

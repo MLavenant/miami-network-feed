@@ -14,9 +14,11 @@ Refreshed daily by GitHub Actions. Consumed by Matthias’s personal Command das
 ## What this is
 
 - Python collector that polls official websites, RSS, and iCal feeds
+- Source-specific future calendar parsing for luxury hotels and Backgammon Social Miami
 - Normalizes, deduplicates, scores for luxury/networking relevance
+- Builds a source-backed “To Connect With” list from public caption and role text
 - Publishes `docs/events.json` + `docs/status.json` via GitHub Pages
-- No Instagram scraping, no private RSVP harvesting, no finance/workout data
+- No face recognition, private contact harvesting, Instagram scraping, or finance/workout data
 
 ## Local run
 

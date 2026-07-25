@@ -7,6 +7,7 @@ from typing import Any
 
 from .http_client import HttpClient
 from .normalize import ACCESS_DIRECTORY, build_feed, load_previous, merge_and_score, validate_feed
+from .people import extract_connectors
 from .sources import collect_all
 
 
@@ -19,13 +20,21 @@ def run_collection(
 ) -> dict[str, Any]:
     previous_path = previous_path or out_path
     previous = load_previous(previous_path)
+    previous_people: list[dict[str, Any]] = []
+    if previous_path.exists():
+        try:
+            previous_people = json.loads(previous_path.read_text(encoding="utf-8")).get("people") or []
+        except Exception:
+            previous_people = []
+    client = client or HttpClient()
     results = collect_all(client=client)
     raw_events = []
     for r in results:
         raw_events.extend(r.events)
 
     events = merge_and_score(raw_events, previous=previous)
-    feed = build_feed(events)
+    people = extract_connectors(client, raw_events) or previous_people
+    feed = build_feed(events, people=people)
     ok, reason = validate_feed(feed)
 
     # Preserve previous valid feed if this run is empty/malformed while previous exists
@@ -39,6 +48,7 @@ def run_collection(
             "event_count": len(previous),
             "industries": ["hospitality", "sports", "real_estate", "culinary", "art_fashion"],
             "access_directory": ACCESS_DIRECTORY,
+            "people": people or previous_people,
             "events": list(previous.values()),
             "preserved_from_previous": True,
             "preserve_reason": reason if not ok else "empty collection",

@@ -38,7 +38,7 @@ Private club calendars are not scraped behind authentication. The feed exposes o
 ### Industry calendars
 
 - Hospitality: GMBHA and AHLA
-- Sports: F1 Miami, Miami Open, Inter Miami, Miami HEAT, FIFA hospitality, WR Chess
+- Sports: F1 Miami, Miami Open, Inter Miami, Miami HEAT, FIFA hospitality, WR Chess, and the official Backgammon Social Miami Luma calendar
 - Real Estate: ULI, NAIOP South Florida, MIAMI REALTORS, Bisnow, Beacon Council
 - Culinary: SOBEWFF official ICS and event inventory
 - Art/Fashion: Art Basel, Design Miami, Design District, ICA and The Bass only when programming has a premium signal such as a private dinner, gala, preview, or reception
@@ -54,3 +54,7 @@ For the July 2026 WR Chess opening reception at Faena Forum, the earliest *publi
 ## Blocked / limited sources
 
 Some hotel sites return 403 to automated clients. Those adapters soft-fail and are recorded in `status.json`; subscribe to their newsletters as a manual backup.
+
+## Public connector extraction
+
+The “To Connect With” scan reads only names printed in public World Red Eye captions and professional role text. It prioritizes hosts, venue leaders, developers, and recurring names across curated hospitality, culinary, sports, and real-estate coverage. Every recommendation retains source attribution. No face recognition, private social profile scraping, or private contact collection is used.

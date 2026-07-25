@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-25T18:50:00.402148+00:00",
+  "generated_at": "2026-07-25T19:31:29.671926+00:00",
   "timezone": "America/New_York",
   "version": 1,
-  "event_count": 9,
+  "event_count": 14,
   "industries": [
     "hospitality",
     "sports",
@@ -17,6 +17,13 @@
       "url": "https://www.faena.com/faena-rose",
       "apply_url": "https://forms.rosemembers.faena.com/membership-interest",
       "tip": "Submit the official membership-interest form. Rose programming is member-only and is not published on Faena's public calendar."
+    },
+    {
+      "name": "Delano Members Club",
+      "type": "Private hotel members club",
+      "url": "https://delanohotels.com/miami-beach/delano-members-club/",
+      "apply_url": "mailto:membership.miamibeach@delanohotels.com",
+      "tip": "Email the Delano Members Club Membership Team at membership.miamibeach@delanohotels.com. Ask for the current culture, culinary, live-music and talks calendar and reference the program you want to attend."
     },
     {
       "name": "The Moore Miami",
@@ -61,7 +68,585 @@
       "tip": "Apply for Beach Club membership; official benefits include access to exclusive member events."
     }
   ],
+  "people": [
+    {
+      "id": "37c9c21dcd211dd6",
+      "name": "Ben Pundole",
+      "role": "Chief Brand Officer",
+      "organization": "Delano",
+      "industry": "hospitality",
+      "priority": 100,
+      "mentions": 14,
+      "event_count": 2,
+      "why_connect": "Chief Brand Officer at Delano; explicitly named in public coverage of 2 curated Miami event(s).",
+      "how_to_connect": "Use the Delano Members Club or official brand/press route; reference the reopening coverage.",
+      "source_name": "World Red Eye",
+      "source_urls": [
+        "https://worldredeye.com/2026/05/world-red-eye-preview-dinner-hosted-by-seth-browarnik-at-gigi-rigolatto-celebrating-delano/",
+        "https://worldredeye.com/2026/04/delano-miami-beach-ribbon-cutting/"
+      ],
+      "event_titles": [
+        "Delano Miami Beach Ribbon Cutting",
+        "World Red Eye Preview Dinner Hosted by Seth Browarnik at Gigi Rigolatto Celebrating Delano"
+      ],
+      "basis": "Public caption or professional role text; no face recognition or private contact data."
+    },
+    {
+      "id": "7ad2ac04fb8f4c31",
+      "name": "Cristiano Buono",
+      "role": "General Manager",
+      "organization": "Delano Miami Beach",
+      "industry": "hospitality",
+      "priority": 99,
+      "mentions": 7,
+      "event_count": 2,
+      "why_connect": "General Manager at Delano Miami Beach; explicitly named in public coverage of 2 curated Miami event(s).",
+      "how_to_connect": "Ask the Delano Members Club Membership Team or Lifestyle Concierge and reference the relevant Delano program.",
+      "source_name": "World Red Eye",
+      "source_urls": [
+        "https://worldredeye.com/2026/04/delano-miami-beach-ribbon-cutting/",
+        "https://worldredeye.com/2026/04/delano-residences-miami-launch/"
+      ],
+      "event_titles": [
+        "Delano Miami Beach Ribbon Cutting",
+        "Delano Residences Miami Launch"
+      ],
+      "basis": "Public caption or professional role text; no face recognition or private contact data."
+    },
+    {
+      "id": "5b5df60760c3680e",
+      "name": "Seth Browarnik",
+      "role": "Founder",
+      "organization": "World Red Eye",
+      "industry": "hospitality",
+      "priority": 95,
+      "mentions": 29,
+      "event_count": 1,
+      "why_connect": "Founder at World Red Eye; explicitly named in public coverage of 1 curated Miami event(s).",
+      "how_to_connect": "Use World Red Eye's official contact/editorial route or a WRE-hosted event; reference the specific coverage where he was host.",
+      "source_name": "World Red Eye",
+      "source_urls": [
+        "https://worldredeye.com/2026/05/world-red-eye-preview-dinner-hosted-by-seth-browarnik-at-gigi-rigolatto-celebrating-delano/"
+      ],
+      "event_titles": [
+        "World Red Eye Preview Dinner Hosted by Seth Browarnik at Gigi Rigolatto Celebrating Delano"
+      ],
+      "basis": "Public caption or professional role text; no face recognition or private contact data."
+    },
+    {
+      "id": "b2aceffff057e169",
+      "name": "David Martin",
+      "role": "Chief Executive Officer",
+      "organization": "Terra",
+      "industry": "real_estate",
+      "priority": 95,
+      "mentions": 13,
+      "event_count": 1,
+      "why_connect": "Chief Executive Officer at Terra; explicitly named in public coverage of 1 curated Miami event(s).",
+      "how_to_connect": "Use Terra's official business route or the host/sponsor of the sourced event for a warm introduction.",
+      "source_name": "World Red Eye",
+      "source_urls": [
+        "https://worldredeye.com/2026/05/world-red-eye-preview-dinner-hosted-by-seth-browarnik-at-gigi-rigolatto-celebrating-delano/"
+      ],
+      "event_titles": [
+        "World Red Eye Preview Dinner Hosted by Seth Browarnik at Gigi Rigolatto Celebrating Delano"
+      ],
+      "basis": "Public caption or professional role text; no face recognition or private contact data."
+    },
+    {
+      "id": "d41b27f51968227a",
+      "name": "Jorge M. Pérez",
+      "role": "Founder, Chairman and CEO",
+      "organization": "Related Group",
+      "industry": "real_estate",
+      "priority": 95,
+      "mentions": 10,
+      "event_count": 1,
+      "why_connect": "Founder, Chairman and CEO at Related Group; explicitly named in public coverage of 1 curated Miami event(s).",
+      "how_to_connect": "Use Related Group's official business route or request a warm introduction from the event host named in the source.",
+      "source_name": "World Red Eye",
+      "source_urls": [
+        "https://worldredeye.com/2026/05/world-red-eye-preview-dinner-hosted-by-seth-browarnik-at-gigi-rigolatto-celebrating-delano/"
+      ],
+      "event_titles": [
+        "World Red Eye Preview Dinner Hosted by Seth Browarnik at Gigi Rigolatto Celebrating Delano"
+      ],
+      "basis": "Public caption or professional role text; no face recognition or private contact data."
+    },
+    {
+      "id": "c50a7700dca9c3d3",
+      "name": "Ugo Colombo",
+      "role": "Founder",
+      "organization": "CMC Group",
+      "industry": "real_estate",
+      "priority": 95,
+      "mentions": 10,
+      "event_count": 1,
+      "why_connect": "Founder at CMC Group; explicitly named in public coverage of 1 curated Miami event(s).",
+      "how_to_connect": "Use CMC Group's official business route or the host/sponsor of the sourced real-estate event.",
+      "source_name": "World Red Eye",
+      "source_urls": [
+        "https://worldredeye.com/2026/05/world-red-eye-preview-dinner-hosted-by-seth-browarnik-at-gigi-rigolatto-celebrating-delano/"
+      ],
+      "event_titles": [
+        "World Red Eye Preview Dinner Hosted by Seth Browarnik at Gigi Rigolatto Celebrating Delano"
+      ],
+      "basis": "Public caption or professional role text; no face recognition or private contact data."
+    },
+    {
+      "id": "eae9225bfa5ae04c",
+      "name": "Jonathan Goldstein",
+      "role": "Chief Executive Officer",
+      "organization": "Cain International",
+      "industry": "real_estate",
+      "priority": 95,
+      "mentions": 8,
+      "event_count": 1,
+      "why_connect": "Chief Executive Officer at Cain International; explicitly named in public coverage of 1 curated Miami event(s).",
+      "how_to_connect": "Request through Cain International's official business channel or a Delano project stakeholder event host.",
+      "source_name": "World Red Eye",
+      "source_urls": [
+        "https://worldredeye.com/2026/04/delano-miami-beach-ribbon-cutting/"
+      ],
+      "event_titles": [
+        "Delano Miami Beach Ribbon Cutting"
+      ],
+      "basis": "Public caption or professional role text; no face recognition or private contact data."
+    },
+    {
+      "id": "4f4a17b20e42171d",
+      "name": "Alan Faena",
+      "role": "Founder",
+      "organization": "Faena",
+      "industry": "hospitality",
+      "priority": 89,
+      "mentions": 2,
+      "event_count": 1,
+      "why_connect": "Founder at Faena; explicitly named in public coverage of 1 curated Miami event(s).",
+      "how_to_connect": "Request an introduction through Faena Rose Membership or a named Faena event host—not through private contact details.",
+      "source_name": "World Red Eye",
+      "source_urls": [
+        "https://worldredeye.com/2026/04/faena-rose-presents-mayan-inspired-dinner-at-pao-at-faena-miami-beach/"
+      ],
+      "event_titles": [
+        "Faena Rose: Presents Mayan Inspired Dinner at PAO at Faena Miami Beach"
+      ],
+      "basis": "Public caption or professional role text; no face recognition or private contact data."
+    },
+    {
+      "id": "89ccb324ad259d27",
+      "name": "Violet Camacho",
+      "role": "Recurring name in curated event coverage",
+      "organization": "Miami luxury and industry network",
+      "industry": "hospitality",
+      "priority": 79,
+      "mentions": 9,
+      "event_count": 3,
+      "why_connect": "Published in 9 World Red Eye caption(s) across 3 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
+      "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
+      "source_name": "World Red Eye",
+      "source_urls": [
+        "https://worldredeye.com/2026/05/world-red-eye-preview-dinner-hosted-by-seth-browarnik-at-gigi-rigolatto-celebrating-delano/",
+        "https://worldredeye.com/2026/04/delano-miami-beach-ribbon-cutting/",
+        "https://worldredeye.com/2026/04/delano-residences-miami-launch/"
+      ],
+      "event_titles": [
+        "Delano Miami Beach Ribbon Cutting",
+        "Delano Residences Miami Launch",
+        "World Red Eye Preview Dinner Hosted by Seth Browarnik at Gigi Rigolatto Celebrating Delano"
+      ],
+      "basis": "Public caption or professional role text; no face recognition or private contact data."
+    },
+    {
+      "id": "62820920c24f0ae7",
+      "name": "Steven Meiner",
+      "role": "Recurring name in curated event coverage",
+      "organization": "Miami luxury and industry network",
+      "industry": "hospitality",
+      "priority": 78,
+      "mentions": 14,
+      "event_count": 2,
+      "why_connect": "Published in 14 World Red Eye caption(s) across 2 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
+      "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
+      "source_name": "World Red Eye",
+      "source_urls": [
+        "https://worldredeye.com/2026/05/world-red-eye-preview-dinner-hosted-by-seth-browarnik-at-gigi-rigolatto-celebrating-delano/",
+        "https://worldredeye.com/2026/04/delano-miami-beach-ribbon-cutting/"
+      ],
+      "event_titles": [
+        "Delano Miami Beach Ribbon Cutting",
+        "World Red Eye Preview Dinner Hosted by Seth Browarnik at Gigi Rigolatto Celebrating Delano"
+      ],
+      "basis": "Public caption or professional role text; no face recognition or private contact data."
+    },
+    {
+      "id": "26e50f982e3b3acb",
+      "name": "Ryan Shear",
+      "role": "Recurring name in curated event coverage",
+      "organization": "Miami luxury and industry network",
+      "industry": "hospitality",
+      "priority": 78,
+      "mentions": 13,
+      "event_count": 2,
+      "why_connect": "Published in 13 World Red Eye caption(s) across 2 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
+      "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
+      "source_name": "World Red Eye",
+      "source_urls": [
+        "https://worldredeye.com/2026/05/world-red-eye-preview-dinner-hosted-by-seth-browarnik-at-gigi-rigolatto-celebrating-delano/",
+        "https://worldredeye.com/2026/04/delano-residences-miami-launch/"
+      ],
+      "event_titles": [
+        "Delano Residences Miami Launch",
+        "World Red Eye Preview Dinner Hosted by Seth Browarnik at Gigi Rigolatto Celebrating Delano"
+      ],
+      "basis": "Public caption or professional role text; no face recognition or private contact data."
+    },
+    {
+      "id": "9d78a6c3ea84dd8f",
+      "name": "Rodney Barreto",
+      "role": "Recurring name in curated event coverage",
+      "organization": "Miami luxury and industry network",
+      "industry": "hospitality",
+      "priority": 69,
+      "mentions": 16,
+      "event_count": 1,
+      "why_connect": "Published in 16 World Red Eye caption(s) across 1 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
+      "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
+      "source_name": "World Red Eye",
+      "source_urls": [
+        "https://worldredeye.com/2026/05/world-red-eye-preview-dinner-hosted-by-seth-browarnik-at-gigi-rigolatto-celebrating-delano/"
+      ],
+      "event_titles": [
+        "World Red Eye Preview Dinner Hosted by Seth Browarnik at Gigi Rigolatto Celebrating Delano"
+      ],
+      "basis": "Public caption or professional role text; no face recognition or private contact data."
+    },
+    {
+      "id": "83fc295b8fe006a7",
+      "name": "Russell Galbut",
+      "role": "Recurring name in curated event coverage",
+      "organization": "Miami luxury and industry network",
+      "industry": "hospitality",
+      "priority": 69,
+      "mentions": 14,
+      "event_count": 1,
+      "why_connect": "Published in 14 World Red Eye caption(s) across 1 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
+      "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
+      "source_name": "World Red Eye",
+      "source_urls": [
+        "https://worldredeye.com/2026/05/world-red-eye-preview-dinner-hosted-by-seth-browarnik-at-gigi-rigolatto-celebrating-delano/"
+      ],
+      "event_titles": [
+        "World Red Eye Preview Dinner Hosted by Seth Browarnik at Gigi Rigolatto Celebrating Delano"
+      ],
+      "basis": "Public caption or professional role text; no face recognition or private contact data."
+    },
+    {
+      "id": "5e4fd2f2752c4a1b",
+      "name": "Jonathan Babicka",
+      "role": "Recurring name in curated event coverage",
+      "organization": "Miami luxury and industry network",
+      "industry": "hospitality",
+      "priority": 69,
+      "mentions": 13,
+      "event_count": 1,
+      "why_connect": "Published in 13 World Red Eye caption(s) across 1 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
+      "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
+      "source_name": "World Red Eye",
+      "source_urls": [
+        "https://worldredeye.com/2026/07/little-lighthouse-foundations-cocktails-with-a-cause-celebrating-paperfish-sushis-5-year-anniversary/"
+      ],
+      "event_titles": [
+        "Little Lighthouse Foundation’s Cocktails with a Cause Celebrating Paperfish Sushi’s 5-Year Anniversary"
+      ],
+      "basis": "Public caption or professional role text; no face recognition or private contact data."
+    },
+    {
+      "id": "930a03f4a73a1c18",
+      "name": "Jay Parker",
+      "role": "Recurring name in curated event coverage",
+      "organization": "Miami luxury and industry network",
+      "industry": "hospitality",
+      "priority": 69,
+      "mentions": 12,
+      "event_count": 1,
+      "why_connect": "Published in 12 World Red Eye caption(s) across 1 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
+      "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
+      "source_name": "World Red Eye",
+      "source_urls": [
+        "https://worldredeye.com/2026/05/world-red-eye-preview-dinner-hosted-by-seth-browarnik-at-gigi-rigolatto-celebrating-delano/"
+      ],
+      "event_titles": [
+        "World Red Eye Preview Dinner Hosted by Seth Browarnik at Gigi Rigolatto Celebrating Delano"
+      ],
+      "basis": "Public caption or professional role text; no face recognition or private contact data."
+    },
+    {
+      "id": "1e480e12d6ca8e0e",
+      "name": "Karine Carvalho",
+      "role": "Recurring name in curated event coverage",
+      "organization": "Miami luxury and industry network",
+      "industry": "hospitality",
+      "priority": 69,
+      "mentions": 12,
+      "event_count": 1,
+      "why_connect": "Published in 12 World Red Eye caption(s) across 1 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
+      "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
+      "source_name": "World Red Eye",
+      "source_urls": [
+        "https://worldredeye.com/2026/04/delano-residences-miami-launch/"
+      ],
+      "event_titles": [
+        "Delano Residences Miami Launch"
+      ],
+      "basis": "Public caption or professional role text; no face recognition or private contact data."
+    },
+    {
+      "id": "bbb1369e336dfd3f",
+      "name": "Alejandra Castillo",
+      "role": "Recurring name in curated event coverage",
+      "organization": "Miami luxury and industry network",
+      "industry": "hospitality",
+      "priority": 68,
+      "mentions": 11,
+      "event_count": 1,
+      "why_connect": "Published in 11 World Red Eye caption(s) across 1 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
+      "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
+      "source_name": "World Red Eye",
+      "source_urls": [
+        "https://worldredeye.com/2026/04/delano-residences-miami-launch/"
+      ],
+      "event_titles": [
+        "Delano Residences Miami Launch"
+      ],
+      "basis": "Public caption or professional role text; no face recognition or private contact data."
+    },
+    {
+      "id": "00184e1c1a4dc47e",
+      "name": "Ashley Graham",
+      "role": "Recurring name in curated event coverage",
+      "organization": "Miami luxury and industry network",
+      "industry": "hospitality",
+      "priority": 67,
+      "mentions": 10,
+      "event_count": 1,
+      "why_connect": "Published in 10 World Red Eye caption(s) across 1 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
+      "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
+      "source_name": "World Red Eye",
+      "source_urls": [
+        "https://worldredeye.com/2026/07/casadonna-pizza-class-experience-with-ashley-graham/"
+      ],
+      "event_titles": [
+        "Casadonna Pizza Class Experience with Ashley Graham"
+      ],
+      "basis": "Public caption or professional role text; no face recognition or private contact data."
+    },
+    {
+      "id": "45a12898bc683ec2",
+      "name": "Jon Paul Pérez",
+      "role": "Recurring name in curated event coverage",
+      "organization": "Miami luxury and industry network",
+      "industry": "hospitality",
+      "priority": 67,
+      "mentions": 10,
+      "event_count": 1,
+      "why_connect": "Published in 10 World Red Eye caption(s) across 1 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
+      "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
+      "source_name": "World Red Eye",
+      "source_urls": [
+        "https://worldredeye.com/2026/05/world-red-eye-preview-dinner-hosted-by-seth-browarnik-at-gigi-rigolatto-celebrating-delano/"
+      ],
+      "event_titles": [
+        "World Red Eye Preview Dinner Hosted by Seth Browarnik at Gigi Rigolatto Celebrating Delano"
+      ],
+      "basis": "Public caption or professional role text; no face recognition or private contact data."
+    },
+    {
+      "id": "28e2cd833e686a11",
+      "name": "Kobi Karp",
+      "role": "Recurring name in curated event coverage",
+      "organization": "Miami luxury and industry network",
+      "industry": "hospitality",
+      "priority": 67,
+      "mentions": 10,
+      "event_count": 1,
+      "why_connect": "Published in 10 World Red Eye caption(s) across 1 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
+      "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
+      "source_name": "World Red Eye",
+      "source_urls": [
+        "https://worldredeye.com/2026/05/world-red-eye-preview-dinner-hosted-by-seth-browarnik-at-gigi-rigolatto-celebrating-delano/"
+      ],
+      "event_titles": [
+        "World Red Eye Preview Dinner Hosted by Seth Browarnik at Gigi Rigolatto Celebrating Delano"
+      ],
+      "basis": "Public caption or professional role text; no face recognition or private contact data."
+    },
+    {
+      "id": "d6f0d07931f7a85e",
+      "name": "Nazeem Hasan",
+      "role": "Recurring name in curated event coverage",
+      "organization": "Miami luxury and industry network",
+      "industry": "hospitality",
+      "priority": 67,
+      "mentions": 10,
+      "event_count": 1,
+      "why_connect": "Published in 10 World Red Eye caption(s) across 1 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
+      "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
+      "source_name": "World Red Eye",
+      "source_urls": [
+        "https://worldredeye.com/2026/07/little-lighthouse-foundations-cocktails-with-a-cause-celebrating-paperfish-sushis-5-year-anniversary/"
+      ],
+      "event_titles": [
+        "Little Lighthouse Foundation’s Cocktails with a Cause Celebrating Paperfish Sushi’s 5-Year Anniversary"
+      ],
+      "basis": "Public caption or professional role text; no face recognition or private contact data."
+    },
+    {
+      "id": "ac8585c20fee65bb",
+      "name": "Verónica Gorson",
+      "role": "Recurring name in curated event coverage",
+      "organization": "Miami luxury and industry network",
+      "industry": "hospitality",
+      "priority": 67,
+      "mentions": 10,
+      "event_count": 1,
+      "why_connect": "Published in 10 World Red Eye caption(s) across 1 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
+      "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
+      "source_name": "World Red Eye",
+      "source_urls": [
+        "https://worldredeye.com/2026/04/delano-residences-miami-launch/"
+      ],
+      "event_titles": [
+        "Delano Residences Miami Launch"
+      ],
+      "basis": "Public caption or professional role text; no face recognition or private contact data."
+    },
+    {
+      "id": "4442c07fbb3b2533",
+      "name": "Robert Rivani",
+      "role": "Recurring name in curated event coverage",
+      "organization": "Miami luxury and industry network",
+      "industry": "hospitality",
+      "priority": 66,
+      "mentions": 9,
+      "event_count": 1,
+      "why_connect": "Published in 9 World Red Eye caption(s) across 1 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
+      "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
+      "source_name": "World Red Eye",
+      "source_urls": [
+        "https://worldredeye.com/2026/05/world-red-eye-preview-dinner-hosted-by-seth-browarnik-at-gigi-rigolatto-celebrating-delano/"
+      ],
+      "event_titles": [
+        "World Red Eye Preview Dinner Hosted by Seth Browarnik at Gigi Rigolatto Celebrating Delano"
+      ],
+      "basis": "Public caption or professional role text; no face recognition or private contact data."
+    },
+    {
+      "id": "4ef0d988fe48ffde",
+      "name": "Daniel De La Vega",
+      "role": "Recurring name in curated event coverage",
+      "organization": "Miami luxury and industry network",
+      "industry": "hospitality",
+      "priority": 65,
+      "mentions": 8,
+      "event_count": 1,
+      "why_connect": "Published in 8 World Red Eye caption(s) across 1 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
+      "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
+      "source_name": "World Red Eye",
+      "source_urls": [
+        "https://worldredeye.com/2026/05/world-red-eye-preview-dinner-hosted-by-seth-browarnik-at-gigi-rigolatto-celebrating-delano/"
+      ],
+      "event_titles": [
+        "World Red Eye Preview Dinner Hosted by Seth Browarnik at Gigi Rigolatto Celebrating Delano"
+      ],
+      "basis": "Public caption or professional role text; no face recognition or private contact data."
+    }
+  ],
   "events": [
+    {
+      "id": "7029026fb3904b18106d2c957dcaaf04699fc56a",
+      "title": "OBSESSION",
+      "summary": "OBSESSION - Faena Theater's new original live production!",
+      "starts_at": "2026-07-25T20:00:00-04:00",
+      "ends_at": null,
+      "all_day": false,
+      "venue": "Faena Theater",
+      "neighborhood": "Miami Beach",
+      "city": "Miami Beach",
+      "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/obsession",
+      "rsvp_url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/obsession",
+      "image_url": null,
+      "access": "public",
+      "industry": "hospitality",
+      "categories": [
+        "hospitality",
+        "luxury",
+        "nightlife"
+      ],
+      "access_tip": "Use the event booking link for public programming. For Faena Rose events, submit the official membership-interest form.",
+      "contact_url": "https://forms.rosemembers.faena.com/membership-interest",
+      "contact_email": null,
+      "ask_for": "Faena Theater box office for public tickets; Faena Rose Membership Team for Rose programming",
+      "score": 96,
+      "confidence": 0.98,
+      "why_it_matters": "Listed on Faena Miami Beach — luxury / hospitality keywords — at Faena Theater",
+      "source_id": "faena",
+      "source_name": "Faena Miami Beach",
+      "source_url": "https://www.faena.com/miami-beach/things-to-do",
+      "first_seen_at": "2026-07-25T19:26:02.829460+00:00",
+      "last_seen_at": "2026-07-25T19:31:18.117556+00:00",
+      "lead_hours": 4,
+      "source_trail": [
+        {
+          "source_id": "faena",
+          "source_name": "Faena Miami Beach",
+          "seen_at": "2026-07-25T19:26:02.829460+00:00",
+          "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/obsession"
+        }
+      ]
+    },
+    {
+      "id": "f4cb1c7e7c68d979a904c081dc9d5c73ca36af99",
+      "title": "Miami Spice at Faena",
+      "summary": "From August 1 - September 30th guests can enjoy exclusive specials or prix fixe three-course Miami Spice menus at Los Fuegos by Francis Mallmann, Pao by Paul Qui and Campo!",
+      "starts_at": "2026-08-01T12:00:00-04:00",
+      "ends_at": null,
+      "all_day": false,
+      "venue": "Faena Theater",
+      "neighborhood": "Miami Beach",
+      "city": "Miami Beach",
+      "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/miami-spice-at-faena",
+      "rsvp_url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/miami-spice-at-faena",
+      "image_url": null,
+      "access": "public",
+      "industry": "hospitality",
+      "categories": [
+        "hospitality",
+        "luxury",
+        "nightlife"
+      ],
+      "access_tip": "Use the event booking link for public programming. For Faena Rose events, submit the official membership-interest form.",
+      "contact_url": "https://forms.rosemembers.faena.com/membership-interest",
+      "contact_email": null,
+      "ask_for": "Faena Theater box office for public tickets; Faena Rose Membership Team for Rose programming",
+      "score": 90,
+      "confidence": 0.98,
+      "why_it_matters": "Listed on Faena Miami Beach — luxury / hospitality keywords — at Faena Theater",
+      "source_id": "faena",
+      "source_name": "Faena Miami Beach",
+      "source_url": "https://www.faena.com/miami-beach/things-to-do",
+      "first_seen_at": "2026-07-25T19:17:34.766279+00:00",
+      "last_seen_at": "2026-07-25T19:31:18.117556+00:00",
+      "lead_hours": 164,
+      "source_trail": [
+        {
+          "source_id": "faena",
+          "source_name": "Faena Miami Beach",
+          "seen_at": "2026-07-25T19:17:34.766279+00:00",
+          "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/miami-spice-at-faena"
+        }
+      ]
+    },
     {
       "id": "9a982617ffa96e54bdf0198f2acd818f55fd427c",
       "title": "Closing Dinner — WR Chess at Faena",
@@ -85,6 +670,7 @@
       "access_tip": "No public RSVP is listed for private receptions. Follow WR Chess and Faena, then request an official host or press introduction.",
       "contact_url": "https://wr-chess.com/events/usa-vs-uzbekistan-wr-chess-match-2026",
       "contact_email": null,
+      "ask_for": "WR Chess organizer/press team or Faena Forum Guest Relations",
       "score": 86,
       "confidence": 0.98,
       "why_it_matters": "Official WR Chess programming — invitation-only access — luxury / hospitality keywords — at La Cava",
@@ -92,7 +678,7 @@
       "source_name": "WR Chess",
       "source_url": "https://wr-chess.com/events/usa-vs-uzbekistan-wr-chess-match-2026",
       "first_seen_at": "2026-07-25T13:08:35.111401+00:00",
-      "last_seen_at": "2026-07-25T18:50:00.383493+00:00",
+      "last_seen_at": "2026-07-25T19:31:18.117556+00:00",
       "lead_hours": 80,
       "source_trail": [
         {
@@ -100,6 +686,48 @@
           "source_name": "WR Chess",
           "seen_at": "2026-07-25T13:08:35.111401+00:00",
           "url": "https://wr-chess.com/events/usa-vs-uzbekistan-wr-chess-match-2026"
+        }
+      ]
+    },
+    {
+      "id": "23283bf47c9913b51d6797c2de52cae8d899b12f",
+      "title": "Sunday Asado at Los Fuegos",
+      "summary": "Every Sunday, experience the time-honored tradition of gaucho open fire grilling at Los Fuegos by Francis Mallmann's Sunday Asados.",
+      "starts_at": "2026-07-26T12:00:00-04:00",
+      "ends_at": null,
+      "all_day": false,
+      "venue": "Los Fuegos",
+      "neighborhood": "Miami Beach",
+      "city": "Miami Beach",
+      "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/sunday-asado-at-los-fuegos",
+      "rsvp_url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/sunday-asado-at-los-fuegos",
+      "image_url": null,
+      "access": "registration",
+      "industry": "hospitality",
+      "categories": [
+        "hospitality",
+        "luxury",
+        "nightlife"
+      ],
+      "access_tip": "Use the event booking link for public programming. For Faena Rose events, submit the official membership-interest form.",
+      "contact_url": "https://forms.rosemembers.faena.com/membership-interest",
+      "contact_email": null,
+      "ask_for": "Faena Theater box office for public tickets; Faena Rose Membership Team for Rose programming",
+      "score": 84,
+      "confidence": 0.98,
+      "why_it_matters": "Listed on Faena Miami Beach — luxury / hospitality keywords — at Los Fuegos",
+      "source_id": "faena",
+      "source_name": "Faena Miami Beach",
+      "source_url": "https://www.faena.com/miami-beach/things-to-do",
+      "first_seen_at": "2026-07-25T19:26:05.054718+00:00",
+      "last_seen_at": "2026-07-25T19:31:18.117556+00:00",
+      "lead_hours": 20,
+      "source_trail": [
+        {
+          "source_id": "faena",
+          "source_name": "Faena Miami Beach",
+          "seen_at": "2026-07-25T19:26:05.054718+00:00",
+          "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/sunday-asado-at-los-fuegos"
         }
       ]
     },
@@ -125,6 +753,7 @@
       "access_tip": "Open the official source for current admission details. Reserve early if a booking option is shown.",
       "contact_url": "https://hauteliving.com/2026/07/south-florida-luxury-real-estate-ai-visibility-index/792866/",
       "contact_email": null,
+      "ask_for": "The named event host, brand publicist, or venue communications team in the source article",
       "score": 84,
       "confidence": 0.6,
       "why_it_matters": "Early editorial signal from Haute Living — luxury + networking keywords",
@@ -132,7 +761,7 @@
       "source_name": "Haute Living",
       "source_url": "https://hauteliving.com/feed/",
       "first_seen_at": "2026-07-25T18:40:53.430713+00:00",
-      "last_seen_at": "2026-07-25T18:50:00.383493+00:00",
+      "last_seen_at": "2026-07-25T19:31:18.117556+00:00",
       "lead_hours": null,
       "source_trail": [
         {
@@ -140,6 +769,138 @@
           "source_name": "Haute Living",
           "seen_at": "2026-07-25T18:40:53.430713+00:00",
           "url": "https://hauteliving.com/2026/07/south-florida-luxury-real-estate-ai-visibility-index/792866/"
+        }
+      ]
+    },
+    {
+      "id": "b63a939cac152c4020566995f876fda70f9f1397",
+      "title": "A Martini Affair",
+      "summary": "Discover A Martini Affair at Faena Miami Beach, a weekly Monday martini and caviar experience at The Living Room featuring Osetra caviar pairings and signature Bombay Sapphire and Grey Goose cocktails.",
+      "starts_at": "2026-07-27T18:00:00-04:00",
+      "ends_at": null,
+      "all_day": false,
+      "venue": "The Living Room",
+      "neighborhood": "Miami Beach",
+      "city": "Miami Beach",
+      "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/a-martini-affair",
+      "rsvp_url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/a-martini-affair",
+      "image_url": null,
+      "access": "application",
+      "industry": "hospitality",
+      "categories": [
+        "hospitality",
+        "luxury",
+        "nightlife"
+      ],
+      "access_tip": "Use the event booking link for public programming. For Faena Rose events, submit the official membership-interest form.",
+      "contact_url": "https://forms.rosemembers.faena.com/membership-interest",
+      "contact_email": null,
+      "ask_for": "Faena Theater box office for public tickets; Faena Rose Membership Team for Rose programming",
+      "score": 82,
+      "confidence": 0.98,
+      "why_it_matters": "Listed on Faena Miami Beach — luxury / hospitality keywords — at The Living Room",
+      "source_id": "faena",
+      "source_name": "Faena Miami Beach",
+      "source_url": "https://www.faena.com/miami-beach/things-to-do",
+      "first_seen_at": "2026-07-25T19:26:12.429537+00:00",
+      "last_seen_at": "2026-07-25T19:31:18.117556+00:00",
+      "lead_hours": 50,
+      "source_trail": [
+        {
+          "source_id": "faena",
+          "source_name": "Faena Miami Beach",
+          "seen_at": "2026-07-25T19:26:12.429537+00:00",
+          "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/a-martini-affair"
+        }
+      ]
+    },
+    {
+      "id": "066d7c1907d7c90c3366b7af775555585a88843d",
+      "title": "Vinyl Tuesdays at The Living Room",
+      "summary": "Sip on one of Faena’s signature craft cocktails and groove to the sounds of local DJ Diego Ciaramella for a skillful mix on traditional turntables.",
+      "starts_at": "2026-07-28T20:00:00-04:00",
+      "ends_at": null,
+      "all_day": false,
+      "venue": "The Living Room",
+      "neighborhood": "Miami Beach",
+      "city": "Miami Beach",
+      "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/vinyl-tuesdays-at-the-living-room",
+      "rsvp_url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/vinyl-tuesdays-at-the-living-room",
+      "image_url": null,
+      "access": "application",
+      "industry": "hospitality",
+      "categories": [
+        "hospitality",
+        "luxury",
+        "nightlife"
+      ],
+      "access_tip": "Use the event booking link for public programming. For Faena Rose events, submit the official membership-interest form.",
+      "contact_url": "https://forms.rosemembers.faena.com/membership-interest",
+      "contact_email": null,
+      "ask_for": "Faena Theater box office for public tickets; Faena Rose Membership Team for Rose programming",
+      "score": 82,
+      "confidence": 0.98,
+      "why_it_matters": "Listed on Faena Miami Beach — luxury / hospitality keywords — at The Living Room",
+      "source_id": "faena",
+      "source_name": "Faena Miami Beach",
+      "source_url": "https://www.faena.com/miami-beach/things-to-do",
+      "first_seen_at": "2026-07-25T19:26:06.051119+00:00",
+      "last_seen_at": "2026-07-25T19:31:18.117556+00:00",
+      "lead_hours": 76,
+      "source_trail": [
+        {
+          "source_id": "faena",
+          "source_name": "Faena Miami Beach",
+          "seen_at": "2026-07-25T19:26:06.051119+00:00",
+          "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/vinyl-tuesdays-at-the-living-room"
+        }
+      ]
+    },
+    {
+      "id": "3698f25b31a59ed5dfc649523150c29bf20146f1",
+      "title": "Backgammon Social x The Moore - Tournament Night",
+      "summary": "",
+      "starts_at": "2026-07-30T19:00:00-04:00",
+      "ends_at": "2026-07-30T23:00:00-04:00",
+      "all_day": false,
+      "venue": "The Moore",
+      "neighborhood": "Miami",
+      "city": "Miami",
+      "url": "https://luma.com/cdhwxl1c",
+      "rsvp_url": "https://luma.com/cdhwxl1c",
+      "image_url": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/event-covers/30/3d2dfe93-1f28-4f5a-8901-d70c1c0de7e8.jpg",
+      "access": "public",
+      "industry": "sports",
+      "categories": [
+        "hospitality",
+        "networking",
+        "sports"
+      ],
+      "access_tip": "Register through the official Backgammon Social Miami Luma calendar. The event co-host shown on the event page is the correct person to request.",
+      "contact_url": "https://luma.com/backgammonsocialmiami",
+      "contact_email": null,
+      "ask_for": "Backgammon Social",
+      "score": 80,
+      "confidence": 0.9,
+      "why_it_matters": "From Backgammon Social Miami — luxury / hospitality keywords — at The Moore",
+      "source_id": "backgammon_social_miami",
+      "source_name": "Backgammon Social Miami",
+      "source_url": "https://luma.com/backgammonsocialmiami",
+      "first_seen_at": "2026-07-25T13:06:32.603124+00:00",
+      "last_seen_at": "2026-07-25T19:31:18.117556+00:00",
+      "lead_hours": 129,
+      "source_trail": [
+        {
+          "source_id": "luma_miami",
+          "source_name": "Luma Miami",
+          "seen_at": "2026-07-25T13:06:32.603124+00:00",
+          "url": "https://luma.com/cdhwxl1c"
+        },
+        {
+          "source_id": "backgammon_social_miami",
+          "source_name": "Backgammon Social Miami",
+          "seen_at": "2026-07-25T19:19:07.944316+00:00",
+          "url": "https://luma.com/cdhwxl1c"
         }
       ]
     },
@@ -165,6 +926,7 @@
       "access_tip": "Open the official source for current admission details. Reserve early if a booking option is shown.",
       "contact_url": "https://hauteliving.com/2026/07/haute-living-and-dagrosa-capital-celebrate-the-kempinski-residences-miami-design-district-sales-gallery/792760/",
       "contact_email": null,
+      "ask_for": "The named event host, brand publicist, or venue communications team in the source article",
       "score": 78,
       "confidence": 0.6,
       "why_it_matters": "Early editorial signal from Haute Living — luxury / hospitality keywords",
@@ -172,7 +934,7 @@
       "source_name": "Haute Living",
       "source_url": "https://hauteliving.com/feed/",
       "first_seen_at": "2026-07-25T18:40:53.444550+00:00",
-      "last_seen_at": "2026-07-25T18:50:00.383493+00:00",
+      "last_seen_at": "2026-07-25T19:31:18.117556+00:00",
       "lead_hours": null,
       "source_trail": [
         {
@@ -206,6 +968,7 @@
       "access_tip": "Open the official source for current admission details. Reserve early if a booking option is shown.",
       "contact_url": "https://luma.com/mnea6tmj",
       "contact_email": null,
+      "ask_for": "Sense N' Style Magazine",
       "score": 74,
       "confidence": 0.8,
       "why_it_matters": "From Luma Miami — networking keywords — at Dua Miami, Autograph Collection",
@@ -213,7 +976,7 @@
       "source_name": "Luma Miami",
       "source_url": "https://luma.com/miami",
       "first_seen_at": "2026-07-25T13:06:32.598170+00:00",
-      "last_seen_at": "2026-07-25T18:50:00.383493+00:00",
+      "last_seen_at": "2026-07-25T19:31:18.117556+00:00",
       "lead_hours": 7,
       "source_trail": [
         {
@@ -246,6 +1009,7 @@
       "access_tip": "No public RSVP is listed. Follow the official organizer and venue, join their newsletter, then request a host, member, concierge or PR introduction. Never use unofficial ticket links.",
       "contact_url": "https://thebass.org/event/future-bass-private-dinner-with-artist-sara-zapata/",
       "contact_email": null,
+      "ask_for": "The Bass Membership or Development Team for private dinners and patron previews",
       "score": 74,
       "confidence": 0.9,
       "why_it_matters": "From The Bass — invitation-only access — luxury / hospitality keywords",
@@ -253,7 +1017,7 @@
       "source_name": "The Bass",
       "source_url": "https://thebass.org/events/?ical=1",
       "first_seen_at": "2026-07-25T13:05:56.355426+00:00",
-      "last_seen_at": "2026-07-25T18:50:00.383493+00:00",
+      "last_seen_at": "2026-07-25T19:31:18.117556+00:00",
       "lead_hours": 107,
       "source_trail": [
         {
@@ -261,47 +1025,6 @@
           "source_name": "The Bass",
           "seen_at": "2026-07-25T13:05:56.355426+00:00",
           "url": "https://thebass.org/event/future-bass-private-dinner-with-artist-sara-zapata/"
-        }
-      ]
-    },
-    {
-      "id": "3698f25b31a59ed5dfc649523150c29bf20146f1",
-      "title": "Backgammon Social x The Moore - Tournament Night",
-      "summary": "",
-      "starts_at": "2026-07-30T19:00:00-04:00",
-      "ends_at": "2026-07-30T23:00:00-04:00",
-      "all_day": false,
-      "venue": "The Moore",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://luma.com/cdhwxl1c",
-      "rsvp_url": "https://luma.com/cdhwxl1c",
-      "image_url": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/event-covers/30/3d2dfe93-1f28-4f5a-8901-d70c1c0de7e8.jpg",
-      "access": "public",
-      "industry": "sports",
-      "categories": [
-        "culture",
-        "networking",
-        "nightlife"
-      ],
-      "access_tip": "Open the official source for current admission details. Reserve early if a booking option is shown.",
-      "contact_url": "https://luma.com/cdhwxl1c",
-      "contact_email": null,
-      "score": 72,
-      "confidence": 0.9,
-      "why_it_matters": "From Luma Miami — luxury / hospitality keywords — at The Moore",
-      "source_id": "luma_miami",
-      "source_name": "Luma Miami",
-      "source_url": "https://luma.com/miami",
-      "first_seen_at": "2026-07-25T13:06:32.603124+00:00",
-      "last_seen_at": "2026-07-25T18:50:00.383493+00:00",
-      "lead_hours": 129,
-      "source_trail": [
-        {
-          "source_id": "luma_miami",
-          "source_name": "Luma Miami",
-          "seen_at": "2026-07-25T13:06:32.603124+00:00",
-          "url": "https://luma.com/cdhwxl1c"
         }
       ]
     },
@@ -327,6 +1050,7 @@
       "access_tip": "Open the official source for current admission details. Reserve early if a booking option is shown.",
       "contact_url": "https://hauteliving.com/2026/07/wr-chess-brings-elite-international-team-tournament-to-miami-with-historic-u-s-debut/792999/",
       "contact_email": null,
+      "ask_for": "The named event host, brand publicist, or venue communications team in the source article",
       "score": 72,
       "confidence": 0.6,
       "why_it_matters": "Early editorial signal from Haute Living — luxury / hospitality keywords",
@@ -334,7 +1058,7 @@
       "source_name": "Haute Living",
       "source_url": "https://hauteliving.com/feed/",
       "first_seen_at": "2026-07-25T18:40:53.413956+00:00",
-      "last_seen_at": "2026-07-25T18:50:00.383493+00:00",
+      "last_seen_at": "2026-07-25T19:31:18.117556+00:00",
       "lead_hours": null,
       "source_trail": [
         {
@@ -367,6 +1091,7 @@
       "access_tip": "Register through GMBHA. Membership or partner status may unlock industry luncheons and leadership events.",
       "contact_url": "https://members.gmbha.com/events",
       "contact_email": null,
+      "ask_for": "GMBHA Events and Membership Team",
       "score": 56,
       "confidence": 0.8,
       "why_it_matters": "From Greater Miami & The Beaches Hotel Association",
@@ -374,7 +1099,7 @@
       "source_name": "Greater Miami & The Beaches Hotel Association",
       "source_url": "https://members.gmbha.com/events",
       "first_seen_at": "2026-07-25T18:37:20.956103+00:00",
-      "last_seen_at": "2026-07-25T18:50:00.383493+00:00",
+      "last_seen_at": "2026-07-25T19:31:18.117556+00:00",
       "lead_hours": 557,
       "source_trail": [
         {
@@ -407,6 +1132,7 @@
       "access_tip": "Register through GMBHA. Membership or partner status may unlock industry luncheons and leadership events.",
       "contact_url": "https://members.gmbha.com/events",
       "contact_email": null,
+      "ask_for": "GMBHA Events and Membership Team",
       "score": 56,
       "confidence": 0.8,
       "why_it_matters": "From Greater Miami & The Beaches Hotel Association — networking keywords",
@@ -414,7 +1140,7 @@
       "source_name": "Greater Miami & The Beaches Hotel Association",
       "source_url": "https://members.gmbha.com/events",
       "first_seen_at": "2026-07-25T18:37:20.958178+00:00",
-      "last_seen_at": "2026-07-25T18:50:00.383493+00:00",
+      "last_seen_at": "2026-07-25T19:31:18.117556+00:00",
       "lead_hours": 773,
       "source_trail": [
         {

@@ -59,6 +59,7 @@ SOURCE_INDUSTRY = {
     "miami_marlins": "sports",
     "fifa_miami": "sports",
     "boat_show": "sports",
+    "backgammon_social_miami": "sports",
     # Real estate
     "beacon_council": "real_estate",
     "beacon_council_rss": "real_estate",
@@ -85,7 +86,9 @@ GENERIC_EVENT = re.compile(
     r"\b(highlight tours?|guided tours?|museum tours?|open studio|family sundays?|"
     r"family day|free community day|farmers'? market|for seniors?|senior center|"
     r"tai chi|dance fusion|beach cleanup|youth|kids? workshop|children|"
-    r"office hours|parking|job fair|school|recycling|hoa meeting|blood drive)\b",
+    r"office hours|parking|job fair|school|recycling|hoa meeting|blood drive|"
+    r"daily movement|mindfulness|reiki|tarot|spa months?|sound healing|meditation|"
+    r"yoga|run club|fitness class|speed dating|summer camp|happy hour|saxony bar)\b",
     re.I,
 )
 
@@ -146,6 +149,13 @@ ACCESS_DIRECTORY = [
         "url": "https://www.faena.com/faena-rose",
         "apply_url": "https://forms.rosemembers.faena.com/membership-interest",
         "tip": "Submit the official membership-interest form. Rose programming is member-only and is not published on Faena's public calendar.",
+    },
+    {
+        "name": "Delano Members Club",
+        "type": "Private hotel members club",
+        "url": "https://delanohotels.com/miami-beach/delano-members-club/",
+        "apply_url": "mailto:membership.miamibeach@delanohotels.com",
+        "tip": "Email the Delano Members Club Membership Team at membership.miamibeach@delanohotels.com. Ask for the current culture, culinary, live-music and talks calendar and reference the program you want to attend.",
     },
     {
         "name": "The Moore Miami",
@@ -345,6 +355,8 @@ def merge_and_score(
         group.sort(
             key=lambda r: (
                 1 if r.starts_at else 0,
+                1 if r.ask_for else 0,
+                1 if r.access_tip else 0,
                 len(r.summary or ""),
                 1 if r.venue else 0,
             ),
@@ -437,6 +449,7 @@ def merge_and_score(
                 access_tip=access_tip,
                 contact_url=contact_url,
                 contact_email=contact_email,
+                ask_for=primary.ask_for,
                 score=score,
                 confidence=confidence,
                 why_it_matters=why,
@@ -460,7 +473,12 @@ def merge_and_score(
     return events
 
 
-def build_feed(events: list[Event], *, generated_at: datetime | None = None) -> dict[str, Any]:
+def build_feed(
+    events: list[Event],
+    *,
+    people: list[dict[str, Any]] | None = None,
+    generated_at: datetime | None = None,
+) -> dict[str, Any]:
     generated_at = generated_at or datetime.now(timezone.utc)
     return {
         "generated_at": iso(generated_at),
@@ -469,6 +487,7 @@ def build_feed(events: list[Event], *, generated_at: datetime | None = None) -> 
         "event_count": len(events),
         "industries": ["hospitality", "sports", "real_estate", "culinary", "art_fashion"],
         "access_directory": ACCESS_DIRECTORY,
+        "people": people or [],
         "events": [e.to_dict() for e in events],
     }
 
@@ -479,12 +498,15 @@ def validate_feed(feed: dict[str, Any]) -> tuple[bool, str]:
     if feed.get("version") != 1:
         return False, "unsupported version"
     events = feed.get("events")
+    people = feed.get("people")
     if not isinstance(events, list):
         return False, "events missing"
+    if not isinstance(people, list):
+        return False, "people missing"
     for i, ev in enumerate(events):
         if not isinstance(ev, dict):
             return False, f"event {i} not object"
-        for key in ("id", "title", "source_id", "score", "industry", "access_tip"):
+        for key in ("id", "title", "source_id", "score", "industry", "access_tip", "ask_for"):
             if key not in ev:
                 return False, f"event {i} missing {key}"
     return True, "ok"

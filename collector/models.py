@@ -69,6 +69,7 @@ class Event:
     access_tip: str
     contact_url: str | None
     contact_email: str | None
+    ask_for: str
     score: int
     confidence: float
     why_it_matters: str
@@ -106,6 +107,7 @@ class RawEvent:
     access_tip: str = ""
     contact_url: str | None = None
     contact_email: str | None = None
+    ask_for: str = ""
     source_id: str = ""
     source_name: str = ""
     source_url: str = ""
