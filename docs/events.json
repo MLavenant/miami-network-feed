@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T19:49:42.494437+00:00",
+  "generated_at": "2026-07-25T19:53:41.537879+00:00",
   "timezone": "America/New_York",
   "version": 1,
   "event_count": 14,
@@ -594,7 +594,7 @@
       "source_name": "Faena Miami Beach",
       "source_url": "https://www.faena.com/miami-beach/things-to-do",
       "first_seen_at": "2026-07-25T19:49:12.274768+00:00",
-      "last_seen_at": "2026-07-25T19:49:29.687012+00:00",
+      "last_seen_at": "2026-07-25T19:53:28.969517+00:00",
       "lead_hours": 4,
       "source_trail": [
         {
@@ -636,7 +636,7 @@
       "source_name": "Faena Miami Beach",
       "source_url": "https://www.faena.com/miami-beach/things-to-do",
       "first_seen_at": "2026-07-25T19:49:26.385809+00:00",
-      "last_seen_at": "2026-07-25T19:49:29.687012+00:00",
+      "last_seen_at": "2026-07-25T19:53:28.969517+00:00",
       "lead_hours": 164,
       "source_trail": [
         {
@@ -678,7 +678,7 @@
       "source_name": "WR Chess",
       "source_url": "https://wr-chess.com/events/usa-vs-uzbekistan-wr-chess-match-2026",
       "first_seen_at": "2026-07-25T19:49:11.251408+00:00",
-      "last_seen_at": "2026-07-25T19:49:29.687012+00:00",
+      "last_seen_at": "2026-07-25T19:53:28.969517+00:00",
       "lead_hours": 74,
       "source_trail": [
         {
@@ -720,7 +720,7 @@
       "source_name": "Faena Miami Beach",
       "source_url": "https://www.faena.com/miami-beach/things-to-do",
       "first_seen_at": "2026-07-25T19:49:16.875892+00:00",
-      "last_seen_at": "2026-07-25T19:49:29.687012+00:00",
+      "last_seen_at": "2026-07-25T19:53:28.969517+00:00",
       "lead_hours": 20,
       "source_trail": [
         {
@@ -761,7 +761,7 @@
       "source_name": "Haute Living",
       "source_url": "https://hauteliving.com/feed/",
       "first_seen_at": "2026-07-25T19:49:20.308221+00:00",
-      "last_seen_at": "2026-07-25T19:49:29.687012+00:00",
+      "last_seen_at": "2026-07-25T19:53:28.969517+00:00",
       "lead_hours": null,
       "source_trail": [
         {
@@ -803,7 +803,7 @@
       "source_name": "Faena Miami Beach",
       "source_url": "https://www.faena.com/miami-beach/things-to-do",
       "first_seen_at": "2026-07-25T19:49:23.647335+00:00",
-      "last_seen_at": "2026-07-25T19:49:29.687012+00:00",
+      "last_seen_at": "2026-07-25T19:53:28.969517+00:00",
       "lead_hours": 50,
       "source_trail": [
         {
@@ -845,7 +845,7 @@
       "source_name": "Faena Miami Beach",
       "source_url": "https://www.faena.com/miami-beach/things-to-do",
       "first_seen_at": "2026-07-25T19:49:18.112785+00:00",
-      "last_seen_at": "2026-07-25T19:49:29.687012+00:00",
+      "last_seen_at": "2026-07-25T19:53:28.969517+00:00",
       "lead_hours": 76,
       "source_trail": [
         {
@@ -887,7 +887,7 @@
       "source_name": "Backgammon Social Miami",
       "source_url": "https://luma.com/backgammonsocialmiami",
       "first_seen_at": "2026-07-25T19:49:28.333870+00:00",
-      "last_seen_at": "2026-07-25T19:49:29.687012+00:00",
+      "last_seen_at": "2026-07-25T19:53:28.969517+00:00",
       "lead_hours": 123,
       "source_trail": [
         {
@@ -934,7 +934,7 @@
       "source_name": "Haute Living",
       "source_url": "https://hauteliving.com/feed/",
       "first_seen_at": "2026-07-25T19:49:20.314006+00:00",
-      "last_seen_at": "2026-07-25T19:49:29.687012+00:00",
+      "last_seen_at": "2026-07-25T19:53:28.969517+00:00",
       "lead_hours": null,
       "source_trail": [
         {
@@ -976,7 +976,7 @@
       "source_name": "Luma Miami",
       "source_url": "https://luma.com/miami",
       "first_seen_at": "2026-07-25T19:49:29.671865+00:00",
-      "last_seen_at": "2026-07-25T19:49:29.687012+00:00",
+      "last_seen_at": "2026-07-25T19:53:28.969517+00:00",
       "lead_hours": 1,
       "source_trail": [
         {
@@ -1017,7 +1017,7 @@
       "source_name": "The Bass",
       "source_url": "https://thebass.org/events/?ical=1",
       "first_seen_at": "2026-07-25T19:49:11.106160+00:00",
-      "last_seen_at": "2026-07-25T19:49:29.687012+00:00",
+      "last_seen_at": "2026-07-25T19:53:28.969517+00:00",
       "lead_hours": 101,
       "source_trail": [
         {
@@ -1058,7 +1058,7 @@
       "source_name": "Haute Living",
       "source_url": "https://hauteliving.com/feed/",
       "first_seen_at": "2026-07-25T19:49:20.298009+00:00",
-      "last_seen_at": "2026-07-25T19:49:29.687012+00:00",
+      "last_seen_at": "2026-07-25T19:53:28.969517+00:00",
       "lead_hours": null,
       "source_trail": [
         {
@@ -1099,7 +1099,7 @@
       "source_name": "Greater Miami & The Beaches Hotel Association",
       "source_url": "https://members.gmbha.com/events",
       "first_seen_at": "2026-07-25T19:49:26.377175+00:00",
-      "last_seen_at": "2026-07-25T19:49:29.687012+00:00",
+      "last_seen_at": "2026-07-25T19:53:28.969517+00:00",
       "lead_hours": 556,
       "source_trail": [
         {
@@ -1140,7 +1140,7 @@
       "source_name": "Greater Miami & The Beaches Hotel Association",
       "source_url": "https://members.gmbha.com/events",
       "first_seen_at": "2026-07-25T19:49:26.381410+00:00",
-      "last_seen_at": "2026-07-25T19:49:29.687012+00:00",
+      "last_seen_at": "2026-07-25T19:53:28.969517+00:00",
       "lead_hours": 772,
       "source_trail": [
         {
