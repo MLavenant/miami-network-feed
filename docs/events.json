@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-25T13:12:19.722198+00:00",
+  "generated_at": "2026-07-25T15:36:50.628596+00:00",
   "timezone": "America/New_York",
   "version": 1,
-  "event_count": 81,
+  "event_count": 82,
   "events": [
     {
       "id": "315408b6b6c5ed6d504c77b619636ef7e68aa463",
@@ -30,7 +30,7 @@
       "source_name": "WR Chess",
       "source_url": "https://wr-chess.com/events/usa-vs-uzbekistan-wr-chess-match-2026",
       "first_seen_at": "2026-07-25T13:08:35.109827+00:00",
-      "last_seen_at": "2026-07-25T13:12:19.695503+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
       "lead_hours": -15,
       "source_trail": [
         {
@@ -67,7 +67,7 @@
       "source_name": "WR Chess",
       "source_url": "https://wr-chess.com/events/usa-vs-uzbekistan-wr-chess-match-2026",
       "first_seen_at": "2026-07-25T13:08:35.111401+00:00",
-      "last_seen_at": "2026-07-25T13:12:19.695503+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
       "lead_hours": 80,
       "source_trail": [
         {
@@ -103,7 +103,7 @@
       "source_name": "Haute Living",
       "source_url": "https://hauteliving.com/feed/",
       "first_seen_at": "2026-07-25T13:11:42.296486+00:00",
-      "last_seen_at": "2026-07-25T13:12:19.695503+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
       "lead_hours": -1,
       "source_trail": [
         {
@@ -140,7 +140,7 @@
       "source_name": "Luma Miami",
       "source_url": "https://luma.com/miami",
       "first_seen_at": "2026-07-25T13:06:32.598170+00:00",
-      "last_seen_at": "2026-07-25T13:12:19.695503+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
       "lead_hours": 7,
       "source_trail": [
         {
@@ -176,7 +176,7 @@
       "source_name": "The Bass",
       "source_url": "https://thebass.org/events/?ical=1",
       "first_seen_at": "2026-07-25T13:05:56.355426+00:00",
-      "last_seen_at": "2026-07-25T13:12:19.695503+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
       "lead_hours": 107,
       "source_trail": [
         {
@@ -213,7 +213,7 @@
       "source_name": "Luma Miami",
       "source_url": "https://luma.com/miami",
       "first_seen_at": "2026-07-25T13:06:32.599353+00:00",
-      "last_seen_at": "2026-07-25T13:12:19.695503+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
       "lead_hours": 9,
       "source_trail": [
         {
@@ -249,7 +249,7 @@
       "source_name": "City of Miami Beach Events",
       "source_url": "https://events.miamibeachfl.gov/events/?ical=1",
       "first_seen_at": "2026-07-25T13:05:54.043399+00:00",
-      "last_seen_at": "2026-07-25T13:12:19.695503+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
       "lead_hours": 78,
       "source_trail": [
         {
@@ -285,7 +285,7 @@
       "source_name": "The Bass",
       "source_url": "https://thebass.org/events/?ical=1",
       "first_seen_at": "2026-07-25T13:05:56.352921+00:00",
-      "last_seen_at": "2026-07-25T13:12:19.695503+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
       "lead_hours": 3,
       "source_trail": [
         {
@@ -327,7 +327,7 @@
       "source_name": "The Bass",
       "source_url": "https://thebass.org/events/?ical=1",
       "first_seen_at": "2026-07-25T13:05:56.353149+00:00",
-      "last_seen_at": "2026-07-25T13:12:19.695503+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
       "lead_hours": 7,
       "source_trail": [
         {
@@ -369,7 +369,7 @@
       "source_name": "ICA Miami",
       "source_url": "https://icamiami.org/calendar/",
       "first_seen_at": "2026-07-25T13:06:09.037390+00:00",
-      "last_seen_at": "2026-07-25T13:12:19.695503+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
       "lead_hours": 21,
       "source_trail": [
         {
@@ -405,7 +405,7 @@
       "source_name": "The Bass",
       "source_url": "https://thebass.org/events/?ical=1",
       "first_seen_at": "2026-07-25T13:05:56.353339+00:00",
-      "last_seen_at": "2026-07-25T13:12:19.695503+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
       "lead_hours": 27,
       "source_trail": [
         {
@@ -447,7 +447,7 @@
       "source_name": "The Bass",
       "source_url": "https://thebass.org/events/?ical=1",
       "first_seen_at": "2026-07-25T13:05:56.353543+00:00",
-      "last_seen_at": "2026-07-25T13:12:19.695503+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
       "lead_hours": 31,
       "source_trail": [
         {
@@ -489,7 +489,7 @@
       "source_name": "City of Miami Beach Events",
       "source_url": "https://events.miamibeachfl.gov/events/?ical=1",
       "first_seen_at": "2026-07-25T13:05:54.027524+00:00",
-      "last_seen_at": "2026-07-25T13:12:19.695503+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
       "lead_hours": 23,
       "source_trail": [
         {
@@ -525,7 +525,7 @@
       "source_name": "City of Miami Beach Events",
       "source_url": "https://events.miamibeachfl.gov/events/?ical=1",
       "first_seen_at": "2026-07-25T13:05:54.030062+00:00",
-      "last_seen_at": "2026-07-25T13:12:19.695503+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
       "lead_hours": 26,
       "source_trail": [
         {
@@ -561,7 +561,7 @@
       "source_name": "City of Miami Beach Events",
       "source_url": "https://events.miamibeachfl.gov/events/?ical=1",
       "first_seen_at": "2026-07-25T13:05:54.030840+00:00",
-      "last_seen_at": "2026-07-25T13:12:19.695503+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
       "lead_hours": 31,
       "source_trail": [
         {
@@ -597,7 +597,7 @@
       "source_name": "City of Miami Beach Events",
       "source_url": "https://events.miamibeachfl.gov/events/?ical=1",
       "first_seen_at": "2026-07-25T13:05:54.031562+00:00",
-      "last_seen_at": "2026-07-25T13:12:19.695503+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
       "lead_hours": 32,
       "source_trail": [
         {
@@ -633,7 +633,7 @@
       "source_name": "City of Miami Beach Events",
       "source_url": "https://events.miamibeachfl.gov/events/?ical=1",
       "first_seen_at": "2026-07-25T13:05:54.032058+00:00",
-      "last_seen_at": "2026-07-25T13:12:19.695503+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
       "lead_hours": 47,
       "source_trail": [
         {
@@ -669,7 +669,7 @@
       "source_name": "City of Miami Beach Events",
       "source_url": "https://events.miamibeachfl.gov/events/?ical=1",
       "first_seen_at": "2026-07-25T13:05:54.032515+00:00",
-      "last_seen_at": "2026-07-25T13:12:19.695503+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
       "lead_hours": 47,
       "source_trail": [
         {
@@ -705,7 +705,7 @@
       "source_name": "City of Miami Beach Events",
       "source_url": "https://events.miamibeachfl.gov/events/?ical=1",
       "first_seen_at": "2026-07-25T13:05:54.032985+00:00",
-      "last_seen_at": "2026-07-25T13:12:19.695503+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
       "lead_hours": 48,
       "source_trail": [
         {
@@ -741,7 +741,7 @@
       "source_name": "City of Miami Beach Events",
       "source_url": "https://events.miamibeachfl.gov/events/?ical=1",
       "first_seen_at": "2026-07-25T13:05:54.033303+00:00",
-      "last_seen_at": "2026-07-25T13:12:19.695503+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
       "lead_hours": 49,
       "source_trail": [
         {
@@ -777,7 +777,7 @@
       "source_name": "City of Miami Beach Events",
       "source_url": "https://events.miamibeachfl.gov/events/?ical=1",
       "first_seen_at": "2026-07-25T13:05:54.034044+00:00",
-      "last_seen_at": "2026-07-25T13:12:19.695503+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
       "lead_hours": 50,
       "source_trail": [
         {
@@ -813,7 +813,7 @@
       "source_name": "City of Miami Beach Events",
       "source_url": "https://events.miamibeachfl.gov/events/?ical=1",
       "first_seen_at": "2026-07-25T13:05:54.034936+00:00",
-      "last_seen_at": "2026-07-25T13:12:19.695503+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
       "lead_hours": 52,
       "source_trail": [
         {
@@ -849,7 +849,7 @@
       "source_name": "City of Miami Beach Events",
       "source_url": "https://events.miamibeachfl.gov/events/?ical=1",
       "first_seen_at": "2026-07-25T13:05:54.034599+00:00",
-      "last_seen_at": "2026-07-25T13:12:19.695503+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
       "lead_hours": 52,
       "source_trail": [
         {
@@ -885,7 +885,7 @@
       "source_name": "City of Miami Beach Events",
       "source_url": "https://events.miamibeachfl.gov/events/?ical=1",
       "first_seen_at": "2026-07-25T13:05:54.035445+00:00",
-      "last_seen_at": "2026-07-25T13:12:19.695503+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
       "lead_hours": 53,
       "source_trail": [
         {
@@ -921,7 +921,7 @@
       "source_name": "City of Miami Beach Events",
       "source_url": "https://events.miamibeachfl.gov/events/?ical=1",
       "first_seen_at": "2026-07-25T13:05:54.035972+00:00",
-      "last_seen_at": "2026-07-25T13:12:19.695503+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
       "lead_hours": 70,
       "source_trail": [
         {
@@ -957,7 +957,7 @@
       "source_name": "City of Miami Beach Events",
       "source_url": "https://events.miamibeachfl.gov/events/?ical=1",
       "first_seen_at": "2026-07-25T13:05:54.036411+00:00",
-      "last_seen_at": "2026-07-25T13:12:19.695503+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
       "lead_hours": 71,
       "source_trail": [
         {
@@ -993,7 +993,7 @@
       "source_name": "City of Miami Beach Events",
       "source_url": "https://events.miamibeachfl.gov/events/?ical=1",
       "first_seen_at": "2026-07-25T13:05:54.036849+00:00",
-      "last_seen_at": "2026-07-25T13:12:19.695503+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
       "lead_hours": 72,
       "source_trail": [
         {
@@ -1029,7 +1029,7 @@
       "source_name": "City of Miami Beach Events",
       "source_url": "https://events.miamibeachfl.gov/events/?ical=1",
       "first_seen_at": "2026-07-25T13:05:54.037291+00:00",
-      "last_seen_at": "2026-07-25T13:12:19.695503+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
       "lead_hours": 73,
       "source_trail": [
         {
@@ -1065,7 +1065,7 @@
       "source_name": "City of Miami Beach Events",
       "source_url": "https://events.miamibeachfl.gov/events/?ical=1",
       "first_seen_at": "2026-07-25T13:05:54.037776+00:00",
-      "last_seen_at": "2026-07-25T13:12:19.695503+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
       "lead_hours": 73,
       "source_trail": [
         {
@@ -1101,7 +1101,7 @@
       "source_name": "City of Miami Beach Events",
       "source_url": "https://events.miamibeachfl.gov/events/?ical=1",
       "first_seen_at": "2026-07-25T13:05:54.040010+00:00",
-      "last_seen_at": "2026-07-25T13:12:19.695503+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
       "lead_hours": 76,
       "source_trail": [
         {
@@ -1137,7 +1137,7 @@
       "source_name": "City of Miami Beach Events",
       "source_url": "https://events.miamibeachfl.gov/events/?ical=1",
       "first_seen_at": "2026-07-25T13:05:54.041286+00:00",
-      "last_seen_at": "2026-07-25T13:12:19.695503+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
       "lead_hours": 77,
       "source_trail": [
         {
@@ -1173,7 +1173,7 @@
       "source_name": "City of Miami Beach Events",
       "source_url": "https://events.miamibeachfl.gov/events/?ical=1",
       "first_seen_at": "2026-07-25T13:05:54.042171+00:00",
-      "last_seen_at": "2026-07-25T13:12:19.695503+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
       "lead_hours": 78,
       "source_trail": [
         {
@@ -1209,7 +1209,7 @@
       "source_name": "City of Miami Beach Events",
       "source_url": "https://events.miamibeachfl.gov/events/?ical=1",
       "first_seen_at": "2026-07-25T13:05:54.044826+00:00",
-      "last_seen_at": "2026-07-25T13:12:19.695503+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
       "lead_hours": 95,
       "source_trail": [
         {
@@ -1245,7 +1245,7 @@
       "source_name": "City of Miami Beach Events",
       "source_url": "https://events.miamibeachfl.gov/events/?ical=1",
       "first_seen_at": "2026-07-25T13:05:54.045329+00:00",
-      "last_seen_at": "2026-07-25T13:12:19.695503+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
       "lead_hours": 95,
       "source_trail": [
         {
@@ -1281,7 +1281,7 @@
       "source_name": "City of Miami Beach Events",
       "source_url": "https://events.miamibeachfl.gov/events/?ical=1",
       "first_seen_at": "2026-07-25T13:05:54.045822+00:00",
-      "last_seen_at": "2026-07-25T13:12:19.695503+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
       "lead_hours": 96,
       "source_trail": [
         {
@@ -1317,7 +1317,7 @@
       "source_name": "The Bass",
       "source_url": "https://thebass.org/events/?ical=1",
       "first_seen_at": "2026-07-25T13:05:56.353755+00:00",
-      "last_seen_at": "2026-07-25T13:12:19.695503+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
       "lead_hours": 50,
       "source_trail": [
         {
@@ -1359,7 +1359,7 @@
       "source_name": "The Bass",
       "source_url": "https://thebass.org/events/?ical=1",
       "first_seen_at": "2026-07-25T13:05:56.353945+00:00",
-      "last_seen_at": "2026-07-25T13:12:19.695503+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
       "lead_hours": 50,
       "source_trail": [
         {
@@ -1402,7 +1402,7 @@
       "source_name": "Luma Miami",
       "source_url": "https://luma.com/miami",
       "first_seen_at": "2026-07-25T13:06:32.600277+00:00",
-      "last_seen_at": "2026-07-25T13:12:19.695503+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
       "lead_hours": 57,
       "source_trail": [
         {
@@ -1438,7 +1438,7 @@
       "source_name": "The Bass",
       "source_url": "https://thebass.org/events/?ical=1",
       "first_seen_at": "2026-07-25T13:05:56.354125+00:00",
-      "last_seen_at": "2026-07-25T13:12:19.695503+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
       "lead_hours": 74,
       "source_trail": [
         {
@@ -1480,7 +1480,7 @@
       "source_name": "The Bass",
       "source_url": "https://thebass.org/events/?ical=1",
       "first_seen_at": "2026-07-25T13:05:56.354306+00:00",
-      "last_seen_at": "2026-07-25T13:12:19.695503+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
       "lead_hours": 74,
       "source_trail": [
         {
@@ -1522,7 +1522,7 @@
       "source_name": "The Bass",
       "source_url": "https://thebass.org/events/?ical=1",
       "first_seen_at": "2026-07-25T13:05:56.354480+00:00",
-      "last_seen_at": "2026-07-25T13:12:19.695503+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
       "lead_hours": 98,
       "source_trail": [
         {
@@ -1564,7 +1564,7 @@
       "source_name": "The Bass",
       "source_url": "https://thebass.org/events/?ical=1",
       "first_seen_at": "2026-07-25T13:05:56.355002+00:00",
-      "last_seen_at": "2026-07-25T13:12:19.695503+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
       "lead_hours": 98,
       "source_trail": [
         {
@@ -1607,7 +1607,7 @@
       "source_name": "Luma Miami",
       "source_url": "https://luma.com/miami",
       "first_seen_at": "2026-07-25T13:06:32.601300+00:00",
-      "last_seen_at": "2026-07-25T13:12:19.695503+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
       "lead_hours": 104,
       "source_trail": [
         {
@@ -1643,7 +1643,7 @@
       "source_name": "The Bass",
       "source_url": "https://thebass.org/events/?ical=1",
       "first_seen_at": "2026-07-25T13:05:56.355674+00:00",
-      "last_seen_at": "2026-07-25T13:12:19.695503+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
       "lead_hours": 122,
       "source_trail": [
         {
@@ -1679,7 +1679,7 @@
       "source_name": "The Bass",
       "source_url": "https://thebass.org/events/?ical=1",
       "first_seen_at": "2026-07-25T13:05:56.356037+00:00",
-      "last_seen_at": "2026-07-25T13:12:19.695503+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
       "lead_hours": 122,
       "source_trail": [
         {
@@ -1716,7 +1716,7 @@
       "source_name": "Luma Miami",
       "source_url": "https://luma.com/miami",
       "first_seen_at": "2026-07-25T13:06:32.602233+00:00",
-      "last_seen_at": "2026-07-25T13:12:19.695503+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
       "lead_hours": 128,
       "source_trail": [
         {
@@ -1753,7 +1753,7 @@
       "source_name": "Luma Miami",
       "source_url": "https://luma.com/miami",
       "first_seen_at": "2026-07-25T13:06:32.603124+00:00",
-      "last_seen_at": "2026-07-25T13:12:19.695503+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
       "lead_hours": 129,
       "source_trail": [
         {
@@ -1789,7 +1789,7 @@
       "source_name": "The Bass",
       "source_url": "https://thebass.org/events/?ical=1",
       "first_seen_at": "2026-07-25T13:05:56.356356+00:00",
-      "last_seen_at": "2026-07-25T13:12:19.695503+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
       "lead_hours": 146,
       "source_trail": [
         {
@@ -1825,7 +1825,7 @@
       "source_name": "The Bass",
       "source_url": "https://thebass.org/events/?ical=1",
       "first_seen_at": "2026-07-25T13:05:56.357129+00:00",
-      "last_seen_at": "2026-07-25T13:12:19.695503+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
       "lead_hours": 146,
       "source_trail": [
         {
@@ -1861,7 +1861,7 @@
       "source_name": "City of Miami Beach Events",
       "source_url": "https://events.miamibeachfl.gov/events/?ical=1",
       "first_seen_at": "2026-07-25T13:05:54.033611+00:00",
-      "last_seen_at": "2026-07-25T13:12:19.695503+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
       "lead_hours": 50,
       "source_trail": [
         {
@@ -1897,7 +1897,7 @@
       "source_name": "City of Miami Beach Events",
       "source_url": "https://events.miamibeachfl.gov/events/?ical=1",
       "first_seen_at": "2026-07-25T13:05:54.038701+00:00",
-      "last_seen_at": "2026-07-25T13:12:19.695503+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
       "lead_hours": 73,
       "source_trail": [
         {
@@ -1933,7 +1933,7 @@
       "source_name": "City of Miami Beach Events",
       "source_url": "https://events.miamibeachfl.gov/events/?ical=1",
       "first_seen_at": "2026-07-25T13:05:54.039258+00:00",
-      "last_seen_at": "2026-07-25T13:12:19.695503+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
       "lead_hours": 75,
       "source_trail": [
         {
@@ -1969,7 +1969,7 @@
       "source_name": "City of Miami Beach Events",
       "source_url": "https://events.miamibeachfl.gov/events/?ical=1",
       "first_seen_at": "2026-07-25T13:05:54.043841+00:00",
-      "last_seen_at": "2026-07-25T13:12:19.695503+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
       "lead_hours": 80,
       "source_trail": [
         {
@@ -2005,7 +2005,7 @@
       "source_name": "City of Miami Beach Events",
       "source_url": "https://events.miamibeachfl.gov/events/?ical=1",
       "first_seen_at": "2026-07-25T13:05:54.044319+00:00",
-      "last_seen_at": "2026-07-25T13:12:19.695503+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
       "lead_hours": 80,
       "source_trail": [
         {
@@ -2041,7 +2041,7 @@
       "source_name": "Beacon Council",
       "source_url": "https://www.beaconcouncil.com/events/?ical=1",
       "first_seen_at": "2026-07-25T13:06:01.182580+00:00",
-      "last_seen_at": "2026-07-25T13:12:19.695503+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
       "lead_hours": 116,
       "source_trail": [
         {
@@ -2077,7 +2077,7 @@
       "source_name": "The Bass",
       "source_url": "https://thebass.org/events/?ical=1",
       "first_seen_at": "2026-07-25T13:05:56.357549+00:00",
-      "last_seen_at": "2026-07-25T13:12:19.695503+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
       "lead_hours": 171,
       "source_trail": [
         {
@@ -2113,7 +2113,7 @@
       "source_name": "The Bass",
       "source_url": "https://thebass.org/events/?ical=1",
       "first_seen_at": "2026-07-25T13:05:56.357773+00:00",
-      "last_seen_at": "2026-07-25T13:12:19.695503+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
       "lead_hours": 175,
       "source_trail": [
         {
@@ -2150,7 +2150,7 @@
       "source_name": "Luma Miami",
       "source_url": "https://luma.com/miami",
       "first_seen_at": "2026-07-25T13:06:32.604294+00:00",
-      "last_seen_at": "2026-07-25T13:12:19.695503+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
       "lead_hours": 192,
       "source_trail": [
         {
@@ -2186,7 +2186,7 @@
       "source_name": "The Bass",
       "source_url": "https://thebass.org/events/?ical=1",
       "first_seen_at": "2026-07-25T13:05:56.358170+00:00",
-      "last_seen_at": "2026-07-25T13:12:19.695503+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
       "lead_hours": 195,
       "source_trail": [
         {
@@ -2222,7 +2222,7 @@
       "source_name": "The Bass",
       "source_url": "https://thebass.org/events/?ical=1",
       "first_seen_at": "2026-07-25T13:05:56.359883+00:00",
-      "last_seen_at": "2026-07-25T13:12:19.695503+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
       "lead_hours": 218,
       "source_trail": [
         {
@@ -2258,7 +2258,7 @@
       "source_name": "The Bass",
       "source_url": "https://thebass.org/events/?ical=1",
       "first_seen_at": "2026-07-25T13:05:56.359060+00:00",
-      "last_seen_at": "2026-07-25T13:12:19.695503+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
       "lead_hours": 218,
       "source_trail": [
         {
@@ -2294,7 +2294,7 @@
       "source_name": "The Bass",
       "source_url": "https://thebass.org/events/?ical=1",
       "first_seen_at": "2026-07-25T13:05:56.360390+00:00",
-      "last_seen_at": "2026-07-25T13:12:19.695503+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
       "lead_hours": 242,
       "source_trail": [
         {
@@ -2330,7 +2330,7 @@
       "source_name": "The Bass",
       "source_url": "https://thebass.org/events/?ical=1",
       "first_seen_at": "2026-07-25T13:05:56.360172+00:00",
-      "last_seen_at": "2026-07-25T13:12:19.695503+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
       "lead_hours": 242,
       "source_trail": [
         {
@@ -2366,7 +2366,7 @@
       "source_name": "The Bass",
       "source_url": "https://thebass.org/events/?ical=1",
       "first_seen_at": "2026-07-25T13:05:56.360748+00:00",
-      "last_seen_at": "2026-07-25T13:12:19.695503+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
       "lead_hours": 266,
       "source_trail": [
         {
@@ -2402,7 +2402,7 @@
       "source_name": "The Bass",
       "source_url": "https://thebass.org/events/?ical=1",
       "first_seen_at": "2026-07-25T13:05:56.360576+00:00",
-      "last_seen_at": "2026-07-25T13:12:19.695503+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
       "lead_hours": 266,
       "source_trail": [
         {
@@ -2438,7 +2438,7 @@
       "source_name": "The Bass",
       "source_url": "https://thebass.org/events/?ical=1",
       "first_seen_at": "2026-07-25T13:05:56.361252+00:00",
-      "last_seen_at": "2026-07-25T13:12:19.695503+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
       "lead_hours": 290,
       "source_trail": [
         {
@@ -2474,7 +2474,7 @@
       "source_name": "The Bass",
       "source_url": "https://thebass.org/events/?ical=1",
       "first_seen_at": "2026-07-25T13:05:56.361070+00:00",
-      "last_seen_at": "2026-07-25T13:12:19.695503+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
       "lead_hours": 290,
       "source_trail": [
         {
@@ -2511,7 +2511,7 @@
       "source_name": "Luma Miami",
       "source_url": "https://luma.com/miami",
       "first_seen_at": "2026-07-25T13:06:32.605215+00:00",
-      "last_seen_at": "2026-07-25T13:12:19.695503+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
       "lead_hours": 294,
       "source_trail": [
         {
@@ -2547,7 +2547,7 @@
       "source_name": "The Bass",
       "source_url": "https://thebass.org/events/?ical=1",
       "first_seen_at": "2026-07-25T13:05:56.361582+00:00",
-      "last_seen_at": "2026-07-25T13:12:19.695503+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
       "lead_hours": 314,
       "source_trail": [
         {
@@ -2583,7 +2583,7 @@
       "source_name": "The Bass",
       "source_url": "https://thebass.org/events/?ical=1",
       "first_seen_at": "2026-07-25T13:05:56.361415+00:00",
-      "last_seen_at": "2026-07-25T13:12:19.695503+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
       "lead_hours": 314,
       "source_trail": [
         {
@@ -2619,7 +2619,7 @@
       "source_name": "The Bass",
       "source_url": "https://thebass.org/events/?ical=1",
       "first_seen_at": "2026-07-25T13:05:56.361802+00:00",
-      "last_seen_at": "2026-07-25T13:12:19.695503+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
       "lead_hours": 339,
       "source_trail": [
         {
@@ -2655,7 +2655,7 @@
       "source_name": "The Bass",
       "source_url": "https://thebass.org/events/?ical=1",
       "first_seen_at": "2026-07-25T13:05:56.361962+00:00",
-      "last_seen_at": "2026-07-25T13:12:19.695503+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
       "lead_hours": 343,
       "source_trail": [
         {
@@ -2692,7 +2692,7 @@
       "source_name": "Luma Miami",
       "source_url": "https://luma.com/miami",
       "first_seen_at": "2026-07-25T13:06:32.606277+00:00",
-      "last_seen_at": "2026-07-25T13:12:19.695503+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
       "lead_hours": 441,
       "source_trail": [
         {
@@ -2729,7 +2729,7 @@
       "source_name": "Luma Miami",
       "source_url": "https://luma.com/miami",
       "first_seen_at": "2026-07-25T13:06:32.607324+00:00",
-      "last_seen_at": "2026-07-25T13:12:19.695503+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
       "lead_hours": 465,
       "source_trail": [
         {
@@ -2766,7 +2766,7 @@
       "source_name": "Luma Miami",
       "source_url": "https://luma.com/miami",
       "first_seen_at": "2026-07-25T13:06:32.608309+00:00",
-      "last_seen_at": "2026-07-25T13:12:19.695503+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
       "lead_hours": 509,
       "source_trail": [
         {
@@ -2803,7 +2803,7 @@
       "source_name": "Luma Miami",
       "source_url": "https://luma.com/miami",
       "first_seen_at": "2026-07-25T13:06:32.609402+00:00",
-      "last_seen_at": "2026-07-25T13:12:19.695503+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
       "lead_hours": 512,
       "source_trail": [
         {
@@ -2840,7 +2840,7 @@
       "source_name": "Luma Miami",
       "source_url": "https://luma.com/miami",
       "first_seen_at": "2026-07-25T13:06:32.610443+00:00",
-      "last_seen_at": "2026-07-25T13:12:19.695503+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
       "lead_hours": 609,
       "source_trail": [
         {
@@ -2876,7 +2876,7 @@
       "source_name": "Beacon Council RSS",
       "source_url": "https://www.beaconcouncil.com/events/feed/",
       "first_seen_at": "2026-07-25T13:06:01.470037+00:00",
-      "last_seen_at": "2026-07-25T13:12:19.695503+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
       "lead_hours": 116,
       "source_trail": [
         {
@@ -2912,7 +2912,7 @@
       "source_name": "Beacon Council",
       "source_url": "https://www.beaconcouncil.com/events/?ical=1",
       "first_seen_at": "2026-07-25T13:06:01.182941+00:00",
-      "last_seen_at": "2026-07-25T13:12:19.695503+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
       "lead_hours": 214,
       "source_trail": [
         {
@@ -2947,7 +2947,7 @@
       "source_name": "Loews Miami Beach",
       "source_url": "https://www.loewshotels.com/miami-beach/event-calendar",
       "first_seen_at": "2026-07-25T13:10:19.998461+00:00",
-      "last_seen_at": "2026-07-25T13:12:19.695503+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
       "lead_hours": -14,
       "source_trail": [
         {
@@ -2983,7 +2983,7 @@
       "source_name": "Beacon Council RSS",
       "source_url": "https://www.beaconcouncil.com/events/feed/",
       "first_seen_at": "2026-07-25T13:06:01.472995+00:00",
-      "last_seen_at": "2026-07-25T13:12:19.695503+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
       "lead_hours": 214,
       "source_trail": [
         {
@@ -2991,6 +2991,48 @@
           "source_name": "Beacon Council RSS",
           "seen_at": "2026-07-25T13:06:01.472995+00:00",
           "url": "https://www.beaconcouncil.com/event/introduction-to-harb-specter-aerospace/"
+        }
+      ]
+    },
+    {
+      "id": "820bdb10fad491590fffacf0fadcc171750fb7bb",
+      "title": "Q4 International Advisory Council Meeting",
+      "summary": "Featuring Italy, including remarks by Italian Consul General Misto Michele as well as a spotlight on Italian business “Eataly” located in Aventura. The post Q4 International Advisory Council Meeting appeared first on Miami-Dade Beacon Council .",
+      "starts_at": "2026-09-08T15:00:00+00:00",
+      "ends_at": null,
+      "all_day": false,
+      "venue": "",
+      "neighborhood": "Miami",
+      "city": "Miami",
+      "url": "https://www.beaconcouncil.com/event/q4-international-advisory-council-meeting/",
+      "rsvp_url": "https://www.beaconcouncil.com/event/q4-international-advisory-council-meeting/",
+      "image_url": null,
+      "access": "public",
+      "categories": [
+        "networking",
+        "real_estate"
+      ],
+      "score": 32,
+      "confidence": 0.7,
+      "why_it_matters": "From Beacon Council RSS",
+      "source_id": "beacon_council_rss",
+      "source_name": "Beacon Council RSS",
+      "source_url": "https://www.beaconcouncil.com/events/feed/",
+      "first_seen_at": "2026-07-25T15:36:17.476283+00:00",
+      "last_seen_at": "2026-07-25T15:36:50.615605+00:00",
+      "lead_hours": 1079,
+      "source_trail": [
+        {
+          "source_id": "beacon_council",
+          "source_name": "Beacon Council",
+          "seen_at": "2026-07-25T15:36:16.392499+00:00",
+          "url": "https://www.beaconcouncil.com/event/q4-international-advisory-council-meeting/"
+        },
+        {
+          "source_id": "beacon_council_rss",
+          "source_name": "Beacon Council RSS",
+          "seen_at": "2026-07-25T15:36:17.476283+00:00",
+          "url": "https://www.beaconcouncil.com/event/q4-international-advisory-council-meeting/"
         }
       ]
     }
