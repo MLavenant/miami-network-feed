@@ -3,8 +3,13 @@
 Public JSON feed of fine / luxury / hospitality / networking events in Miami.
 Refreshed daily by GitHub Actions. Consumed by Matthias’s personal Command dashboard Network tab.
 
-**Live feed (after Pages is enabled):**
+**Live feed:**
 `https://mlavenant.github.io/miami-network-feed/events.json`
+
+**CDN mirror (CORS-friendly):**
+`https://cdn.jsdelivr.net/gh/MLavenant/miami-network-feed@main/docs/events.json`
+
+**Repo:** https://github.com/MLavenant/miami-network-feed
 
 ## What this is
 
