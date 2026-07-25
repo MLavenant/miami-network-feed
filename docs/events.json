@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T18:44:53.576206+00:00",
+  "generated_at": "2026-07-25T18:50:00.402148+00:00",
   "timezone": "America/New_York",
   "version": 1,
   "event_count": 9,
@@ -92,7 +92,7 @@
       "source_name": "WR Chess",
       "source_url": "https://wr-chess.com/events/usa-vs-uzbekistan-wr-chess-match-2026",
       "first_seen_at": "2026-07-25T13:08:35.111401+00:00",
-      "last_seen_at": "2026-07-25T18:44:53.506501+00:00",
+      "last_seen_at": "2026-07-25T18:50:00.383493+00:00",
       "lead_hours": 80,
       "source_trail": [
         {
@@ -132,7 +132,7 @@
       "source_name": "Haute Living",
       "source_url": "https://hauteliving.com/feed/",
       "first_seen_at": "2026-07-25T18:40:53.430713+00:00",
-      "last_seen_at": "2026-07-25T18:44:53.506501+00:00",
+      "last_seen_at": "2026-07-25T18:50:00.383493+00:00",
       "lead_hours": null,
       "source_trail": [
         {
@@ -172,7 +172,7 @@
       "source_name": "Haute Living",
       "source_url": "https://hauteliving.com/feed/",
       "first_seen_at": "2026-07-25T18:40:53.444550+00:00",
-      "last_seen_at": "2026-07-25T18:44:53.506501+00:00",
+      "last_seen_at": "2026-07-25T18:50:00.383493+00:00",
       "lead_hours": null,
       "source_trail": [
         {
@@ -213,7 +213,7 @@
       "source_name": "Luma Miami",
       "source_url": "https://luma.com/miami",
       "first_seen_at": "2026-07-25T13:06:32.598170+00:00",
-      "last_seen_at": "2026-07-25T18:44:53.506501+00:00",
+      "last_seen_at": "2026-07-25T18:50:00.383493+00:00",
       "lead_hours": 7,
       "source_trail": [
         {
@@ -253,7 +253,7 @@
       "source_name": "The Bass",
       "source_url": "https://thebass.org/events/?ical=1",
       "first_seen_at": "2026-07-25T13:05:56.355426+00:00",
-      "last_seen_at": "2026-07-25T18:44:53.506501+00:00",
+      "last_seen_at": "2026-07-25T18:50:00.383493+00:00",
       "lead_hours": 107,
       "source_trail": [
         {
@@ -294,7 +294,7 @@
       "source_name": "Luma Miami",
       "source_url": "https://luma.com/miami",
       "first_seen_at": "2026-07-25T13:06:32.603124+00:00",
-      "last_seen_at": "2026-07-25T18:44:53.506501+00:00",
+      "last_seen_at": "2026-07-25T18:50:00.383493+00:00",
       "lead_hours": 129,
       "source_trail": [
         {
@@ -334,7 +334,7 @@
       "source_name": "Haute Living",
       "source_url": "https://hauteliving.com/feed/",
       "first_seen_at": "2026-07-25T18:40:53.413956+00:00",
-      "last_seen_at": "2026-07-25T18:44:53.506501+00:00",
+      "last_seen_at": "2026-07-25T18:50:00.383493+00:00",
       "lead_hours": null,
       "source_trail": [
         {
@@ -374,7 +374,7 @@
       "source_name": "Greater Miami & The Beaches Hotel Association",
       "source_url": "https://members.gmbha.com/events",
       "first_seen_at": "2026-07-25T18:37:20.956103+00:00",
-      "last_seen_at": "2026-07-25T18:44:53.506501+00:00",
+      "last_seen_at": "2026-07-25T18:50:00.383493+00:00",
       "lead_hours": 557,
       "source_trail": [
         {
@@ -414,7 +414,7 @@
       "source_name": "Greater Miami & The Beaches Hotel Association",
       "source_url": "https://members.gmbha.com/events",
       "first_seen_at": "2026-07-25T18:37:20.958178+00:00",
-      "last_seen_at": "2026-07-25T18:44:53.506501+00:00",
+      "last_seen_at": "2026-07-25T18:50:00.383493+00:00",
       "lead_hours": 773,
       "source_trail": [
         {
