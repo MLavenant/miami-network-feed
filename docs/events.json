@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-25T19:53:41.537879+00:00",
+  "generated_at": "2026-07-26T14:50:18.999051+00:00",
   "timezone": "America/New_York",
   "version": 1,
-  "event_count": 14,
+  "event_count": 16,
   "industries": [
     "hospitality",
     "sports",
@@ -564,10 +564,10 @@
   ],
   "events": [
     {
-      "id": "7029026fb3904b18106d2c957dcaaf04699fc56a",
+      "id": "8d2d4a515f0c68510c5009589791a8276fa5b730",
       "title": "OBSESSION",
       "summary": "OBSESSION - Faena Theater's new original live production!",
-      "starts_at": "2026-07-25T20:00:00-04:00",
+      "starts_at": "2026-07-30T20:00:00-04:00",
       "ends_at": null,
       "all_day": false,
       "venue": "Faena Theater",
@@ -587,20 +587,20 @@
       "contact_url": "https://forms.rosemembers.faena.com/membership-interest",
       "contact_email": null,
       "ask_for": "Faena Theater box office for public tickets; Faena Rose Membership Team for Rose programming",
-      "score": 96,
+      "score": 90,
       "confidence": 0.98,
       "why_it_matters": "Listed on Faena Miami Beach — luxury / hospitality keywords — at Faena Theater",
       "source_id": "faena",
       "source_name": "Faena Miami Beach",
       "source_url": "https://www.faena.com/miami-beach/things-to-do",
-      "first_seen_at": "2026-07-25T19:49:12.274768+00:00",
-      "last_seen_at": "2026-07-25T19:53:28.969517+00:00",
-      "lead_hours": 4,
+      "first_seen_at": "2026-07-26T14:49:45.947750+00:00",
+      "last_seen_at": "2026-07-26T14:50:06.407108+00:00",
+      "lead_hours": 105,
       "source_trail": [
         {
           "source_id": "faena",
           "source_name": "Faena Miami Beach",
-          "seen_at": "2026-07-25T19:49:12.274768+00:00",
+          "seen_at": "2026-07-26T14:49:45.947750+00:00",
           "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/obsession"
         }
       ]
@@ -636,7 +636,7 @@
       "source_name": "Faena Miami Beach",
       "source_url": "https://www.faena.com/miami-beach/things-to-do",
       "first_seen_at": "2026-07-25T19:49:26.385809+00:00",
-      "last_seen_at": "2026-07-25T19:53:28.969517+00:00",
+      "last_seen_at": "2026-07-26T14:50:06.407108+00:00",
       "lead_hours": 164,
       "source_trail": [
         {
@@ -644,6 +644,48 @@
           "source_name": "Faena Miami Beach",
           "seen_at": "2026-07-25T19:49:26.385809+00:00",
           "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/miami-spice-at-faena"
+        }
+      ]
+    },
+    {
+      "id": "b63a939cac152c4020566995f876fda70f9f1397",
+      "title": "A Martini Affair",
+      "summary": "Discover A Martini Affair at Faena Miami Beach, a weekly Monday martini and caviar experience at The Living Room featuring Osetra caviar pairings and signature Bombay Sapphire and Grey Goose cocktails.",
+      "starts_at": "2026-07-27T18:00:00-04:00",
+      "ends_at": null,
+      "all_day": false,
+      "venue": "The Living Room",
+      "neighborhood": "Miami Beach",
+      "city": "Miami Beach",
+      "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/a-martini-affair",
+      "rsvp_url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/a-martini-affair",
+      "image_url": null,
+      "access": "application",
+      "industry": "hospitality",
+      "categories": [
+        "hospitality",
+        "luxury",
+        "nightlife"
+      ],
+      "access_tip": "Use the event booking link for public programming. For Faena Rose events, submit the official membership-interest form.",
+      "contact_url": "https://forms.rosemembers.faena.com/membership-interest",
+      "contact_email": null,
+      "ask_for": "Faena Theater box office for public tickets; Faena Rose Membership Team for Rose programming",
+      "score": 88,
+      "confidence": 0.98,
+      "why_it_matters": "Listed on Faena Miami Beach — luxury / hospitality keywords — at The Living Room",
+      "source_id": "faena",
+      "source_name": "Faena Miami Beach",
+      "source_url": "https://www.faena.com/miami-beach/things-to-do",
+      "first_seen_at": "2026-07-25T19:49:23.647335+00:00",
+      "last_seen_at": "2026-07-26T14:50:06.407108+00:00",
+      "lead_hours": 50,
+      "source_trail": [
+        {
+          "source_id": "faena",
+          "source_name": "Faena Miami Beach",
+          "seen_at": "2026-07-25T19:49:23.647335+00:00",
+          "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/a-martini-affair"
         }
       ]
     },
@@ -678,7 +720,7 @@
       "source_name": "WR Chess",
       "source_url": "https://wr-chess.com/events/usa-vs-uzbekistan-wr-chess-match-2026",
       "first_seen_at": "2026-07-25T19:49:11.251408+00:00",
-      "last_seen_at": "2026-07-25T19:53:28.969517+00:00",
+      "last_seen_at": "2026-07-26T14:50:06.407108+00:00",
       "lead_hours": 74,
       "source_trail": [
         {
@@ -720,7 +762,7 @@
       "source_name": "Faena Miami Beach",
       "source_url": "https://www.faena.com/miami-beach/things-to-do",
       "first_seen_at": "2026-07-25T19:49:16.875892+00:00",
-      "last_seen_at": "2026-07-25T19:53:28.969517+00:00",
+      "last_seen_at": "2026-07-26T14:50:06.407108+00:00",
       "lead_hours": 20,
       "source_trail": [
         {
@@ -761,7 +803,7 @@
       "source_name": "Haute Living",
       "source_url": "https://hauteliving.com/feed/",
       "first_seen_at": "2026-07-25T19:49:20.308221+00:00",
-      "last_seen_at": "2026-07-25T19:53:28.969517+00:00",
+      "last_seen_at": "2026-07-26T14:50:06.407108+00:00",
       "lead_hours": null,
       "source_trail": [
         {
@@ -769,48 +811,6 @@
           "source_name": "Haute Living",
           "seen_at": "2026-07-25T19:49:20.308221+00:00",
           "url": "https://hauteliving.com/2026/07/south-florida-luxury-real-estate-ai-visibility-index/792866/"
-        }
-      ]
-    },
-    {
-      "id": "b63a939cac152c4020566995f876fda70f9f1397",
-      "title": "A Martini Affair",
-      "summary": "Discover A Martini Affair at Faena Miami Beach, a weekly Monday martini and caviar experience at The Living Room featuring Osetra caviar pairings and signature Bombay Sapphire and Grey Goose cocktails.",
-      "starts_at": "2026-07-27T18:00:00-04:00",
-      "ends_at": null,
-      "all_day": false,
-      "venue": "The Living Room",
-      "neighborhood": "Miami Beach",
-      "city": "Miami Beach",
-      "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/a-martini-affair",
-      "rsvp_url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/a-martini-affair",
-      "image_url": null,
-      "access": "application",
-      "industry": "hospitality",
-      "categories": [
-        "hospitality",
-        "luxury",
-        "nightlife"
-      ],
-      "access_tip": "Use the event booking link for public programming. For Faena Rose events, submit the official membership-interest form.",
-      "contact_url": "https://forms.rosemembers.faena.com/membership-interest",
-      "contact_email": null,
-      "ask_for": "Faena Theater box office for public tickets; Faena Rose Membership Team for Rose programming",
-      "score": 82,
-      "confidence": 0.98,
-      "why_it_matters": "Listed on Faena Miami Beach — luxury / hospitality keywords — at The Living Room",
-      "source_id": "faena",
-      "source_name": "Faena Miami Beach",
-      "source_url": "https://www.faena.com/miami-beach/things-to-do",
-      "first_seen_at": "2026-07-25T19:49:23.647335+00:00",
-      "last_seen_at": "2026-07-25T19:53:28.969517+00:00",
-      "lead_hours": 50,
-      "source_trail": [
-        {
-          "source_id": "faena",
-          "source_name": "Faena Miami Beach",
-          "seen_at": "2026-07-25T19:49:23.647335+00:00",
-          "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/a-martini-affair"
         }
       ]
     },
@@ -845,7 +845,7 @@
       "source_name": "Faena Miami Beach",
       "source_url": "https://www.faena.com/miami-beach/things-to-do",
       "first_seen_at": "2026-07-25T19:49:18.112785+00:00",
-      "last_seen_at": "2026-07-25T19:53:28.969517+00:00",
+      "last_seen_at": "2026-07-26T14:50:06.407108+00:00",
       "lead_hours": 76,
       "source_trail": [
         {
@@ -887,7 +887,7 @@
       "source_name": "Backgammon Social Miami",
       "source_url": "https://luma.com/backgammonsocialmiami",
       "first_seen_at": "2026-07-25T19:49:28.333870+00:00",
-      "last_seen_at": "2026-07-25T19:53:28.969517+00:00",
+      "last_seen_at": "2026-07-26T14:50:06.407108+00:00",
       "lead_hours": 123,
       "source_trail": [
         {
@@ -934,7 +934,7 @@
       "source_name": "Haute Living",
       "source_url": "https://hauteliving.com/feed/",
       "first_seen_at": "2026-07-25T19:49:20.314006+00:00",
-      "last_seen_at": "2026-07-25T19:53:28.969517+00:00",
+      "last_seen_at": "2026-07-26T14:50:06.407108+00:00",
       "lead_hours": null,
       "source_trail": [
         {
@@ -942,48 +942,6 @@
           "source_name": "Haute Living",
           "seen_at": "2026-07-25T19:49:20.314006+00:00",
           "url": "https://hauteliving.com/2026/07/haute-living-and-dagrosa-capital-celebrate-the-kempinski-residences-miami-design-district-sales-gallery/792760/"
-        }
-      ]
-    },
-    {
-      "id": "0b5c7cc14375316e9b493cd46e57d076c608a070",
-      "title": "Sense N' Style Magazine Launch: The Founder's Summit",
-      "summary": "",
-      "starts_at": "2026-07-25T17:00:00-04:00",
-      "ends_at": "2026-07-25T21:30:00-04:00",
-      "all_day": false,
-      "venue": "Dua Miami, Autograph Collection",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://luma.com/mnea6tmj",
-      "rsvp_url": "https://luma.com/mnea6tmj",
-      "image_url": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/https://images.unsplash.com/photo-1518645666305-5f5e7469e52a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjQyMjF8MHwxfHNlYXJjaHw5fHxnYWxhfGVufDB8fHx8MTc4MzM4NjM4MXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "access": "public",
-      "industry": "hospitality",
-      "categories": [
-        "culture",
-        "networking",
-        "nightlife"
-      ],
-      "access_tip": "Open the official source for current admission details. Reserve early if a booking option is shown.",
-      "contact_url": "https://luma.com/mnea6tmj",
-      "contact_email": null,
-      "ask_for": "Sense N' Style Magazine",
-      "score": 74,
-      "confidence": 0.8,
-      "why_it_matters": "From Luma Miami — networking keywords — at Dua Miami, Autograph Collection",
-      "source_id": "luma_miami",
-      "source_name": "Luma Miami",
-      "source_url": "https://luma.com/miami",
-      "first_seen_at": "2026-07-25T19:49:29.671865+00:00",
-      "last_seen_at": "2026-07-25T19:53:28.969517+00:00",
-      "lead_hours": 1,
-      "source_trail": [
-        {
-          "source_id": "luma_miami",
-          "source_name": "Luma Miami",
-          "seen_at": "2026-07-25T19:49:29.671865+00:00",
-          "url": "https://luma.com/mnea6tmj"
         }
       ]
     },
@@ -1017,7 +975,7 @@
       "source_name": "The Bass",
       "source_url": "https://thebass.org/events/?ical=1",
       "first_seen_at": "2026-07-25T19:49:11.106160+00:00",
-      "last_seen_at": "2026-07-25T19:53:28.969517+00:00",
+      "last_seen_at": "2026-07-26T14:50:06.407108+00:00",
       "lead_hours": 101,
       "source_trail": [
         {
@@ -1058,7 +1016,7 @@
       "source_name": "Haute Living",
       "source_url": "https://hauteliving.com/feed/",
       "first_seen_at": "2026-07-25T19:49:20.298009+00:00",
-      "last_seen_at": "2026-07-25T19:53:28.969517+00:00",
+      "last_seen_at": "2026-07-26T14:50:06.407108+00:00",
       "lead_hours": null,
       "source_trail": [
         {
@@ -1066,6 +1024,89 @@
           "source_name": "Haute Living",
           "seen_at": "2026-07-25T19:49:20.298009+00:00",
           "url": "https://hauteliving.com/2026/07/wr-chess-brings-elite-international-team-tournament-to-miami-with-historic-u-s-debut/792999/"
+        }
+      ]
+    },
+    {
+      "id": "69eddea7fa6cc74740733643d728eeb16e626287",
+      "title": "Future Bass Private Dinner with Artist Sara Zapata",
+      "summary": "",
+      "starts_at": "2026-07-30T01:00:00+00:00",
+      "ends_at": null,
+      "all_day": false,
+      "venue": "",
+      "neighborhood": "Miami",
+      "city": "Miami",
+      "url": "https://thebass.org/event/future-bass-private-dinner-with-artist-sara-zapata/",
+      "rsvp_url": "https://thebass.org/event/future-bass-private-dinner-with-artist-sara-zapata/",
+      "image_url": null,
+      "access": "invitation-only",
+      "industry": "culinary",
+      "categories": [
+        "art",
+        "culture"
+      ],
+      "access_tip": "No public RSVP is listed. Follow the official organizer and venue, join their newsletter, then request a host, member, concierge or PR introduction. Never use unofficial ticket links.",
+      "contact_url": "https://thebass.org/event/future-bass-private-dinner-with-artist-sara-zapata/",
+      "contact_email": null,
+      "ask_for": "",
+      "score": 66,
+      "confidence": 0.8,
+      "why_it_matters": "From The Bass RSS — invitation-only access — luxury / hospitality keywords",
+      "source_id": "the_bass_rss",
+      "source_name": "The Bass RSS",
+      "source_url": "https://thebass.org/events/feed/",
+      "first_seen_at": "2026-07-26T14:49:46.484042+00:00",
+      "last_seen_at": "2026-07-26T14:50:06.407108+00:00",
+      "lead_hours": 82,
+      "source_trail": [
+        {
+          "source_id": "the_bass_rss",
+          "source_name": "The Bass RSS",
+          "seen_at": "2026-07-26T14:49:46.484042+00:00",
+          "url": "https://thebass.org/event/future-bass-private-dinner-with-artist-sara-zapata/"
+        }
+      ]
+    },
+    {
+      "id": "3d1af5067e177ac7d05d55982d9a2f42f7bb27a6",
+      "title": "The Pink Files Brunch Launch",
+      "summary": "",
+      "starts_at": "2026-08-08T12:00:00-04:00",
+      "ends_at": "2026-08-08T13:30:00-04:00",
+      "all_day": false,
+      "venue": "Miami, FL",
+      "neighborhood": "Miami",
+      "city": "Miami",
+      "url": "https://luma.com/doso5d1y",
+      "rsvp_url": "https://luma.com/doso5d1y",
+      "image_url": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/https://images.unsplash.com/photo-1593413972998-427bb3b8a654?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjQyMjF8MHwxfHNlYXJjaHw0OXx8UGlua3xlbnwwfHx8fDE3ODQ2MTk4ODF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "access": "public",
+      "industry": "hospitality",
+      "categories": [
+        "culture",
+        "networking",
+        "nightlife"
+      ],
+      "access_tip": "Open the official source for current admission details. Reserve early if a booking option is shown.",
+      "contact_url": "https://luma.com/doso5d1y",
+      "contact_email": null,
+      "ask_for": "Nicki",
+      "score": 56,
+      "confidence": 0.8,
+      "why_it_matters": "From Luma Miami — networking keywords — at Miami, FL",
+      "source_id": "luma_miami",
+      "source_name": "Luma Miami",
+      "source_url": "https://luma.com/miami",
+      "first_seen_at": "2026-07-26T14:49:57.993307+00:00",
+      "last_seen_at": "2026-07-26T14:50:06.407108+00:00",
+      "lead_hours": 313,
+      "source_trail": [
+        {
+          "source_id": "luma_miami",
+          "source_name": "Luma Miami",
+          "seen_at": "2026-07-26T14:49:57.993307+00:00",
+          "url": "https://luma.com/doso5d1y"
         }
       ]
     },
@@ -1099,7 +1140,7 @@
       "source_name": "Greater Miami & The Beaches Hotel Association",
       "source_url": "https://members.gmbha.com/events",
       "first_seen_at": "2026-07-25T19:49:26.377175+00:00",
-      "last_seen_at": "2026-07-25T19:53:28.969517+00:00",
+      "last_seen_at": "2026-07-26T14:50:06.407108+00:00",
       "lead_hours": 556,
       "source_trail": [
         {
@@ -1140,7 +1181,7 @@
       "source_name": "Greater Miami & The Beaches Hotel Association",
       "source_url": "https://members.gmbha.com/events",
       "first_seen_at": "2026-07-25T19:49:26.381410+00:00",
-      "last_seen_at": "2026-07-25T19:53:28.969517+00:00",
+      "last_seen_at": "2026-07-26T14:50:06.407108+00:00",
       "lead_hours": 772,
       "source_trail": [
         {
@@ -1148,6 +1189,46 @@
           "source_name": "Greater Miami & The Beaches Hotel Association",
           "seen_at": "2026-07-25T19:49:26.381410+00:00",
           "url": "https://members.gmbha.com/events/Details/executive-board-meeting-hospitality-unwind-1859378?sourceTypeId=Website"
+        }
+      ]
+    },
+    {
+      "id": "e5d54ab9a234e45629d3ed6544e234de3f6c8ebf",
+      "title": "View our Event Calendar",
+      "summary": "Home » Resort Home » View our Event Calendar » July 2026",
+      "starts_at": "2026-07-26T00:00:00+00:00",
+      "ends_at": null,
+      "all_day": false,
+      "venue": "",
+      "neighborhood": "Miami",
+      "city": "Miami",
+      "url": "https://www.loewshotels.com/miami-beach/event-calendar",
+      "rsvp_url": "https://www.loewshotels.com/miami-beach/event-calendar",
+      "image_url": null,
+      "access": "public",
+      "industry": "hospitality",
+      "categories": [
+        "hospitality"
+      ],
+      "access_tip": "Open the official source for current admission details. Reserve early if a booking option is shown.",
+      "contact_url": "https://www.loewshotels.com/miami-beach/event-calendar",
+      "contact_email": null,
+      "ask_for": "",
+      "score": 42,
+      "confidence": 0.7,
+      "why_it_matters": "From Loews Miami Beach",
+      "source_id": "loews_miami",
+      "source_name": "Loews Miami Beach",
+      "source_url": "https://www.loewshotels.com/miami-beach/event-calendar",
+      "first_seen_at": "2026-07-26T14:49:46.481030+00:00",
+      "last_seen_at": "2026-07-26T14:50:06.407108+00:00",
+      "lead_hours": -15,
+      "source_trail": [
+        {
+          "source_id": "loews_miami",
+          "source_name": "Loews Miami Beach",
+          "seen_at": "2026-07-26T14:49:46.481030+00:00",
+          "url": "https://www.loewshotels.com/miami-beach/event-calendar"
         }
       ]
     }
