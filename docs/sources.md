@@ -38,7 +38,7 @@ Private club calendars are not scraped behind authentication. The feed exposes o
 ### Industry calendars
 
 - Hospitality: GMBHA and AHLA
-- Sports: F1 Miami, Miami Open, Inter Miami, Miami HEAT, FIFA hospitality, WR Chess, and the official Backgammon Social Miami Luma calendar
+- Sports: F1 Miami, Miami Open, Inter Miami, Miami HEAT, FIFA hospitality, WR Chess, The Backgammon Society's official Miami tournament calendar, and the Backgammon Social Miami Luma calendar
 - Real Estate: ULI, NAIOP South Florida, MIAMI REALTORS, Bisnow, Beacon Council
 - Culinary: SOBEWFF official ICS and event inventory
 - Art/Fashion: Art Basel, Design Miami, Design District, ICA and The Bass only when programming has a premium signal such as a private dinner, gala, preview, or reception

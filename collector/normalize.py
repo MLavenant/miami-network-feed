@@ -59,6 +59,7 @@ SOURCE_INDUSTRY = {
     "miami_marlins": "sports",
     "fifa_miami": "sports",
     "boat_show": "sports",
+    "backgammon_society": "sports",
     "backgammon_social_miami": "sports",
     # Real estate
     "beacon_council": "real_estate",
@@ -88,7 +89,8 @@ GENERIC_EVENT = re.compile(
     r"tai chi|dance fusion|beach cleanup|youth|kids? workshop|children|"
     r"office hours|parking|job fair|school|recycling|hoa meeting|blood drive|"
     r"daily movement|mindfulness|reiki|tarot|spa months?|sound healing|meditation|"
-    r"yoga|run club|fitness class|speed dating|summer camp|happy hour|saxony bar)\b",
+    r"yoga|run club|fitness class|speed dating|summer camp|happy hour|saxony bar|"
+    r"personalized poems?)\b",
     re.I,
 )
 
@@ -301,7 +303,7 @@ def merge_and_score(
     *,
     previous: dict[str, dict[str, Any]] | None = None,
     now: datetime | None = None,
-    horizon_days: int = 45,
+    horizon_days: int = 120,
     keep_past_hours: int = 18,
 ) -> list[Event]:
     now = now or datetime.now(timezone.utc)

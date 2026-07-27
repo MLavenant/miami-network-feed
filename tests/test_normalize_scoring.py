@@ -194,6 +194,7 @@ def test_generic_museum_program_without_premium_signal_is_excluded():
 def test_top_tier_industry_assignment():
     cases = [
         ("wr_chess", "Opening Reception at Faena", "sports"),
+        ("backgammon_society", "Backgammon Society at Rare Collects", "sports"),
         ("w_south_beach", "W South Beach Cocktail", "hospitality"),
         ("sobewff_ics", "Chef Dinner", "culinary"),
         ("naiop_sfl", "Development Forum", "real_estate"),
@@ -265,3 +266,21 @@ def test_generic_hotel_wellness_program_is_excluded():
     )
     assert is_generic_event(wellness)
     assert merge_and_score([wellness], now=now) == []
+
+
+def test_official_tournament_calendar_keeps_long_range_events():
+    now = datetime(2026, 7, 26, 12, 0, tzinfo=timezone.utc)
+    tournament = RawEvent(
+        title="Backgammon Society — Casa Neos Members Club",
+        summary="Official Miami tournament",
+        starts_at=now + timedelta(days=75),
+        venue="Casa Neos Members Club",
+        city="Miami",
+        access="members",
+        source_id="backgammon_society",
+        source_name="The Backgammon Society",
+        source_url="https://www.thebackgammonsociety.com/",
+    )
+    events = merge_and_score([tournament], now=now)
+    assert len(events) == 1
+    assert events[0].industry == "sports"

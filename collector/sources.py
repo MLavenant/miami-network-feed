@@ -87,6 +87,8 @@ SOURCES: list[SourceDef] = [
         url="https://thebass.org/events/feed/",
         categories=["art", "culture"],
         require_miami=False,
+        enabled=False,
+        note="Disabled: duplicates the official ICS and exposes publication timestamps as event dates.",
     ),
     SourceDef(
         id="design_district",
@@ -540,6 +542,19 @@ SOURCES: list[SourceDef] = [
         contact_url="https://fifaworldcup26.hospitality.fifa.com/venues/miami",
     ),
     SourceDef(
+        id="backgammon_society",
+        name="The Backgammon Society",
+        kind="jsonld",
+        url="https://www.thebackgammonsociety.com/",
+        categories=["sports", "networking", "hospitality"],
+        industry="sports",
+        require_miami=True,
+        access_tip="Register on the official Backgammon Society tournament page. For members-club venues, ask the tournament host and the venue membership or concierge team.",
+        contact_url="https://www.thebackgammonsociety.com/",
+        ask_for="The Backgammon Society Miami tournament host; for club venues, the venue membership or concierge team",
+        note="Official structured tournament calendar; Miami events only.",
+    ),
+    SourceDef(
         id="backgammon_social_miami",
         name="Backgammon Social Miami",
         kind="jsonld",
@@ -853,6 +868,23 @@ def fetch_source(client: HttpClient, src: SourceDef) -> SourceResult:
                 "a[href*='/miami/happenings/']",
                 max_pages=10,
             )
+        elif src.id == "backgammon_society":
+            for event in events:
+                venue = event.title
+                event.title = f"Backgammon Society — {venue}"
+                event.venue = venue
+                event.summary = f"Official Backgammon Society Miami tournament at {venue}."
+                if event.starts_at:
+                    # The official JSON-LD publishes local wall time without an
+                    # offset. Preserve that clock time in America/New_York.
+                    event.starts_at = event.starts_at.replace(tzinfo=ZoneInfo("America/New_York"))
+                title_lower = venue.lower()
+                if "private event" in title_lower:
+                    event.access = "invitation-only"
+                elif "members club" in title_lower or "soho beach house" in title_lower:
+                    event.access = "members"
+                else:
+                    event.access = "registration"
 
         # Custom enrichment for WR Chess schedule text when JSON-LD is thin
         if src.id in ("wr_chess", "wr_chess_links"):
