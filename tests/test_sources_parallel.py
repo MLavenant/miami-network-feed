@@ -62,3 +62,44 @@ def test_backgammon_society_keeps_miami_and_localizes_wall_time():
     assert event.title == "Backgammon Society — Rare Collects"
     assert event.starts_at.isoformat() == "2026-07-29T19:00:00-04:00"
     assert event.access == "registration"
+
+
+def test_backgammon_society_uses_reader_when_origin_blocks_ci():
+    listing = """
+    <script type="application/ld+json">
+    [
+      {"@type":"Event","name":"Rare Collects","startDate":"2026-07-29T19:00:00",
+       "url":"https://www.thebackgammonsociety.com/tournaments/miami/rare-collects",
+       "location":{"@type":"Place","name":"Rare Collects",
+       "address":{"@type":"PostalAddress","addressLocality":"Miami","streetAddress":"272 NW 36th St"}}},
+      {"@type":"Event","name":"Geneva Hotel","startDate":"2026-07-29T19:00:00",
+       "url":"https://www.thebackgammonsociety.com/tournaments/geneva/hotel",
+       "location":{"@type":"Place","name":"Hotel",
+       "address":{"@type":"PostalAddress","addressLocality":"Geneva"}}}
+    ]
+    </script>
+    """
+
+    class FallbackClient:
+        def get(self, url, **kwargs):
+            if url == "https://www.thebackgammonsociety.com/":
+                return FetchResult(False, url, 403, "", b"", {}, "HTTP 403")
+            return FetchResult(True, url, 200, listing, listing.encode(), {})
+
+    source = SourceDef(
+        "backgammon_society",
+        "The Backgammon Society",
+        "jsonld",
+        "https://www.thebackgammonsociety.com/",
+        ["sports", "networking"],
+        industry="sports",
+        require_miami=True,
+        access_tip="Use official registration.",
+    )
+    result = fetch_source(FallbackClient(), source)
+
+    assert result.ok
+    assert result.error is None
+    assert len(result.events) == 1
+    assert result.events[0].starts_at.isoformat() == "2026-07-29T19:00:00-04:00"
+    assert result.events[0].industry == "sports"

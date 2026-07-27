@@ -769,6 +769,46 @@ def _next_recurring_datetime(text: str) -> datetime | None:
     return None
 
 
+def _decorate_backgammon_society(events: list[RawEvent]) -> list[RawEvent]:
+    for event in events:
+        venue = event.title
+        event.title = f"Backgammon Society — {venue}"
+        event.venue = venue
+        event.summary = f"Official Backgammon Society Miami tournament at {venue}."
+        if event.starts_at:
+            # The official site publishes Miami wall time without an offset.
+            event.starts_at = event.starts_at.replace(tzinfo=ZoneInfo("America/New_York"))
+        title_lower = venue.lower()
+        if "private event" in title_lower:
+            event.access = "invitation-only"
+        elif "members club" in title_lower or "soho beach house" in title_lower:
+            event.access = "members"
+        else:
+            event.access = "registration"
+    return events
+
+
+def _backgammon_reader_events(client: HttpClient, src: SourceDef) -> list[RawEvent]:
+    """Fallback through a public reader when the origin blocks CI datacenter IPs."""
+    reader_root = f"https://r.jina.ai/{src.url}"
+    listing = client.get(
+        reader_root,
+        headers={"X-Return-Format": "html"},
+        respect_robots=False,
+    )
+    if not listing.ok:
+        return []
+    events = parse_html_json_ld_events(
+        listing.text,
+        source_id=src.id,
+        source_name=src.name,
+        source_url=src.url,
+        default_categories=src.categories,
+        require_miami=True,
+    )
+    return _decorate_backgammon_society(events)
+
+
 def fetch_source(client: HttpClient, src: SourceDef) -> SourceResult:
     started = time.perf_counter()
     if not src.enabled:
@@ -776,6 +816,23 @@ def fetch_source(client: HttpClient, src: SourceDef) -> SourceResult:
     try:
         result = client.get(src.url)
         if not result.ok:
+            if src.id == "backgammon_society":
+                fallback_events = _backgammon_reader_events(client, src)
+                if fallback_events:
+                    for event in fallback_events:
+                        event.industry = src.industry
+                        event.access_tip = src.access_tip
+                        event.contact_url = src.contact_url
+                        event.ask_for = src.ask_for
+                    return SourceResult(
+                        src.id,
+                        src.name,
+                        True,
+                        len(fallback_events),
+                        None,
+                        int((time.perf_counter() - started) * 1000),
+                        fallback_events,
+                    )
             return SourceResult(
                 src.id,
                 src.name,
@@ -869,22 +926,7 @@ def fetch_source(client: HttpClient, src: SourceDef) -> SourceResult:
                 max_pages=10,
             )
         elif src.id == "backgammon_society":
-            for event in events:
-                venue = event.title
-                event.title = f"Backgammon Society — {venue}"
-                event.venue = venue
-                event.summary = f"Official Backgammon Society Miami tournament at {venue}."
-                if event.starts_at:
-                    # The official JSON-LD publishes local wall time without an
-                    # offset. Preserve that clock time in America/New_York.
-                    event.starts_at = event.starts_at.replace(tzinfo=ZoneInfo("America/New_York"))
-                title_lower = venue.lower()
-                if "private event" in title_lower:
-                    event.access = "invitation-only"
-                elif "members club" in title_lower or "soho beach house" in title_lower:
-                    event.access = "members"
-                else:
-                    event.access = "registration"
+            events = _decorate_backgammon_society(events)
 
         # Custom enrichment for WR Chess schedule text when JSON-LD is thin
         if src.id in ("wr_chess", "wr_chess_links"):
