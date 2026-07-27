@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-27T01:00:49.396758+00:00",
+  "generated_at": "2026-07-27T01:12:28.997885+00:00",
   "timezone": "America/New_York",
   "version": 1,
-  "event_count": 18,
+  "event_count": 30,
   "industries": [
     "hospitality",
     "sports",
@@ -342,6 +342,26 @@
       "basis": "Public caption or professional role text; no face recognition or private contact data."
     },
     {
+      "id": "5e4fd2f2752c4a1b",
+      "name": "Jonathan Babicka",
+      "role": "Recurring name in curated event coverage",
+      "organization": "Miami luxury and industry network",
+      "industry": "hospitality",
+      "priority": 69,
+      "mentions": 13,
+      "event_count": 1,
+      "why_connect": "Published in 13 World Red Eye caption(s) across 1 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
+      "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
+      "source_name": "World Red Eye",
+      "source_urls": [
+        "https://worldredeye.com/2026/07/little-lighthouse-foundations-cocktails-with-a-cause-celebrating-paperfish-sushis-5-year-anniversary/"
+      ],
+      "event_titles": [
+        "Little Lighthouse Foundation’s Cocktails with a Cause Celebrating Paperfish Sushi’s 5-Year Anniversary"
+      ],
+      "basis": "Public caption or professional role text; no face recognition or private contact data."
+    },
+    {
       "id": "930a03f4a73a1c18",
       "name": "Jay Parker",
       "role": "Recurring name in curated event coverage",
@@ -402,6 +422,26 @@
       "basis": "Public caption or professional role text; no face recognition or private contact data."
     },
     {
+      "id": "00184e1c1a4dc47e",
+      "name": "Ashley Graham",
+      "role": "Recurring name in curated event coverage",
+      "organization": "Miami luxury and industry network",
+      "industry": "hospitality",
+      "priority": 67,
+      "mentions": 10,
+      "event_count": 1,
+      "why_connect": "Published in 10 World Red Eye caption(s) across 1 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
+      "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
+      "source_name": "World Red Eye",
+      "source_urls": [
+        "https://worldredeye.com/2026/07/casadonna-pizza-class-experience-with-ashley-graham/"
+      ],
+      "event_titles": [
+        "Casadonna Pizza Class Experience with Ashley Graham"
+      ],
+      "basis": "Public caption or professional role text; no face recognition or private contact data."
+    },
+    {
       "id": "45a12898bc683ec2",
       "name": "Jon Paul Pérez",
       "role": "Recurring name in curated event coverage",
@@ -438,6 +478,26 @@
       ],
       "event_titles": [
         "World Red Eye Preview Dinner Hosted by Seth Browarnik at Gigi Rigolatto Celebrating Delano"
+      ],
+      "basis": "Public caption or professional role text; no face recognition or private contact data."
+    },
+    {
+      "id": "d6f0d07931f7a85e",
+      "name": "Nazeem Hasan",
+      "role": "Recurring name in curated event coverage",
+      "organization": "Miami luxury and industry network",
+      "industry": "hospitality",
+      "priority": 67,
+      "mentions": 10,
+      "event_count": 1,
+      "why_connect": "Published in 10 World Red Eye caption(s) across 1 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
+      "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
+      "source_name": "World Red Eye",
+      "source_urls": [
+        "https://worldredeye.com/2026/07/little-lighthouse-foundations-cocktails-with-a-cause-celebrating-paperfish-sushis-5-year-anniversary/"
+      ],
+      "event_titles": [
+        "Little Lighthouse Foundation’s Cocktails with a Cause Celebrating Paperfish Sushi’s 5-Year Anniversary"
       ],
       "basis": "Public caption or professional role text; no face recognition or private contact data."
     },
@@ -500,66 +560,6 @@
         "World Red Eye Preview Dinner Hosted by Seth Browarnik at Gigi Rigolatto Celebrating Delano"
       ],
       "basis": "Public caption or professional role text; no face recognition or private contact data."
-    },
-    {
-      "id": "0ca2ef09782ada2a",
-      "name": "Valerio Morabito",
-      "role": "Recurring name in curated event coverage",
-      "organization": "Miami luxury and industry network",
-      "industry": "hospitality",
-      "priority": 65,
-      "mentions": 8,
-      "event_count": 1,
-      "why_connect": "Published in 8 World Red Eye caption(s) across 1 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
-      "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
-      "source_name": "World Red Eye",
-      "source_urls": [
-        "https://worldredeye.com/2026/05/world-red-eye-preview-dinner-hosted-by-seth-browarnik-at-gigi-rigolatto-celebrating-delano/"
-      ],
-      "event_titles": [
-        "World Red Eye Preview Dinner Hosted by Seth Browarnik at Gigi Rigolatto Celebrating Delano"
-      ],
-      "basis": "Public caption or professional role text; no face recognition or private contact data."
-    },
-    {
-      "id": "d5d7ca2907f2d702",
-      "name": "Donahue Peebles III",
-      "role": "Recurring name in curated event coverage",
-      "organization": "Miami luxury and industry network",
-      "industry": "hospitality",
-      "priority": 64,
-      "mentions": 7,
-      "event_count": 1,
-      "why_connect": "Published in 7 World Red Eye caption(s) across 1 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
-      "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
-      "source_name": "World Red Eye",
-      "source_urls": [
-        "https://worldredeye.com/2026/05/world-red-eye-preview-dinner-hosted-by-seth-browarnik-at-gigi-rigolatto-celebrating-delano/"
-      ],
-      "event_titles": [
-        "World Red Eye Preview Dinner Hosted by Seth Browarnik at Gigi Rigolatto Celebrating Delano"
-      ],
-      "basis": "Public caption or professional role text; no face recognition or private contact data."
-    },
-    {
-      "id": "42dd1bc65e3f9c5c",
-      "name": "Nathan Lieberman",
-      "role": "Recurring name in curated event coverage",
-      "organization": "Miami luxury and industry network",
-      "industry": "hospitality",
-      "priority": 64,
-      "mentions": 7,
-      "event_count": 1,
-      "why_connect": "Published in 7 World Red Eye caption(s) across 1 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
-      "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
-      "source_name": "World Red Eye",
-      "source_urls": [
-        "https://worldredeye.com/2026/05/world-red-eye-preview-dinner-hosted-by-seth-browarnik-at-gigi-rigolatto-celebrating-delano/"
-      ],
-      "event_titles": [
-        "World Red Eye Preview Dinner Hosted by Seth Browarnik at Gigi Rigolatto Celebrating Delano"
-      ],
-      "basis": "Public caption or professional role text; no face recognition or private contact data."
     }
   ],
   "events": [
@@ -594,7 +594,7 @@
       "source_name": "Faena Miami Beach",
       "source_url": "https://www.faena.com/miami-beach/things-to-do",
       "first_seen_at": "2026-07-27T00:58:57.846279+00:00",
-      "last_seen_at": "2026-07-27T01:00:42.962620+00:00",
+      "last_seen_at": "2026-07-27T01:12:17.678209+00:00",
       "lead_hours": 1428,
       "source_trail": [
         {
@@ -602,6 +602,48 @@
           "source_name": "Faena Miami Beach",
           "seen_at": "2026-07-27T00:58:57.846279+00:00",
           "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/ultimate-wellness-conference-at-faena-forum"
+        }
+      ]
+    },
+    {
+      "id": "d351777bf8a0443cf0dce944a09b9bce6e0a71e3",
+      "title": "Backgammon Society — Soho Beach House",
+      "summary": "Official Backgammon Society Miami tournament at Soho Beach House.",
+      "starts_at": "2026-08-12T19:00:00-04:00",
+      "ends_at": null,
+      "all_day": false,
+      "venue": "Soho Beach House",
+      "neighborhood": "Miami",
+      "city": "Miami",
+      "url": "https://www.thebackgammonsociety.com/tournaments/miami/soho-beach-house-aug26",
+      "rsvp_url": "https://www.thebackgammonsociety.com/tournaments/miami/soho-beach-house-aug26",
+      "image_url": "https://budyxfmlimzpkgcjzmbi.supabase.co/storage/v1/object/public/tournament-images/e372476d-7e38-4a4e-ad42-b96a508137b9/ccfad03211203e3b46034d1d9f036495ccb4ca5f6fa3dfb347b7f29689ffe23c.jpg",
+      "access": "members",
+      "industry": "sports",
+      "categories": [
+        "hospitality",
+        "networking",
+        "sports"
+      ],
+      "access_tip": "Register on the official Backgammon Society tournament page. For members-club venues, ask the tournament host and the venue membership or concierge team.",
+      "contact_url": "https://www.thebackgammonsociety.com/",
+      "contact_email": null,
+      "ask_for": "The Backgammon Society Miami tournament host; for club venues, the venue membership or concierge team",
+      "score": 92,
+      "confidence": 0.9,
+      "why_it_matters": "From The Backgammon Society — members access — luxury / hospitality keywords — at Soho Beach House",
+      "source_id": "backgammon_society",
+      "source_name": "The Backgammon Society",
+      "source_url": "https://www.thebackgammonsociety.com/",
+      "first_seen_at": "2026-07-27T01:12:10.520159+00:00",
+      "last_seen_at": "2026-07-27T01:12:17.678209+00:00",
+      "lead_hours": 405,
+      "source_trail": [
+        {
+          "source_id": "backgammon_society",
+          "source_name": "The Backgammon Society",
+          "seen_at": "2026-07-27T01:12:10.520159+00:00",
+          "url": "https://www.thebackgammonsociety.com/tournaments/miami/soho-beach-house-aug26"
         }
       ]
     },
@@ -636,7 +678,7 @@
       "source_name": "Faena Miami Beach",
       "source_url": "https://www.faena.com/miami-beach/things-to-do",
       "first_seen_at": "2026-07-27T00:58:44.034880+00:00",
-      "last_seen_at": "2026-07-27T01:00:42.962620+00:00",
+      "last_seen_at": "2026-07-27T01:12:17.678209+00:00",
       "lead_hours": 95,
       "source_trail": [
         {
@@ -678,7 +720,7 @@
       "source_name": "Faena Miami Beach",
       "source_url": "https://www.faena.com/miami-beach/things-to-do",
       "first_seen_at": "2026-07-27T00:58:56.608748+00:00",
-      "last_seen_at": "2026-07-27T01:00:42.962620+00:00",
+      "last_seen_at": "2026-07-27T01:12:17.678209+00:00",
       "lead_hours": 135,
       "source_trail": [
         {
@@ -720,7 +762,7 @@
       "source_name": "Faena Miami Beach",
       "source_url": "https://www.faena.com/miami-beach/things-to-do",
       "first_seen_at": "2026-07-27T00:58:54.101072+00:00",
-      "last_seen_at": "2026-07-27T01:00:42.962620+00:00",
+      "last_seen_at": "2026-07-27T01:12:17.678209+00:00",
       "lead_hours": 21,
       "source_trail": [
         {
@@ -762,7 +804,7 @@
       "source_name": "WR Chess",
       "source_url": "https://wr-chess.com/events/usa-vs-uzbekistan-wr-chess-match-2026",
       "first_seen_at": "2026-07-27T00:58:43.489555+00:00",
-      "last_seen_at": "2026-07-27T01:00:42.962620+00:00",
+      "last_seen_at": "2026-07-27T01:12:17.678209+00:00",
       "lead_hours": 45,
       "source_trail": [
         {
@@ -803,7 +845,7 @@
       "source_name": "Haute Living",
       "source_url": "https://hauteliving.com/feed/",
       "first_seen_at": "2026-07-27T00:58:46.175654+00:00",
-      "last_seen_at": "2026-07-27T01:00:42.962620+00:00",
+      "last_seen_at": "2026-07-27T01:12:17.678209+00:00",
       "lead_hours": null,
       "source_trail": [
         {
@@ -845,7 +887,7 @@
       "source_name": "Faena Miami Beach",
       "source_url": "https://www.faena.com/miami-beach/things-to-do",
       "first_seen_at": "2026-07-27T00:58:47.784405+00:00",
-      "last_seen_at": "2026-07-27T01:00:42.962620+00:00",
+      "last_seen_at": "2026-07-27T01:12:17.678209+00:00",
       "lead_hours": 47,
       "source_trail": [
         {
@@ -887,7 +929,7 @@
       "source_name": "Backgammon Social Miami",
       "source_url": "https://luma.com/backgammonsocialmiami",
       "first_seen_at": "2026-07-27T00:58:55.377442+00:00",
-      "last_seen_at": "2026-07-27T01:00:42.962620+00:00",
+      "last_seen_at": "2026-07-27T01:12:17.678209+00:00",
       "lead_hours": 94,
       "source_trail": [
         {
@@ -935,7 +977,7 @@
       "source_name": "Faena Miami Beach",
       "source_url": "https://www.faena.com/miami-beach/things-to-do",
       "first_seen_at": "2026-07-27T00:58:46.541081+00:00",
-      "last_seen_at": "2026-07-27T01:00:42.962620+00:00",
+      "last_seen_at": "2026-07-27T01:12:17.678209+00:00",
       "lead_hours": 159,
       "source_trail": [
         {
@@ -976,7 +1018,7 @@
       "source_name": "Haute Living",
       "source_url": "https://hauteliving.com/feed/",
       "first_seen_at": "2026-07-27T00:58:46.177816+00:00",
-      "last_seen_at": "2026-07-27T01:00:42.962620+00:00",
+      "last_seen_at": "2026-07-27T01:12:17.678209+00:00",
       "lead_hours": null,
       "source_trail": [
         {
@@ -1017,7 +1059,7 @@
       "source_name": "The Bass",
       "source_url": "https://thebass.org/events/?ical=1",
       "first_seen_at": "2026-07-27T00:58:43.174993+00:00",
-      "last_seen_at": "2026-07-27T01:00:42.962620+00:00",
+      "last_seen_at": "2026-07-27T01:12:17.678209+00:00",
       "lead_hours": 72,
       "source_trail": [
         {
@@ -1058,7 +1100,7 @@
       "source_name": "Haute Living",
       "source_url": "https://hauteliving.com/feed/",
       "first_seen_at": "2026-07-27T00:58:46.172677+00:00",
-      "last_seen_at": "2026-07-27T01:00:42.962620+00:00",
+      "last_seen_at": "2026-07-27T01:12:17.678209+00:00",
       "lead_hours": null,
       "source_trail": [
         {
@@ -1066,6 +1108,132 @@
           "source_name": "Haute Living",
           "seen_at": "2026-07-27T00:58:46.172677+00:00",
           "url": "https://hauteliving.com/2026/07/wr-chess-brings-elite-international-team-tournament-to-miami-with-historic-u-s-debut/792999/"
+        }
+      ]
+    },
+    {
+      "id": "eb43b8c07a5a7e715bae10bf6b2f9bd6b1dc9527",
+      "title": "Backgammon Society — Rare Collects",
+      "summary": "Official Backgammon Society Miami tournament at Rare Collects.",
+      "starts_at": "2026-07-29T19:00:00-04:00",
+      "ends_at": null,
+      "all_day": false,
+      "venue": "Rare Collects",
+      "neighborhood": "Miami",
+      "city": "Miami",
+      "url": "https://www.thebackgammonsociety.com/tournaments/miami/rare-collects",
+      "rsvp_url": "https://www.thebackgammonsociety.com/tournaments/miami/rare-collects",
+      "image_url": "https://budyxfmlimzpkgcjzmbi.supabase.co/storage/v1/object/public/tournament-images/c54803e9-3fea-4437-a814-a36f2a39192e/495f83bf1a066e0136e3b4d72617a6048f6a61cd8cfef3fb412007e813eb29bd.jpg",
+      "access": "registration",
+      "industry": "sports",
+      "categories": [
+        "hospitality",
+        "networking",
+        "sports"
+      ],
+      "access_tip": "Register on the official Backgammon Society tournament page. For members-club venues, ask the tournament host and the venue membership or concierge team.",
+      "contact_url": "https://www.thebackgammonsociety.com/",
+      "contact_email": null,
+      "ask_for": "The Backgammon Society Miami tournament host; for club venues, the venue membership or concierge team",
+      "score": 68,
+      "confidence": 0.8,
+      "why_it_matters": "From The Backgammon Society — at Rare Collects",
+      "source_id": "backgammon_society",
+      "source_name": "The Backgammon Society",
+      "source_url": "https://www.thebackgammonsociety.com/",
+      "first_seen_at": "2026-07-27T01:12:10.518993+00:00",
+      "last_seen_at": "2026-07-27T01:12:17.678209+00:00",
+      "lead_hours": 69,
+      "source_trail": [
+        {
+          "source_id": "backgammon_society",
+          "source_name": "The Backgammon Society",
+          "seen_at": "2026-07-27T01:12:10.518993+00:00",
+          "url": "https://www.thebackgammonsociety.com/tournaments/miami/rare-collects"
+        }
+      ]
+    },
+    {
+      "id": "62270017bebeba5dd3f7751c3417016e033208af",
+      "title": "Backgammon Society — Mila Members Club",
+      "summary": "Official Backgammon Society Miami tournament at Mila Members Club.",
+      "starts_at": "2026-08-05T19:00:00-04:00",
+      "ends_at": null,
+      "all_day": false,
+      "venue": "Mila Members Club",
+      "neighborhood": "Miami",
+      "city": "Miami",
+      "url": "https://www.thebackgammonsociety.com/tournaments/miami/mila-members-club",
+      "rsvp_url": "https://www.thebackgammonsociety.com/tournaments/miami/mila-members-club",
+      "image_url": "https://budyxfmlimzpkgcjzmbi.supabase.co/storage/v1/object/public/tournament-images/7243ad13-3532-4da8-af1d-88cac6ab7d5d/b6521df55e340a6c1dd72dc198fdb8b89ae9723b3bfc2f5972e76dfec5d782f7.jpg",
+      "access": "members",
+      "industry": "sports",
+      "categories": [
+        "hospitality",
+        "networking",
+        "sports"
+      ],
+      "access_tip": "Register on the official Backgammon Society tournament page. For members-club venues, ask the tournament host and the venue membership or concierge team.",
+      "contact_url": "https://www.thebackgammonsociety.com/",
+      "contact_email": null,
+      "ask_for": "The Backgammon Society Miami tournament host; for club venues, the venue membership or concierge team",
+      "score": 68,
+      "confidence": 0.8,
+      "why_it_matters": "From The Backgammon Society — members access — at Mila Members Club",
+      "source_id": "backgammon_society",
+      "source_name": "The Backgammon Society",
+      "source_url": "https://www.thebackgammonsociety.com/",
+      "first_seen_at": "2026-07-27T01:12:10.519951+00:00",
+      "last_seen_at": "2026-07-27T01:12:17.678209+00:00",
+      "lead_hours": 237,
+      "source_trail": [
+        {
+          "source_id": "backgammon_society",
+          "source_name": "The Backgammon Society",
+          "seen_at": "2026-07-27T01:12:10.519951+00:00",
+          "url": "https://www.thebackgammonsociety.com/tournaments/miami/mila-members-club"
+        }
+      ]
+    },
+    {
+      "id": "bc884ab506eb4a7f45f2a4581cb3eb102bab1d7a",
+      "title": "Backgammon Society — Seia Private Event",
+      "summary": "Official Backgammon Society Miami tournament at Seia Private Event.",
+      "starts_at": "2026-08-25T19:00:00-04:00",
+      "ends_at": null,
+      "all_day": false,
+      "venue": "Seia Private Event",
+      "neighborhood": "Miami",
+      "city": "Miami",
+      "url": "https://www.thebackgammonsociety.com/tournaments/miami/seia-private-event",
+      "rsvp_url": "https://www.thebackgammonsociety.com/tournaments/miami/seia-private-event",
+      "image_url": "https://budyxfmlimzpkgcjzmbi.supabase.co/storage/v1/object/public/tournament-images/f7f91dc9-08e3-4155-8107-52482a4a0c21/ee303831fb58e0977b0bb65597f6d9384ab81aedbeb69ffd3670bbf997b57330.jpg",
+      "access": "invitation-only",
+      "industry": "sports",
+      "categories": [
+        "hospitality",
+        "networking",
+        "sports"
+      ],
+      "access_tip": "Register on the official Backgammon Society tournament page. For members-club venues, ask the tournament host and the venue membership or concierge team.",
+      "contact_url": "https://www.thebackgammonsociety.com/",
+      "contact_email": null,
+      "ask_for": "The Backgammon Society Miami tournament host; for club venues, the venue membership or concierge team",
+      "score": 68,
+      "confidence": 0.8,
+      "why_it_matters": "From The Backgammon Society — invitation-only access — at Seia Private Event",
+      "source_id": "backgammon_society",
+      "source_name": "The Backgammon Society",
+      "source_url": "https://www.thebackgammonsociety.com/",
+      "first_seen_at": "2026-07-27T01:12:10.520735+00:00",
+      "last_seen_at": "2026-07-27T01:12:17.678209+00:00",
+      "lead_hours": 717,
+      "source_trail": [
+        {
+          "source_id": "backgammon_society",
+          "source_name": "The Backgammon Society",
+          "seen_at": "2026-07-27T01:12:10.520735+00:00",
+          "url": "https://www.thebackgammonsociety.com/tournaments/miami/seia-private-event"
         }
       ]
     },
@@ -1099,7 +1267,7 @@
       "source_name": "1 Hotel South Beach",
       "source_url": "https://www.1hotels.com/south-beach/do/events",
       "first_seen_at": "2026-07-27T00:58:44.873708+00:00",
-      "last_seen_at": "2026-07-27T01:00:42.962620+00:00",
+      "last_seen_at": "2026-07-27T01:12:17.678209+00:00",
       "lead_hours": 591,
       "source_trail": [
         {
@@ -1107,6 +1275,90 @@
           "source_name": "1 Hotel South Beach",
           "seen_at": "2026-07-27T00:58:44.873708+00:00",
           "url": "https://www.1hotels.com/south-beach/do/events/miami-spice-at-aviv-1"
+        }
+      ]
+    },
+    {
+      "id": "be3eba9ca3eda8b8fb8424f39e74940d63e8d682",
+      "title": "Backgammon Society — Yann Courvreur",
+      "summary": "Official Backgammon Society Miami tournament at Yann Courvreur.",
+      "starts_at": "2026-08-19T19:00:00-04:00",
+      "ends_at": null,
+      "all_day": false,
+      "venue": "Yann Courvreur",
+      "neighborhood": "Miami",
+      "city": "Miami",
+      "url": "https://www.thebackgammonsociety.com/tournaments/miami/yann-courvreur-aug26",
+      "rsvp_url": "https://www.thebackgammonsociety.com/tournaments/miami/yann-courvreur-aug26",
+      "image_url": "https://budyxfmlimzpkgcjzmbi.supabase.co/storage/v1/object/public/tournament-images/307ce0f6-98ab-4d7e-80f9-fd3d2f8bc9d8/6e936772212c0e3f2596e3fe8a7caf733bc5d289ed1ef828108641680909295d.jpg",
+      "access": "registration",
+      "industry": "sports",
+      "categories": [
+        "hospitality",
+        "networking",
+        "sports"
+      ],
+      "access_tip": "Register on the official Backgammon Society tournament page. For members-club venues, ask the tournament host and the venue membership or concierge team.",
+      "contact_url": "https://www.thebackgammonsociety.com/",
+      "contact_email": null,
+      "ask_for": "The Backgammon Society Miami tournament host; for club venues, the venue membership or concierge team",
+      "score": 62,
+      "confidence": 0.8,
+      "why_it_matters": "From The Backgammon Society — at Yann Courvreur",
+      "source_id": "backgammon_society",
+      "source_name": "The Backgammon Society",
+      "source_url": "https://www.thebackgammonsociety.com/",
+      "first_seen_at": "2026-07-27T01:12:10.520357+00:00",
+      "last_seen_at": "2026-07-27T01:12:17.678209+00:00",
+      "lead_hours": 573,
+      "source_trail": [
+        {
+          "source_id": "backgammon_society",
+          "source_name": "The Backgammon Society",
+          "seen_at": "2026-07-27T01:12:10.520357+00:00",
+          "url": "https://www.thebackgammonsociety.com/tournaments/miami/yann-courvreur-aug26"
+        }
+      ]
+    },
+    {
+      "id": "99dfedbc0b98015388d934e21efe2fe4a3f0f5f6",
+      "title": "Backgammon Society — Casa Neos Members Club",
+      "summary": "Official Backgammon Society Miami tournament at Casa Neos Members Club.",
+      "starts_at": "2026-10-08T19:00:00-04:00",
+      "ends_at": null,
+      "all_day": false,
+      "venue": "Casa Neos Members Club",
+      "neighborhood": "Miami",
+      "city": "Miami",
+      "url": "https://www.thebackgammonsociety.com/tournaments/miami/casa-neos-members-club",
+      "rsvp_url": "https://www.thebackgammonsociety.com/tournaments/miami/casa-neos-members-club",
+      "image_url": "https://budyxfmlimzpkgcjzmbi.supabase.co/storage/v1/object/public/tournament-images/efe9c37d-d0d2-4178-9a31-8cd898151262/3644e10330fb10e14aa1b94f07203146fc81a7d1e96a80b39b053978cd519a74.jpg",
+      "access": "members",
+      "industry": "sports",
+      "categories": [
+        "hospitality",
+        "networking",
+        "sports"
+      ],
+      "access_tip": "Register on the official Backgammon Society tournament page. For members-club venues, ask the tournament host and the venue membership or concierge team.",
+      "contact_url": "https://www.thebackgammonsociety.com/",
+      "contact_email": null,
+      "ask_for": "The Backgammon Society Miami tournament host; for club venues, the venue membership or concierge team",
+      "score": 62,
+      "confidence": 0.8,
+      "why_it_matters": "From The Backgammon Society — members access — at Casa Neos Members Club",
+      "source_id": "backgammon_society",
+      "source_name": "The Backgammon Society",
+      "source_url": "https://www.thebackgammonsociety.com/",
+      "first_seen_at": "2026-07-27T01:12:10.522077+00:00",
+      "last_seen_at": "2026-07-27T01:12:17.678209+00:00",
+      "lead_hours": 1773,
+      "source_trail": [
+        {
+          "source_id": "backgammon_society",
+          "source_name": "The Backgammon Society",
+          "seen_at": "2026-07-27T01:12:10.522077+00:00",
+          "url": "https://www.thebackgammonsociety.com/tournaments/miami/casa-neos-members-club"
         }
       ]
     },
@@ -1139,7 +1391,7 @@
       "source_name": "Loews Miami Beach",
       "source_url": "https://www.loewshotels.com/miami-beach/event-calendar",
       "first_seen_at": "2026-07-27T01:00:01.390304+00:00",
-      "last_seen_at": "2026-07-27T01:00:42.962620+00:00",
+      "last_seen_at": "2026-07-27T01:12:17.678209+00:00",
       "lead_hours": -2,
       "source_trail": [
         {
@@ -1181,7 +1433,7 @@
       "source_name": "Luma Miami",
       "source_url": "https://luma.com/miami",
       "first_seen_at": "2026-07-27T00:58:56.844609+00:00",
-      "last_seen_at": "2026-07-27T01:00:42.962620+00:00",
+      "last_seen_at": "2026-07-27T01:12:17.678209+00:00",
       "lead_hours": 303,
       "source_trail": [
         {
@@ -1222,7 +1474,7 @@
       "source_name": "Greater Miami & The Beaches Hotel Association",
       "source_url": "https://members.gmbha.com/events",
       "first_seen_at": "2026-07-27T00:58:52.823962+00:00",
-      "last_seen_at": "2026-07-27T01:00:42.962620+00:00",
+      "last_seen_at": "2026-07-27T01:12:17.678209+00:00",
       "lead_hours": 527,
       "source_trail": [
         {
@@ -1230,6 +1482,48 @@
           "source_name": "Greater Miami & The Beaches Hotel Association",
           "seen_at": "2026-07-27T00:58:52.823962+00:00",
           "url": "https://members.gmbha.com/events/Details/government-affairs-breakfast-1857784?sourceTypeId=Website"
+        }
+      ]
+    },
+    {
+      "id": "867b460490c62ee0315407d2d21527b2f7be7eaa",
+      "title": "Backgammon Society — Andres Carne de Res",
+      "summary": "Official Backgammon Society Miami tournament at Andres Carne de Res.",
+      "starts_at": "2026-08-26T19:00:00-04:00",
+      "ends_at": null,
+      "all_day": false,
+      "venue": "Andres Carne de Res",
+      "neighborhood": "Miami",
+      "city": "Miami",
+      "url": "https://www.thebackgammonsociety.com/tournaments/miami/andres-carne-de-res",
+      "rsvp_url": "https://www.thebackgammonsociety.com/tournaments/miami/andres-carne-de-res",
+      "image_url": "https://budyxfmlimzpkgcjzmbi.supabase.co/storage/v1/object/public/tournament-images/551eea2e-7bb4-492e-8103-762fbcd0a973/fdfd07b756820ba5538a7db8c0f0354ea6b438885ad019532d1832d6a8b8de7f.jpg",
+      "access": "registration",
+      "industry": "sports",
+      "categories": [
+        "hospitality",
+        "networking",
+        "sports"
+      ],
+      "access_tip": "Register on the official Backgammon Society tournament page. For members-club venues, ask the tournament host and the venue membership or concierge team.",
+      "contact_url": "https://www.thebackgammonsociety.com/",
+      "contact_email": null,
+      "ask_for": "The Backgammon Society Miami tournament host; for club venues, the venue membership or concierge team",
+      "score": 56,
+      "confidence": 0.8,
+      "why_it_matters": "From The Backgammon Society — at Andres Carne de Res",
+      "source_id": "backgammon_society",
+      "source_name": "The Backgammon Society",
+      "source_url": "https://www.thebackgammonsociety.com/",
+      "first_seen_at": "2026-07-27T01:12:10.521122+00:00",
+      "last_seen_at": "2026-07-27T01:12:17.678209+00:00",
+      "lead_hours": 741,
+      "source_trail": [
+        {
+          "source_id": "backgammon_society",
+          "source_name": "The Backgammon Society",
+          "seen_at": "2026-07-27T01:12:10.521122+00:00",
+          "url": "https://www.thebackgammonsociety.com/tournaments/miami/andres-carne-de-res"
         }
       ]
     },
@@ -1263,7 +1557,7 @@
       "source_name": "Greater Miami & The Beaches Hotel Association",
       "source_url": "https://members.gmbha.com/events",
       "first_seen_at": "2026-07-27T00:58:52.824141+00:00",
-      "last_seen_at": "2026-07-27T01:00:42.962620+00:00",
+      "last_seen_at": "2026-07-27T01:12:17.678209+00:00",
       "lead_hours": 743,
       "source_trail": [
         {
@@ -1271,6 +1565,216 @@
           "source_name": "Greater Miami & The Beaches Hotel Association",
           "seen_at": "2026-07-27T00:58:52.824141+00:00",
           "url": "https://members.gmbha.com/events/Details/executive-board-meeting-hospitality-unwind-1859378?sourceTypeId=Website"
+        }
+      ]
+    },
+    {
+      "id": "bc62682237da03e211ea637401f32195129f46ea",
+      "title": "Backgammon Society — Queen",
+      "summary": "Official Backgammon Society Miami tournament at Queen.",
+      "starts_at": "2026-09-02T19:00:00-04:00",
+      "ends_at": null,
+      "all_day": false,
+      "venue": "Queen",
+      "neighborhood": "Miami",
+      "city": "Miami",
+      "url": "https://www.thebackgammonsociety.com/tournaments/miami/queen",
+      "rsvp_url": "https://www.thebackgammonsociety.com/tournaments/miami/queen",
+      "image_url": "https://budyxfmlimzpkgcjzmbi.supabase.co/storage/v1/object/public/tournament-images/acbd0fe5-1727-4470-add8-661a41cf10cd/8d611428318326b5ea07e9e8ece53cc7f78dfae99adf97bf2633b96a36ad2fea.jpg",
+      "access": "registration",
+      "industry": "sports",
+      "categories": [
+        "hospitality",
+        "networking",
+        "sports"
+      ],
+      "access_tip": "Register on the official Backgammon Society tournament page. For members-club venues, ask the tournament host and the venue membership or concierge team.",
+      "contact_url": "https://www.thebackgammonsociety.com/",
+      "contact_email": null,
+      "ask_for": "The Backgammon Society Miami tournament host; for club venues, the venue membership or concierge team",
+      "score": 56,
+      "confidence": 0.8,
+      "why_it_matters": "From The Backgammon Society — at Queen",
+      "source_id": "backgammon_society",
+      "source_name": "The Backgammon Society",
+      "source_url": "https://www.thebackgammonsociety.com/",
+      "first_seen_at": "2026-07-27T01:12:10.521397+00:00",
+      "last_seen_at": "2026-07-27T01:12:17.678209+00:00",
+      "lead_hours": 909,
+      "source_trail": [
+        {
+          "source_id": "backgammon_society",
+          "source_name": "The Backgammon Society",
+          "seen_at": "2026-07-27T01:12:10.521397+00:00",
+          "url": "https://www.thebackgammonsociety.com/tournaments/miami/queen"
+        }
+      ]
+    },
+    {
+      "id": "7b72d2ea61e527b01c21ed25593b10bdceac5dac",
+      "title": "Backgammon Society — AVA Coconut Grove",
+      "summary": "Official Backgammon Society Miami tournament at AVA Coconut Grove.",
+      "starts_at": "2026-09-09T19:00:00-04:00",
+      "ends_at": null,
+      "all_day": false,
+      "venue": "AVA Coconut Grove",
+      "neighborhood": "Coconut Grove",
+      "city": "Miami",
+      "url": "https://www.thebackgammonsociety.com/tournaments/miami/ava-coconut-grove",
+      "rsvp_url": "https://www.thebackgammonsociety.com/tournaments/miami/ava-coconut-grove",
+      "image_url": "https://budyxfmlimzpkgcjzmbi.supabase.co/storage/v1/object/public/tournament-images/51e06768-606a-40b7-b65c-f42bab1e062d/33556715b6ad5562f09c3fe269103854e7b8dd08593f5b3259b4e58ccc1a9112.jpg",
+      "access": "registration",
+      "industry": "sports",
+      "categories": [
+        "hospitality",
+        "networking",
+        "sports"
+      ],
+      "access_tip": "Register on the official Backgammon Society tournament page. For members-club venues, ask the tournament host and the venue membership or concierge team.",
+      "contact_url": "https://www.thebackgammonsociety.com/",
+      "contact_email": null,
+      "ask_for": "The Backgammon Society Miami tournament host; for club venues, the venue membership or concierge team",
+      "score": 56,
+      "confidence": 0.8,
+      "why_it_matters": "From The Backgammon Society — at AVA Coconut Grove",
+      "source_id": "backgammon_society",
+      "source_name": "The Backgammon Society",
+      "source_url": "https://www.thebackgammonsociety.com/",
+      "first_seen_at": "2026-07-27T01:12:10.521692+00:00",
+      "last_seen_at": "2026-07-27T01:12:17.678209+00:00",
+      "lead_hours": 1077,
+      "source_trail": [
+        {
+          "source_id": "backgammon_society",
+          "source_name": "The Backgammon Society",
+          "seen_at": "2026-07-27T01:12:10.521692+00:00",
+          "url": "https://www.thebackgammonsociety.com/tournaments/miami/ava-coconut-grove"
+        }
+      ]
+    },
+    {
+      "id": "6cdd1c852370eafad9ac8beceecd249140486aec",
+      "title": "Backgammon Society — Ghee",
+      "summary": "Official Backgammon Society Miami tournament at Ghee.",
+      "starts_at": "2026-09-23T19:00:00-04:00",
+      "ends_at": null,
+      "all_day": false,
+      "venue": "Ghee",
+      "neighborhood": "Miami",
+      "city": "Miami",
+      "url": "https://www.thebackgammonsociety.com/tournaments/miami/ghee",
+      "rsvp_url": "https://www.thebackgammonsociety.com/tournaments/miami/ghee",
+      "image_url": "https://budyxfmlimzpkgcjzmbi.supabase.co/storage/v1/object/public/tournament-images/b92c2e5b-c036-4077-b032-25cd7d95042b/61e9497c41aaf49e72309016050a27bd01a34d19b575bc83b462bff55c2df43f.jpg",
+      "access": "registration",
+      "industry": "sports",
+      "categories": [
+        "hospitality",
+        "networking",
+        "sports"
+      ],
+      "access_tip": "Register on the official Backgammon Society tournament page. For members-club venues, ask the tournament host and the venue membership or concierge team.",
+      "contact_url": "https://www.thebackgammonsociety.com/",
+      "contact_email": null,
+      "ask_for": "The Backgammon Society Miami tournament host; for club venues, the venue membership or concierge team",
+      "score": 56,
+      "confidence": 0.8,
+      "why_it_matters": "From The Backgammon Society — at Ghee",
+      "source_id": "backgammon_society",
+      "source_name": "The Backgammon Society",
+      "source_url": "https://www.thebackgammonsociety.com/",
+      "first_seen_at": "2026-07-27T01:12:10.521887+00:00",
+      "last_seen_at": "2026-07-27T01:12:17.678209+00:00",
+      "lead_hours": 1413,
+      "source_trail": [
+        {
+          "source_id": "backgammon_society",
+          "source_name": "The Backgammon Society",
+          "seen_at": "2026-07-27T01:12:10.521887+00:00",
+          "url": "https://www.thebackgammonsociety.com/tournaments/miami/ghee"
+        }
+      ]
+    },
+    {
+      "id": "6389bb6c8b5a535e96de5b0bf4a7eb74ec847062",
+      "title": "Backgammon Society — Bella Miami Beach",
+      "summary": "Official Backgammon Society Miami tournament at Bella Miami Beach.",
+      "starts_at": "2026-10-14T19:00:00-04:00",
+      "ends_at": null,
+      "all_day": false,
+      "venue": "Bella Miami Beach",
+      "neighborhood": "Miami Beach",
+      "city": "Miami",
+      "url": "https://www.thebackgammonsociety.com/tournaments/miami/bella-miami-beach",
+      "rsvp_url": "https://www.thebackgammonsociety.com/tournaments/miami/bella-miami-beach",
+      "image_url": "https://budyxfmlimzpkgcjzmbi.supabase.co/storage/v1/object/public/tournament-images/f74b583b-d338-401d-a1df-7fa388768c54/c803373dd1f71f8dc77b3e717da81d5cbd1eef34d7dd671686689df480cbe865.jpg",
+      "access": "registration",
+      "industry": "sports",
+      "categories": [
+        "hospitality",
+        "networking",
+        "sports"
+      ],
+      "access_tip": "Register on the official Backgammon Society tournament page. For members-club venues, ask the tournament host and the venue membership or concierge team.",
+      "contact_url": "https://www.thebackgammonsociety.com/",
+      "contact_email": null,
+      "ask_for": "The Backgammon Society Miami tournament host; for club venues, the venue membership or concierge team",
+      "score": 56,
+      "confidence": 0.8,
+      "why_it_matters": "From The Backgammon Society — at Bella Miami Beach",
+      "source_id": "backgammon_society",
+      "source_name": "The Backgammon Society",
+      "source_url": "https://www.thebackgammonsociety.com/",
+      "first_seen_at": "2026-07-27T01:12:10.522280+00:00",
+      "last_seen_at": "2026-07-27T01:12:17.678209+00:00",
+      "lead_hours": 1917,
+      "source_trail": [
+        {
+          "source_id": "backgammon_society",
+          "source_name": "The Backgammon Society",
+          "seen_at": "2026-07-27T01:12:10.522280+00:00",
+          "url": "https://www.thebackgammonsociety.com/tournaments/miami/bella-miami-beach"
+        }
+      ]
+    },
+    {
+      "id": "ce29083f7fdee2b3402628a1224eb31293a5d427",
+      "title": "Backgammon Society — Esme Rooftop",
+      "summary": "Official Backgammon Society Miami tournament at Esme Rooftop.",
+      "starts_at": "2026-10-28T19:00:00-04:00",
+      "ends_at": null,
+      "all_day": false,
+      "venue": "Esme Rooftop",
+      "neighborhood": "Miami",
+      "city": "Miami",
+      "url": "https://www.thebackgammonsociety.com/tournaments/miami/esme-rooftop",
+      "rsvp_url": "https://www.thebackgammonsociety.com/tournaments/miami/esme-rooftop",
+      "image_url": "https://budyxfmlimzpkgcjzmbi.supabase.co/storage/v1/object/public/tournament-images/1e5f5468-0f1b-43c1-89a4-e369f870fc59/4faee4ef12a108597848c615460f9590a72391d0a56f9e0510ec3ae209d477a7.jpg",
+      "access": "registration",
+      "industry": "sports",
+      "categories": [
+        "hospitality",
+        "networking",
+        "sports"
+      ],
+      "access_tip": "Register on the official Backgammon Society tournament page. For members-club venues, ask the tournament host and the venue membership or concierge team.",
+      "contact_url": "https://www.thebackgammonsociety.com/",
+      "contact_email": null,
+      "ask_for": "The Backgammon Society Miami tournament host; for club venues, the venue membership or concierge team",
+      "score": 56,
+      "confidence": 0.8,
+      "why_it_matters": "From The Backgammon Society — at Esme Rooftop",
+      "source_id": "backgammon_society",
+      "source_name": "The Backgammon Society",
+      "source_url": "https://www.thebackgammonsociety.com/",
+      "first_seen_at": "2026-07-27T01:12:10.522459+00:00",
+      "last_seen_at": "2026-07-27T01:12:17.678209+00:00",
+      "lead_hours": 2253,
+      "source_trail": [
+        {
+          "source_id": "backgammon_society",
+          "source_name": "The Backgammon Society",
+          "seen_at": "2026-07-27T01:12:10.522459+00:00",
+          "url": "https://www.thebackgammonsociety.com/tournaments/miami/esme-rooftop"
         }
       ]
     },
@@ -1305,7 +1809,7 @@
       "source_name": "Luma Miami",
       "source_url": "https://luma.com/miami",
       "first_seen_at": "2026-07-27T00:58:56.846151+00:00",
-      "last_seen_at": "2026-07-27T01:00:42.962620+00:00",
+      "last_seen_at": "2026-07-27T01:12:17.678209+00:00",
       "lead_hours": 2125,
       "source_trail": [
         {
