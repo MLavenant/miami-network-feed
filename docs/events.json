@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T16:19:53.169897+00:00",
+  "generated_at": "2026-08-07T12:31:04.970491+00:00",
   "timezone": "America/New_York",
   "version": 1,
   "event_count": 42,
@@ -302,28 +302,6 @@
       "basis": "Public caption or professional role text; no face recognition or private contact data."
     },
     {
-      "id": "b11eada9e47b02a6",
-      "name": "South Beach",
-      "role": "Recurring name in curated event coverage",
-      "organization": "Miami luxury and industry network",
-      "industry": "hospitality",
-      "priority": 72,
-      "mentions": 6,
-      "event_count": 2,
-      "why_connect": "Published in 6 World Red Eye caption(s) across 2 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
-      "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
-      "source_name": "World Red Eye",
-      "source_urls": [
-        "https://worldredeye.com/2026/08/miami-spice-2026-must-visit-restaurants-in-the-city-part-3/",
-        "https://worldredeye.com/2026/07/miami-spice-2026-must-visit-restaurants-in-the-city-part-2/"
-      ],
-      "event_titles": [
-        "Miami Spice 2026: Must-Visit Restaurants in the City Part 2",
-        "Miami Spice 2026: Must-Visit Restaurants in the City Part 3"
-      ],
-      "basis": "Public caption or professional role text; no face recognition or private contact data."
-    },
-    {
       "id": "9d78a6c3ea84dd8f",
       "name": "Rodney Barreto",
       "role": "Recurring name in curated event coverage",
@@ -400,28 +378,6 @@
       ],
       "event_titles": [
         "Delano Residences Miami Launch"
-      ],
-      "basis": "Public caption or professional role text; no face recognition or private contact data."
-    },
-    {
-      "id": "9c837ac563f9ed8f",
-      "name": "Downtown Miami",
-      "role": "Recurring name in curated event coverage",
-      "organization": "Miami luxury and industry network",
-      "industry": "hospitality",
-      "priority": 68,
-      "mentions": 2,
-      "event_count": 2,
-      "why_connect": "Published in 2 World Red Eye caption(s) across 2 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
-      "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
-      "source_name": "World Red Eye",
-      "source_urls": [
-        "https://worldredeye.com/2026/08/miami-spice-2026-must-visit-restaurants-in-the-city-part-3/",
-        "https://worldredeye.com/2026/07/miami-spice-2026-must-visit-restaurants-in-the-city-part-2/"
-      ],
-      "event_titles": [
-        "Miami Spice 2026: Must-Visit Restaurants in the City Part 2",
-        "Miami Spice 2026: Must-Visit Restaurants in the City Part 3"
       ],
       "basis": "Public caption or professional role text; no face recognition or private contact data."
     },
@@ -526,6 +482,26 @@
       "basis": "Public caption or professional role text; no face recognition or private contact data."
     },
     {
+      "id": "728122a1af8bfb77",
+      "name": "Carolina Lindo",
+      "role": "Recurring name in curated event coverage",
+      "organization": "Miami luxury and industry network",
+      "industry": "hospitality",
+      "priority": 65,
+      "mentions": 8,
+      "event_count": 1,
+      "why_connect": "Published in 8 World Red Eye caption(s) across 1 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
+      "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
+      "source_name": "World Red Eye",
+      "source_urls": [
+        "https://worldredeye.com/2026/08/qa-big-frames-bold-style-carolina-lindos-past-midnight-is-one-to-watch/"
+      ],
+      "event_titles": [
+        "Q&A: Big Frames, Bold Style: Carolina Lindo’s Past Midnight Is One to Watch"
+      ],
+      "basis": "Public caption or professional role text; no face recognition or private contact data."
+    },
+    {
       "id": "4ef0d988fe48ffde",
       "name": "Daniel De La Vega",
       "role": "Recurring name in curated event coverage",
@@ -564,6 +540,26 @@
         "World Red Eye Preview Dinner Hosted by Seth Browarnik at Gigi Rigolatto Celebrating Delano"
       ],
       "basis": "Public caption or professional role text; no face recognition or private contact data."
+    },
+    {
+      "id": "a59b3ae6f0050b41",
+      "name": "Desmond Howard",
+      "role": "Recurring name in curated event coverage",
+      "organization": "Miami luxury and industry network",
+      "industry": "hospitality",
+      "priority": 64,
+      "mentions": 7,
+      "event_count": 1,
+      "why_connect": "Published in 7 World Red Eye caption(s) across 1 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
+      "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
+      "source_name": "World Red Eye",
+      "source_urls": [
+        "https://worldredeye.com/2026/08/sports-beyond-the-game-hosted-by-bam-adebayo/"
+      ],
+      "event_titles": [
+        "Sports Beyond the Game Hosted by Bam Adebayo"
+      ],
+      "basis": "Public caption or professional role text; no face recognition or private contact data."
     }
   ],
   "events": [
@@ -598,7 +594,7 @@
       "source_name": "Faena Miami Beach",
       "source_url": "https://www.faena.com/miami-beach/things-to-do",
       "first_seen_at": "2026-07-30T16:07:08.425910+00:00",
-      "last_seen_at": "2026-08-05T16:19:41.726540+00:00",
+      "last_seen_at": "2026-08-07T12:30:53.537144+00:00",
       "lead_hours": 415,
       "source_trail": [
         {
@@ -640,7 +636,7 @@
       "source_name": "Faena Miami Beach",
       "source_url": "https://www.faena.com/miami-beach/things-to-do",
       "first_seen_at": "2026-07-27T00:58:57.846279+00:00",
-      "last_seen_at": "2026-08-05T16:19:41.726540+00:00",
+      "last_seen_at": "2026-08-07T12:30:53.537144+00:00",
       "lead_hours": 1428,
       "source_trail": [
         {
@@ -648,48 +644,6 @@
           "source_name": "Faena Miami Beach",
           "seen_at": "2026-07-27T00:58:57.846279+00:00",
           "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/ultimate-wellness-conference-at-faena-forum"
-        }
-      ]
-    },
-    {
-      "id": "5a3ccd40088b159d4dfce2f00a9f32442dc61540",
-      "title": "OBSESSION",
-      "summary": "OBSESSION - Faena Theater's new original live production!",
-      "starts_at": "2026-08-06T20:00:00-04:00",
-      "ends_at": null,
-      "all_day": false,
-      "venue": "Faena Theater",
-      "neighborhood": "Miami Beach",
-      "city": "Miami Beach",
-      "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/obsession",
-      "rsvp_url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/obsession",
-      "image_url": null,
-      "access": "public",
-      "industry": "hospitality",
-      "categories": [
-        "hospitality",
-        "luxury",
-        "nightlife"
-      ],
-      "access_tip": "Use the event booking link for public programming. For Faena Rose events, submit the official membership-interest form.",
-      "contact_url": "https://forms.rosemembers.faena.com/membership-interest",
-      "contact_email": null,
-      "ask_for": "Faena Theater box office for public tickets; Faena Rose Membership Team for Rose programming",
-      "score": 96,
-      "confidence": 0.98,
-      "why_it_matters": "Listed on Faena Miami Beach — luxury / hospitality keywords — at Faena Theater",
-      "source_id": "faena",
-      "source_name": "Faena Miami Beach",
-      "source_url": "https://www.faena.com/miami-beach/things-to-do",
-      "first_seen_at": "2026-08-02T14:47:49.727139+00:00",
-      "last_seen_at": "2026-08-05T16:19:41.726540+00:00",
-      "lead_hours": 105,
-      "source_trail": [
-        {
-          "source_id": "faena",
-          "source_name": "Faena Miami Beach",
-          "seen_at": "2026-08-02T14:47:49.727139+00:00",
-          "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/obsession"
         }
       ]
     },
@@ -717,14 +671,14 @@
       "contact_url": "https://www.thebackgammonsociety.com/",
       "contact_email": null,
       "ask_for": "The Backgammon Society Miami tournament host; for club venues, the venue membership or concierge team",
-      "score": 92,
+      "score": 98,
       "confidence": 0.9,
       "why_it_matters": "From The Backgammon Society — members access — luxury / hospitality keywords — at Soho Beach House",
       "source_id": "backgammon_society",
       "source_name": "The Backgammon Society",
       "source_url": "https://www.thebackgammonsociety.com/",
       "first_seen_at": "2026-07-27T01:12:10.520159+00:00",
-      "last_seen_at": "2026-08-05T16:19:41.726540+00:00",
+      "last_seen_at": "2026-08-07T12:30:53.537144+00:00",
       "lead_hours": 405,
       "source_trail": [
         {
@@ -732,6 +686,48 @@
           "source_name": "The Backgammon Society",
           "seen_at": "2026-07-27T01:12:10.520159+00:00",
           "url": "https://www.thebackgammonsociety.com/tournaments/miami/soho-beach-house-aug26"
+        }
+      ]
+    },
+    {
+      "id": "8fc19c4a4a069669cde686ff46ad94d9992ee483",
+      "title": "OBSESSION",
+      "summary": "OBSESSION - Faena Theater's new original live production!",
+      "starts_at": "2026-08-07T20:00:00-04:00",
+      "ends_at": null,
+      "all_day": false,
+      "venue": "Faena Theater",
+      "neighborhood": "Miami Beach",
+      "city": "Miami Beach",
+      "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/obsession",
+      "rsvp_url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/obsession",
+      "image_url": null,
+      "access": "public",
+      "industry": "hospitality",
+      "categories": [
+        "hospitality",
+        "luxury",
+        "nightlife"
+      ],
+      "access_tip": "Use the event booking link for public programming. For Faena Rose events, submit the official membership-interest form.",
+      "contact_url": "https://forms.rosemembers.faena.com/membership-interest",
+      "contact_email": null,
+      "ask_for": "Faena Theater box office for public tickets; Faena Rose Membership Team for Rose programming",
+      "score": 96,
+      "confidence": 0.98,
+      "why_it_matters": "Listed on Faena Miami Beach — luxury / hospitality keywords — at Faena Theater",
+      "source_id": "faena",
+      "source_name": "Faena Miami Beach",
+      "source_url": "https://www.faena.com/miami-beach/things-to-do",
+      "first_seen_at": "2026-08-07T12:30:33.565679+00:00",
+      "last_seen_at": "2026-08-07T12:30:53.537144+00:00",
+      "lead_hours": 11,
+      "source_trail": [
+        {
+          "source_id": "faena",
+          "source_name": "Faena Miami Beach",
+          "seen_at": "2026-08-07T12:30:33.565679+00:00",
+          "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/obsession"
         }
       ]
     },
@@ -766,7 +762,7 @@
       "source_name": "Faena Miami Beach",
       "source_url": "https://www.faena.com/miami-beach/things-to-do",
       "first_seen_at": "2026-08-04T17:01:58.684835+00:00",
-      "last_seen_at": "2026-08-05T16:19:41.726540+00:00",
+      "last_seen_at": "2026-08-07T12:30:53.537144+00:00",
       "lead_hours": 624,
       "source_trail": [
         {
@@ -774,6 +770,48 @@
           "source_name": "Faena Miami Beach",
           "seen_at": "2026-08-04T17:01:58.684835+00:00",
           "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/breathwork-with-daniel-silva"
+        }
+      ]
+    },
+    {
+      "id": "dd039aaff39cb7693358361a2e428ceaf773967f",
+      "title": "New Moon Kundalini Awakening with Giselle Fiumara",
+      "summary": "Awaken your energy and set powerful intentions under the New Moon with Giselle Fiumara’s transformational Kundalini experience at Faena Miami Beach.",
+      "starts_at": "2026-08-13T19:00:00-04:00",
+      "ends_at": null,
+      "all_day": false,
+      "venue": "Tierra Santa Healing House",
+      "neighborhood": "Miami Beach",
+      "city": "Miami Beach",
+      "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/new-moon-kundalini-awakening-with-giselle-fiumara-0",
+      "rsvp_url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/new-moon-kundalini-awakening-with-giselle-fiumara-0",
+      "image_url": null,
+      "access": "registration",
+      "industry": "hospitality",
+      "categories": [
+        "hospitality",
+        "luxury",
+        "nightlife"
+      ],
+      "access_tip": "Use the event booking link for public programming. For Faena Rose events, submit the official membership-interest form.",
+      "contact_url": "https://forms.rosemembers.faena.com/membership-interest",
+      "contact_email": null,
+      "ask_for": "Faena Theater box office for public tickets; Faena Rose Membership Team for Rose programming",
+      "score": 86,
+      "confidence": 0.98,
+      "why_it_matters": "Listed on Faena Miami Beach — luxury / hospitality keywords — at Tierra Santa Healing House",
+      "source_id": "faena",
+      "source_name": "Faena Miami Beach",
+      "source_url": "https://www.faena.com/miami-beach/things-to-do",
+      "first_seen_at": "2026-08-04T17:01:55.068116+00:00",
+      "last_seen_at": "2026-08-07T12:30:53.537144+00:00",
+      "lead_hours": 221,
+      "source_trail": [
+        {
+          "source_id": "faena",
+          "source_name": "Faena Miami Beach",
+          "seen_at": "2026-08-04T17:01:55.068116+00:00",
+          "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/new-moon-kundalini-awakening-with-giselle-fiumara-0"
         }
       ]
     },
@@ -808,7 +846,7 @@
       "source_name": "Faena Miami Beach",
       "source_url": "https://www.faena.com/miami-beach/things-to-do",
       "first_seen_at": "2026-08-04T17:01:50.213285+00:00",
-      "last_seen_at": "2026-08-05T16:19:41.726540+00:00",
+      "last_seen_at": "2026-08-07T12:30:53.537144+00:00",
       "lead_hours": 148,
       "source_trail": [
         {
@@ -850,7 +888,7 @@
       "source_name": "Faena Miami Beach",
       "source_url": "https://www.faena.com/miami-beach/things-to-do",
       "first_seen_at": "2026-08-05T16:19:25.591491+00:00",
-      "last_seen_at": "2026-08-05T16:19:41.726540+00:00",
+      "last_seen_at": "2026-08-07T12:30:53.537144+00:00",
       "lead_hours": 151,
       "source_trail": [
         {
@@ -858,90 +896,6 @@
           "source_name": "Faena Miami Beach",
           "seen_at": "2026-08-05T16:19:25.591491+00:00",
           "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/vinyl-tuesdays-at-the-living-room"
-        }
-      ]
-    },
-    {
-      "id": "62270017bebeba5dd3f7751c3417016e033208af",
-      "title": "Backgammon Society — Mila Members Club",
-      "summary": "Official Backgammon Society Miami tournament at Mila Members Club.",
-      "starts_at": "2026-08-05T19:00:00-04:00",
-      "ends_at": null,
-      "all_day": false,
-      "venue": "Mila Members Club",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://www.thebackgammonsociety.com/tournaments/miami/mila-members-club",
-      "rsvp_url": "https://www.thebackgammonsociety.com/tournaments/miami/mila-members-club",
-      "image_url": "https://budyxfmlimzpkgcjzmbi.supabase.co/storage/v1/object/public/tournament-images/7243ad13-3532-4da8-af1d-88cac6ab7d5d/b6521df55e340a6c1dd72dc198fdb8b89ae9723b3bfc2f5972e76dfec5d782f7.jpg",
-      "access": "members",
-      "industry": "sports",
-      "categories": [
-        "hospitality",
-        "networking",
-        "sports"
-      ],
-      "access_tip": "Register on the official Backgammon Society tournament page. For members-club venues, ask the tournament host and the venue membership or concierge team.",
-      "contact_url": "https://www.thebackgammonsociety.com/",
-      "contact_email": null,
-      "ask_for": "The Backgammon Society Miami tournament host; for club venues, the venue membership or concierge team",
-      "score": 80,
-      "confidence": 0.8,
-      "why_it_matters": "From The Backgammon Society — members access — at Mila Members Club",
-      "source_id": "backgammon_society",
-      "source_name": "The Backgammon Society",
-      "source_url": "https://www.thebackgammonsociety.com/",
-      "first_seen_at": "2026-07-27T01:12:10.519951+00:00",
-      "last_seen_at": "2026-08-05T16:19:41.726540+00:00",
-      "lead_hours": 237,
-      "source_trail": [
-        {
-          "source_id": "backgammon_society",
-          "source_name": "The Backgammon Society",
-          "seen_at": "2026-07-27T01:12:10.519951+00:00",
-          "url": "https://www.thebackgammonsociety.com/tournaments/miami/mila-members-club"
-        }
-      ]
-    },
-    {
-      "id": "dd039aaff39cb7693358361a2e428ceaf773967f",
-      "title": "New Moon Kundalini Awakening with Giselle Fiumara",
-      "summary": "Awaken your energy and set powerful intentions under the New Moon with Giselle Fiumara’s transformational Kundalini experience at Faena Miami Beach.",
-      "starts_at": "2026-08-13T19:00:00-04:00",
-      "ends_at": null,
-      "all_day": false,
-      "venue": "Tierra Santa Healing House",
-      "neighborhood": "Miami Beach",
-      "city": "Miami Beach",
-      "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/new-moon-kundalini-awakening-with-giselle-fiumara-0",
-      "rsvp_url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/new-moon-kundalini-awakening-with-giselle-fiumara-0",
-      "image_url": null,
-      "access": "registration",
-      "industry": "hospitality",
-      "categories": [
-        "hospitality",
-        "luxury",
-        "nightlife"
-      ],
-      "access_tip": "Use the event booking link for public programming. For Faena Rose events, submit the official membership-interest form.",
-      "contact_url": "https://forms.rosemembers.faena.com/membership-interest",
-      "contact_email": null,
-      "ask_for": "Faena Theater box office for public tickets; Faena Rose Membership Team for Rose programming",
-      "score": 80,
-      "confidence": 0.98,
-      "why_it_matters": "Listed on Faena Miami Beach — luxury / hospitality keywords — at Tierra Santa Healing House",
-      "source_id": "faena",
-      "source_name": "Faena Miami Beach",
-      "source_url": "https://www.faena.com/miami-beach/things-to-do",
-      "first_seen_at": "2026-08-04T17:01:55.068116+00:00",
-      "last_seen_at": "2026-08-05T16:19:41.726540+00:00",
-      "lead_hours": 221,
-      "source_trail": [
-        {
-          "source_id": "faena",
-          "source_name": "Faena Miami Beach",
-          "seen_at": "2026-08-04T17:01:55.068116+00:00",
-          "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/new-moon-kundalini-awakening-with-giselle-fiumara-0"
         }
       ]
     },
@@ -976,7 +930,7 @@
       "source_name": "Faena Miami Beach",
       "source_url": "https://www.faena.com/miami-beach/things-to-do",
       "first_seen_at": "2026-08-03T17:26:53.420835+00:00",
-      "last_seen_at": "2026-08-05T16:19:41.726540+00:00",
+      "last_seen_at": "2026-08-07T12:30:53.537144+00:00",
       "lead_hours": 142,
       "source_trail": [
         {
@@ -1018,7 +972,7 @@
       "source_name": "Faena Miami Beach",
       "source_url": "https://www.faena.com/miami-beach/things-to-do",
       "first_seen_at": "2026-08-04T17:01:53.767110+00:00",
-      "last_seen_at": "2026-08-05T16:19:41.726540+00:00",
+      "last_seen_at": "2026-08-07T12:30:53.537144+00:00",
       "lead_hours": 149,
       "source_trail": [
         {
@@ -1060,7 +1014,7 @@
       "source_name": "Faena Miami Beach",
       "source_url": "https://www.faena.com/miami-beach/things-to-do",
       "first_seen_at": "2026-08-04T17:01:57.286603+00:00",
-      "last_seen_at": "2026-08-05T16:19:41.726540+00:00",
+      "last_seen_at": "2026-08-07T12:30:53.537144+00:00",
       "lead_hours": 343,
       "source_trail": [
         {
@@ -1068,6 +1022,48 @@
           "source_name": "Faena Miami Beach",
           "seen_at": "2026-08-04T17:01:57.286603+00:00",
           "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/shamanic-family-constellations-with-eric-lopez"
+        }
+      ]
+    },
+    {
+      "id": "3d1af5067e177ac7d05d55982d9a2f42f7bb27a6",
+      "title": "The Pink Files Brunch Launch",
+      "summary": "",
+      "starts_at": "2026-08-08T12:00:00-04:00",
+      "ends_at": "2026-08-08T13:30:00-04:00",
+      "all_day": false,
+      "venue": "Miami, FL",
+      "neighborhood": "Miami",
+      "city": "Miami",
+      "url": "https://luma.com/doso5d1y",
+      "rsvp_url": "https://luma.com/doso5d1y",
+      "image_url": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/https://images.unsplash.com/photo-1593413972998-427bb3b8a654?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjQyMjF8MHwxfHNlYXJjaHw0OXx8UGlua3xlbnwwfHx8fDE3ODQ2MTk4ODF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "access": "public",
+      "industry": "hospitality",
+      "categories": [
+        "culture",
+        "networking",
+        "nightlife"
+      ],
+      "access_tip": "Open the official source for current admission details. Reserve early if a booking option is shown.",
+      "contact_url": "https://luma.com/doso5d1y",
+      "contact_email": null,
+      "ask_for": "Nicki",
+      "score": 68,
+      "confidence": 0.8,
+      "why_it_matters": "From Luma Miami — networking keywords — at Miami, FL",
+      "source_id": "luma_miami",
+      "source_name": "Luma Miami",
+      "source_url": "https://luma.com/miami",
+      "first_seen_at": "2026-07-27T00:58:56.844609+00:00",
+      "last_seen_at": "2026-08-07T12:30:53.537144+00:00",
+      "lead_hours": 303,
+      "source_trail": [
+        {
+          "source_id": "luma_miami",
+          "source_name": "Luma Miami",
+          "seen_at": "2026-07-27T00:58:56.844609+00:00",
+          "url": "https://luma.com/doso5d1y"
         }
       ]
     },
@@ -1102,7 +1098,7 @@
       "source_name": "The Backgammon Society",
       "source_url": "https://www.thebackgammonsociety.com/",
       "first_seen_at": "2026-07-27T01:12:10.520735+00:00",
-      "last_seen_at": "2026-08-05T16:19:41.726540+00:00",
+      "last_seen_at": "2026-08-07T12:30:53.537144+00:00",
       "lead_hours": 717,
       "source_trail": [
         {
@@ -1110,6 +1106,47 @@
           "source_name": "The Backgammon Society",
           "seen_at": "2026-07-27T01:12:10.520735+00:00",
           "url": "https://www.thebackgammonsociety.com/tournaments/miami/seia-private-event"
+        }
+      ]
+    },
+    {
+      "id": "57198afd8c5b3ff36552dd0250ac60159121f9ef",
+      "title": "Animal Spirit Card Reading",
+      "summary": "Sun 9 Aug South Beach Watr at the 1 Rooftop Animal Spirit Card Reading Sundays",
+      "starts_at": "2026-08-20T12:00:00-04:00",
+      "ends_at": null,
+      "all_day": false,
+      "venue": "Watr at the 1 Rooftop",
+      "neighborhood": "Miami Beach",
+      "city": "Miami Beach",
+      "url": "https://www.1hotels.com/south-beach/do/events/animal-spirit-card-reading-1",
+      "rsvp_url": "https://www.1hotels.com/south-beach/do/events/animal-spirit-card-reading-1",
+      "image_url": null,
+      "access": "public",
+      "industry": "hospitality",
+      "categories": [
+        "hospitality",
+        "luxury"
+      ],
+      "access_tip": "Use the booking link on the official happening. Event planners can join the official Gathering Together invitation list.",
+      "contact_url": "https://www.1hotels.com/gather/email-signup",
+      "contact_email": null,
+      "ask_for": "1 Hotel South Beach Concierge or 1 Club Member Services",
+      "score": 66,
+      "confidence": 0.98,
+      "why_it_matters": "From 1 Hotel South Beach — luxury / hospitality keywords — at Watr at the 1 Rooftop",
+      "source_id": "one_hotel_south_beach",
+      "source_name": "1 Hotel South Beach",
+      "source_url": "https://www.1hotels.com/south-beach/do/events",
+      "first_seen_at": "2026-08-07T12:30:35.807294+00:00",
+      "last_seen_at": "2026-08-07T12:30:53.537144+00:00",
+      "lead_hours": 315,
+      "source_trail": [
+        {
+          "source_id": "one_hotel_south_beach",
+          "source_name": "1 Hotel South Beach",
+          "seen_at": "2026-08-07T12:30:35.807294+00:00",
+          "url": "https://www.1hotels.com/south-beach/do/events/animal-spirit-card-reading-1"
         }
       ]
     },
@@ -1143,7 +1180,7 @@
       "source_name": "1 Hotel South Beach",
       "source_url": "https://www.1hotels.com/south-beach/do/events",
       "first_seen_at": "2026-08-03T17:26:51.672187+00:00",
-      "last_seen_at": "2026-08-05T16:19:41.726540+00:00",
+      "last_seen_at": "2026-08-07T12:30:53.537144+00:00",
       "lead_hours": 406,
       "source_trail": [
         {
@@ -1184,7 +1221,7 @@
       "source_name": "1 Hotel South Beach",
       "source_url": "https://www.1hotels.com/south-beach/do/events",
       "first_seen_at": "2026-08-05T16:19:23.207500+00:00",
-      "last_seen_at": "2026-08-05T16:19:41.726540+00:00",
+      "last_seen_at": "2026-08-07T12:30:53.537144+00:00",
       "lead_hours": 359,
       "source_trail": [
         {
@@ -1225,7 +1262,7 @@
       "source_name": "1 Hotel South Beach",
       "source_url": "https://www.1hotels.com/south-beach/do/events",
       "first_seen_at": "2026-08-03T17:26:51.671100+00:00",
-      "last_seen_at": "2026-08-05T16:19:41.726540+00:00",
+      "last_seen_at": "2026-08-07T12:30:53.537144+00:00",
       "lead_hours": 406,
       "source_trail": [
         {
@@ -1237,50 +1274,9 @@
       ]
     },
     {
-      "id": "78caf268e11b207bccd2035e7adcb794bda2eb4f",
-      "title": "Metabolic Meltdown",
-      "summary": "Thu 6 Aug South Beach Anatomy Metabolic Meltdown Thursdays",
-      "starts_at": "2026-08-20T12:00:00-04:00",
-      "ends_at": null,
-      "all_day": false,
-      "venue": "Anatomy",
-      "neighborhood": "Miami Beach",
-      "city": "Miami Beach",
-      "url": "https://www.1hotels.com/south-beach/do/events/metabolic-meltdown-0",
-      "rsvp_url": "https://www.1hotels.com/south-beach/do/events/metabolic-meltdown-0",
-      "image_url": null,
-      "access": "public",
-      "industry": "hospitality",
-      "categories": [
-        "hospitality",
-        "luxury"
-      ],
-      "access_tip": "Use the booking link on the official happening. Event planners can join the official Gathering Together invitation list.",
-      "contact_url": "https://www.1hotels.com/gather/email-signup",
-      "contact_email": null,
-      "ask_for": "1 Hotel South Beach Concierge or 1 Club Member Services",
-      "score": 66,
-      "confidence": 0.98,
-      "why_it_matters": "From 1 Hotel South Beach — luxury / hospitality keywords — at Anatomy",
-      "source_id": "one_hotel_south_beach",
-      "source_name": "1 Hotel South Beach",
-      "source_url": "https://www.1hotels.com/south-beach/do/events",
-      "first_seen_at": "2026-08-01T14:44:42.962851+00:00",
-      "last_seen_at": "2026-08-05T16:19:41.726540+00:00",
-      "lead_hours": 457,
-      "source_trail": [
-        {
-          "source_id": "one_hotel_south_beach",
-          "source_name": "1 Hotel South Beach",
-          "seen_at": "2026-08-01T14:44:42.962851+00:00",
-          "url": "https://www.1hotels.com/south-beach/do/events/metabolic-meltdown-0"
-        }
-      ]
-    },
-    {
       "id": "8702c1e9c70cd6a72fab8727494b1a06b3981a25",
       "title": "Miami Spice at AVIV",
-      "summary": "Wed 5 Aug South Beach AVIV Miami Spice at AVIV August - September",
+      "summary": "Sun 9 Aug South Beach AVIV Miami Spice at AVIV August - September",
       "starts_at": "2026-08-20T12:00:00-04:00",
       "ends_at": null,
       "all_day": false,
@@ -1307,7 +1303,7 @@
       "source_name": "1 Hotel South Beach",
       "source_url": "https://www.1hotels.com/south-beach/do/events",
       "first_seen_at": "2026-07-27T00:58:44.873708+00:00",
-      "last_seen_at": "2026-08-05T16:19:41.726540+00:00",
+      "last_seen_at": "2026-08-07T12:30:53.537144+00:00",
       "lead_hours": 591,
       "source_trail": [
         {
@@ -1348,7 +1344,7 @@
       "source_name": "1 Hotel South Beach",
       "source_url": "https://www.1hotels.com/south-beach/do/events",
       "first_seen_at": "2026-08-01T14:44:42.961057+00:00",
-      "last_seen_at": "2026-08-05T16:19:41.726540+00:00",
+      "last_seen_at": "2026-08-07T12:30:53.537144+00:00",
       "lead_hours": 457,
       "source_trail": [
         {
@@ -1389,7 +1385,7 @@
       "source_name": "1 Hotel South Beach",
       "source_url": "https://www.1hotels.com/south-beach/do/events",
       "first_seen_at": "2026-08-05T16:19:23.206856+00:00",
-      "last_seen_at": "2026-08-05T16:19:41.726540+00:00",
+      "last_seen_at": "2026-08-07T12:30:53.537144+00:00",
       "lead_hours": 359,
       "source_trail": [
         {
@@ -1403,7 +1399,7 @@
     {
       "id": "d4318efc6b0607b25feaacd3a7e0804e82eb8e25",
       "title": "The goop Vitamin C+ Immunity Smoothie",
-      "summary": "Wed 5 Aug South Beach Neighbors & Plnthouse The goop Vitamin C+ Immunity Smoothie June - August",
+      "summary": "Fri 7 Aug South Beach Neighbors & Plnthouse The goop Vitamin C+ Immunity Smoothie June - August",
       "starts_at": "2026-08-20T12:00:00-04:00",
       "ends_at": null,
       "all_day": false,
@@ -1430,7 +1426,7 @@
       "source_name": "1 Hotel South Beach",
       "source_url": "https://www.1hotels.com/south-beach/do/events",
       "first_seen_at": "2026-08-01T14:44:42.958602+00:00",
-      "last_seen_at": "2026-08-05T16:19:41.726540+00:00",
+      "last_seen_at": "2026-08-07T12:30:53.537144+00:00",
       "lead_hours": 457,
       "source_trail": [
         {
@@ -1444,7 +1440,7 @@
     {
       "id": "c6b09d908cb5416d9e2e88d48ae66e88d219dff8",
       "title": "The goop Vitamin C+ Radiance Facial",
-      "summary": "Wed 5 Aug South Beach Bamford Wellness Spa The goop Vitamin C+ Radiance Facial June 15 - August",
+      "summary": "Fri 7 Aug South Beach Bamford Wellness Spa The goop Vitamin C+ Radiance Facial June 15 - August",
       "starts_at": "2026-08-20T12:00:00-04:00",
       "ends_at": null,
       "all_day": false,
@@ -1471,7 +1467,7 @@
       "source_name": "1 Hotel South Beach",
       "source_url": "https://www.1hotels.com/south-beach/do/events",
       "first_seen_at": "2026-08-01T14:44:42.959123+00:00",
-      "last_seen_at": "2026-08-05T16:19:41.726540+00:00",
+      "last_seen_at": "2026-08-07T12:30:53.537144+00:00",
       "lead_hours": 457,
       "source_trail": [
         {
@@ -1485,7 +1481,7 @@
     {
       "id": "ed6f2b7b51306187f76f8151244a7850a9c3c0a4",
       "title": "Wellness at 1: Mindfully Mixed",
-      "summary": "Wed 5 Aug South Beach AVIV, Watr, Drift Wellness at 1: Mindfully Mixed Daily",
+      "summary": "Fri 7 Aug South Beach AVIV, Watr, Drift Wellness at 1: Mindfully Mixed Daily",
       "starts_at": "2026-08-20T12:00:00-04:00",
       "ends_at": null,
       "all_day": false,
@@ -1512,7 +1508,7 @@
       "source_name": "1 Hotel South Beach",
       "source_url": "https://www.1hotels.com/south-beach/do/events",
       "first_seen_at": "2026-08-05T16:19:23.201200+00:00",
-      "last_seen_at": "2026-08-05T16:19:41.726540+00:00",
+      "last_seen_at": "2026-08-07T12:30:53.537144+00:00",
       "lead_hours": 359,
       "source_trail": [
         {
@@ -1554,7 +1550,7 @@
       "source_name": "Backgammon Social Miami",
       "source_url": "https://luma.com/backgammonsocialmiami",
       "first_seen_at": "2026-07-30T16:07:07.272497+00:00",
-      "last_seen_at": "2026-08-05T16:19:41.726540+00:00",
+      "last_seen_at": "2026-08-07T12:30:53.537144+00:00",
       "lead_hours": 678,
       "source_trail": [
         {
@@ -1562,90 +1558,6 @@
           "source_name": "Backgammon Social Miami",
           "seen_at": "2026-07-30T16:07:07.272497+00:00",
           "url": "https://luma.com/backga-h52n"
-        }
-      ]
-    },
-    {
-      "id": "3d1af5067e177ac7d05d55982d9a2f42f7bb27a6",
-      "title": "The Pink Files Brunch Launch",
-      "summary": "",
-      "starts_at": "2026-08-08T12:00:00-04:00",
-      "ends_at": "2026-08-08T13:30:00-04:00",
-      "all_day": false,
-      "venue": "Miami, FL",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://luma.com/doso5d1y",
-      "rsvp_url": "https://luma.com/doso5d1y",
-      "image_url": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/https://images.unsplash.com/photo-1593413972998-427bb3b8a654?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjQyMjF8MHwxfHNlYXJjaHw0OXx8UGlua3xlbnwwfHx8fDE3ODQ2MTk4ODF8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "access": "public",
-      "industry": "hospitality",
-      "categories": [
-        "culture",
-        "networking",
-        "nightlife"
-      ],
-      "access_tip": "Open the official source for current admission details. Reserve early if a booking option is shown.",
-      "contact_url": "https://luma.com/doso5d1y",
-      "contact_email": null,
-      "ask_for": "Nicki",
-      "score": 62,
-      "confidence": 0.8,
-      "why_it_matters": "From Luma Miami — networking keywords — at Miami, FL",
-      "source_id": "luma_miami",
-      "source_name": "Luma Miami",
-      "source_url": "https://luma.com/miami",
-      "first_seen_at": "2026-07-27T00:58:56.844609+00:00",
-      "last_seen_at": "2026-08-05T16:19:41.726540+00:00",
-      "lead_hours": 303,
-      "source_trail": [
-        {
-          "source_id": "luma_miami",
-          "source_name": "Luma Miami",
-          "seen_at": "2026-07-27T00:58:56.844609+00:00",
-          "url": "https://luma.com/doso5d1y"
-        }
-      ]
-    },
-    {
-      "id": "be3eba9ca3eda8b8fb8424f39e74940d63e8d682",
-      "title": "Backgammon Society — Yann Courvreur",
-      "summary": "Official Backgammon Society Miami tournament at Yann Courvreur.",
-      "starts_at": "2026-08-19T19:00:00-04:00",
-      "ends_at": null,
-      "all_day": false,
-      "venue": "Yann Courvreur",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://www.thebackgammonsociety.com/tournaments/miami/yann-courvreur-aug26",
-      "rsvp_url": "https://www.thebackgammonsociety.com/tournaments/miami/yann-courvreur-aug26",
-      "image_url": "https://budyxfmlimzpkgcjzmbi.supabase.co/storage/v1/object/public/tournament-images/307ce0f6-98ab-4d7e-80f9-fd3d2f8bc9d8/6e936772212c0e3f2596e3fe8a7caf733bc5d289ed1ef828108641680909295d.jpg",
-      "access": "registration",
-      "industry": "sports",
-      "categories": [
-        "hospitality",
-        "networking",
-        "sports"
-      ],
-      "access_tip": "Register on the official Backgammon Society tournament page. For members-club venues, ask the tournament host and the venue membership or concierge team.",
-      "contact_url": "https://www.thebackgammonsociety.com/",
-      "contact_email": null,
-      "ask_for": "The Backgammon Society Miami tournament host; for club venues, the venue membership or concierge team",
-      "score": 62,
-      "confidence": 0.8,
-      "why_it_matters": "From The Backgammon Society — at Yann Courvreur",
-      "source_id": "backgammon_society",
-      "source_name": "The Backgammon Society",
-      "source_url": "https://www.thebackgammonsociety.com/",
-      "first_seen_at": "2026-07-27T01:12:10.520357+00:00",
-      "last_seen_at": "2026-08-05T16:19:41.726540+00:00",
-      "lead_hours": 573,
-      "source_trail": [
-        {
-          "source_id": "backgammon_society",
-          "source_name": "The Backgammon Society",
-          "seen_at": "2026-07-27T01:12:10.520357+00:00",
-          "url": "https://www.thebackgammonsociety.com/tournaments/miami/yann-courvreur-aug26"
         }
       ]
     },
@@ -1680,7 +1592,7 @@
       "source_name": "The Backgammon Society",
       "source_url": "https://www.thebackgammonsociety.com/",
       "first_seen_at": "2026-08-05T16:19:31.701309+00:00",
-      "last_seen_at": "2026-08-05T16:19:41.726540+00:00",
+      "last_seen_at": "2026-08-07T12:30:53.537144+00:00",
       "lead_hours": 366,
       "source_trail": [
         {
@@ -1721,7 +1633,7 @@
       "source_name": "Greater Miami & The Beaches Hotel Association",
       "source_url": "https://members.gmbha.com/events",
       "first_seen_at": "2026-08-03T17:26:58.155677+00:00",
-      "last_seen_at": "2026-08-05T16:19:41.726540+00:00",
+      "last_seen_at": "2026-08-07T12:30:53.537144+00:00",
       "lead_hours": 510,
       "source_trail": [
         {
@@ -1763,7 +1675,7 @@
       "source_name": "The Backgammon Society",
       "source_url": "https://www.thebackgammonsociety.com/",
       "first_seen_at": "2026-07-27T01:12:10.521122+00:00",
-      "last_seen_at": "2026-08-05T16:19:41.726540+00:00",
+      "last_seen_at": "2026-08-07T12:30:53.537144+00:00",
       "lead_hours": 741,
       "source_trail": [
         {
@@ -1804,7 +1716,7 @@
       "source_name": "Greater Miami & The Beaches Hotel Association",
       "source_url": "https://members.gmbha.com/events",
       "first_seen_at": "2026-07-27T00:58:52.824141+00:00",
-      "last_seen_at": "2026-08-05T16:19:41.726540+00:00",
+      "last_seen_at": "2026-08-07T12:30:53.537144+00:00",
       "lead_hours": 743,
       "source_trail": [
         {
@@ -1846,7 +1758,7 @@
       "source_name": "The Backgammon Society",
       "source_url": "https://www.thebackgammonsociety.com/",
       "first_seen_at": "2026-07-27T01:12:10.521397+00:00",
-      "last_seen_at": "2026-08-05T16:19:41.726540+00:00",
+      "last_seen_at": "2026-08-07T12:30:53.537144+00:00",
       "lead_hours": 909,
       "source_trail": [
         {
@@ -1888,7 +1800,7 @@
       "source_name": "The Backgammon Society",
       "source_url": "https://www.thebackgammonsociety.com/",
       "first_seen_at": "2026-07-27T01:12:10.522077+00:00",
-      "last_seen_at": "2026-08-05T16:19:41.726540+00:00",
+      "last_seen_at": "2026-08-07T12:30:53.537144+00:00",
       "lead_hours": 1773,
       "source_trail": [
         {
@@ -1930,7 +1842,7 @@
       "source_name": "Backgammon Social Miami",
       "source_url": "https://luma.com/backgammonsocialmiami",
       "first_seen_at": "2026-07-30T16:07:07.271569+00:00",
-      "last_seen_at": "2026-08-05T16:19:41.726540+00:00",
+      "last_seen_at": "2026-08-07T12:30:53.537144+00:00",
       "lead_hours": 366,
       "source_trail": [
         {
@@ -1972,7 +1884,7 @@
       "source_name": "Backgammon Social Miami",
       "source_url": "https://luma.com/backgammonsocialmiami",
       "first_seen_at": "2026-07-30T16:07:07.272096+00:00",
-      "last_seen_at": "2026-08-05T16:19:41.726540+00:00",
+      "last_seen_at": "2026-08-07T12:30:53.537144+00:00",
       "lead_hours": 462,
       "source_trail": [
         {
@@ -2013,7 +1925,7 @@
       "source_name": "The Bass",
       "source_url": "https://thebass.org/events/?ical=1",
       "first_seen_at": "2026-08-04T17:01:39.878591+00:00",
-      "last_seen_at": "2026-08-05T16:19:41.726540+00:00",
+      "last_seen_at": "2026-08-07T12:30:53.537144+00:00",
       "lead_hours": 1063,
       "source_trail": [
         {
@@ -2054,7 +1966,7 @@
       "source_name": "Greater Miami & The Beaches Hotel Association",
       "source_url": "https://members.gmbha.com/events",
       "first_seen_at": "2026-07-28T16:23:03.355965+00:00",
-      "last_seen_at": "2026-08-05T16:19:41.726540+00:00",
+      "last_seen_at": "2026-08-07T12:30:53.537144+00:00",
       "lead_hours": 511,
       "source_trail": [
         {
@@ -2096,7 +2008,7 @@
       "source_name": "The Backgammon Society",
       "source_url": "https://www.thebackgammonsociety.com/",
       "first_seen_at": "2026-07-27T01:12:10.521692+00:00",
-      "last_seen_at": "2026-08-05T16:19:41.726540+00:00",
+      "last_seen_at": "2026-08-07T12:30:53.537144+00:00",
       "lead_hours": 1077,
       "source_trail": [
         {
@@ -2138,7 +2050,7 @@
       "source_name": "The Backgammon Society",
       "source_url": "https://www.thebackgammonsociety.com/",
       "first_seen_at": "2026-07-27T01:12:10.521887+00:00",
-      "last_seen_at": "2026-08-05T16:19:41.726540+00:00",
+      "last_seen_at": "2026-08-07T12:30:53.537144+00:00",
       "lead_hours": 1413,
       "source_trail": [
         {
@@ -2180,7 +2092,7 @@
       "source_name": "The Backgammon Society",
       "source_url": "https://www.thebackgammonsociety.com/",
       "first_seen_at": "2026-07-27T01:12:10.522280+00:00",
-      "last_seen_at": "2026-08-05T16:19:41.726540+00:00",
+      "last_seen_at": "2026-08-07T12:30:53.537144+00:00",
       "lead_hours": 1917,
       "source_trail": [
         {
@@ -2222,7 +2134,7 @@
       "source_name": "The Backgammon Society",
       "source_url": "https://www.thebackgammonsociety.com/",
       "first_seen_at": "2026-07-27T01:12:10.522459+00:00",
-      "last_seen_at": "2026-08-05T16:19:41.726540+00:00",
+      "last_seen_at": "2026-08-07T12:30:53.537144+00:00",
       "lead_hours": 2253,
       "source_trail": [
         {
@@ -2230,6 +2142,88 @@
           "source_name": "The Backgammon Society",
           "seen_at": "2026-07-27T01:12:10.522459+00:00",
           "url": "https://www.thebackgammonsociety.com/tournaments/miami/esme-rooftop"
+        }
+      ]
+    },
+    {
+      "id": "562880edcc59d6bc487075ad01dcf5a09b6e2759",
+      "title": "13th Annual Hospitality Leadership Awards",
+      "summary": "Monday, November 23, 2026",
+      "starts_at": "2026-11-23T00:00:00+00:00",
+      "ends_at": null,
+      "all_day": false,
+      "venue": "",
+      "neighborhood": "Miami",
+      "city": "Miami",
+      "url": "https://members.gmbha.com/events/Details/13th-annual-hospitality-leadership-awards-1885685?sourceTypeId=Website",
+      "rsvp_url": "https://members.gmbha.com/events/Details/13th-annual-hospitality-leadership-awards-1885685?sourceTypeId=Website",
+      "image_url": null,
+      "access": "public",
+      "industry": "hospitality",
+      "categories": [
+        "hospitality",
+        "networking"
+      ],
+      "access_tip": "Register through GMBHA. Membership or partner status may unlock industry luncheons and leadership events.",
+      "contact_url": "https://members.gmbha.com/events",
+      "contact_email": null,
+      "ask_for": "GMBHA Events and Membership Team",
+      "score": 56,
+      "confidence": 0.8,
+      "why_it_matters": "From Greater Miami & The Beaches Hotel Association — networking keywords",
+      "source_id": "gmbha",
+      "source_name": "Greater Miami & The Beaches Hotel Association",
+      "source_url": "https://members.gmbha.com/events",
+      "first_seen_at": "2026-08-07T12:30:40.856453+00:00",
+      "last_seen_at": "2026-08-07T12:30:53.537144+00:00",
+      "lead_hours": 2579,
+      "source_trail": [
+        {
+          "source_id": "gmbha",
+          "source_name": "Greater Miami & The Beaches Hotel Association",
+          "seen_at": "2026-08-07T12:30:40.856453+00:00",
+          "url": "https://members.gmbha.com/events/Details/13th-annual-hospitality-leadership-awards-1885685?sourceTypeId=Website"
+        }
+      ]
+    },
+    {
+      "id": "925373e4ff0f377718fe56d454a8c192b09a37b8",
+      "title": "WRE News: Yardbird Closes Flagship Location in Miami Beach, Hinting at Future Plans to Return",
+      "summary": "Miami Beach, FL - August 5, 2026 - Ater more than a decade serving upscale Southern comfort food, Yardbird Southern Table & Bar has shuttered its flagship restaurant on Lenox Avenue, marking the end of an era for one of Miami Beach’s most celebrated dining institutions. Founded by John Kunkel in 2011, the restaurant quickly earned national acclaim, helping launch the success of hospitality group 50 Eggs Hospitality G",
+      "starts_at": null,
+      "ends_at": null,
+      "all_day": false,
+      "venue": "",
+      "neighborhood": "Miami Beach",
+      "city": "Miami",
+      "url": "https://worldredeye.com/2026/08/wre-news-yardbird-closes-flagship-location-in-miami-beach-hinting-at-future-plans-to-return/",
+      "rsvp_url": "https://worldredeye.com/2026/08/wre-news-yardbird-closes-flagship-location-in-miami-beach-hinting-at-future-plans-to-return/",
+      "image_url": null,
+      "access": "public",
+      "industry": "culinary",
+      "categories": [
+        "editorial",
+        "nightlife"
+      ],
+      "access_tip": "Open the official source for current admission details. Reserve early if a booking option is shown.",
+      "contact_url": "https://worldredeye.com/2026/08/wre-news-yardbird-closes-flagship-location-in-miami-beach-hinting-at-future-plans-to-return/",
+      "contact_email": null,
+      "ask_for": "The host or sponsor named in the World Red Eye article",
+      "score": 56,
+      "confidence": 0.5,
+      "why_it_matters": "World Red Eye coverage (often same-day / post-event) — networking keywords",
+      "source_id": "world_red_eye",
+      "source_name": "World Red Eye",
+      "source_url": "https://worldredeye.com/feed/",
+      "first_seen_at": "2026-08-07T12:30:32.473339+00:00",
+      "last_seen_at": "2026-08-07T12:30:53.537144+00:00",
+      "lead_hours": null,
+      "source_trail": [
+        {
+          "source_id": "world_red_eye",
+          "source_name": "World Red Eye",
+          "seen_at": "2026-08-07T12:30:32.473339+00:00",
+          "url": "https://worldredeye.com/2026/08/wre-news-yardbird-closes-flagship-location-in-miami-beach-hinting-at-future-plans-to-return/"
         }
       ]
     },
@@ -2264,7 +2258,7 @@
       "source_name": "Luma Miami",
       "source_url": "https://luma.com/miami",
       "first_seen_at": "2026-07-27T00:58:56.846151+00:00",
-      "last_seen_at": "2026-08-05T16:19:41.726540+00:00",
+      "last_seen_at": "2026-08-07T12:30:53.537144+00:00",
       "lead_hours": 2125,
       "source_trail": [
         {
@@ -2276,10 +2270,10 @@
       ]
     },
     {
-      "id": "0527191ba4ea95369eb47165c470d1b1ac9bc29a",
+      "id": "1150bc6ad3687c8628fb6af7c6dc5201f7935e40",
       "title": "View our Event Calendar",
       "summary": "Home » Resort Home » View our Event Calendar » August 2026",
-      "starts_at": "2026-08-05T00:00:00+00:00",
+      "starts_at": "2026-08-07T00:00:00+00:00",
       "ends_at": null,
       "all_day": false,
       "venue": "",
@@ -2303,14 +2297,14 @@
       "source_id": "loews_miami",
       "source_name": "Loews Miami Beach",
       "source_url": "https://www.loewshotels.com/miami-beach/event-calendar",
-      "first_seen_at": "2026-08-05T16:19:22.727863+00:00",
-      "last_seen_at": "2026-08-05T16:19:41.726540+00:00",
-      "lead_hours": -17,
+      "first_seen_at": "2026-08-07T12:30:34.305513+00:00",
+      "last_seen_at": "2026-08-07T12:30:53.537144+00:00",
+      "lead_hours": -13,
       "source_trail": [
         {
           "source_id": "loews_miami",
           "source_name": "Loews Miami Beach",
-          "seen_at": "2026-08-05T16:19:22.727863+00:00",
+          "seen_at": "2026-08-07T12:30:34.305513+00:00",
           "url": "https://www.loewshotels.com/miami-beach/event-calendar"
         }
       ]
