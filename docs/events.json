@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T10:32:02.792810+00:00",
+  "generated_at": "2026-08-18T15:04:08.354172+00:00",
   "timezone": "America/New_York",
   "version": 1,
   "event_count": 41,
@@ -594,7 +594,7 @@
       "source_name": "Faena Miami Beach",
       "source_url": "https://www.faena.com/miami-beach/things-to-do",
       "first_seen_at": "2026-07-27T00:58:57.846279+00:00",
-      "last_seen_at": "2026-08-18T10:31:50.205029+00:00",
+      "last_seen_at": "2026-08-18T15:03:55.786316+00:00",
       "lead_hours": 1428,
       "source_trail": [
         {
@@ -636,7 +636,7 @@
       "source_name": "Faena Miami Beach",
       "source_url": "https://www.faena.com/miami-beach/things-to-do",
       "first_seen_at": "2026-08-16T10:26:11.602713+00:00",
-      "last_seen_at": "2026-08-18T10:31:50.205029+00:00",
+      "last_seen_at": "2026-08-18T15:03:55.786316+00:00",
       "lead_hours": 109,
       "source_trail": [
         {
@@ -678,7 +678,7 @@
       "source_name": "Faena Miami Beach",
       "source_url": "https://www.faena.com/miami-beach/things-to-do",
       "first_seen_at": "2026-08-12T11:02:12.749732+00:00",
-      "last_seen_at": "2026-08-18T10:31:50.205029+00:00",
+      "last_seen_at": "2026-08-18T15:03:55.786316+00:00",
       "lead_hours": 156,
       "source_trail": [
         {
@@ -720,7 +720,7 @@
       "source_name": "Faena Miami Beach",
       "source_url": "https://www.faena.com/miami-beach/things-to-do",
       "first_seen_at": "2026-08-04T17:01:58.684835+00:00",
-      "last_seen_at": "2026-08-18T10:31:50.205029+00:00",
+      "last_seen_at": "2026-08-18T15:03:55.786316+00:00",
       "lead_hours": 624,
       "source_trail": [
         {
@@ -762,7 +762,7 @@
       "source_name": "Faena Miami Beach",
       "source_url": "https://www.faena.com/miami-beach/things-to-do",
       "first_seen_at": "2026-08-04T17:01:57.286603+00:00",
-      "last_seen_at": "2026-08-18T10:31:50.205029+00:00",
+      "last_seen_at": "2026-08-18T15:03:55.786316+00:00",
       "lead_hours": 343,
       "source_trail": [
         {
@@ -804,7 +804,7 @@
       "source_name": "Faena Miami Beach",
       "source_url": "https://www.faena.com/miami-beach/things-to-do",
       "first_seen_at": "2026-08-18T10:31:42.817535+00:00",
-      "last_seen_at": "2026-08-18T10:31:50.205029+00:00",
+      "last_seen_at": "2026-08-18T15:03:55.786316+00:00",
       "lead_hours": 155,
       "source_trail": [
         {
@@ -846,7 +846,7 @@
       "source_name": "Faena Miami Beach",
       "source_url": "https://www.faena.com/miami-beach/things-to-do",
       "first_seen_at": "2026-08-17T10:34:43.731580+00:00",
-      "last_seen_at": "2026-08-18T10:31:50.205029+00:00",
+      "last_seen_at": "2026-08-18T15:03:55.786316+00:00",
       "lead_hours": 149,
       "source_trail": [
         {
@@ -887,7 +887,7 @@
       "source_name": "1 Hotel South Beach",
       "source_url": "https://www.1hotels.com/south-beach/do/events",
       "first_seen_at": "2026-08-17T10:34:42.077683+00:00",
-      "last_seen_at": "2026-08-18T10:31:50.205029+00:00",
+      "last_seen_at": "2026-08-18T15:03:55.786316+00:00",
       "lead_hours": 77,
       "source_trail": [
         {
@@ -928,7 +928,7 @@
       "source_name": "1 Hotel South Beach",
       "source_url": "https://www.1hotels.com/south-beach/do/events",
       "first_seen_at": "2026-08-17T10:34:42.078599+00:00",
-      "last_seen_at": "2026-08-18T10:31:50.205029+00:00",
+      "last_seen_at": "2026-08-18T15:03:55.786316+00:00",
       "lead_hours": 77,
       "source_trail": [
         {
@@ -969,7 +969,7 @@
       "source_name": "1 Hotel South Beach",
       "source_url": "https://www.1hotels.com/south-beach/do/events",
       "first_seen_at": "2026-08-17T10:34:42.077230+00:00",
-      "last_seen_at": "2026-08-18T10:31:50.205029+00:00",
+      "last_seen_at": "2026-08-18T15:03:55.786316+00:00",
       "lead_hours": 77,
       "source_trail": [
         {
@@ -1010,7 +1010,7 @@
       "source_name": "1 Hotel South Beach",
       "source_url": "https://www.1hotels.com/south-beach/do/events",
       "first_seen_at": "2026-08-15T10:25:39.182914+00:00",
-      "last_seen_at": "2026-08-18T10:31:50.205029+00:00",
+      "last_seen_at": "2026-08-18T15:03:55.786316+00:00",
       "lead_hours": 125,
       "source_trail": [
         {
@@ -1051,7 +1051,7 @@
       "source_name": "1 Hotel South Beach",
       "source_url": "https://www.1hotels.com/south-beach/do/events",
       "first_seen_at": "2026-08-10T12:35:07.849315+00:00",
-      "last_seen_at": "2026-08-18T10:31:50.205029+00:00",
+      "last_seen_at": "2026-08-18T15:03:55.786316+00:00",
       "lead_hours": 243,
       "source_trail": [
         {
@@ -1092,7 +1092,7 @@
       "source_name": "1 Hotel South Beach",
       "source_url": "https://www.1hotels.com/south-beach/do/events",
       "first_seen_at": "2026-08-18T10:31:34.846486+00:00",
-      "last_seen_at": "2026-08-18T10:31:50.205029+00:00",
+      "last_seen_at": "2026-08-18T15:03:55.786316+00:00",
       "lead_hours": 53,
       "source_trail": [
         {
@@ -1133,7 +1133,7 @@
       "source_name": "1 Hotel South Beach",
       "source_url": "https://www.1hotels.com/south-beach/do/events",
       "first_seen_at": "2026-08-01T14:44:42.958602+00:00",
-      "last_seen_at": "2026-08-18T10:31:50.205029+00:00",
+      "last_seen_at": "2026-08-18T15:03:55.786316+00:00",
       "lead_hours": 457,
       "source_trail": [
         {
@@ -1174,7 +1174,7 @@
       "source_name": "1 Hotel South Beach",
       "source_url": "https://www.1hotels.com/south-beach/do/events",
       "first_seen_at": "2026-08-01T14:44:42.959123+00:00",
-      "last_seen_at": "2026-08-18T10:31:50.205029+00:00",
+      "last_seen_at": "2026-08-18T15:03:55.786316+00:00",
       "lead_hours": 457,
       "source_trail": [
         {
@@ -1215,7 +1215,7 @@
       "source_name": "1 Hotel South Beach",
       "source_url": "https://www.1hotels.com/south-beach/do/events",
       "first_seen_at": "2026-08-05T16:19:23.201200+00:00",
-      "last_seen_at": "2026-08-18T10:31:50.205029+00:00",
+      "last_seen_at": "2026-08-18T15:03:55.786316+00:00",
       "lead_hours": 359,
       "source_trail": [
         {
@@ -1256,7 +1256,7 @@
       "source_name": "1 Hotel South Beach",
       "source_url": "https://www.1hotels.com/south-beach/do/events",
       "first_seen_at": "2026-08-17T10:34:42.078132+00:00",
-      "last_seen_at": "2026-08-18T10:31:50.205029+00:00",
+      "last_seen_at": "2026-08-18T15:03:55.786316+00:00",
       "lead_hours": 77,
       "source_trail": [
         {
@@ -1298,7 +1298,7 @@
       "source_name": "Backgammon Social Miami",
       "source_url": "https://luma.com/backgammonsocialmiami",
       "first_seen_at": "2026-07-30T16:07:07.272096+00:00",
-      "last_seen_at": "2026-08-18T10:31:50.205029+00:00",
+      "last_seen_at": "2026-08-18T15:03:55.786316+00:00",
       "lead_hours": 462,
       "source_trail": [
         {
@@ -1339,7 +1339,7 @@
       "source_name": "Greater Miami & The Beaches Hotel Association",
       "source_url": "https://members.gmbha.com/events",
       "first_seen_at": "2026-07-28T16:23:03.355965+00:00",
-      "last_seen_at": "2026-08-18T10:31:50.205029+00:00",
+      "last_seen_at": "2026-08-18T15:03:55.786316+00:00",
       "lead_hours": 511,
       "source_trail": [
         {
@@ -1362,7 +1362,7 @@
       "city": "Miami Chess",
       "url": "https://www.thebackgammonsociety.com/tournaments/miami-chess/la-casa-rubia",
       "rsvp_url": "https://www.thebackgammonsociety.com/tournaments/miami-chess/la-casa-rubia",
-      "image_url": "https://budyxfmlimzpkgcjzmbi.supabase.co/storage/v1/object/public/tournament-images/4561bf36-db4c-4fee-bbb8-ca04098c9b45/d6cac843cf2819ca91ad42977977c476b986e2142250545fa499e9f1031a30a4.jpg",
+      "image_url": "https://budyxfmlimzpkgcjzmbi.supabase.co/storage/v1/object/public/tournament-images/4561bf36-db4c-4fee-bbb8-ca04098c9b45/f76c5f1e30e947f996157621c9309549410e0ab003e3fff38b25031bf26a33af.jpg",
       "access": "registration",
       "industry": "sports",
       "categories": [
@@ -1381,7 +1381,7 @@
       "source_name": "The Backgammon Society",
       "source_url": "https://www.thebackgammonsociety.com/",
       "first_seen_at": "2026-08-15T10:25:46.839583+00:00",
-      "last_seen_at": "2026-08-18T10:31:50.205029+00:00",
+      "last_seen_at": "2026-08-18T15:03:55.786316+00:00",
       "lead_hours": 132,
       "source_trail": [
         {
@@ -1423,7 +1423,7 @@
       "source_name": "The Backgammon Society",
       "source_url": "https://www.thebackgammonsociety.com/",
       "first_seen_at": "2026-08-05T16:19:31.701309+00:00",
-      "last_seen_at": "2026-08-18T10:31:50.205029+00:00",
+      "last_seen_at": "2026-08-18T15:03:55.786316+00:00",
       "lead_hours": 366,
       "source_trail": [
         {
@@ -1464,7 +1464,7 @@
       "source_name": "Greater Miami & The Beaches Hotel Association",
       "source_url": "https://members.gmbha.com/events",
       "first_seen_at": "2026-08-03T17:26:58.155677+00:00",
-      "last_seen_at": "2026-08-18T10:31:50.205029+00:00",
+      "last_seen_at": "2026-08-18T15:03:55.786316+00:00",
       "lead_hours": 510,
       "source_trail": [
         {
@@ -1506,7 +1506,7 @@
       "source_name": "The Backgammon Society",
       "source_url": "https://www.thebackgammonsociety.com/",
       "first_seen_at": "2026-07-27T01:12:10.520735+00:00",
-      "last_seen_at": "2026-08-18T10:31:50.205029+00:00",
+      "last_seen_at": "2026-08-18T15:03:55.786316+00:00",
       "lead_hours": 717,
       "source_trail": [
         {
@@ -1548,7 +1548,7 @@
       "source_name": "Backgammon Social Miami",
       "source_url": "https://luma.com/backgammonsocialmiami",
       "first_seen_at": "2026-07-30T16:07:07.272497+00:00",
-      "last_seen_at": "2026-08-18T10:31:50.205029+00:00",
+      "last_seen_at": "2026-08-18T15:03:55.786316+00:00",
       "lead_hours": 678,
       "source_trail": [
         {
@@ -1590,7 +1590,7 @@
       "source_name": "The Backgammon Society",
       "source_url": "https://www.thebackgammonsociety.com/",
       "first_seen_at": "2026-07-27T01:12:10.521122+00:00",
-      "last_seen_at": "2026-08-18T10:31:50.205029+00:00",
+      "last_seen_at": "2026-08-18T15:03:55.786316+00:00",
       "lead_hours": 741,
       "source_trail": [
         {
@@ -1631,7 +1631,7 @@
       "source_name": "Greater Miami & The Beaches Hotel Association",
       "source_url": "https://members.gmbha.com/events",
       "first_seen_at": "2026-07-27T00:58:52.824141+00:00",
-      "last_seen_at": "2026-08-18T10:31:50.205029+00:00",
+      "last_seen_at": "2026-08-18T15:03:55.786316+00:00",
       "lead_hours": 743,
       "source_trail": [
         {
@@ -1673,7 +1673,7 @@
       "source_name": "The Backgammon Society",
       "source_url": "https://www.thebackgammonsociety.com/",
       "first_seen_at": "2026-07-27T01:12:10.521397+00:00",
-      "last_seen_at": "2026-08-18T10:31:50.205029+00:00",
+      "last_seen_at": "2026-08-18T15:03:55.786316+00:00",
       "lead_hours": 909,
       "source_trail": [
         {
@@ -1715,7 +1715,7 @@
       "source_name": "The Backgammon Society",
       "source_url": "https://www.thebackgammonsociety.com/",
       "first_seen_at": "2026-07-27T01:12:10.521692+00:00",
-      "last_seen_at": "2026-08-18T10:31:50.205029+00:00",
+      "last_seen_at": "2026-08-18T15:03:55.786316+00:00",
       "lead_hours": 1077,
       "source_trail": [
         {
@@ -1757,7 +1757,7 @@
       "source_name": "The Backgammon Society",
       "source_url": "https://www.thebackgammonsociety.com/",
       "first_seen_at": "2026-08-12T11:02:18.589351+00:00",
-      "last_seen_at": "2026-08-18T10:31:50.205029+00:00",
+      "last_seen_at": "2026-08-18T15:03:55.786316+00:00",
       "lead_hours": 826,
       "source_trail": [
         {
@@ -1799,7 +1799,7 @@
       "source_name": "The Backgammon Society",
       "source_url": "https://www.thebackgammonsociety.com/",
       "first_seen_at": "2026-08-13T11:02:29.644791+00:00",
-      "last_seen_at": "2026-08-18T10:31:50.205029+00:00",
+      "last_seen_at": "2026-08-18T15:03:55.786316+00:00",
       "lead_hours": 827,
       "source_trail": [
         {
@@ -1841,7 +1841,7 @@
       "source_name": "The Backgammon Society",
       "source_url": "https://www.thebackgammonsociety.com/",
       "first_seen_at": "2026-07-27T01:12:10.522077+00:00",
-      "last_seen_at": "2026-08-18T10:31:50.205029+00:00",
+      "last_seen_at": "2026-08-18T15:03:55.786316+00:00",
       "lead_hours": 1773,
       "source_trail": [
         {
@@ -1882,7 +1882,7 @@
       "source_name": "The Standard Spa Miami Beach",
       "source_url": "https://www.standardhotels.com/happenings",
       "first_seen_at": "2026-08-12T11:02:17.740175+00:00",
-      "last_seen_at": "2026-08-18T10:31:50.205029+00:00",
+      "last_seen_at": "2026-08-18T15:03:55.786316+00:00",
       "lead_hours": 196,
       "source_trail": [
         {
@@ -1923,7 +1923,7 @@
       "source_name": "The Bass",
       "source_url": "https://thebass.org/events/?ical=1",
       "first_seen_at": "2026-08-04T17:01:39.878591+00:00",
-      "last_seen_at": "2026-08-18T10:31:50.205029+00:00",
+      "last_seen_at": "2026-08-18T15:03:55.786316+00:00",
       "lead_hours": 1063,
       "source_trail": [
         {
@@ -1965,7 +1965,7 @@
       "source_name": "The Backgammon Society",
       "source_url": "https://www.thebackgammonsociety.com/",
       "first_seen_at": "2026-07-27T01:12:10.521887+00:00",
-      "last_seen_at": "2026-08-18T10:31:50.205029+00:00",
+      "last_seen_at": "2026-08-18T15:03:55.786316+00:00",
       "lead_hours": 1413,
       "source_trail": [
         {
@@ -2007,7 +2007,7 @@
       "source_name": "The Backgammon Society",
       "source_url": "https://www.thebackgammonsociety.com/",
       "first_seen_at": "2026-08-18T10:31:42.862372+00:00",
-      "last_seen_at": "2026-08-18T10:31:50.205029+00:00",
+      "last_seen_at": "2026-08-18T15:03:55.786316+00:00",
       "lead_hours": 1044,
       "source_trail": [
         {
@@ -2049,7 +2049,7 @@
       "source_name": "The Backgammon Society",
       "source_url": "https://www.thebackgammonsociety.com/",
       "first_seen_at": "2026-07-27T01:12:10.522280+00:00",
-      "last_seen_at": "2026-08-18T10:31:50.205029+00:00",
+      "last_seen_at": "2026-08-18T15:03:55.786316+00:00",
       "lead_hours": 1917,
       "source_trail": [
         {
@@ -2091,7 +2091,7 @@
       "source_name": "The Backgammon Society",
       "source_url": "https://www.thebackgammonsociety.com/",
       "first_seen_at": "2026-07-27T01:12:10.522459+00:00",
-      "last_seen_at": "2026-08-18T10:31:50.205029+00:00",
+      "last_seen_at": "2026-08-18T15:03:55.786316+00:00",
       "lead_hours": 2253,
       "source_trail": [
         {
@@ -2132,7 +2132,7 @@
       "source_name": "Greater Miami & The Beaches Hotel Association",
       "source_url": "https://members.gmbha.com/events",
       "first_seen_at": "2026-08-07T12:30:40.856453+00:00",
-      "last_seen_at": "2026-08-18T10:31:50.205029+00:00",
+      "last_seen_at": "2026-08-18T15:03:55.786316+00:00",
       "lead_hours": 2579,
       "source_trail": [
         {
@@ -2174,7 +2174,7 @@
       "source_name": "Luma Miami",
       "source_url": "https://luma.com/miami",
       "first_seen_at": "2026-08-16T10:26:21.278916+00:00",
-      "last_seen_at": "2026-08-18T10:31:50.205029+00:00",
+      "last_seen_at": "2026-08-18T15:03:55.786316+00:00",
       "lead_hours": 341,
       "source_trail": [
         {
@@ -2216,7 +2216,7 @@
       "source_name": "Luma Miami",
       "source_url": "https://luma.com/miami",
       "first_seen_at": "2026-07-27T00:58:56.846151+00:00",
-      "last_seen_at": "2026-08-18T10:31:50.205029+00:00",
+      "last_seen_at": "2026-08-18T15:03:55.786316+00:00",
       "lead_hours": 2125,
       "source_trail": [
         {
@@ -2256,7 +2256,7 @@
       "source_name": "Loews Miami Beach",
       "source_url": "https://www.loewshotels.com/miami-beach/event-calendar",
       "first_seen_at": "2026-08-18T10:31:34.502986+00:00",
-      "last_seen_at": "2026-08-18T10:31:50.205029+00:00",
+      "last_seen_at": "2026-08-18T15:03:55.786316+00:00",
       "lead_hours": -11,
       "source_trail": [
         {
