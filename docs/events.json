@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-31T17:30:16.232680+00:00",
+  "generated_at": "2026-09-07T15:42:09.251908+00:00",
   "timezone": "America/New_York",
   "version": 1,
-  "event_count": 43,
+  "event_count": 52,
   "industries": [
     "hospitality",
     "sports",
@@ -302,28 +302,6 @@
       "basis": "Public caption or professional role text; no face recognition or private contact data."
     },
     {
-      "id": "ae410ac71ef94fe9",
-      "name": "Ashley Bolton",
-      "role": "Recurring name in curated event coverage",
-      "organization": "Miami luxury and industry network",
-      "industry": "hospitality",
-      "priority": 70,
-      "mentions": 4,
-      "event_count": 2,
-      "why_connect": "Published in 4 World Red Eye caption(s) across 2 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
-      "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
-      "source_name": "World Red Eye",
-      "source_urls": [
-        "https://worldredeye.com/2026/05/world-red-eye-preview-dinner-hosted-by-seth-browarnik-at-gigi-rigolatto-celebrating-delano/",
-        "https://worldredeye.com/2026/08/makoto-debuts-first-ever-mahjong-night-presented-by-tyku-sake/"
-      ],
-      "event_titles": [
-        "Makoto Debuts First-Ever Mahjong Night Presented by TYKU Sake",
-        "World Red Eye Preview Dinner Hosted by Seth Browarnik at Gigi Rigolatto Celebrating Delano"
-      ],
-      "basis": "Public caption or professional role text; no face recognition or private contact data."
-    },
-    {
       "id": "9d78a6c3ea84dd8f",
       "name": "Rodney Barreto",
       "role": "Recurring name in curated event coverage",
@@ -562,6 +540,26 @@
         "World Red Eye Preview Dinner Hosted by Seth Browarnik at Gigi Rigolatto Celebrating Delano"
       ],
       "basis": "Public caption or professional role text; no face recognition or private contact data."
+    },
+    {
+      "id": "42dd1bc65e3f9c5c",
+      "name": "Nathan Lieberman",
+      "role": "Recurring name in curated event coverage",
+      "organization": "Miami luxury and industry network",
+      "industry": "hospitality",
+      "priority": 64,
+      "mentions": 7,
+      "event_count": 1,
+      "why_connect": "Published in 7 World Red Eye caption(s) across 1 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
+      "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
+      "source_name": "World Red Eye",
+      "source_urls": [
+        "https://worldredeye.com/2026/05/world-red-eye-preview-dinner-hosted-by-seth-browarnik-at-gigi-rigolatto-celebrating-delano/"
+      ],
+      "event_titles": [
+        "World Red Eye Preview Dinner Hosted by Seth Browarnik at Gigi Rigolatto Celebrating Delano"
+      ],
+      "basis": "Public caption or professional role text; no face recognition or private contact data."
     }
   ],
   "events": [
@@ -596,7 +594,7 @@
       "source_name": "Faena Miami Beach",
       "source_url": "https://www.faena.com/miami-beach/things-to-do",
       "first_seen_at": "2026-08-24T10:42:32.000025+00:00",
-      "last_seen_at": "2026-08-31T17:30:03.666218+00:00",
+      "last_seen_at": "2026-09-07T15:41:56.690586+00:00",
       "lead_hours": 492,
       "source_trail": [
         {
@@ -604,47 +602,6 @@
           "source_name": "Faena Miami Beach",
           "seen_at": "2026-08-24T10:42:32.000025+00:00",
           "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/havasi-at-faena-theater"
-        }
-      ]
-    },
-    {
-      "id": "8eb0515744065cb687e116b991d0bf90cc58da63",
-      "title": "1 Hotel Austin Opening Cocktail: ATX RANCH WATR",
-      "summary": "Tue 1 Sep South Beach Drift 1 Hotel Austin Opening Cocktail: ATX RANCH WATR Month of September",
-      "starts_at": "2026-09-20T12:00:00-04:00",
-      "ends_at": null,
-      "all_day": false,
-      "venue": "Drift",
-      "neighborhood": "Miami Beach",
-      "city": "Miami Beach",
-      "url": "https://www.1hotels.com/south-beach/do/events/1-hotel-austin-opening-cocktail-atx-ranch-watr",
-      "rsvp_url": "https://www.1hotels.com/south-beach/do/events/1-hotel-austin-opening-cocktail-atx-ranch-watr",
-      "image_url": null,
-      "access": "public",
-      "industry": "hospitality",
-      "categories": [
-        "hospitality",
-        "luxury"
-      ],
-      "access_tip": "Use the booking link on the official happening. Event planners can join the official Gathering Together invitation list.",
-      "contact_url": "https://www.1hotels.com/gather/email-signup",
-      "contact_email": null,
-      "ask_for": "1 Hotel South Beach Concierge or 1 Club Member Services",
-      "score": 100,
-      "confidence": 0.98,
-      "why_it_matters": "From 1 Hotel South Beach — luxury + networking keywords — at Drift",
-      "source_id": "one_hotel_south_beach",
-      "source_name": "1 Hotel South Beach",
-      "source_url": "https://www.1hotels.com/south-beach/do/events",
-      "first_seen_at": "2026-08-31T17:29:44.566314+00:00",
-      "last_seen_at": "2026-08-31T17:30:03.666218+00:00",
-      "lead_hours": 478,
-      "source_trail": [
-        {
-          "source_id": "one_hotel_south_beach",
-          "source_name": "1 Hotel South Beach",
-          "seen_at": "2026-08-31T17:29:44.566314+00:00",
-          "url": "https://www.1hotels.com/south-beach/do/events/1-hotel-austin-opening-cocktail-atx-ranch-watr"
         }
       ]
     },
@@ -679,7 +636,7 @@
       "source_name": "Faena Miami Beach",
       "source_url": "https://www.faena.com/miami-beach/things-to-do",
       "first_seen_at": "2026-08-31T17:30:01.189528+00:00",
-      "last_seen_at": "2026-08-31T17:30:03.666218+00:00",
+      "last_seen_at": "2026-09-07T15:41:56.690586+00:00",
       "lead_hours": 571,
       "source_trail": [
         {
@@ -721,7 +678,7 @@
       "source_name": "Faena Miami Beach",
       "source_url": "https://www.faena.com/miami-beach/things-to-do",
       "first_seen_at": "2026-08-31T17:30:02.429278+00:00",
-      "last_seen_at": "2026-08-31T17:30:03.666218+00:00",
+      "last_seen_at": "2026-09-07T15:41:56.690586+00:00",
       "lead_hours": 630,
       "source_trail": [
         {
@@ -733,10 +690,10 @@
       ]
     },
     {
-      "id": "760de19f54bac7848277430382198e77cb6a7b86",
+      "id": "8b2ad1d20fe56d5859aaf4758a87c58cd0986a97",
       "title": "OBSESSION",
       "summary": "OBSESSION - Faena Theater's new original live production!",
-      "starts_at": "2026-09-03T20:00:00-04:00",
+      "starts_at": "2026-09-10T20:00:00-04:00",
       "ends_at": null,
       "all_day": false,
       "venue": "Faena Theater",
@@ -762,23 +719,23 @@
       "source_id": "faena",
       "source_name": "Faena Miami Beach",
       "source_url": "https://www.faena.com/miami-beach/things-to-do",
-      "first_seen_at": "2026-08-31T17:29:43.686472+00:00",
-      "last_seen_at": "2026-08-31T17:30:03.666218+00:00",
-      "lead_hours": 78,
+      "first_seen_at": "2026-09-07T15:41:36.741225+00:00",
+      "last_seen_at": "2026-09-07T15:41:56.690586+00:00",
+      "lead_hours": 80,
       "source_trail": [
         {
           "source_id": "faena",
           "source_name": "Faena Miami Beach",
-          "seen_at": "2026-08-31T17:29:43.686472+00:00",
+          "seen_at": "2026-09-07T15:41:36.741225+00:00",
           "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/obsession"
         }
       ]
     },
     {
-      "id": "3fe2423e3460018253fb09f54a8aaf462256bf9f",
+      "id": "da91ad4def63ff6d6edcb7e1ea8d8dd13d8740d0",
       "title": "A Martini Affair",
-      "summary": "Discover A Martini Affair at Faena Miami Beach, a weekly Monday martini and caviar experience at The Living Room featuring Osetra caviar pairings and signature Bombay Sapphire and Grey Goose cocktails.",
-      "starts_at": "2026-08-31T18:00:00-04:00",
+      "summary": "A Martini Affair, The Living Room's weekly tableside cocktail ritual, bringing theater, spirit, and just enough drama to make a Monday feel like the best night of the week.Signature Martinis, Every MondayFour signature martinis, each prepared tableside and each with its own point of view, invite guests to choose not just a drink, but a mood.",
+      "starts_at": "2026-09-07T18:00:00-04:00",
       "ends_at": null,
       "all_day": false,
       "venue": "The Living Room",
@@ -804,23 +761,23 @@
       "source_id": "faena",
       "source_name": "Faena Miami Beach",
       "source_url": "https://www.faena.com/miami-beach/things-to-do",
-      "first_seen_at": "2026-08-31T17:29:52.469112+00:00",
-      "last_seen_at": "2026-08-31T17:30:03.666218+00:00",
-      "lead_hours": 4,
+      "first_seen_at": "2026-09-07T15:41:44.280039+00:00",
+      "last_seen_at": "2026-09-07T15:41:56.690586+00:00",
+      "lead_hours": 6,
       "source_trail": [
         {
           "source_id": "faena",
           "source_name": "Faena Miami Beach",
-          "seen_at": "2026-08-31T17:29:52.469112+00:00",
+          "seen_at": "2026-09-07T15:41:44.280039+00:00",
           "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/a-martini-affair"
         }
       ]
     },
     {
-      "id": "de98ab166e8c95b1871ad1e5c922ea5ee57430ca",
+      "id": "4c7db1cc403148eae6c312f868d671fb18b1bdf5",
       "title": "Vinyl Tuesdays at The Living Room",
       "summary": "Sip on one of Faena’s signature craft cocktails and groove to the sounds of local DJ Diego Ciaramella for a skillful mix on traditional turntables.",
-      "starts_at": "2026-09-01T20:00:00-04:00",
+      "starts_at": "2026-09-08T20:00:00-04:00",
       "ends_at": null,
       "all_day": false,
       "venue": "The Living Room",
@@ -846,14 +803,14 @@
       "source_id": "faena",
       "source_name": "Faena Miami Beach",
       "source_url": "https://www.faena.com/miami-beach/things-to-do",
-      "first_seen_at": "2026-08-31T17:29:47.423634+00:00",
-      "last_seen_at": "2026-08-31T17:30:03.666218+00:00",
-      "lead_hours": 30,
+      "first_seen_at": "2026-09-07T15:41:40.460867+00:00",
+      "last_seen_at": "2026-09-07T15:41:56.690586+00:00",
+      "lead_hours": 32,
       "source_trail": [
         {
           "source_id": "faena",
           "source_name": "Faena Miami Beach",
-          "seen_at": "2026-08-31T17:29:47.423634+00:00",
+          "seen_at": "2026-09-07T15:41:40.460867+00:00",
           "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/vinyl-tuesdays-at-the-living-room"
         }
       ]
@@ -882,14 +839,14 @@
       "contact_url": "https://forms.rosemembers.faena.com/membership-interest",
       "contact_email": null,
       "ask_for": "Faena Theater box office for public tickets; Faena Rose Membership Team for Rose programming",
-      "score": 80,
+      "score": 86,
       "confidence": 0.98,
       "why_it_matters": "Listed on Faena Miami Beach — luxury / hospitality keywords — at Tierra Santa Healing House",
       "source_id": "faena",
       "source_name": "Faena Miami Beach",
       "source_url": "https://www.faena.com/miami-beach/things-to-do",
       "first_seen_at": "2026-08-31T17:29:55.001844+00:00",
-      "last_seen_at": "2026-08-31T17:30:03.666218+00:00",
+      "last_seen_at": "2026-09-07T15:41:56.690586+00:00",
       "lead_hours": 245,
       "source_trail": [
         {
@@ -931,7 +888,7 @@
       "source_name": "The Backgammon Society",
       "source_url": "https://www.thebackgammonsociety.com/",
       "first_seen_at": "2026-08-31T17:29:52.339038+00:00",
-      "last_seen_at": "2026-08-31T17:30:03.666218+00:00",
+      "last_seen_at": "2026-09-07T15:41:56.690586+00:00",
       "lead_hours": 1229,
       "source_trail": [
         {
@@ -943,51 +900,10 @@
       ]
     },
     {
-      "id": "4eaf1b6993acef455bafa741cb36fe17a83b0304",
-      "title": "GROOT Hospitality Planner & Partner Social at Gekkō",
-      "summary": "Miami, FL - August 26, 2026 - GROOT Hospitality’s Third Annual Planner & Partner Social at Gekkō brought together Miami’s leading event professionals, creative partners, and hospitality collaborators for an evening celebrating connection, creativity, and the people behind the city’s most memorable experiences. The post GROOT Hospitality Planner & Partner Social at Gekkō appeared first on World Red Eye .",
-      "starts_at": null,
-      "ends_at": null,
-      "all_day": false,
-      "venue": "",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://worldredeye.com/2026/08/groot-hospitality-planner-partner-social-at-gekko/",
-      "rsvp_url": "https://worldredeye.com/2026/08/groot-hospitality-planner-partner-social-at-gekko/",
-      "image_url": null,
-      "access": "public",
-      "industry": "hospitality",
-      "categories": [
-        "editorial",
-        "nightlife"
-      ],
-      "access_tip": "Open the official source for current admission details. Reserve early if a booking option is shown.",
-      "contact_url": "https://worldredeye.com/2026/08/groot-hospitality-planner-partner-social-at-gekko/",
-      "contact_email": null,
-      "ask_for": "The host or sponsor named in the World Red Eye article",
-      "score": 80,
-      "confidence": 0.6,
-      "why_it_matters": "World Red Eye coverage (often same-day / post-event) — luxury + networking keywords",
-      "source_id": "world_red_eye",
-      "source_name": "World Red Eye",
-      "source_url": "https://worldredeye.com/feed/",
-      "first_seen_at": "2026-08-31T17:29:42.531587+00:00",
-      "last_seen_at": "2026-08-31T17:30:03.666218+00:00",
-      "lead_hours": null,
-      "source_trail": [
-        {
-          "source_id": "world_red_eye",
-          "source_name": "World Red Eye",
-          "seen_at": "2026-08-31T17:29:42.531587+00:00",
-          "url": "https://worldredeye.com/2026/08/groot-hospitality-planner-partner-social-at-gekko/"
-        }
-      ]
-    },
-    {
-      "id": "6ff7a01b8d0cdc031688b55383ef122bca4b8a1b",
+      "id": "866ba5c4dfd1027ff5264eeddfce4a9aeb1f8543",
       "title": "Sunday Asado at Los Fuegos",
       "summary": "Every Sunday, experience the time-honored tradition of gaucho open fire grilling at Los Fuegos by Francis Mallmann's Sunday Asados.",
-      "starts_at": "2026-09-06T12:00:00-04:00",
+      "starts_at": "2026-09-13T12:00:00-04:00",
       "ends_at": null,
       "all_day": false,
       "venue": "Los Fuegos",
@@ -1013,14 +929,14 @@
       "source_id": "faena",
       "source_name": "Faena Miami Beach",
       "source_url": "https://www.faena.com/miami-beach/things-to-do",
-      "first_seen_at": "2026-08-31T17:29:46.249180+00:00",
-      "last_seen_at": "2026-08-31T17:30:03.666218+00:00",
-      "lead_hours": 142,
+      "first_seen_at": "2026-09-07T15:41:39.280671+00:00",
+      "last_seen_at": "2026-09-07T15:41:56.690586+00:00",
+      "lead_hours": 144,
       "source_trail": [
         {
           "source_id": "faena",
           "source_name": "Faena Miami Beach",
-          "seen_at": "2026-08-31T17:29:46.249180+00:00",
+          "seen_at": "2026-09-07T15:41:39.280671+00:00",
           "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/sunday-asado-at-los-fuegos"
         }
       ]
@@ -1056,7 +972,7 @@
       "source_name": "Faena Miami Beach",
       "source_url": "https://www.faena.com/miami-beach/things-to-do",
       "first_seen_at": "2026-08-31T17:29:59.997469+00:00",
-      "last_seen_at": "2026-08-31T17:30:03.666218+00:00",
+      "last_seen_at": "2026-09-07T15:41:56.690586+00:00",
       "lead_hours": 484,
       "source_trail": [
         {
@@ -1064,6 +980,48 @@
           "source_name": "Faena Miami Beach",
           "seen_at": "2026-08-31T17:29:59.997469+00:00",
           "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/abundance-silent-dance-cacao-with-zoel-agustina"
+        }
+      ]
+    },
+    {
+      "id": "da31e0531598edf756615dab889f7bf37cd51018",
+      "title": "Shamanic Family Constellations with Eric Lopez at the FAENA",
+      "summary": "Step into a space of healing and ancestral awareness with Eric Lopez at Tierra Santa Healing House, every Tuesday starting September 22, 2026.",
+      "starts_at": "2026-09-22T18:00:00-04:00",
+      "ends_at": null,
+      "all_day": false,
+      "venue": "Tierra Santa Healing House",
+      "neighborhood": "Miami Beach",
+      "city": "Miami Beach",
+      "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/shamanic-family-constellations-with-eric-lopez-at-the-faena",
+      "rsvp_url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/shamanic-family-constellations-with-eric-lopez-at-the-faena",
+      "image_url": null,
+      "access": "public",
+      "industry": "hospitality",
+      "categories": [
+        "hospitality",
+        "luxury",
+        "nightlife"
+      ],
+      "access_tip": "Use the event booking link for public programming. For Faena Rose events, submit the official membership-interest form.",
+      "contact_url": "https://forms.rosemembers.faena.com/membership-interest",
+      "contact_email": null,
+      "ask_for": "Faena Theater box office for public tickets; Faena Rose Membership Team for Rose programming",
+      "score": 76,
+      "confidence": 0.98,
+      "why_it_matters": "Listed on Faena Miami Beach — luxury / hospitality keywords — at Tierra Santa Healing House",
+      "source_id": "faena",
+      "source_name": "Faena Miami Beach",
+      "source_url": "https://www.faena.com/miami-beach/things-to-do",
+      "first_seen_at": "2026-09-07T15:41:53.031684+00:00",
+      "last_seen_at": "2026-09-07T15:41:56.690586+00:00",
+      "lead_hours": 366,
+      "source_trail": [
+        {
+          "source_id": "faena",
+          "source_name": "Faena Miami Beach",
+          "seen_at": "2026-09-07T15:41:53.031684+00:00",
+          "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/shamanic-family-constellations-with-eric-lopez-at-the-faena"
         }
       ]
     },
@@ -1098,7 +1056,7 @@
       "source_name": "Faena Miami Beach",
       "source_url": "https://www.faena.com/miami-beach/things-to-do",
       "first_seen_at": "2026-08-31T17:29:58.693310+00:00",
-      "last_seen_at": "2026-08-31T17:30:03.666218+00:00",
+      "last_seen_at": "2026-09-07T15:41:56.690586+00:00",
       "lead_hours": 341,
       "source_trail": [
         {
@@ -1106,338 +1064,6 @@
           "source_name": "Faena Miami Beach",
           "seen_at": "2026-08-31T17:29:58.693310+00:00",
           "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/hammam-kundalini-radiance-with-giselle-fiumara"
-        }
-      ]
-    },
-    {
-      "id": "bc62682237da03e211ea637401f32195129f46ea",
-      "title": "Backgammon Society — Queen",
-      "summary": "Official Backgammon Society Miami tournament at Queen.",
-      "starts_at": "2026-09-02T19:00:00-04:00",
-      "ends_at": null,
-      "all_day": false,
-      "venue": "Queen",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://www.thebackgammonsociety.com/tournaments/miami/queen",
-      "rsvp_url": "https://www.thebackgammonsociety.com/tournaments/miami/queen",
-      "image_url": "https://budyxfmlimzpkgcjzmbi.supabase.co/storage/v1/object/public/tournament-images/acbd0fe5-1727-4470-add8-661a41cf10cd/8d611428318326b5ea07e9e8ece53cc7f78dfae99adf97bf2633b96a36ad2fea.jpg",
-      "access": "registration",
-      "industry": "sports",
-      "categories": [
-        "hospitality",
-        "networking",
-        "sports"
-      ],
-      "access_tip": "Register on the official Backgammon Society tournament page. For members-club venues, ask the tournament host and the venue membership or concierge team.",
-      "contact_url": "https://www.thebackgammonsociety.com/",
-      "contact_email": null,
-      "ask_for": "The Backgammon Society Miami tournament host; for club venues, the venue membership or concierge team",
-      "score": 68,
-      "confidence": 0.8,
-      "why_it_matters": "From The Backgammon Society — at Queen",
-      "source_id": "backgammon_society",
-      "source_name": "The Backgammon Society",
-      "source_url": "https://www.thebackgammonsociety.com/",
-      "first_seen_at": "2026-07-27T01:12:10.521397+00:00",
-      "last_seen_at": "2026-08-31T17:30:03.666218+00:00",
-      "lead_hours": 909,
-      "source_trail": [
-        {
-          "source_id": "backgammon_society",
-          "source_name": "The Backgammon Society",
-          "seen_at": "2026-07-27T01:12:10.521397+00:00",
-          "url": "https://www.thebackgammonsociety.com/tournaments/miami/queen"
-        }
-      ]
-    },
-    {
-      "id": "ac8ad3d693b799bfe32a5c777bafbd0f6c67283c",
-      "title": "Backgammon Society — Espanola Cigar Bar & Lounge",
-      "summary": "Official Backgammon Society Miami tournament at Espanola Cigar Bar & Lounge.",
-      "starts_at": "2026-09-03T19:00:00-04:00",
-      "ends_at": null,
-      "all_day": false,
-      "venue": "Espanola Cigar Bar & Lounge",
-      "neighborhood": "Miami Chess",
-      "city": "Miami Chess",
-      "url": "https://www.thebackgammonsociety.com/tournaments/miami-chess/espanola-cigar-bar-lounge",
-      "rsvp_url": "https://www.thebackgammonsociety.com/tournaments/miami-chess/espanola-cigar-bar-lounge",
-      "image_url": "https://budyxfmlimzpkgcjzmbi.supabase.co/storage/v1/object/public/tournament-images/df51dc2d-1c54-4c67-a8c5-aeeb5515e352/9f45d79a2a08352a44d235718a16de696e8a1cb1c1f3b9746c522cf2b497df77.jpg",
-      "access": "registration",
-      "industry": "sports",
-      "categories": [
-        "hospitality",
-        "networking",
-        "sports"
-      ],
-      "access_tip": "Register on the official Backgammon Society tournament page. For members-club venues, ask the tournament host and the venue membership or concierge team.",
-      "contact_url": "https://www.thebackgammonsociety.com/",
-      "contact_email": null,
-      "ask_for": "The Backgammon Society Miami tournament host; for club venues, the venue membership or concierge team",
-      "score": 68,
-      "confidence": 0.8,
-      "why_it_matters": "From The Backgammon Society — at Espanola Cigar Bar & Lounge",
-      "source_id": "backgammon_society",
-      "source_name": "The Backgammon Society",
-      "source_url": "https://www.thebackgammonsociety.com/",
-      "first_seen_at": "2026-08-31T17:29:52.335016+00:00",
-      "last_seen_at": "2026-08-31T17:30:03.666218+00:00",
-      "lead_hours": 77,
-      "source_trail": [
-        {
-          "source_id": "backgammon_society",
-          "source_name": "The Backgammon Society",
-          "seen_at": "2026-08-31T17:29:52.335016+00:00",
-          "url": "https://www.thebackgammonsociety.com/tournaments/miami-chess/espanola-cigar-bar-lounge"
-        }
-      ]
-    },
-    {
-      "id": "d4d0ac00a220017520e07aab330f9d5364f6b304",
-      "title": "I'm With The DJ",
-      "summary": "Fri 4 Sep South Beach Drift Lobby Bar I'm With The DJ Fridays",
-      "starts_at": "2026-09-20T12:00:00-04:00",
-      "ends_at": null,
-      "all_day": false,
-      "venue": "Drift Lobby Bar",
-      "neighborhood": "Miami Beach",
-      "city": "Miami Beach",
-      "url": "https://www.1hotels.com/south-beach/do/events/im-with-the-dj",
-      "rsvp_url": "https://www.1hotels.com/south-beach/do/events/im-with-the-dj",
-      "image_url": null,
-      "access": "public",
-      "industry": "hospitality",
-      "categories": [
-        "hospitality",
-        "luxury"
-      ],
-      "access_tip": "Use the booking link on the official happening. Event planners can join the official Gathering Together invitation list.",
-      "contact_url": "https://www.1hotels.com/gather/email-signup",
-      "contact_email": null,
-      "ask_for": "1 Hotel South Beach Concierge or 1 Club Member Services",
-      "score": 66,
-      "confidence": 0.98,
-      "why_it_matters": "From 1 Hotel South Beach — luxury / hospitality keywords — at Drift Lobby Bar",
-      "source_id": "one_hotel_south_beach",
-      "source_name": "1 Hotel South Beach",
-      "source_url": "https://www.1hotels.com/south-beach/do/events",
-      "first_seen_at": "2026-08-31T17:29:44.567331+00:00",
-      "last_seen_at": "2026-08-31T17:30:03.666218+00:00",
-      "lead_hours": 478,
-      "source_trail": [
-        {
-          "source_id": "one_hotel_south_beach",
-          "source_name": "1 Hotel South Beach",
-          "seen_at": "2026-08-31T17:29:44.567331+00:00",
-          "url": "https://www.1hotels.com/south-beach/do/events/im-with-the-dj"
-        }
-      ]
-    },
-    {
-      "id": "39e692ed35f4fe3213ea9f8ed28a0213a37d6a67",
-      "title": "Metabolic Meltdown",
-      "summary": "Thu 3 Sep South Beach Anatomy Metabolic Meltdown Thursdays",
-      "starts_at": "2026-09-20T12:00:00-04:00",
-      "ends_at": null,
-      "all_day": false,
-      "venue": "Anatomy",
-      "neighborhood": "Miami Beach",
-      "city": "Miami Beach",
-      "url": "https://www.1hotels.com/south-beach/do/events/metabolic-meltdown-0",
-      "rsvp_url": "https://www.1hotels.com/south-beach/do/events/metabolic-meltdown-0",
-      "image_url": null,
-      "access": "public",
-      "industry": "hospitality",
-      "categories": [
-        "hospitality",
-        "luxury"
-      ],
-      "access_tip": "Use the booking link on the official happening. Event planners can join the official Gathering Together invitation list.",
-      "contact_url": "https://www.1hotels.com/gather/email-signup",
-      "contact_email": null,
-      "ask_for": "1 Hotel South Beach Concierge or 1 Club Member Services",
-      "score": 66,
-      "confidence": 0.98,
-      "why_it_matters": "From 1 Hotel South Beach — luxury / hospitality keywords — at Anatomy",
-      "source_id": "one_hotel_south_beach",
-      "source_name": "1 Hotel South Beach",
-      "source_url": "https://www.1hotels.com/south-beach/do/events",
-      "first_seen_at": "2026-08-31T17:29:44.566836+00:00",
-      "last_seen_at": "2026-08-31T17:30:03.666218+00:00",
-      "lead_hours": 478,
-      "source_trail": [
-        {
-          "source_id": "one_hotel_south_beach",
-          "source_name": "1 Hotel South Beach",
-          "seen_at": "2026-08-31T17:29:44.566836+00:00",
-          "url": "https://www.1hotels.com/south-beach/do/events/metabolic-meltdown-0"
-        }
-      ]
-    },
-    {
-      "id": "6d365eeed6ef93f0aa00c9fbda55cd01ec126128",
-      "title": "Nights in Rhythm at AVIV",
-      "summary": "Fri 4 Sep South Beach AVIV Nights in Rhythm at AVIV Fridays & Saturdays",
-      "starts_at": "2026-09-20T12:00:00-04:00",
-      "ends_at": null,
-      "all_day": false,
-      "venue": "AVIV",
-      "neighborhood": "Miami Beach",
-      "city": "Miami Beach",
-      "url": "https://www.1hotels.com/south-beach/do/events/nights-in-rhythm-at-aviv",
-      "rsvp_url": "https://www.1hotels.com/south-beach/do/events/nights-in-rhythm-at-aviv",
-      "image_url": null,
-      "access": "public",
-      "industry": "hospitality",
-      "categories": [
-        "hospitality",
-        "luxury"
-      ],
-      "access_tip": "Use the booking link on the official happening. Event planners can join the official Gathering Together invitation list.",
-      "contact_url": "https://www.1hotels.com/gather/email-signup",
-      "contact_email": null,
-      "ask_for": "1 Hotel South Beach Concierge or 1 Club Member Services",
-      "score": 66,
-      "confidence": 0.98,
-      "why_it_matters": "From 1 Hotel South Beach — luxury / hospitality keywords — at AVIV",
-      "source_id": "one_hotel_south_beach",
-      "source_name": "1 Hotel South Beach",
-      "source_url": "https://www.1hotels.com/south-beach/do/events",
-      "first_seen_at": "2026-08-31T17:29:44.567856+00:00",
-      "last_seen_at": "2026-08-31T17:30:03.666218+00:00",
-      "lead_hours": 478,
-      "source_trail": [
-        {
-          "source_id": "one_hotel_south_beach",
-          "source_name": "1 Hotel South Beach",
-          "seen_at": "2026-08-31T17:29:44.567856+00:00",
-          "url": "https://www.1hotels.com/south-beach/do/events/nights-in-rhythm-at-aviv"
-        }
-      ]
-    },
-    {
-      "id": "da61b6b5d21ab7c272370d71ca745cb89622cbff",
-      "title": "Backgammon Social x The Moore - Tournament Night",
-      "summary": "",
-      "starts_at": "2026-09-24T19:00:00-04:00",
-      "ends_at": "2026-09-24T23:00:00-04:00",
-      "all_day": false,
-      "venue": "4040 NE 2nd Ave, Miami, FL 33137, USA",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://luma.com/backga-0pig",
-      "rsvp_url": "https://luma.com/backga-0pig",
-      "image_url": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/api-uploads/53/1fa58081-3efa-4715-8804-6e23b8b13372.jpg",
-      "access": "public",
-      "industry": "sports",
-      "categories": [
-        "hospitality",
-        "networking",
-        "sports"
-      ],
-      "access_tip": "Register through the official Backgammon Social Miami Luma calendar. The event co-host shown on the event page is the correct person to request.",
-      "contact_url": "https://luma.com/backgammonsocialmiami",
-      "contact_email": null,
-      "ask_for": "Backgammon Social, Lydia Menendez",
-      "score": 66,
-      "confidence": 0.9,
-      "why_it_matters": "From Backgammon Social Miami — luxury / hospitality keywords — at 4040 NE 2nd Ave, Miami, FL 33137, USA",
-      "source_id": "backgammon_social_miami",
-      "source_name": "Backgammon Social Miami",
-      "source_url": "https://luma.com/backgammonsocialmiami",
-      "first_seen_at": "2026-08-31T17:29:52.237738+00:00",
-      "last_seen_at": "2026-08-31T17:30:03.666218+00:00",
-      "lead_hours": 581,
-      "source_trail": [
-        {
-          "source_id": "backgammon_social_miami",
-          "source_name": "Backgammon Social Miami",
-          "seen_at": "2026-08-31T17:29:52.237738+00:00",
-          "url": "https://luma.com/backga-0pig"
-        }
-      ]
-    },
-    {
-      "id": "50615e4eac575028039bc59e73b5a814448d72b2",
-      "title": "Backgammon Social x Fuku",
-      "summary": "",
-      "starts_at": "2026-09-02T19:00:00-04:00",
-      "ends_at": "2026-09-02T21:00:00-04:00",
-      "all_day": false,
-      "venue": "135 Miracle Mile, Coral Gables, FL 33134, USA",
-      "neighborhood": "Coral Gables",
-      "city": "Miami",
-      "url": "https://luma.com/backga-l1s6",
-      "rsvp_url": "https://luma.com/backga-l1s6",
-      "image_url": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/api-uploads/rp/4d32a2e4-d4f8-42a9-afbe-bc4cd2e87478.jpg",
-      "access": "public",
-      "industry": "sports",
-      "categories": [
-        "hospitality",
-        "networking",
-        "sports"
-      ],
-      "access_tip": "Register through the official Backgammon Social Miami Luma calendar. The event co-host shown on the event page is the correct person to request.",
-      "contact_url": "https://luma.com/backgammonsocialmiami",
-      "contact_email": null,
-      "ask_for": "Backgammon Social, Katerina Economou, Lydia Menendez, Jeremias Barillas",
-      "score": 64,
-      "confidence": 0.8,
-      "why_it_matters": "From Backgammon Social Miami — at 135 Miracle Mile, Coral Gables, FL 33134, USA",
-      "source_id": "backgammon_social_miami",
-      "source_name": "Backgammon Social Miami",
-      "source_url": "https://luma.com/backgammonsocialmiami",
-      "first_seen_at": "2026-08-24T10:42:27.974522+00:00",
-      "last_seen_at": "2026-08-31T17:30:03.666218+00:00",
-      "lead_hours": 228,
-      "source_trail": [
-        {
-          "source_id": "backgammon_social_miami",
-          "source_name": "Backgammon Social Miami",
-          "seen_at": "2026-08-24T10:42:27.974522+00:00",
-          "url": "https://luma.com/backga-l1s6"
-        }
-      ]
-    },
-    {
-      "id": "f7e71880bc2d43e8bfcec332af96db3bafb75a80",
-      "title": "Exhibition Opening Reception: Mohri, Pica, & Zapata",
-      "summary": "",
-      "starts_at": "2026-09-17T18:00:00-07:00",
-      "ends_at": "2026-09-17T21:00:00-07:00",
-      "all_day": false,
-      "venue": "",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://thebass.org/event/exhibition-opening-reception-mohri-pica-zapata/",
-      "rsvp_url": "https://thebass.org/event/exhibition-opening-reception-mohri-pica-zapata/",
-      "image_url": null,
-      "access": "public",
-      "industry": "art_fashion",
-      "categories": [
-        "art",
-        "culture"
-      ],
-      "access_tip": "Open the official source for current admission details. Reserve early if a booking option is shown.",
-      "contact_url": "https://thebass.org/event/exhibition-opening-reception-mohri-pica-zapata/",
-      "contact_email": null,
-      "ask_for": "The Bass Membership or Development Team for private dinners and patron previews",
-      "score": 64,
-      "confidence": 0.9,
-      "why_it_matters": "From The Bass — luxury + networking keywords",
-      "source_id": "the_bass",
-      "source_name": "The Bass",
-      "source_url": "https://thebass.org/events/?ical=1",
-      "first_seen_at": "2026-08-04T17:01:39.878591+00:00",
-      "last_seen_at": "2026-08-31T17:30:03.666218+00:00",
-      "lead_hours": 1063,
-      "source_trail": [
-        {
-          "source_id": "the_bass",
-          "source_name": "The Bass",
-          "seen_at": "2026-08-04T17:01:39.878591+00:00",
-          "url": "https://thebass.org/event/exhibition-opening-reception-mohri-pica-zapata/"
         }
       ]
     },
@@ -1464,14 +1090,14 @@
       "contact_url": "https://www.standardhotels.com/miami/properties/miami-beach",
       "contact_email": "MiamiEvents@StandardMiami.com",
       "ask_for": "The Standard Miami Events Team or Spa Concierge",
-      "score": 62,
+      "score": 68,
       "confidence": 0.9,
       "why_it_matters": "From The Standard Spa Miami Beach — luxury / hospitality keywords — at The Standard Spa Miami Beach",
       "source_id": "the_standard_miami",
       "source_name": "The Standard Spa Miami Beach",
       "source_url": "https://www.standardhotels.com/happenings",
       "first_seen_at": "2026-08-31T17:29:49.988800+00:00",
-      "last_seen_at": "2026-08-31T17:30:03.666218+00:00",
+      "last_seen_at": "2026-09-07T15:41:56.690586+00:00",
       "lead_hours": 214,
       "source_trail": [
         {
@@ -1506,14 +1132,14 @@
       "contact_url": "https://www.thebackgammonsociety.com/",
       "contact_email": null,
       "ask_for": "The Backgammon Society Miami tournament host; for club venues, the venue membership or concierge team",
-      "score": 62,
+      "score": 68,
       "confidence": 0.8,
       "why_it_matters": "From The Backgammon Society — at AVA Coconut Grove",
       "source_id": "backgammon_society",
       "source_name": "The Backgammon Society",
       "source_url": "https://www.thebackgammonsociety.com/",
       "first_seen_at": "2026-07-27T01:12:10.521692+00:00",
-      "last_seen_at": "2026-08-31T17:30:03.666218+00:00",
+      "last_seen_at": "2026-09-07T15:41:56.690586+00:00",
       "lead_hours": 1077,
       "source_trail": [
         {
@@ -1521,6 +1147,542 @@
           "source_name": "The Backgammon Society",
           "seen_at": "2026-07-27T01:12:10.521692+00:00",
           "url": "https://www.thebackgammonsociety.com/tournaments/miami/ava-coconut-grove"
+        }
+      ]
+    },
+    {
+      "id": "dc32ef1b05d8ef850f59f087ce63713f3adec753",
+      "title": "Backgammon Society — Rare Collects",
+      "summary": "Official Backgammon Society Miami tournament at Rare Collects.",
+      "starts_at": "2026-09-10T19:00:00-04:00",
+      "ends_at": null,
+      "all_day": false,
+      "venue": "Rare Collects",
+      "neighborhood": "Miami Chess",
+      "city": "Miami Chess",
+      "url": "https://www.thebackgammonsociety.com/tournaments/miami-chess/rare-collects25",
+      "rsvp_url": "https://www.thebackgammonsociety.com/tournaments/miami-chess/rare-collects25",
+      "image_url": "https://budyxfmlimzpkgcjzmbi.supabase.co/storage/v1/object/public/tournament-images/0b623785-17d0-425a-88ed-37c76a73866c/0cab4a92095676326cce0008afc8910bd112e488c3e9b62d9dc927e68c0fc6f7.jpg",
+      "access": "registration",
+      "industry": "sports",
+      "categories": [
+        "hospitality",
+        "networking",
+        "sports"
+      ],
+      "access_tip": "Register on the official Backgammon Society tournament page. For members-club venues, ask the tournament host and the venue membership or concierge team.",
+      "contact_url": "https://www.thebackgammonsociety.com/",
+      "contact_email": null,
+      "ask_for": "The Backgammon Society Miami tournament host; for club venues, the venue membership or concierge team",
+      "score": 68,
+      "confidence": 0.8,
+      "why_it_matters": "From The Backgammon Society — at Rare Collects",
+      "source_id": "backgammon_society",
+      "source_name": "The Backgammon Society",
+      "source_url": "https://www.thebackgammonsociety.com/",
+      "first_seen_at": "2026-09-07T15:41:45.036493+00:00",
+      "last_seen_at": "2026-09-07T15:41:56.690586+00:00",
+      "lead_hours": 79,
+      "source_trail": [
+        {
+          "source_id": "backgammon_society",
+          "source_name": "The Backgammon Society",
+          "seen_at": "2026-09-07T15:41:45.036493+00:00",
+          "url": "https://www.thebackgammonsociety.com/tournaments/miami-chess/rare-collects25"
+        }
+      ]
+    },
+    {
+      "id": "ee92aba1fb102f19bf51d8c2c0d182073b5641ec",
+      "title": "A Toast to Hispanic Heritage",
+      "summary": "Tue 15 Sep South Beach Drift A Toast to Hispanic Heritage September 15 - October 15",
+      "starts_at": "2026-09-20T12:00:00-04:00",
+      "ends_at": null,
+      "all_day": false,
+      "venue": "Drift",
+      "neighborhood": "Miami Beach",
+      "city": "Miami Beach",
+      "url": "https://www.1hotels.com/south-beach/do/events/a-toast-to-hispanic-heritage",
+      "rsvp_url": "https://www.1hotels.com/south-beach/do/events/a-toast-to-hispanic-heritage",
+      "image_url": null,
+      "access": "public",
+      "industry": "hospitality",
+      "categories": [
+        "hospitality",
+        "luxury"
+      ],
+      "access_tip": "Use the booking link on the official happening. Event planners can join the official Gathering Together invitation list.",
+      "contact_url": "https://www.1hotels.com/gather/email-signup",
+      "contact_email": null,
+      "ask_for": "1 Hotel South Beach Concierge or 1 Club Member Services",
+      "score": 66,
+      "confidence": 0.98,
+      "why_it_matters": "From 1 Hotel South Beach — luxury / hospitality keywords — at Drift",
+      "source_id": "one_hotel_south_beach",
+      "source_name": "1 Hotel South Beach",
+      "source_url": "https://www.1hotels.com/south-beach/do/events",
+      "first_seen_at": "2026-09-07T15:41:37.572925+00:00",
+      "last_seen_at": "2026-09-07T15:41:56.690586+00:00",
+      "lead_hours": 312,
+      "source_trail": [
+        {
+          "source_id": "one_hotel_south_beach",
+          "source_name": "1 Hotel South Beach",
+          "seen_at": "2026-09-07T15:41:37.572925+00:00",
+          "url": "https://www.1hotels.com/south-beach/do/events/a-toast-to-hispanic-heritage"
+        }
+      ]
+    },
+    {
+      "id": "b020671327196e0ad372cfaf45b2461a961511ae",
+      "title": "Animal Spirit Card Reading",
+      "summary": "Sun 13 Sep South Beach Watr at the 1 Rooftop Animal Spirit Card Reading Sundays",
+      "starts_at": "2026-09-20T12:00:00-04:00",
+      "ends_at": null,
+      "all_day": false,
+      "venue": "Watr at the 1 Rooftop",
+      "neighborhood": "Miami Beach",
+      "city": "Miami Beach",
+      "url": "https://www.1hotels.com/south-beach/do/events/animal-spirit-card-reading-1",
+      "rsvp_url": "https://www.1hotels.com/south-beach/do/events/animal-spirit-card-reading-1",
+      "image_url": null,
+      "access": "public",
+      "industry": "hospitality",
+      "categories": [
+        "hospitality",
+        "luxury"
+      ],
+      "access_tip": "Use the booking link on the official happening. Event planners can join the official Gathering Together invitation list.",
+      "contact_url": "https://www.1hotels.com/gather/email-signup",
+      "contact_email": null,
+      "ask_for": "1 Hotel South Beach Concierge or 1 Club Member Services",
+      "score": 66,
+      "confidence": 0.98,
+      "why_it_matters": "From 1 Hotel South Beach — luxury / hospitality keywords — at Watr at the 1 Rooftop",
+      "source_id": "one_hotel_south_beach",
+      "source_name": "1 Hotel South Beach",
+      "source_url": "https://www.1hotels.com/south-beach/do/events",
+      "first_seen_at": "2026-09-07T15:41:37.572257+00:00",
+      "last_seen_at": "2026-09-07T15:41:56.690586+00:00",
+      "lead_hours": 312,
+      "source_trail": [
+        {
+          "source_id": "one_hotel_south_beach",
+          "source_name": "1 Hotel South Beach",
+          "seen_at": "2026-09-07T15:41:37.572257+00:00",
+          "url": "https://www.1hotels.com/south-beach/do/events/animal-spirit-card-reading-1"
+        }
+      ]
+    },
+    {
+      "id": "a4310fc40853cf2f627220098a3dad33390a0cce",
+      "title": "Custom Luggage Tag Making",
+      "summary": "Sun 13 Sep South Beach Lobby Custom Luggage Tag Making Sundays",
+      "starts_at": "2026-09-20T12:00:00-04:00",
+      "ends_at": null,
+      "all_day": false,
+      "venue": "Lobby",
+      "neighborhood": "Miami Beach",
+      "city": "Miami Beach",
+      "url": "https://www.1hotels.com/south-beach/do/events/custom-luggage-tag-making",
+      "rsvp_url": "https://www.1hotels.com/south-beach/do/events/custom-luggage-tag-making",
+      "image_url": null,
+      "access": "public",
+      "industry": "hospitality",
+      "categories": [
+        "hospitality",
+        "luxury"
+      ],
+      "access_tip": "Use the booking link on the official happening. Event planners can join the official Gathering Together invitation list.",
+      "contact_url": "https://www.1hotels.com/gather/email-signup",
+      "contact_email": null,
+      "ask_for": "1 Hotel South Beach Concierge or 1 Club Member Services",
+      "score": 66,
+      "confidence": 0.98,
+      "why_it_matters": "From 1 Hotel South Beach — luxury / hospitality keywords — at Lobby",
+      "source_id": "one_hotel_south_beach",
+      "source_name": "1 Hotel South Beach",
+      "source_url": "https://www.1hotels.com/south-beach/do/events",
+      "first_seen_at": "2026-09-07T15:41:37.572592+00:00",
+      "last_seen_at": "2026-09-07T15:41:56.690586+00:00",
+      "lead_hours": 312,
+      "source_trail": [
+        {
+          "source_id": "one_hotel_south_beach",
+          "source_name": "1 Hotel South Beach",
+          "seen_at": "2026-09-07T15:41:37.572592+00:00",
+          "url": "https://www.1hotels.com/south-beach/do/events/custom-luggage-tag-making"
+        }
+      ]
+    },
+    {
+      "id": "d4d0ac00a220017520e07aab330f9d5364f6b304",
+      "title": "I'm With The DJ",
+      "summary": "Fri 11 Sep South Beach Drift Lobby Bar I'm With The DJ Fridays",
+      "starts_at": "2026-09-20T12:00:00-04:00",
+      "ends_at": null,
+      "all_day": false,
+      "venue": "Drift Lobby Bar",
+      "neighborhood": "Miami Beach",
+      "city": "Miami Beach",
+      "url": "https://www.1hotels.com/south-beach/do/events/im-with-the-dj",
+      "rsvp_url": "https://www.1hotels.com/south-beach/do/events/im-with-the-dj",
+      "image_url": null,
+      "access": "public",
+      "industry": "hospitality",
+      "categories": [
+        "hospitality",
+        "luxury"
+      ],
+      "access_tip": "Use the booking link on the official happening. Event planners can join the official Gathering Together invitation list.",
+      "contact_url": "https://www.1hotels.com/gather/email-signup",
+      "contact_email": null,
+      "ask_for": "1 Hotel South Beach Concierge or 1 Club Member Services",
+      "score": 66,
+      "confidence": 0.98,
+      "why_it_matters": "From 1 Hotel South Beach — luxury / hospitality keywords — at Drift Lobby Bar",
+      "source_id": "one_hotel_south_beach",
+      "source_name": "1 Hotel South Beach",
+      "source_url": "https://www.1hotels.com/south-beach/do/events",
+      "first_seen_at": "2026-08-31T17:29:44.567331+00:00",
+      "last_seen_at": "2026-09-07T15:41:56.690586+00:00",
+      "lead_hours": 478,
+      "source_trail": [
+        {
+          "source_id": "one_hotel_south_beach",
+          "source_name": "1 Hotel South Beach",
+          "seen_at": "2026-08-31T17:29:44.567331+00:00",
+          "url": "https://www.1hotels.com/south-beach/do/events/im-with-the-dj"
+        }
+      ]
+    },
+    {
+      "id": "39e692ed35f4fe3213ea9f8ed28a0213a37d6a67",
+      "title": "Metabolic Meltdown",
+      "summary": "Thu 10 Sep South Beach Anatomy Metabolic Meltdown Thursdays",
+      "starts_at": "2026-09-20T12:00:00-04:00",
+      "ends_at": null,
+      "all_day": false,
+      "venue": "Anatomy",
+      "neighborhood": "Miami Beach",
+      "city": "Miami Beach",
+      "url": "https://www.1hotels.com/south-beach/do/events/metabolic-meltdown-0",
+      "rsvp_url": "https://www.1hotels.com/south-beach/do/events/metabolic-meltdown-0",
+      "image_url": null,
+      "access": "public",
+      "industry": "hospitality",
+      "categories": [
+        "hospitality",
+        "luxury"
+      ],
+      "access_tip": "Use the booking link on the official happening. Event planners can join the official Gathering Together invitation list.",
+      "contact_url": "https://www.1hotels.com/gather/email-signup",
+      "contact_email": null,
+      "ask_for": "1 Hotel South Beach Concierge or 1 Club Member Services",
+      "score": 66,
+      "confidence": 0.98,
+      "why_it_matters": "From 1 Hotel South Beach — luxury / hospitality keywords — at Anatomy",
+      "source_id": "one_hotel_south_beach",
+      "source_name": "1 Hotel South Beach",
+      "source_url": "https://www.1hotels.com/south-beach/do/events",
+      "first_seen_at": "2026-08-31T17:29:44.566836+00:00",
+      "last_seen_at": "2026-09-07T15:41:56.690586+00:00",
+      "lead_hours": 478,
+      "source_trail": [
+        {
+          "source_id": "one_hotel_south_beach",
+          "source_name": "1 Hotel South Beach",
+          "seen_at": "2026-08-31T17:29:44.566836+00:00",
+          "url": "https://www.1hotels.com/south-beach/do/events/metabolic-meltdown-0"
+        }
+      ]
+    },
+    {
+      "id": "58975b8a589e85f843742a0357c8c1c33605f1c8",
+      "title": "Miami Spice at AVIV",
+      "summary": "Mon 7 Sep South Beach AVIV Miami Spice at AVIV August - September",
+      "starts_at": "2026-09-20T12:00:00-04:00",
+      "ends_at": null,
+      "all_day": false,
+      "venue": "AVIV",
+      "neighborhood": "Miami Beach",
+      "city": "Miami Beach",
+      "url": "https://www.1hotels.com/south-beach/do/events/miami-spice-at-aviv-1",
+      "rsvp_url": "https://www.1hotels.com/south-beach/do/events/miami-spice-at-aviv-1",
+      "image_url": null,
+      "access": "public",
+      "industry": "hospitality",
+      "categories": [
+        "hospitality",
+        "luxury"
+      ],
+      "access_tip": "Use the booking link on the official happening. Event planners can join the official Gathering Together invitation list.",
+      "contact_url": "https://www.1hotels.com/gather/email-signup",
+      "contact_email": null,
+      "ask_for": "1 Hotel South Beach Concierge or 1 Club Member Services",
+      "score": 66,
+      "confidence": 0.98,
+      "why_it_matters": "From 1 Hotel South Beach — luxury / hospitality keywords — at AVIV",
+      "source_id": "one_hotel_south_beach",
+      "source_name": "1 Hotel South Beach",
+      "source_url": "https://www.1hotels.com/south-beach/do/events",
+      "first_seen_at": "2026-09-07T15:41:37.569887+00:00",
+      "last_seen_at": "2026-09-07T15:41:56.690586+00:00",
+      "lead_hours": 312,
+      "source_trail": [
+        {
+          "source_id": "one_hotel_south_beach",
+          "source_name": "1 Hotel South Beach",
+          "seen_at": "2026-09-07T15:41:37.569887+00:00",
+          "url": "https://www.1hotels.com/south-beach/do/events/miami-spice-at-aviv-1"
+        }
+      ]
+    },
+    {
+      "id": "6d365eeed6ef93f0aa00c9fbda55cd01ec126128",
+      "title": "Nights in Rhythm at AVIV",
+      "summary": "Fri 11 Sep South Beach AVIV Nights in Rhythm at AVIV Fridays & Saturdays",
+      "starts_at": "2026-09-20T12:00:00-04:00",
+      "ends_at": null,
+      "all_day": false,
+      "venue": "AVIV",
+      "neighborhood": "Miami Beach",
+      "city": "Miami Beach",
+      "url": "https://www.1hotels.com/south-beach/do/events/nights-in-rhythm-at-aviv",
+      "rsvp_url": "https://www.1hotels.com/south-beach/do/events/nights-in-rhythm-at-aviv",
+      "image_url": null,
+      "access": "public",
+      "industry": "hospitality",
+      "categories": [
+        "hospitality",
+        "luxury"
+      ],
+      "access_tip": "Use the booking link on the official happening. Event planners can join the official Gathering Together invitation list.",
+      "contact_url": "https://www.1hotels.com/gather/email-signup",
+      "contact_email": null,
+      "ask_for": "1 Hotel South Beach Concierge or 1 Club Member Services",
+      "score": 66,
+      "confidence": 0.98,
+      "why_it_matters": "From 1 Hotel South Beach — luxury / hospitality keywords — at AVIV",
+      "source_id": "one_hotel_south_beach",
+      "source_name": "1 Hotel South Beach",
+      "source_url": "https://www.1hotels.com/south-beach/do/events",
+      "first_seen_at": "2026-08-31T17:29:44.567856+00:00",
+      "last_seen_at": "2026-09-07T15:41:56.690586+00:00",
+      "lead_hours": 478,
+      "source_trail": [
+        {
+          "source_id": "one_hotel_south_beach",
+          "source_name": "1 Hotel South Beach",
+          "seen_at": "2026-08-31T17:29:44.567856+00:00",
+          "url": "https://www.1hotels.com/south-beach/do/events/nights-in-rhythm-at-aviv"
+        }
+      ]
+    },
+    {
+      "id": "4d918cad1abdc349c1a67cbd17dc2baaa7750235",
+      "title": "Rosh Hashanah at AVIV",
+      "summary": "Fri 11 Sep South Beach AVIV Rosh Hashanah at AVIV September 11 - September 13",
+      "starts_at": "2026-09-20T12:00:00-04:00",
+      "ends_at": null,
+      "all_day": false,
+      "venue": "AVIV",
+      "neighborhood": "Miami Beach",
+      "city": "Miami Beach",
+      "url": "https://www.1hotels.com/south-beach/do/events/rosh-hashanah-at-aviv",
+      "rsvp_url": "https://www.1hotels.com/south-beach/do/events/rosh-hashanah-at-aviv",
+      "image_url": null,
+      "access": "public",
+      "industry": "hospitality",
+      "categories": [
+        "hospitality",
+        "luxury"
+      ],
+      "access_tip": "Use the booking link on the official happening. Event planners can join the official Gathering Together invitation list.",
+      "contact_url": "https://www.1hotels.com/gather/email-signup",
+      "contact_email": null,
+      "ask_for": "1 Hotel South Beach Concierge or 1 Club Member Services",
+      "score": 66,
+      "confidence": 0.98,
+      "why_it_matters": "From 1 Hotel South Beach — luxury / hospitality keywords — at AVIV",
+      "source_id": "one_hotel_south_beach",
+      "source_name": "1 Hotel South Beach",
+      "source_url": "https://www.1hotels.com/south-beach/do/events",
+      "first_seen_at": "2026-09-07T15:41:37.570592+00:00",
+      "last_seen_at": "2026-09-07T15:41:56.690586+00:00",
+      "lead_hours": 312,
+      "source_trail": [
+        {
+          "source_id": "one_hotel_south_beach",
+          "source_name": "1 Hotel South Beach",
+          "seen_at": "2026-09-07T15:41:37.570592+00:00",
+          "url": "https://www.1hotels.com/south-beach/do/events/rosh-hashanah-at-aviv"
+        }
+      ]
+    },
+    {
+      "id": "fa516bfa3347c06b38045eefe874dc3c0f05dbf6",
+      "title": "Sun Meets Moon",
+      "summary": "Sat 12 Sep South Beach Watr at the 1 Rooftop Sun Meets Moon Saturdays",
+      "starts_at": "2026-09-20T12:00:00-04:00",
+      "ends_at": null,
+      "all_day": false,
+      "venue": "Watr at the 1 Rooftop",
+      "neighborhood": "Miami Beach",
+      "city": "Miami Beach",
+      "url": "https://www.1hotels.com/south-beach/do/events/sun-meets-moon",
+      "rsvp_url": "https://www.1hotels.com/south-beach/do/events/sun-meets-moon",
+      "image_url": null,
+      "access": "public",
+      "industry": "hospitality",
+      "categories": [
+        "hospitality",
+        "luxury"
+      ],
+      "access_tip": "Use the booking link on the official happening. Event planners can join the official Gathering Together invitation list.",
+      "contact_url": "https://www.1hotels.com/gather/email-signup",
+      "contact_email": null,
+      "ask_for": "1 Hotel South Beach Concierge or 1 Club Member Services",
+      "score": 66,
+      "confidence": 0.98,
+      "why_it_matters": "From 1 Hotel South Beach — luxury / hospitality keywords — at Watr at the 1 Rooftop",
+      "source_id": "one_hotel_south_beach",
+      "source_name": "1 Hotel South Beach",
+      "source_url": "https://www.1hotels.com/south-beach/do/events",
+      "first_seen_at": "2026-09-07T15:41:37.571928+00:00",
+      "last_seen_at": "2026-09-07T15:41:56.690586+00:00",
+      "lead_hours": 312,
+      "source_trail": [
+        {
+          "source_id": "one_hotel_south_beach",
+          "source_name": "1 Hotel South Beach",
+          "seen_at": "2026-09-07T15:41:37.571928+00:00",
+          "url": "https://www.1hotels.com/south-beach/do/events/sun-meets-moon"
+        }
+      ]
+    },
+    {
+      "id": "da61b6b5d21ab7c272370d71ca745cb89622cbff",
+      "title": "Backgammon Social x The Moore - Tournament Night",
+      "summary": "",
+      "starts_at": "2026-09-24T19:00:00-04:00",
+      "ends_at": "2026-09-24T23:00:00-04:00",
+      "all_day": false,
+      "venue": "4040 NE 2nd Ave, Miami, FL 33137, USA",
+      "neighborhood": "Miami",
+      "city": "Miami",
+      "url": "https://luma.com/backga-0pig",
+      "rsvp_url": "https://luma.com/backga-0pig",
+      "image_url": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/api-uploads/53/1fa58081-3efa-4715-8804-6e23b8b13372.jpg",
+      "access": "public",
+      "industry": "sports",
+      "categories": [
+        "hospitality",
+        "networking",
+        "sports"
+      ],
+      "access_tip": "Register through the official Backgammon Social Miami Luma calendar. The event co-host shown on the event page is the correct person to request.",
+      "contact_url": "https://luma.com/backgammonsocialmiami",
+      "contact_email": null,
+      "ask_for": "Backgammon Social, Lydia Menendez",
+      "score": 66,
+      "confidence": 0.9,
+      "why_it_matters": "From Backgammon Social Miami — luxury / hospitality keywords — at 4040 NE 2nd Ave, Miami, FL 33137, USA",
+      "source_id": "backgammon_social_miami",
+      "source_name": "Backgammon Social Miami",
+      "source_url": "https://luma.com/backgammonsocialmiami",
+      "first_seen_at": "2026-08-31T17:29:52.237738+00:00",
+      "last_seen_at": "2026-09-07T15:41:56.690586+00:00",
+      "lead_hours": 581,
+      "source_trail": [
+        {
+          "source_id": "backgammon_social_miami",
+          "source_name": "Backgammon Social Miami",
+          "seen_at": "2026-08-31T17:29:52.237738+00:00",
+          "url": "https://luma.com/backga-0pig"
+        }
+      ]
+    },
+    {
+      "id": "9d24e2b55cea9c46870b39b27c95a6abceb72850",
+      "title": "Backgammon Social x Material Good",
+      "summary": "",
+      "starts_at": "2026-09-10T19:00:00-04:00",
+      "ends_at": "2026-09-10T21:00:00-04:00",
+      "all_day": false,
+      "venue": "119 Washington Ave Ste 602, Miami Beach, FL 33139, USA",
+      "neighborhood": "Miami Beach",
+      "city": "Miami",
+      "url": "https://luma.com/backga-buoo",
+      "rsvp_url": "https://luma.com/backga-buoo",
+      "image_url": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/uploads/xt/b28d5859-0497-4450-ad94-4d7e66b0a045.png",
+      "access": "public",
+      "industry": "sports",
+      "categories": [
+        "hospitality",
+        "networking",
+        "sports"
+      ],
+      "access_tip": "Register through the official Backgammon Social Miami Luma calendar. The event co-host shown on the event page is the correct person to request.",
+      "contact_url": "https://luma.com/backgammonsocialmiami",
+      "contact_email": null,
+      "ask_for": "Backgammon Social, Isabella Pacheco",
+      "score": 64,
+      "confidence": 0.8,
+      "why_it_matters": "From Backgammon Social Miami — at 119 Washington Ave Ste 602, Miami Beach, FL 33139, USA",
+      "source_id": "backgammon_social_miami",
+      "source_name": "Backgammon Social Miami",
+      "source_url": "https://luma.com/backgammonsocialmiami",
+      "first_seen_at": "2026-08-24T10:42:27.974796+00:00",
+      "last_seen_at": "2026-09-07T15:41:56.690586+00:00",
+      "lead_hours": 420,
+      "source_trail": [
+        {
+          "source_id": "backgammon_social_miami",
+          "source_name": "Backgammon Social Miami",
+          "seen_at": "2026-08-24T10:42:27.974796+00:00",
+          "url": "https://luma.com/backga-buoo"
+        }
+      ]
+    },
+    {
+      "id": "f7e71880bc2d43e8bfcec332af96db3bafb75a80",
+      "title": "Exhibition Opening Reception: Mohri, Pica, & Zapata",
+      "summary": "",
+      "starts_at": "2026-09-17T18:00:00-07:00",
+      "ends_at": "2026-09-17T21:00:00-07:00",
+      "all_day": false,
+      "venue": "",
+      "neighborhood": "Miami",
+      "city": "Miami",
+      "url": "https://thebass.org/event/exhibition-opening-reception-mohri-pica-zapata/",
+      "rsvp_url": "https://thebass.org/event/exhibition-opening-reception-mohri-pica-zapata/",
+      "image_url": null,
+      "access": "public",
+      "industry": "art_fashion",
+      "categories": [
+        "art",
+        "culture"
+      ],
+      "access_tip": "Open the official source for current admission details. Reserve early if a booking option is shown.",
+      "contact_url": "https://thebass.org/event/exhibition-opening-reception-mohri-pica-zapata/",
+      "contact_email": null,
+      "ask_for": "The Bass Membership or Development Team for private dinners and patron previews",
+      "score": 64,
+      "confidence": 0.9,
+      "why_it_matters": "From The Bass — luxury + networking keywords",
+      "source_id": "the_bass",
+      "source_name": "The Bass",
+      "source_url": "https://thebass.org/events/?ical=1",
+      "first_seen_at": "2026-08-04T17:01:39.878591+00:00",
+      "last_seen_at": "2026-09-07T15:41:56.690586+00:00",
+      "lead_hours": 1063,
+      "source_trail": [
+        {
+          "source_id": "the_bass",
+          "source_name": "The Bass",
+          "seen_at": "2026-08-04T17:01:39.878591+00:00",
+          "url": "https://thebass.org/event/exhibition-opening-reception-mohri-pica-zapata/"
         }
       ]
     },
@@ -1555,7 +1717,7 @@
       "source_name": "The Backgammon Society",
       "source_url": "https://www.thebackgammonsociety.com/",
       "first_seen_at": "2026-08-12T11:02:18.589351+00:00",
-      "last_seen_at": "2026-08-31T17:30:03.666218+00:00",
+      "last_seen_at": "2026-09-07T15:41:56.690586+00:00",
       "lead_hours": 826,
       "source_trail": [
         {
@@ -1597,7 +1759,7 @@
       "source_name": "The Backgammon Society",
       "source_url": "https://www.thebackgammonsociety.com/",
       "first_seen_at": "2026-08-13T11:02:29.644791+00:00",
-      "last_seen_at": "2026-08-31T17:30:03.666218+00:00",
+      "last_seen_at": "2026-09-07T15:41:56.690586+00:00",
       "lead_hours": 827,
       "source_trail": [
         {
@@ -1639,7 +1801,7 @@
       "source_name": "The Backgammon Society",
       "source_url": "https://www.thebackgammonsociety.com/",
       "first_seen_at": "2026-08-31T17:29:52.337295+00:00",
-      "last_seen_at": "2026-08-31T17:30:03.666218+00:00",
+      "last_seen_at": "2026-09-07T15:41:56.690586+00:00",
       "lead_hours": 533,
       "source_trail": [
         {
@@ -1680,7 +1842,7 @@
       "source_name": "The Standard Spa Miami Beach",
       "source_url": "https://www.standardhotels.com/happenings",
       "first_seen_at": "2026-08-31T17:29:57.680006+00:00",
-      "last_seen_at": "2026-08-31T17:30:03.666218+00:00",
+      "last_seen_at": "2026-09-07T15:41:56.690586+00:00",
       "lead_hours": 694,
       "source_trail": [
         {
@@ -1688,6 +1850,48 @@
           "source_name": "The Standard Spa Miami Beach",
           "seen_at": "2026-08-31T17:29:57.680006+00:00",
           "url": "https://www.standardhotels.com/miami/happenings/espresso-martinis"
+        }
+      ]
+    },
+    {
+      "id": "018c814cac64555c97b5946df3755a758dac0fce",
+      "title": "Backgammon Society — Ghee",
+      "summary": "Official Backgammon Society Miami tournament at Ghee.",
+      "starts_at": "2026-09-30T19:00:00-04:00",
+      "ends_at": null,
+      "all_day": false,
+      "venue": "Ghee",
+      "neighborhood": "Miami",
+      "city": "Miami",
+      "url": "https://www.thebackgammonsociety.com/tournaments/miami/ghee",
+      "rsvp_url": "https://www.thebackgammonsociety.com/tournaments/miami/ghee",
+      "image_url": "https://budyxfmlimzpkgcjzmbi.supabase.co/storage/v1/object/public/tournament-images/b92c2e5b-c036-4077-b032-25cd7d95042b/61e9497c41aaf49e72309016050a27bd01a34d19b575bc83b462bff55c2df43f.jpg",
+      "access": "registration",
+      "industry": "sports",
+      "categories": [
+        "hospitality",
+        "networking",
+        "sports"
+      ],
+      "access_tip": "Register on the official Backgammon Society tournament page. For members-club venues, ask the tournament host and the venue membership or concierge team.",
+      "contact_url": "https://www.thebackgammonsociety.com/",
+      "contact_email": null,
+      "ask_for": "The Backgammon Society Miami tournament host; for club venues, the venue membership or concierge team",
+      "score": 62,
+      "confidence": 0.8,
+      "why_it_matters": "From The Backgammon Society — at Ghee",
+      "source_id": "backgammon_society",
+      "source_name": "The Backgammon Society",
+      "source_url": "https://www.thebackgammonsociety.com/",
+      "first_seen_at": "2026-08-31T17:29:52.337912+00:00",
+      "last_seen_at": "2026-09-07T15:41:56.690586+00:00",
+      "lead_hours": 725,
+      "source_trail": [
+        {
+          "source_id": "backgammon_society",
+          "source_name": "The Backgammon Society",
+          "seen_at": "2026-08-31T17:29:52.337912+00:00",
+          "url": "https://www.thebackgammonsociety.com/tournaments/miami/ghee"
         }
       ]
     },
@@ -1722,7 +1926,7 @@
       "source_name": "The Backgammon Society",
       "source_url": "https://www.thebackgammonsociety.com/",
       "first_seen_at": "2026-07-27T01:12:10.522077+00:00",
-      "last_seen_at": "2026-08-31T17:30:03.666218+00:00",
+      "last_seen_at": "2026-09-07T15:41:56.690586+00:00",
       "lead_hours": 1773,
       "source_trail": [
         {
@@ -1763,7 +1967,7 @@
       "source_name": "Greater Miami & The Beaches Hotel Association",
       "source_url": "https://members.gmbha.com/events",
       "first_seen_at": "2026-08-31T17:29:50.081956+00:00",
-      "last_seen_at": "2026-08-31T17:30:03.666218+00:00",
+      "last_seen_at": "2026-09-07T15:41:56.690586+00:00",
       "lead_hours": 1374,
       "source_trail": [
         {
@@ -1771,48 +1975,6 @@
           "source_name": "Greater Miami & The Beaches Hotel Association",
           "seen_at": "2026-08-31T17:29:50.081956+00:00",
           "url": "https://members.gmbha.com/events/Details/connect-at-claudie-an-evening-of-networking-hospitality-1902928?sourceTypeId=Website"
-        }
-      ]
-    },
-    {
-      "id": "9d24e2b55cea9c46870b39b27c95a6abceb72850",
-      "title": "Backgammon Social x Material Good",
-      "summary": "",
-      "starts_at": "2026-09-10T19:00:00-04:00",
-      "ends_at": "2026-09-10T21:00:00-04:00",
-      "all_day": false,
-      "venue": "119 Washington Ave Ste 602, Miami Beach, FL 33139, USA",
-      "neighborhood": "Miami Beach",
-      "city": "Miami",
-      "url": "https://luma.com/backga-buoo",
-      "rsvp_url": "https://luma.com/backga-buoo",
-      "image_url": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/uploads/xt/b28d5859-0497-4450-ad94-4d7e66b0a045.png",
-      "access": "public",
-      "industry": "sports",
-      "categories": [
-        "hospitality",
-        "networking",
-        "sports"
-      ],
-      "access_tip": "Register through the official Backgammon Social Miami Luma calendar. The event co-host shown on the event page is the correct person to request.",
-      "contact_url": "https://luma.com/backgammonsocialmiami",
-      "contact_email": null,
-      "ask_for": "Backgammon Social, Isabella Pacheco",
-      "score": 58,
-      "confidence": 0.8,
-      "why_it_matters": "From Backgammon Social Miami — at 119 Washington Ave Ste 602, Miami Beach, FL 33139, USA",
-      "source_id": "backgammon_social_miami",
-      "source_name": "Backgammon Social Miami",
-      "source_url": "https://luma.com/backgammonsocialmiami",
-      "first_seen_at": "2026-08-24T10:42:27.974796+00:00",
-      "last_seen_at": "2026-08-31T17:30:03.666218+00:00",
-      "lead_hours": 420,
-      "source_trail": [
-        {
-          "source_id": "backgammon_social_miami",
-          "source_name": "Backgammon Social Miami",
-          "seen_at": "2026-08-24T10:42:27.974796+00:00",
-          "url": "https://luma.com/backga-buoo"
         }
       ]
     },
@@ -1847,7 +2009,7 @@
       "source_name": "Backgammon Social Miami",
       "source_url": "https://luma.com/backgammonsocialmiami",
       "first_seen_at": "2026-08-24T10:42:27.975086+00:00",
-      "last_seen_at": "2026-08-31T17:30:03.666218+00:00",
+      "last_seen_at": "2026-09-07T15:41:56.690586+00:00",
       "lead_hours": 540,
       "source_trail": [
         {
@@ -1888,7 +2050,7 @@
       "source_name": "The Standard Spa Miami Beach",
       "source_url": "https://www.standardhotels.com/happenings",
       "first_seen_at": "2026-08-31T17:29:53.903265+00:00",
-      "last_seen_at": "2026-08-31T17:30:03.666218+00:00",
+      "last_seen_at": "2026-09-07T15:41:56.690586+00:00",
       "lead_hours": 454,
       "source_trail": [
         {
@@ -1900,8 +2062,50 @@
       ]
     },
     {
-      "id": "0ca4b8be7c166eac48d4a46eb8b6fd5b987711fe",
-      "title": "Board of Directors Meeting + 30 Years • 30 Connections",
+      "id": "2661f0265a27b92b02f154d4d7cfae5af6563869",
+      "title": "Backgammon Social x Fooq's",
+      "summary": "",
+      "starts_at": "2026-10-01T19:00:00-04:00",
+      "ends_at": "2026-10-01T22:00:00-04:00",
+      "all_day": false,
+      "venue": "150 NW 73rd St, Miami, FL 33150, USA",
+      "neighborhood": "Miami",
+      "city": "Miami",
+      "url": "https://luma.com/backga-ta9d",
+      "rsvp_url": "https://luma.com/backga-ta9d",
+      "image_url": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/api-uploads/ku/a34cfac9-eae6-4d18-bc9e-e8791e2d582d.jpg",
+      "access": "public",
+      "industry": "sports",
+      "categories": [
+        "hospitality",
+        "networking",
+        "sports"
+      ],
+      "access_tip": "Register through the official Backgammon Social Miami Luma calendar. The event co-host shown on the event page is the correct person to request.",
+      "contact_url": "https://luma.com/backgammonsocialmiami",
+      "contact_email": null,
+      "ask_for": "Backgammon Social, Isabella Pacheco, Jeremias Barillas, Alfredo Ponce de Leon",
+      "score": 58,
+      "confidence": 0.8,
+      "why_it_matters": "From Backgammon Social Miami — at 150 NW 73rd St, Miami, FL 33150, USA",
+      "source_id": "backgammon_social_miami",
+      "source_name": "Backgammon Social Miami",
+      "source_url": "https://luma.com/backgammonsocialmiami",
+      "first_seen_at": "2026-08-31T17:29:52.238135+00:00",
+      "last_seen_at": "2026-09-07T15:41:56.690586+00:00",
+      "lead_hours": 749,
+      "source_trail": [
+        {
+          "source_id": "backgammon_social_miami",
+          "source_name": "Backgammon Social Miami",
+          "seen_at": "2026-08-31T17:29:52.238135+00:00",
+          "url": "https://luma.com/backga-ta9d"
+        }
+      ]
+    },
+    {
+      "id": "34a44d2f609de39bb1f4c6efb4049ef7c508557c",
+      "title": "Large Board of Directors Meeting + 30 Years • 30 Connections",
       "summary": "Thursday, September 24, 2026",
       "starts_at": "2026-09-24T00:00:00+00:00",
       "ends_at": null,
@@ -1909,8 +2113,8 @@
       "venue": "",
       "neighborhood": "Miami",
       "city": "Miami",
-      "url": "https://members.gmbha.com/events/Details/board-of-directors-meeting-30-years-30-connections-1900434?sourceTypeId=Website",
-      "rsvp_url": "https://members.gmbha.com/events/Details/board-of-directors-meeting-30-years-30-connections-1900434?sourceTypeId=Website",
+      "url": "https://members.gmbha.com/events/Details/large-board-of-directors-meeting-30-years-30-connections-1900434?sourceTypeId=Website",
+      "rsvp_url": "https://members.gmbha.com/events/Details/large-board-of-directors-meeting-30-years-30-connections-1900434?sourceTypeId=Website",
       "image_url": null,
       "access": "public",
       "industry": "hospitality",
@@ -1928,57 +2132,15 @@
       "source_id": "gmbha",
       "source_name": "Greater Miami & The Beaches Hotel Association",
       "source_url": "https://members.gmbha.com/events",
-      "first_seen_at": "2026-08-24T10:42:25.904453+00:00",
-      "last_seen_at": "2026-08-31T17:30:03.666218+00:00",
-      "lead_hours": 733,
+      "first_seen_at": "2026-09-07T15:41:42.802285+00:00",
+      "last_seen_at": "2026-09-07T15:41:56.690586+00:00",
+      "lead_hours": 392,
       "source_trail": [
         {
           "source_id": "gmbha",
           "source_name": "Greater Miami & The Beaches Hotel Association",
-          "seen_at": "2026-08-24T10:42:25.904453+00:00",
-          "url": "https://members.gmbha.com/events/Details/board-of-directors-meeting-30-years-30-connections-1900434?sourceTypeId=Website"
-        }
-      ]
-    },
-    {
-      "id": "018c814cac64555c97b5946df3755a758dac0fce",
-      "title": "Backgammon Society — Ghee",
-      "summary": "Official Backgammon Society Miami tournament at Ghee.",
-      "starts_at": "2026-09-30T19:00:00-04:00",
-      "ends_at": null,
-      "all_day": false,
-      "venue": "Ghee",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://www.thebackgammonsociety.com/tournaments/miami/ghee",
-      "rsvp_url": "https://www.thebackgammonsociety.com/tournaments/miami/ghee",
-      "image_url": "https://budyxfmlimzpkgcjzmbi.supabase.co/storage/v1/object/public/tournament-images/b92c2e5b-c036-4077-b032-25cd7d95042b/61e9497c41aaf49e72309016050a27bd01a34d19b575bc83b462bff55c2df43f.jpg",
-      "access": "registration",
-      "industry": "sports",
-      "categories": [
-        "hospitality",
-        "networking",
-        "sports"
-      ],
-      "access_tip": "Register on the official Backgammon Society tournament page. For members-club venues, ask the tournament host and the venue membership or concierge team.",
-      "contact_url": "https://www.thebackgammonsociety.com/",
-      "contact_email": null,
-      "ask_for": "The Backgammon Society Miami tournament host; for club venues, the venue membership or concierge team",
-      "score": 56,
-      "confidence": 0.8,
-      "why_it_matters": "From The Backgammon Society — at Ghee",
-      "source_id": "backgammon_society",
-      "source_name": "The Backgammon Society",
-      "source_url": "https://www.thebackgammonsociety.com/",
-      "first_seen_at": "2026-08-31T17:29:52.337912+00:00",
-      "last_seen_at": "2026-08-31T17:30:03.666218+00:00",
-      "lead_hours": 725,
-      "source_trail": [
-        {
-          "source_id": "backgammon_society",
-          "source_name": "The Backgammon Society",
-          "seen_at": "2026-08-31T17:29:52.337912+00:00",
-          "url": "https://www.thebackgammonsociety.com/tournaments/miami/ghee"
+          "seen_at": "2026-09-07T15:41:42.802285+00:00",
+          "url": "https://members.gmbha.com/events/Details/large-board-of-directors-meeting-30-years-30-connections-1900434?sourceTypeId=Website"
         }
       ]
     },
@@ -2013,7 +2175,7 @@
       "source_name": "The Backgammon Society",
       "source_url": "https://www.thebackgammonsociety.com/",
       "first_seen_at": "2026-07-27T01:12:10.522280+00:00",
-      "last_seen_at": "2026-08-31T17:30:03.666218+00:00",
+      "last_seen_at": "2026-09-07T15:41:56.690586+00:00",
       "lead_hours": 1917,
       "source_trail": [
         {
@@ -2021,6 +2183,89 @@
           "source_name": "The Backgammon Society",
           "seen_at": "2026-07-27T01:12:10.522280+00:00",
           "url": "https://www.thebackgammonsociety.com/tournaments/miami/bella-miami-beach"
+        }
+      ]
+    },
+    {
+      "id": "f56d799bb1c501931b8620ae2c12ed5b87f1c776",
+      "title": "Backgammon Society — Chabad of Parkland",
+      "summary": "Official Backgammon Society Miami tournament at Chabad of Parkland.",
+      "starts_at": "2026-10-15T19:45:00-04:00",
+      "ends_at": null,
+      "all_day": false,
+      "venue": "Chabad of Parkland",
+      "neighborhood": "Miami",
+      "city": "Miami",
+      "url": "https://www.thebackgammonsociety.com/tournaments/miami/chabad-of-parkland",
+      "rsvp_url": "https://www.thebackgammonsociety.com/tournaments/miami/chabad-of-parkland",
+      "image_url": "https://budyxfmlimzpkgcjzmbi.supabase.co/storage/v1/object/public/tournament-images/3b8a84ee-7814-4520-9904-ad56e89d3972/f468db2acfc2c6fc7e9dd8fe9cb02e977a3e5daad65b6288c23c0069f2bc0da0.png",
+      "access": "registration",
+      "industry": "sports",
+      "categories": [
+        "hospitality",
+        "networking",
+        "sports"
+      ],
+      "access_tip": "Register on the official Backgammon Society tournament page. For members-club venues, ask the tournament host and the venue membership or concierge team.",
+      "contact_url": "https://www.thebackgammonsociety.com/",
+      "contact_email": null,
+      "ask_for": "The Backgammon Society Miami tournament host; for club venues, the venue membership or concierge team",
+      "score": 56,
+      "confidence": 0.8,
+      "why_it_matters": "From The Backgammon Society — at Chabad of Parkland",
+      "source_id": "backgammon_society",
+      "source_name": "The Backgammon Society",
+      "source_url": "https://www.thebackgammonsociety.com/",
+      "first_seen_at": "2026-09-07T15:41:45.040059+00:00",
+      "last_seen_at": "2026-09-07T15:41:56.690586+00:00",
+      "lead_hours": 920,
+      "source_trail": [
+        {
+          "source_id": "backgammon_society",
+          "source_name": "The Backgammon Society",
+          "seen_at": "2026-09-07T15:41:45.040059+00:00",
+          "url": "https://www.thebackgammonsociety.com/tournaments/miami/chabad-of-parkland"
+        }
+      ]
+    },
+    {
+      "id": "1f791d42e0dc0c2074e8ae4f7b4938d6b45054c0",
+      "title": "Executive Board Meeting + Hidden Gem Networking Experience",
+      "summary": "Thursday, October 22, 2026",
+      "starts_at": "2026-10-22T00:00:00+00:00",
+      "ends_at": null,
+      "all_day": false,
+      "venue": "",
+      "neighborhood": "Miami",
+      "city": "Miami",
+      "url": "https://members.gmbha.com/events/Details/executive-board-meeting-hidden-gem-networking-experience-1911122?sourceTypeId=Website",
+      "rsvp_url": "https://members.gmbha.com/events/Details/executive-board-meeting-hidden-gem-networking-experience-1911122?sourceTypeId=Website",
+      "image_url": null,
+      "access": "public",
+      "industry": "hospitality",
+      "categories": [
+        "hospitality",
+        "networking"
+      ],
+      "access_tip": "Register through GMBHA. Membership or partner status may unlock industry luncheons and leadership events.",
+      "contact_url": "https://members.gmbha.com/events",
+      "contact_email": null,
+      "ask_for": "GMBHA Events and Membership Team",
+      "score": 56,
+      "confidence": 0.8,
+      "why_it_matters": "From Greater Miami & The Beaches Hotel Association — networking keywords",
+      "source_id": "gmbha",
+      "source_name": "Greater Miami & The Beaches Hotel Association",
+      "source_url": "https://members.gmbha.com/events",
+      "first_seen_at": "2026-09-07T15:41:42.802562+00:00",
+      "last_seen_at": "2026-09-07T15:41:56.690586+00:00",
+      "lead_hours": 1064,
+      "source_trail": [
+        {
+          "source_id": "gmbha",
+          "source_name": "Greater Miami & The Beaches Hotel Association",
+          "seen_at": "2026-09-07T15:41:42.802562+00:00",
+          "url": "https://members.gmbha.com/events/Details/executive-board-meeting-hidden-gem-networking-experience-1911122?sourceTypeId=Website"
         }
       ]
     },
@@ -2055,7 +2300,7 @@
       "source_name": "The Backgammon Society",
       "source_url": "https://www.thebackgammonsociety.com/",
       "first_seen_at": "2026-07-27T01:12:10.522459+00:00",
-      "last_seen_at": "2026-08-31T17:30:03.666218+00:00",
+      "last_seen_at": "2026-09-07T15:41:56.690586+00:00",
       "lead_hours": 2253,
       "source_trail": [
         {
@@ -2097,7 +2342,7 @@
       "source_name": "The Backgammon Society",
       "source_url": "https://www.thebackgammonsociety.com/",
       "first_seen_at": "2026-08-31T17:29:52.339732+00:00",
-      "last_seen_at": "2026-08-31T17:30:03.666218+00:00",
+      "last_seen_at": "2026-09-07T15:41:56.690586+00:00",
       "lead_hours": 1566,
       "source_trail": [
         {
@@ -2105,6 +2350,48 @@
           "source_name": "The Backgammon Society",
           "seen_at": "2026-08-31T17:29:52.339732+00:00",
           "url": "https://www.thebackgammonsociety.com/tournaments/miami/shooting-founders-club"
+        }
+      ]
+    },
+    {
+      "id": "3811cfb1fa3973f415d0d118a5082f0ecc6961a3",
+      "title": "Backgammon Society — Naked Tomato",
+      "summary": "Official Backgammon Society Miami tournament at Naked Tomato.",
+      "starts_at": "2026-11-18T19:00:00-05:00",
+      "ends_at": null,
+      "all_day": false,
+      "venue": "Naked Tomato",
+      "neighborhood": "Miami",
+      "city": "Miami",
+      "url": "https://www.thebackgammonsociety.com/tournaments/miami/naked-tomato",
+      "rsvp_url": "https://www.thebackgammonsociety.com/tournaments/miami/naked-tomato",
+      "image_url": "https://budyxfmlimzpkgcjzmbi.supabase.co/storage/v1/object/public/tournament-images/f703f262-0068-4fce-b277-4cedd32f14da/fe9cb89553c2c9a967d7e93d7132d0d3d477816e57608b21302ab7f3041488c8.png",
+      "access": "registration",
+      "industry": "sports",
+      "categories": [
+        "hospitality",
+        "networking",
+        "sports"
+      ],
+      "access_tip": "Register on the official Backgammon Society tournament page. For members-club venues, ask the tournament host and the venue membership or concierge team.",
+      "contact_url": "https://www.thebackgammonsociety.com/",
+      "contact_email": null,
+      "ask_for": "The Backgammon Society Miami tournament host; for club venues, the venue membership or concierge team",
+      "score": 56,
+      "confidence": 0.8,
+      "why_it_matters": "From The Backgammon Society — at Naked Tomato",
+      "source_id": "backgammon_society",
+      "source_name": "The Backgammon Society",
+      "source_url": "https://www.thebackgammonsociety.com/",
+      "first_seen_at": "2026-09-07T15:41:45.040841+00:00",
+      "last_seen_at": "2026-09-07T15:41:56.690586+00:00",
+      "lead_hours": 1736,
+      "source_trail": [
+        {
+          "source_id": "backgammon_society",
+          "source_name": "The Backgammon Society",
+          "seen_at": "2026-09-07T15:41:45.040841+00:00",
+          "url": "https://www.thebackgammonsociety.com/tournaments/miami/naked-tomato"
         }
       ]
     },
@@ -2138,7 +2425,7 @@
       "source_name": "Greater Miami & The Beaches Hotel Association",
       "source_url": "https://members.gmbha.com/events",
       "first_seen_at": "2026-08-07T12:30:40.856453+00:00",
-      "last_seen_at": "2026-08-31T17:30:03.666218+00:00",
+      "last_seen_at": "2026-09-07T15:41:56.690586+00:00",
       "lead_hours": 2579,
       "source_trail": [
         {
@@ -2146,6 +2433,132 @@
           "source_name": "Greater Miami & The Beaches Hotel Association",
           "seen_at": "2026-08-07T12:30:40.856453+00:00",
           "url": "https://members.gmbha.com/events/Details/13th-annual-hospitality-leadership-awards-1885685?sourceTypeId=Website"
+        }
+      ]
+    },
+    {
+      "id": "d6f14154a92f62b6bd105deb7e6514a0cfe086cb",
+      "title": "Backgammon Society — TINTIN",
+      "summary": "Official Backgammon Society Miami tournament at TINTIN.",
+      "starts_at": "2026-11-25T19:00:00-05:00",
+      "ends_at": null,
+      "all_day": false,
+      "venue": "TINTIN",
+      "neighborhood": "Miami",
+      "city": "Miami",
+      "url": "https://www.thebackgammonsociety.com/tournaments/miami/tintin",
+      "rsvp_url": "https://www.thebackgammonsociety.com/tournaments/miami/tintin",
+      "image_url": "https://budyxfmlimzpkgcjzmbi.supabase.co/storage/v1/object/public/tournament-images/fff3c2ce-f1e2-4b9c-91fc-5541c95c594c/bfd8cc6fbbad58e7f1da602cd9793bc08d907fd411a34f09505771a91b475974.png",
+      "access": "registration",
+      "industry": "sports",
+      "categories": [
+        "hospitality",
+        "networking",
+        "sports"
+      ],
+      "access_tip": "Register on the official Backgammon Society tournament page. For members-club venues, ask the tournament host and the venue membership or concierge team.",
+      "contact_url": "https://www.thebackgammonsociety.com/",
+      "contact_email": null,
+      "ask_for": "The Backgammon Society Miami tournament host; for club venues, the venue membership or concierge team",
+      "score": 56,
+      "confidence": 0.8,
+      "why_it_matters": "From The Backgammon Society — at TINTIN",
+      "source_id": "backgammon_society",
+      "source_name": "The Backgammon Society",
+      "source_url": "https://www.thebackgammonsociety.com/",
+      "first_seen_at": "2026-09-07T15:41:45.041010+00:00",
+      "last_seen_at": "2026-09-07T15:41:56.690586+00:00",
+      "lead_hours": 1904,
+      "source_trail": [
+        {
+          "source_id": "backgammon_society",
+          "source_name": "The Backgammon Society",
+          "seen_at": "2026-09-07T15:41:45.041010+00:00",
+          "url": "https://www.thebackgammonsociety.com/tournaments/miami/tintin"
+        }
+      ]
+    },
+    {
+      "id": "fcd9fe30a9883745b2109dd4f74049bc575ea643",
+      "title": "Backgammon Society — Serena Rooftop Moxy",
+      "summary": "Official Backgammon Society Miami tournament at Serena Rooftop Moxy.",
+      "starts_at": "2026-12-02T19:00:00-05:00",
+      "ends_at": null,
+      "all_day": false,
+      "venue": "Serena Rooftop Moxy",
+      "neighborhood": "Miami",
+      "city": "Miami",
+      "url": "https://www.thebackgammonsociety.com/tournaments/miami/serena-rooftop-moxy",
+      "rsvp_url": "https://www.thebackgammonsociety.com/tournaments/miami/serena-rooftop-moxy",
+      "image_url": "https://budyxfmlimzpkgcjzmbi.supabase.co/storage/v1/object/public/tournament-images/8a84a77e-e3b5-4aad-a65a-8872fe96d398/2b9eac7e9422506939d2f70508773fcf36b835e1d4369e0be4fca74195d15344.png",
+      "access": "registration",
+      "industry": "sports",
+      "categories": [
+        "hospitality",
+        "networking",
+        "sports"
+      ],
+      "access_tip": "Register on the official Backgammon Society tournament page. For members-club venues, ask the tournament host and the venue membership or concierge team.",
+      "contact_url": "https://www.thebackgammonsociety.com/",
+      "contact_email": null,
+      "ask_for": "The Backgammon Society Miami tournament host; for club venues, the venue membership or concierge team",
+      "score": 56,
+      "confidence": 0.8,
+      "why_it_matters": "From The Backgammon Society — at Serena Rooftop Moxy",
+      "source_id": "backgammon_society",
+      "source_name": "The Backgammon Society",
+      "source_url": "https://www.thebackgammonsociety.com/",
+      "first_seen_at": "2026-09-07T15:41:45.041178+00:00",
+      "last_seen_at": "2026-09-07T15:41:56.690586+00:00",
+      "lead_hours": 2072,
+      "source_trail": [
+        {
+          "source_id": "backgammon_society",
+          "source_name": "The Backgammon Society",
+          "seen_at": "2026-09-07T15:41:45.041178+00:00",
+          "url": "https://www.thebackgammonsociety.com/tournaments/miami/serena-rooftop-moxy"
+        }
+      ]
+    },
+    {
+      "id": "2afb4880e9f7e7dee3b7caab136a1753f5350716",
+      "title": "Backgammon Society — Joia Beach",
+      "summary": "Official Backgammon Society Miami tournament at Joia Beach.",
+      "starts_at": "2026-12-09T19:00:00-05:00",
+      "ends_at": null,
+      "all_day": false,
+      "venue": "Joia Beach",
+      "neighborhood": "Miami",
+      "city": "Miami",
+      "url": "https://www.thebackgammonsociety.com/tournaments/miami/joia-beach-dec-9",
+      "rsvp_url": "https://www.thebackgammonsociety.com/tournaments/miami/joia-beach-dec-9",
+      "image_url": "https://budyxfmlimzpkgcjzmbi.supabase.co/storage/v1/object/public/tournament-images/0181b33f-65aa-4a3a-b64e-639f4441bc2d/1e02c3662850b87e284cbf83e88e6170e0fb86f443330a1d7e601238ad9a48f9.png",
+      "access": "registration",
+      "industry": "sports",
+      "categories": [
+        "hospitality",
+        "networking",
+        "sports"
+      ],
+      "access_tip": "Register on the official Backgammon Society tournament page. For members-club venues, ask the tournament host and the venue membership or concierge team.",
+      "contact_url": "https://www.thebackgammonsociety.com/",
+      "contact_email": null,
+      "ask_for": "The Backgammon Society Miami tournament host; for club venues, the venue membership or concierge team",
+      "score": 56,
+      "confidence": 0.8,
+      "why_it_matters": "From The Backgammon Society — at Joia Beach",
+      "source_id": "backgammon_society",
+      "source_name": "The Backgammon Society",
+      "source_url": "https://www.thebackgammonsociety.com/",
+      "first_seen_at": "2026-09-07T15:41:45.041349+00:00",
+      "last_seen_at": "2026-09-07T15:41:56.690586+00:00",
+      "lead_hours": 2240,
+      "source_trail": [
+        {
+          "source_id": "backgammon_society",
+          "source_name": "The Backgammon Society",
+          "seen_at": "2026-09-07T15:41:45.041349+00:00",
+          "url": "https://www.thebackgammonsociety.com/tournaments/miami/joia-beach-dec-9"
         }
       ]
     },
@@ -2180,7 +2593,7 @@
       "source_name": "The Backgammon Society",
       "source_url": "https://www.thebackgammonsociety.com/",
       "first_seen_at": "2026-08-31T17:29:52.339985+00:00",
-      "last_seen_at": "2026-08-31T17:30:03.666218+00:00",
+      "last_seen_at": "2026-09-07T15:41:56.690586+00:00",
       "lead_hours": 2574,
       "source_trail": [
         {
@@ -2188,6 +2601,47 @@
           "source_name": "The Backgammon Society",
           "seen_at": "2026-08-31T17:29:52.339985+00:00",
           "url": "https://www.thebackgammonsociety.com/tournaments/miami/palm-tree-club"
+        }
+      ]
+    },
+    {
+      "id": "405cc69c9150c5f086914743a53390963eb91a08",
+      "title": "WRE News: Owners of Miami Slice Launch New Concept in Sunset Harbour",
+      "summary": "Miami Beach, FL - September 3, 2026 - Miami Slice Hospitality is headed to Sunset Harbour with a brand-new concept that’s still in the works. As the hospitality group continues to expand, this spot will be a new culinary experience for the team— No pizza, no brunch, and no bar, taking over the former Panther Coffee space in Sunset Harbour. The new project will be led by the Miami Slice Hospitality’s Founder Alejandro",
+      "starts_at": null,
+      "ends_at": null,
+      "all_day": false,
+      "venue": "",
+      "neighborhood": "Miami Beach",
+      "city": "Miami",
+      "url": "https://worldredeye.com/2026/09/wre-news-owners-of-miami-slice-launch-new-concept-in-sunset-harbour/",
+      "rsvp_url": "https://worldredeye.com/2026/09/wre-news-owners-of-miami-slice-launch-new-concept-in-sunset-harbour/",
+      "image_url": null,
+      "access": "public",
+      "industry": "culinary",
+      "categories": [
+        "editorial",
+        "nightlife"
+      ],
+      "access_tip": "Open the official source for current admission details. Reserve early if a booking option is shown.",
+      "contact_url": "https://worldredeye.com/2026/09/wre-news-owners-of-miami-slice-launch-new-concept-in-sunset-harbour/",
+      "contact_email": null,
+      "ask_for": "The host or sponsor named in the World Red Eye article",
+      "score": 56,
+      "confidence": 0.5,
+      "why_it_matters": "World Red Eye coverage (often same-day / post-event) — networking keywords",
+      "source_id": "world_red_eye",
+      "source_name": "World Red Eye",
+      "source_url": "https://worldredeye.com/feed/",
+      "first_seen_at": "2026-09-07T15:41:35.508149+00:00",
+      "last_seen_at": "2026-09-07T15:41:56.690586+00:00",
+      "lead_hours": null,
+      "source_trail": [
+        {
+          "source_id": "world_red_eye",
+          "source_name": "World Red Eye",
+          "seen_at": "2026-09-07T15:41:35.508149+00:00",
+          "url": "https://worldredeye.com/2026/09/wre-news-owners-of-miami-slice-launch-new-concept-in-sunset-harbour/"
         }
       ]
     },
@@ -2221,7 +2675,7 @@
       "source_name": "The Standard Spa Miami Beach",
       "source_url": "https://www.standardhotels.com/happenings",
       "first_seen_at": "2026-08-31T17:29:56.268940+00:00",
-      "last_seen_at": "2026-08-31T17:30:03.666218+00:00",
+      "last_seen_at": "2026-09-07T15:41:56.690586+00:00",
       "lead_hours": 622,
       "source_trail": [
         {
@@ -2233,94 +2687,10 @@
       ]
     },
     {
-      "id": "2661f0265a27b92b02f154d4d7cfae5af6563869",
-      "title": "Backgammon Social x Fooq's",
-      "summary": "",
-      "starts_at": "2026-10-01T19:00:00-04:00",
-      "ends_at": "2026-10-01T22:00:00-04:00",
-      "all_day": false,
-      "venue": "150 NW 73rd St, Miami, FL 33150, USA",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://luma.com/backga-ta9d",
-      "rsvp_url": "https://luma.com/backga-ta9d",
-      "image_url": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/api-uploads/ku/a34cfac9-eae6-4d18-bc9e-e8791e2d582d.jpg",
-      "access": "public",
-      "industry": "sports",
-      "categories": [
-        "hospitality",
-        "networking",
-        "sports"
-      ],
-      "access_tip": "Register through the official Backgammon Social Miami Luma calendar. The event co-host shown on the event page is the correct person to request.",
-      "contact_url": "https://luma.com/backgammonsocialmiami",
-      "contact_email": null,
-      "ask_for": "Backgammon Social, Isabella Pacheco, Jeremias Barillas, Alfredo Ponce de Leon",
-      "score": 52,
-      "confidence": 0.8,
-      "why_it_matters": "From Backgammon Social Miami — at 150 NW 73rd St, Miami, FL 33150, USA",
-      "source_id": "backgammon_social_miami",
-      "source_name": "Backgammon Social Miami",
-      "source_url": "https://luma.com/backgammonsocialmiami",
-      "first_seen_at": "2026-08-31T17:29:52.238135+00:00",
-      "last_seen_at": "2026-08-31T17:30:03.666218+00:00",
-      "lead_hours": 749,
-      "source_trail": [
-        {
-          "source_id": "backgammon_social_miami",
-          "source_name": "Backgammon Social Miami",
-          "seen_at": "2026-08-31T17:29:52.238135+00:00",
-          "url": "https://luma.com/backga-ta9d"
-        }
-      ]
-    },
-    {
-      "id": "a02b9647e49c6b4f1fb67d3bfb0e503b1293cf08",
-      "title": "Miami AI Summit",
-      "summary": "",
-      "starts_at": "2026-10-23T10:00:00-04:00",
-      "ends_at": "2026-10-23T18:30:00-04:00",
-      "all_day": false,
-      "venue": "Loews Coral Gables Hotel",
-      "neighborhood": "Coral Gables",
-      "city": "Coral Gables",
-      "url": "https://luma.com/miamiaisummit",
-      "rsvp_url": "https://luma.com/miamiaisummit",
-      "image_url": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/uploads/2j/ef9cfffd-352b-4fe6-8487-03594ffd251c.png",
-      "access": "public",
-      "industry": "hospitality",
-      "categories": [
-        "culture",
-        "networking",
-        "nightlife"
-      ],
-      "access_tip": "Open the official source for current admission details. Reserve early if a booking option is shown.",
-      "contact_url": "https://luma.com/miamiaisummit",
-      "contact_email": null,
-      "ask_for": "Miami AI Hub, eMerge Americas, Burhan Sebin",
-      "score": 50,
-      "confidence": 0.8,
-      "why_it_matters": "From Luma Miami — networking keywords — at Loews Coral Gables Hotel",
-      "source_id": "luma_miami",
-      "source_name": "Luma Miami",
-      "source_url": "https://luma.com/miami",
-      "first_seen_at": "2026-07-27T00:58:56.846151+00:00",
-      "last_seen_at": "2026-08-31T17:30:03.666218+00:00",
-      "lead_hours": 2125,
-      "source_trail": [
-        {
-          "source_id": "luma_miami",
-          "source_name": "Luma Miami",
-          "seen_at": "2026-07-27T00:58:56.846151+00:00",
-          "url": "https://luma.com/miamiaisummit26"
-        }
-      ]
-    },
-    {
-      "id": "5b61a8861c6711da3468f217a7bfe23c14ac88b7",
+      "id": "85b5dc4f0142cd51cbcfc24dc7f55d0e90ca6004",
       "title": "View our Event Calendar",
-      "summary": "Home » Resort Home » View our Event Calendar » August 2026",
-      "starts_at": "2026-08-31T00:00:00+00:00",
+      "summary": "Home » Resort Home » View our Event Calendar » September 2026",
+      "starts_at": "2026-09-07T00:00:00+00:00",
       "ends_at": null,
       "all_day": false,
       "venue": "",
@@ -2344,14 +2714,14 @@
       "source_id": "loews_miami",
       "source_name": "Loews Miami Beach",
       "source_url": "https://www.loewshotels.com/miami-beach/event-calendar",
-      "first_seen_at": "2026-08-31T17:29:44.164121+00:00",
-      "last_seen_at": "2026-08-31T17:30:03.666218+00:00",
-      "lead_hours": -18,
+      "first_seen_at": "2026-09-07T15:41:37.131657+00:00",
+      "last_seen_at": "2026-09-07T15:41:56.690586+00:00",
+      "lead_hours": -16,
       "source_trail": [
         {
           "source_id": "loews_miami",
           "source_name": "Loews Miami Beach",
-          "seen_at": "2026-08-31T17:29:44.164121+00:00",
+          "seen_at": "2026-09-07T15:41:37.131657+00:00",
           "url": "https://www.loewshotels.com/miami-beach/event-calendar"
         }
       ]
