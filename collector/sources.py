@@ -21,6 +21,39 @@ from .parsers import (
     parse_link_cards,
     parse_rss,
 )
+from .resy import fetch_resy_miami_events
+
+# Chef collabs, pop-up dinners, restaurant hospitality — Mandolin × Shingo-style signals.
+CULINARY_SIGNAL = re.compile(
+    r"\b(chef|dinner|tasting|wine|cocktail|collab|collaboration|omakase|"
+    r"pop[- ]?up|restaurant|hospitality|culinary|brunch|soirée|soiree|"
+    r"farm[- ]to[- ]table|guest chef|supper club|industry night|"
+    r"reservation|resy|mandolin|shingo|aegean|bistro|kitchen|menu|"
+    r"sobewff|food & wine|food and wine)\b",
+    re.I,
+)
+
+
+def _filter_culinary_events(events: list[RawEvent]) -> list[RawEvent]:
+    """Keep Luma (and similar) listings that look like restaurant / chef programming."""
+    noise = re.compile(
+        r"\b(game night|meetup|speed dating|yoga|run club|networking mixer only|"
+        r"coworking|hackathon|crypto|webinar)\b",
+        re.I,
+    )
+    out: list[RawEvent] = []
+    for event in events:
+        blob = f"{event.title} {event.summary} {event.venue}"
+        if not CULINARY_SIGNAL.search(blob):
+            continue
+        if noise.search(blob) and not re.search(r"\b(chef|dinner|tasting|wine|omakase|pop[- ]?up)\b", blob, re.I):
+            continue
+        if "culinary" not in event.categories:
+            event.categories = list(event.categories) + ["culinary"]
+        if not event.industry:
+            event.industry = "culinary"
+        out.append(event)
+    return out
 
 
 @dataclass
@@ -416,6 +449,126 @@ SOURCES: list[SourceDef] = [
         contact_url="https://sobewff.org/events/",
     ),
     SourceDef(
+        id="luma_culinary_miami",
+        name="Luma Miami · Food & Chef",
+        kind="jsonld",
+        url="https://luma.com/miami",
+        categories=["culinary", "hospitality", "networking"],
+        industry="culinary",
+        ask_for="The organizer named on the Luma event page",
+        access_tip="Chef collabs and restaurant pop-ups often sell out same-day — reserve on Luma or call the venue directly.",
+    ),
+    SourceDef(
+        id="eater_miami",
+        name="Eater Miami",
+        kind="rss",
+        url="https://miami.eater.com/rss/index.xml",
+        categories=["culinary", "editorial", "hospitality"],
+        industry="culinary",
+        require_miami=False,
+    ),
+    SourceDef(
+        id="miami_new_times_food",
+        name="Miami New Times · Food",
+        kind="rss",
+        url="https://www.miaminewtimes.com/miami/Rss.xml",
+        categories=["culinary", "editorial", "culture"],
+        industry="culinary",
+        require_miami=False,
+        note="Citywide food/culture RSS — filter for chef/dinner keywords in scoring.",
+    ),
+    SourceDef(
+        id="infatuation_miami",
+        name="The Infatuation Miami",
+        kind="rss",
+        url="https://www.theinfatuation.com/miami/rss.xml",
+        categories=["culinary", "editorial", "hospitality"],
+        industry="culinary",
+        require_miami=False,
+    ),
+    SourceDef(
+        id="timeout_miami_food",
+        name="Time Out Miami · Food & Drink",
+        kind="rss",
+        url="https://www.timeout.com/miami/rss",
+        categories=["culinary", "editorial", "culture"],
+        industry="culinary",
+        require_miami=False,
+        note="Early editorial for openings, tastings, and limited dinners.",
+    ),
+    SourceDef(
+        id="eventbrite_miami_food",
+        name="Eventbrite Miami · Food & Drink",
+        kind="links",
+        url="https://www.eventbrite.com/d/fl--miami/food-and-drink--events/",
+        categories=["culinary", "networking", "hospitality"],
+        industry="culinary",
+        link_selector="a[href*='/e/']",
+        require_miami=False,
+        access_tip="Tickets often drop mid-week for weekend tastings — book when the listing appears.",
+        ask_for="Event organizer on the Eventbrite page",
+    ),
+    SourceDef(
+        id="localwineevents_miami",
+        name="LocalWineEvents · Miami",
+        kind="links",
+        url="https://www.localwineevents.com/view/city/miami",
+        categories=["culinary", "hospitality", "networking"],
+        industry="culinary",
+        link_selector="a[href*='/view/event/'], a[href*='event']",
+        access_tip="Chef collabs and wine dinners often sell out fast — book on the listing page when tickets drop.",
+        require_miami=False,
+    ),
+    SourceDef(
+        id="resy_experiences",
+        name="Resy Experiences · Miami",
+        kind="resy_events",
+        url="https://resy.com/cities/miami-fl/events",
+        categories=["culinary", "hospitality"],
+        industry="culinary",
+        note="Live API — chef dinners, tastings, and restaurant pop-ups (Mandolin-style collabs).",
+        access_tip="Book on Resy as soon as listings drop — guest-chef nights often sell out the same week.",
+        contact_url="https://resy.com/cities/miami-fl/events",
+        ask_for="Restaurant events team via Resy",
+    ),
+    SourceDef(
+        id="resy_miami_watch",
+        name="Resy Experiences · Miami (watch)",
+        kind="links",
+        url="https://blog.resy.com/",
+        categories=["culinary", "editorial", "hospitality"],
+        industry="culinary",
+        link_selector="a[href*='miami'], a[href*='experience'], a[href*='dinner'], a[href*='chef']",
+        require_miami=False,
+        note="Resy.com/events is SPA-only; blog + manual check of resy.com/cities/miami-fl/events catches Mandolin-style collabs early.",
+        access_tip="Also open https://resy.com/cities/miami-fl/events weekly — guest-chef nights list there before hotel calendars.",
+        contact_url="https://resy.com/cities/miami-fl/events",
+        ask_for="Restaurant events team via Resy",
+    ),
+    SourceDef(
+        id="mandolin_aegean",
+        name="Mandolin Aegean Bistro",
+        kind="links",
+        url="https://www.mandolinrestaurant.com/",
+        categories=["culinary", "hospitality"],
+        industry="culinary",
+        link_selector="a[href*='event'], a[href*='dinner'], a[href*='special'], a[href*='reserv']",
+        access_tip="Guest-chef dinners and collabs are usually announced on the site or via Resy — book early.",
+        contact_url="https://www.mandolinrestaurant.com/",
+        ask_for="Mandolin reservations or events team",
+    ),
+    SourceDef(
+        id="cote_miami",
+        name="COTE Miami",
+        kind="links",
+        url="https://www.cotekoreansteakhouse.com/location/miami/",
+        categories=["culinary", "hospitality", "luxury"],
+        industry="culinary",
+        link_selector="a[href*='event'], a[href*='dinner'], a[href*='reserv'], a[href*='private']",
+        access_tip="Michelin-star Korean steakhouse — watch for guest-chef and industry nights on their site.",
+        contact_url="https://www.cotekoreansteakhouse.com/location/miami/",
+    ),
+    SourceDef(
         id="boat_show",
         name="Miami International Boat Show",
         kind="links",
@@ -571,7 +724,9 @@ SOURCES: list[SourceDef] = [
         name="Luma Miami",
         kind="jsonld",
         url="https://luma.com/miami",
-        categories=["networking", "nightlife", "culture"],
+        categories=["networking", "culture"],
+        enabled=False,
+        note="Disabled as broad nightlife/mixer noise; culinary Luma calendars stay enabled separately.",
         ask_for="The organizer named on the Luma event page",
     ),
     SourceDef(
@@ -581,6 +736,22 @@ SOURCES: list[SourceDef] = [
         url="https://groothospitality.com/",
         categories=["nightlife", "luxury", "hospitality"],
         link_selector="a[href*='event'], a[href*='purple']",
+        enabled=False,
+        note="Disabled: nightclub / nightlife programming — feed focuses on luxury dining & hospitality, not clubs.",
+    ),
+    SourceDef(
+        id="posh_miami_dining",
+        name="Posh · Miami dining / supper clubs",
+        kind="links",
+        url="https://posh.vip/discover?q=miami",
+        categories=["culinary", "luxury", "hospitality"],
+        industry="culinary",
+        link_selector="a[href*='/e/']",
+        require_miami=True,
+        note="Luxury dinner series & supper clubs on Posh (filter out club/afterparty noise in normalize).",
+        access_tip="Book on the Posh listing when tickets drop — dining series sell out fast.",
+        contact_url="https://posh.vip/",
+        ask_for="Event host on the Posh page",
     ),
     SourceDef(
         id="gmcvb",
@@ -814,6 +985,32 @@ def fetch_source(client: HttpClient, src: SourceDef) -> SourceResult:
     if not src.enabled:
         return SourceResult(src.id, src.name, True, 0, None, 0, [])
     try:
+        if src.kind == "resy_events":
+            events = fetch_resy_miami_events(
+                client,
+                source_id=src.id,
+                source_name=src.name,
+                source_url=src.url,
+            )
+            for event in events:
+                if src.industry and not event.industry:
+                    event.industry = src.industry
+                if src.access_tip and not event.access_tip:
+                    event.access_tip = src.access_tip
+                if src.contact_url and not event.contact_url:
+                    event.contact_url = src.contact_url
+                if src.ask_for and not event.ask_for:
+                    event.ask_for = src.ask_for
+            return SourceResult(
+                src.id,
+                src.name,
+                True,
+                len(events),
+                None,
+                int((time.perf_counter() - started) * 1000),
+                events,
+            )
+
         result = client.get(src.url)
         if not result.ok:
             if src.id == "backgammon_society":
@@ -927,6 +1124,17 @@ def fetch_source(client: HttpClient, src: SourceDef) -> SourceResult:
             )
         elif src.id == "backgammon_society":
             events = _decorate_backgammon_society(events)
+        elif src.id == "luma_culinary_miami":
+            events = _filter_culinary_events(events)
+        elif src.id in {
+            "timeout_miami_food",
+            "eventbrite_miami_food",
+            "resy_miami_watch",
+            "miami_new_times_food",
+            "infatuation_miami",
+            "eater_miami",
+        }:
+            events = _filter_culinary_events(events)
 
         # Custom enrichment for WR Chess schedule text when JSON-LD is thin
         if src.id in ("wr_chess", "wr_chess_links"):

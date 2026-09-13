@@ -72,6 +72,18 @@ SOURCE_INDUSTRY = {
     "sobewff": "culinary",
     "sobewff_ics": "culinary",
     "miami_spice": "culinary",
+    "luma_culinary_miami": "culinary",
+    "eater_miami": "culinary",
+    "miami_new_times_food": "culinary",
+    "infatuation_miami": "culinary",
+    "mandolin_aegean": "culinary",
+    "localwineevents_miami": "culinary",
+    "cote_miami": "culinary",
+    "timeout_miami_food": "culinary",
+    "eventbrite_miami_food": "culinary",
+    "resy_miami_watch": "culinary",
+    "resy_experiences": "culinary",
+    "posh_miami_dining": "culinary",
     # Art / fashion
     "the_bass": "art_fashion",
     "the_bass_rss": "art_fashion",
@@ -94,6 +106,16 @@ GENERIC_EVENT = re.compile(
     re.I,
 )
 
+# Nightclubs / EDM / bottle-service — out of scope (luxury dining & hospitality only).
+NIGHTCLUB_EVENT = re.compile(
+    r"\b(nightclub|night club|bottle service|bottle service|guest list|"
+    r"after[- ]?party|afterparty|edm|techno|house music|dj set|club night|"
+    r"tablao? nightclub|lIV\b|liv miami|e11even|eleven miami|story miami|"
+    r"space miami|club space|factory town|baselounge|dayclub|day club|"
+    r"pool party|foam party|rave|ultra music|mmw\b|miami music week)\b",
+    re.I,
+)
+
 PREMIUM_SIGNAL = re.compile(
     r"\b(invitation|invite-only|members? only|private dinner|cocktail|reception|"
     r"gala|premiere|opening night|preview|launch|summit|conference|panel|forum|"
@@ -108,6 +130,14 @@ BROAD_SOURCES = {
     "luma_miami",
     "gmcvb",
     "pr_newswire_miami",
+    "haute_living",
+    "world_red_eye",
+}
+
+CULINARY_EDITORIAL_SOURCES = {
+    "eater_miami",
+    "miami_new_times_food",
+    "infatuation_miami",
     "haute_living",
     "world_red_eye",
 }
@@ -201,12 +231,35 @@ ACCESS_DIRECTORY = [
         "apply_url": "https://www.editionhotels.com/miami-beach/beach-and-pools/membership-application/",
         "tip": "Apply for Beach Club membership; official benefits include access to exclusive member events.",
     },
+    {
+        "name": "Resy Experiences · Miami",
+        "type": "Chef dinners & restaurant pop-ups",
+        "url": "https://resy.com/cities/miami-fl/events",
+        "apply_url": "https://resy.com/cities/miami-fl/events",
+        "tip": "Check weekly — Mandolin-style guest-chef nights and tasting menus appear here before hotel calendars. Book early; they sell out same week.",
+    },
+    {
+        "name": "LocalWineEvents · Miami",
+        "type": "Wine dinners & tastings",
+        "url": "https://www.localwineevents.com/view/city/miami",
+        "apply_url": "https://www.localwineevents.com/view/city/miami",
+        "tip": "Chef collabs and wine dinners often list mid-week for weekend seatings — set a calendar reminder every Monday.",
+    },
 ]
 
 
 def is_generic_event(raw: RawEvent) -> bool:
     blob = f"{raw.title} {raw.summary} {raw.url}"
     return bool(GENERIC_EVENT.search(blob))
+
+
+def is_nightclub_event(raw: RawEvent) -> bool:
+    blob = f"{raw.title} {raw.summary} {raw.venue} {raw.url} {' '.join(raw.categories or [])}"
+    if "nightlife" in (raw.categories or []) and not re.search(
+        r"\b(dinner|tasting|chef|omakase|wine|culinary|restaurant|supper)\b", blob, re.I
+    ):
+        return True
+    return bool(NIGHTCLUB_EVENT.search(blob))
 
 
 def assign_industry(raw: RawEvent) -> str | None:
@@ -321,6 +374,8 @@ def merge_and_score(
             continue
         if is_generic_event(raw):
             continue
+        if is_nightclub_event(raw):
+            continue
         industry = assign_industry(raw)
         if not industry:
             continue
@@ -373,16 +428,27 @@ def merge_and_score(
                 "world_red_eye",
                 "pr_newswire_miami",
                 "design_district",
+                *CULINARY_EDITORIAL_SOURCES,
             }
+            culinaryish = (
+                primary.source_id in CULINARY_EDITORIAL_SOURCES
+                or primary.industry == "culinary"
+            )
             titled_event = bool(
                 re.search(
                     r"\b(reception|cocktail|dinner|gala|premiere|summit|mixer|"
-                    r"opening|launch|fair|show|panel|networking|rsvp)\b",
+                    r"opening|launch|fair|show|panel|networking|rsvp|chef|"
+                    r"collab|pop[- ]?up|tasting|omakase)\b",
                     primary.title,
                     re.I,
                 )
             )
-            if not ((editorialish and score >= 55) or (titled_event and score >= 72)):
+            editorial_floor = 48 if culinaryish else 55
+            titled_floor = 65 if culinaryish else 72
+            if not (
+                (editorialish and score >= editorial_floor)
+                or (titled_event and score >= titled_floor)
+            ):
                 continue
         if score < 28:
             continue
@@ -472,7 +538,99 @@ def merge_and_score(
             e.title.lower(),
         )
     )
-    return events
+    return balance_feed_diversity(events)
+
+
+SOURCE_CAPS: dict[str, int] = {
+    "backgammon_society": 2,
+    "backgammon_social_miami": 2,
+    "faena": 3,
+    "luma_miami": 3,
+    "nite_owl": 1,
+    "resy_experiences": 6,
+}
+
+EDITORIAL_SOURCES = {
+    "haute_living",
+    "world_red_eye",
+    "eater_miami",
+    "miami_new_times_food",
+    "infatuation_miami",
+    "pr_newswire_miami",
+    "timeout_miami_food",
+    "eventbrite_miami_food",
+    "localwineevents_miami",
+    "luma_culinary_miami",
+    "resy_miami_watch",
+    "resy_experiences",
+}
+
+
+def balance_feed_diversity(events: list[Event], *, default_cap: int = 5) -> list[Event]:
+    """Keep the published feed city-wide — not one venue or series dominating."""
+    picked: list[Event] = []
+    per_source: dict[str, int] = {}
+    per_industry: dict[str, int] = {}
+    seen_title_prefix: set[str] = set()
+
+    def title_prefix(title: str) -> str:
+        t = re.sub(r"\s+", " ", (title or "").strip().lower())
+        return t[:42]
+
+    # Soft industry caps — culinary gets more room (chef dinners are the product).
+    industry_caps = {
+        "culinary": 10,
+        "sports": 6,
+        "hospitality": 7,
+        "real_estate": 5,
+        "art_fashion": 5,
+    }
+
+    for event in events:
+        sid = event.source_id or ""
+        cap = SOURCE_CAPS.get(sid, default_cap)
+        if per_source.get(sid, 0) >= cap:
+            continue
+        prefix = title_prefix(event.title)
+        series_key = f"{sid}:{prefix}"
+        if series_key in seen_title_prefix and sid in SOURCE_CAPS:
+            continue
+        industry = event.industry or "hospitality"
+        ind_cap = industry_caps.get(industry, 8)
+        if per_industry.get(industry, 0) >= ind_cap and sid not in EDITORIAL_SOURCES:
+            continue
+        picked.append(event)
+        per_source[sid] = per_source.get(sid, 0) + 1
+        per_industry[industry] = per_industry.get(industry, 0) + 1
+        seen_title_prefix.add(series_key)
+
+    # Guarantee culinary / art / RE / sports representation when available
+    for want_industry, want_n in (
+        ("culinary", 5),
+        ("hospitality", 2),
+        ("sports", 1),
+        ("art_fashion", 1),
+        ("real_estate", 2),
+    ):
+        have = sum(1 for e in picked if e.industry == want_industry)
+        if have >= want_n:
+            continue
+        for extra in events:
+            if extra.industry != want_industry or extra in picked:
+                continue
+            picked.append(extra)
+            have += 1
+            if have >= want_n:
+                break
+
+    picked.sort(
+        key=lambda e: (
+            -(e.score),
+            e.starts_at or "9999",
+            e.title.lower(),
+        )
+    )
+    return picked
 
 
 def build_feed(
