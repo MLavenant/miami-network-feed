@@ -12,7 +12,15 @@ LUXURY_TERMS = re.compile(
     r"haut[e]? living|purple|groot|bottle service|vip|gala|black[- ]tie|"
     r"cocktail|reception|premiere|avant[- ]premiere|opening night|"
     r"art basel|design miami|paraiso|fashion week|sobewff|boat show|"
-    r"yacht|private dinner|chef.?s table|members? only|invitation)\b",
+    r"yacht|private dinner|chef.?s table|members? only|invitation|"
+    r"collab|collaboration|omakase|pop[- ]?up|guest chef|supper club|"
+    r"mandolin|resy|industry night)\b",
+    re.I,
+)
+
+CULINARY_TERMS = re.compile(
+    r"\b(chef|culinary|restaurant|dinner|tasting|wine dinner|brunch|"
+    r"sobewff|food & wine|hospitality|kitchen|omakase|collab)\b",
     re.I,
 )
 
@@ -78,6 +86,17 @@ SOURCE_WEIGHT = {
     "ahla": 16,
     "sobewff_ics": 24,
     "luma_miami": 16,
+    "luma_culinary_miami": 24,
+    "eater_miami": 20,
+    "miami_new_times_food": 18,
+    "infatuation_miami": 18,
+    "timeout_miami_food": 18,
+    "eventbrite_miami_food": 20,
+    "mandolin_aegean": 26,
+    "localwineevents_miami": 24,
+    "cote_miami": 24,
+    "resy_miami_watch": 22,
+    "resy_experiences": 28,
     "world_red_eye": 8,
     "pr_newswire_miami": 12,
     "groot_purple": 18,
@@ -92,11 +111,15 @@ def score_event(raw: RawEvent, now: datetime | None = None) -> tuple[int, float,
 
     lux_hits = len(LUXURY_TERMS.findall(blob))
     net_hits = len(NETWORK_TERMS.findall(blob))
+    food_hits = len(CULINARY_TERMS.findall(blob))
     score += min(30, lux_hits * 8)
     score += min(18, net_hits * 6)
+    score += min(16, food_hits * 7)
 
     if raw.industry in ("hospitality", "sports", "real_estate", "culinary", "art_fashion"):
         score += 8
+    if raw.industry == "culinary" or "culinary" in (raw.categories or []):
+        score += 10  # Prefer chef dinners / tastings over hotel calendar filler
 
     if raw.access in ("invitation-only", "members", "press"):
         score += 10
@@ -161,6 +184,8 @@ def _why(raw: RawEvent, lux_hits: int, net_hits: int) -> str:
         bits.append("Early editorial signal from Haute Living")
     elif raw.source_id == "world_red_eye":
         bits.append("World Red Eye coverage (often same-day / post-event)")
+    elif raw.source_id == "resy_experiences":
+        bits.append("Listed on Resy Experiences — book before hotel calendars catch it")
     else:
         bits.append(f"From {raw.source_name}")
 
