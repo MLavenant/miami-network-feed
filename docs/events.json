@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-14T18:16:34.256034+00:00",
+  "generated_at": "2026-09-21T18:23:36.334254+00:00",
   "timezone": "America/New_York",
   "version": 1,
-  "event_count": 20,
+  "event_count": 19,
   "industries": [
     "hospitality",
     "sports",
@@ -336,26 +336,6 @@
       "basis": "Public caption or professional role text; no face recognition or private contact data."
     },
     {
-      "id": "59c71a66080637b8",
-      "name": "Elena Lee",
-      "role": "Recurring name in curated event coverage",
-      "organization": "Miami luxury and industry network",
-      "industry": "hospitality",
-      "priority": 69,
-      "mentions": 14,
-      "event_count": 1,
-      "why_connect": "Published in 14 World Red Eye caption(s) across 1 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
-      "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
-      "source_name": "World Red Eye",
-      "source_urls": [
-        "https://worldredeye.com/2026/09/meet-the-woman-making-performance-iconique/"
-      ],
-      "event_titles": [
-        "Q&A: Meet the Woman Making Performance Iconique"
-      ],
-      "basis": "Public caption or professional role text; no face recognition or private contact data."
-    },
-    {
       "id": "83fc295b8fe006a7",
       "name": "Russell Galbut",
       "role": "Recurring name in curated event coverage",
@@ -574,179 +554,35 @@
         "World Red Eye Preview Dinner Hosted by Seth Browarnik at Gigi Rigolatto Celebrating Delano"
       ],
       "basis": "Public caption or professional role text; no face recognition or private contact data."
+    },
+    {
+      "id": "42dd1bc65e3f9c5c",
+      "name": "Nathan Lieberman",
+      "role": "Recurring name in curated event coverage",
+      "organization": "Miami luxury and industry network",
+      "industry": "hospitality",
+      "priority": 64,
+      "mentions": 7,
+      "event_count": 1,
+      "why_connect": "Published in 7 World Red Eye caption(s) across 1 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
+      "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
+      "source_name": "World Red Eye",
+      "source_urls": [
+        "https://worldredeye.com/2026/05/world-red-eye-preview-dinner-hosted-by-seth-browarnik-at-gigi-rigolatto-celebrating-delano/"
+      ],
+      "event_titles": [
+        "World Red Eye Preview Dinner Hosted by Seth Browarnik at Gigi Rigolatto Celebrating Delano"
+      ],
+      "basis": "Public caption or professional role text; no face recognition or private contact data."
     }
   ],
   "events": [
     {
-      "id": "0dcc723ee9285d948276dcba9f258ae7cf6914b3",
-      "title": "Pasta Omakase",
-      "summary": "Pasta Omakase continues! A collection of specialty crudos and pastas. Brought to you by chefs Mike Pirolo & Trevor Zwaan.\n\nBar seating only. Begins promptly at 6:30 PM. We are unfortunately not able to modify this menu.",
-      "starts_at": "2026-09-16T18:30:00-04:00",
-      "ends_at": "2026-09-16T19:00:00-04:00",
-      "all_day": false,
-      "venue": "Macchialina Taverna Rustica",
-      "neighborhood": "Miami Beach",
-      "city": "Miami Beach",
-      "url": "https://resy.com/cities/miami-fl/events/pasta-omakase-2026-09-16-6",
-      "rsvp_url": "https://resy.com/cities/miami-fl/events/pasta-omakase-2026-09-16-6",
-      "image_url": "https://image.resy.com/3/003/2/8803/de992a4178d659c1ef8f29c4ac8143dd35af4553/jpg/640x360",
-      "access": "registration",
-      "industry": "culinary",
-      "categories": [
-        "culinary",
-        "hospitality"
-      ],
-      "access_tip": "Book on Resy as soon as listings drop — guest-chef nights often sell out the same week.",
-      "contact_url": "https://resy.com/cities/miami-fl/events",
-      "contact_email": null,
-      "ask_for": "Restaurant events team via Resy",
-      "score": 100,
-      "confidence": 0.9,
-      "why_it_matters": "Listed on Resy Experiences — book before hotel calendars catch it — luxury / hospitality keywords — at Macchialina Taverna Rustica",
-      "source_id": "resy_experiences",
-      "source_name": "Resy Experiences · Miami",
-      "source_url": "https://resy.com/cities/miami-fl/events",
-      "first_seen_at": "2026-09-13T22:12:28.214112+00:00",
-      "last_seen_at": "2026-09-14T18:16:24.003949+00:00",
-      "lead_hours": 72,
-      "source_trail": [
-        {
-          "source_id": "resy_experiences",
-          "source_name": "Resy Experiences · Miami",
-          "seen_at": "2026-09-13T22:12:28.214112+00:00",
-          "url": "https://resy.com/cities/miami-fl/events/pasta-omakase-2026-09-16-6"
-        }
-      ]
-    },
-    {
-      "id": "410902c9b423c9e8491a423d9a14d5d7801a1685",
-      "title": "Torno Subito Wine Society – Marcarini",
-      "summary": "Join us for the inaugural Torno Subito Wine Society, an intimate dinner celebrating the people, places, and stories behind some of Italy’s finest wines.\n\n\n\nFor its first edition, Torno Subito welcomes Manuel Marchetti, owner of Marcarini, the historic family-owned winery in the heart of Piedmont’s Barolo region.\n\n\n\nLimited to just 18 guests, the evening features a six-course tasting menu by Chef Bernardo Paladini, paired with a curated selection of Marcarini wines, with Manuel guiding guests thr",
-      "starts_at": "2026-09-17T19:00:00-04:00",
-      "ends_at": "2026-09-17T22:00:00-04:00",
-      "all_day": false,
-      "venue": "Torno Subito",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://resy.com/cities/miami-fl/events/torno-subito-wine-society-marcarini-2026-09-17-6",
-      "rsvp_url": "https://resy.com/cities/miami-fl/events/torno-subito-wine-society-marcarini-2026-09-17-6",
-      "image_url": "https://image.resy.com/3/003/2/94271/d848843c1ccb454b891a2ebdea0dbe5745dabda0/jpg/640x360",
-      "access": "registration",
-      "industry": "culinary",
-      "categories": [
-        "culinary",
-        "hospitality"
-      ],
-      "access_tip": "Book on Resy as soon as listings drop — guest-chef nights often sell out the same week.",
-      "contact_url": "https://resy.com/cities/miami-fl/events",
-      "contact_email": null,
-      "ask_for": "Restaurant events team via Resy",
-      "score": 100,
-      "confidence": 0.9,
-      "why_it_matters": "Listed on Resy Experiences — book before hotel calendars catch it — luxury / hospitality keywords — at Torno Subito",
-      "source_id": "resy_experiences",
-      "source_name": "Resy Experiences · Miami",
-      "source_url": "https://resy.com/cities/miami-fl/events",
-      "first_seen_at": "2026-09-13T22:12:28.214150+00:00",
-      "last_seen_at": "2026-09-14T18:16:24.003949+00:00",
-      "lead_hours": 96,
-      "source_trail": [
-        {
-          "source_id": "resy_experiences",
-          "source_name": "Resy Experiences · Miami",
-          "seen_at": "2026-09-13T22:12:28.214150+00:00",
-          "url": "https://resy.com/cities/miami-fl/events/torno-subito-wine-society-marcarini-2026-09-17-6"
-        }
-      ]
-    },
-    {
-      "id": "8eb0515744065cb687e116b991d0bf90cc58da63",
-      "title": "1 Hotel Austin Opening Cocktail: ATX RANCH WATR",
-      "summary": "Mon 14 Sep South Beach Drift 1 Hotel Austin Opening Cocktail: ATX RANCH WATR Month of September",
-      "starts_at": "2026-09-20T12:00:00-04:00",
-      "ends_at": null,
-      "all_day": false,
-      "venue": "Drift",
-      "neighborhood": "Miami Beach",
-      "city": "Miami Beach",
-      "url": "https://www.1hotels.com/south-beach/do/events/1-hotel-austin-opening-cocktail-atx-ranch-watr",
-      "rsvp_url": "https://www.1hotels.com/south-beach/do/events/1-hotel-austin-opening-cocktail-atx-ranch-watr",
-      "image_url": null,
-      "access": "public",
-      "industry": "hospitality",
-      "categories": [
-        "hospitality",
-        "luxury"
-      ],
-      "access_tip": "Use the booking link on the official happening. Event planners can join the official Gathering Together invitation list.",
-      "contact_url": "https://www.1hotels.com/gather/email-signup",
-      "contact_email": null,
-      "ask_for": "1 Hotel South Beach Concierge or 1 Club Member Services",
-      "score": 100,
-      "confidence": 0.98,
-      "why_it_matters": "From 1 Hotel South Beach — luxury + networking keywords — at Drift",
-      "source_id": "one_hotel_south_beach",
-      "source_name": "1 Hotel South Beach",
-      "source_url": "https://www.1hotels.com/south-beach/do/events",
-      "first_seen_at": "2026-09-13T22:12:23.430940+00:00",
-      "last_seen_at": "2026-09-14T18:16:24.003949+00:00",
-      "lead_hours": 161,
-      "source_trail": [
-        {
-          "source_id": "one_hotel_south_beach",
-          "source_name": "1 Hotel South Beach",
-          "seen_at": "2026-09-13T22:12:23.430940+00:00",
-          "url": "https://www.1hotels.com/south-beach/do/events/1-hotel-austin-opening-cocktail-atx-ranch-watr"
-        }
-      ]
-    },
-    {
-      "id": "034e651a052b343316b94c200dfbd344bae6927e",
-      "title": "Mandolin X Ezio's X Natoora",
-      "summary": "Mandolin, Ezio’s, and Natoora come together for a one-day collaboration lunch celebrating seasonal ingredients and thoughtful, produce-driven cooking. Expect a five-course family-style menu built around the season’s best, featuring Happy Valley meat, paired with wine.\n\nEzio’s brings the Roberta’s team’s celebrated culinary point of view to Miami, helmed by chef Carlo Mirarchi — known for ingredient-driven cooking with real technical chops. Expect that same seasonal, purveyor-first sensibility on",
-      "starts_at": "2026-09-20T12:30:00-04:00",
-      "ends_at": "2026-09-20T15:30:00-04:00",
-      "all_day": false,
-      "venue": "Mandolin Aegean Bistro Miami",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://resy.com/cities/miami-fl/events/mandolin-x-ezio-s-x-natoora-2026-09-20-6",
-      "rsvp_url": "https://resy.com/cities/miami-fl/events/mandolin-x-ezio-s-x-natoora-2026-09-20-6",
-      "image_url": "https://image.resy.com/3/003/2/9999/414313f5804c018e3fc8ed2ebc6ec71616926e19/jpg/640x360",
-      "access": "registration",
-      "industry": "culinary",
-      "categories": [
-        "culinary",
-        "hospitality"
-      ],
-      "access_tip": "Book on Resy as soon as listings drop — guest-chef nights often sell out the same week.",
-      "contact_url": "https://resy.com/cities/miami-fl/events",
-      "contact_email": null,
-      "ask_for": "Restaurant events team via Resy",
-      "score": 100,
-      "confidence": 0.9,
-      "why_it_matters": "Listed on Resy Experiences — book before hotel calendars catch it — luxury / hospitality keywords — at Mandolin Aegean Bistro Miami",
-      "source_id": "resy_experiences",
-      "source_name": "Resy Experiences · Miami",
-      "source_url": "https://resy.com/cities/miami-fl/events",
-      "first_seen_at": "2026-09-13T22:12:28.214216+00:00",
-      "last_seen_at": "2026-09-14T18:16:24.003949+00:00",
-      "lead_hours": 162,
-      "source_trail": [
-        {
-          "source_id": "resy_experiences",
-          "source_name": "Resy Experiences · Miami",
-          "seen_at": "2026-09-13T22:12:28.214216+00:00",
-          "url": "https://resy.com/cities/miami-fl/events/mandolin-x-ezio-s-x-natoora-2026-09-20-6"
-        }
-      ]
-    },
-    {
       "id": "652e5d788ede5e28aab6753645cdd875097793df",
       "title": "Macch x CNO",
       "summary": "Macchialina x CNO\n\nCollaborating with Chef Zach and Chef Berry from Chef's Night Off! Chef's Night Off is a Monday night dinner series that emphasizes hyper-local and hyper-seasonal products, aiming to feed industry professionals, locals, and well-informed visitors the best produce and proteins sourced in South Florida.",
-      "starts_at": "2026-09-21T18:00:00-04:00",
-      "ends_at": "2026-09-21T19:30:00-04:00",
+      "starts_at": "2026-09-21T18:15:00-04:00",
+      "ends_at": "2026-09-21T19:45:00-04:00",
       "all_day": false,
       "venue": "Macchialina Taverna Rustica",
       "neighborhood": "Miami Beach",
@@ -771,8 +607,8 @@
       "source_name": "Resy Experiences · Miami",
       "source_url": "https://resy.com/cities/miami-fl/events",
       "first_seen_at": "2026-09-13T22:12:28.214245+00:00",
-      "last_seen_at": "2026-09-14T18:16:24.003949+00:00",
-      "lead_hours": 191,
+      "last_seen_at": "2026-09-21T18:23:23.688969+00:00",
+      "lead_hours": 192,
       "source_trail": [
         {
           "source_id": "resy_experiences",
@@ -783,18 +619,18 @@
       ]
     },
     {
-      "id": "b36d9bb5d70da3bc99e6a32baaedebb50edab896",
-      "title": "Bruno Giacosa Wine Dinner",
-      "summary": "Carbone VINO in Miami is pleased to partner with Bruno Giacosa - featuring the 1998 vintage of single vineyard Rabajà from Barbaresco and Falletto from Barolo. The four-course dinner will feature Carbone’s VINO's most popular dishes paired with a vertical of some of the estates' single vineyard wines going back to the 1998 vintage. All starting with canapés and a Champagne reception. The ticket price includes food and wine. Tax and gratuity are additional.\n\nAll guests will be seated in the VINO ",
-      "starts_at": "2026-10-01T18:30:00-04:00",
-      "ends_at": "2026-10-01T20:00:00-04:00",
+      "id": "4a48459f3b4aa596d1de8b9f1d9bdd09f4f4b106",
+      "title": "Pasta Omakase",
+      "summary": "Pasta Omakase continues! A collection of specialty crudos and pastas. Brought to you by chefs Mike Pirolo & Trevor Zwaan.\n\nBar seating only. Begins promptly at 6:30 PM. We are unfortunately not able to modify this menu.",
+      "starts_at": "2026-09-23T18:30:00-04:00",
+      "ends_at": "2026-09-23T19:00:00-04:00",
       "all_day": false,
-      "venue": "CARBONE VINO Coconut Grove",
-      "neighborhood": "Coconut Grove",
-      "city": "Miami",
-      "url": "https://resy.com/cities/miami-fl/events/bruno-giacosa-wine-dinner-2026-10-01-6",
-      "rsvp_url": "https://resy.com/cities/miami-fl/events/bruno-giacosa-wine-dinner-2026-10-01-6",
-      "image_url": "https://image.resy.com/3/003/2/86433/a244132034501584f6599f659c7fc7a03e33350b/jpg/640x360",
+      "venue": "Macchialina Taverna Rustica",
+      "neighborhood": "Miami Beach",
+      "city": "Miami Beach",
+      "url": "https://resy.com/cities/miami-fl/events/pasta-omakase-2026-09-23-6",
+      "rsvp_url": "https://resy.com/cities/miami-fl/events/pasta-omakase-2026-09-23-6",
+      "image_url": "https://image.resy.com/3/003/2/8803/de992a4178d659c1ef8f29c4ac8143dd35af4553/jpg/640x360",
       "access": "registration",
       "industry": "culinary",
       "categories": [
@@ -807,35 +643,35 @@
       "ask_for": "Restaurant events team via Resy",
       "score": 100,
       "confidence": 0.9,
-      "why_it_matters": "Listed on Resy Experiences — book before hotel calendars catch it — luxury / hospitality keywords — at CARBONE VINO Coconut Grove",
+      "why_it_matters": "Listed on Resy Experiences — book before hotel calendars catch it — luxury / hospitality keywords — at Macchialina Taverna Rustica",
       "source_id": "resy_experiences",
       "source_name": "Resy Experiences · Miami",
       "source_url": "https://resy.com/cities/miami-fl/events",
-      "first_seen_at": "2026-09-13T22:12:28.214465+00:00",
-      "last_seen_at": "2026-09-14T18:16:24.003949+00:00",
-      "lead_hours": 432,
+      "first_seen_at": "2026-09-21T18:23:08.186972+00:00",
+      "last_seen_at": "2026-09-21T18:23:23.688969+00:00",
+      "lead_hours": 52,
       "source_trail": [
         {
           "source_id": "resy_experiences",
           "source_name": "Resy Experiences · Miami",
-          "seen_at": "2026-09-13T22:12:28.214465+00:00",
-          "url": "https://resy.com/cities/miami-fl/events/bruno-giacosa-wine-dinner-2026-10-01-6"
+          "seen_at": "2026-09-21T18:23:08.186972+00:00",
+          "url": "https://resy.com/cities/miami-fl/events/pasta-omakase-2026-09-23-6"
         }
       ]
     },
     {
-      "id": "06c2494f427d5b864df3ae65b231cf26ef624ad7",
-      "title": "AVIV Hummus Making Class",
-      "summary": "Join us for an intimate Hummus Making Class led by Chef De Cuisine Moritz in AVIV. Learn the art of crafting our signature hummus step by step, paired with curated sips and chef-selected AVIV bites.\n\n\n\nTicket Includes:\n\n**Hummus-making demonstration**\n\n**Choice of one AVIV cocktail or mocktail**\n\n**Tasting of chef-selected bites:**\n\n*- Hummus Tehina: Whipped Herb Tehina, Paprika, Extra Virgin Olive Oil*\n\n*- House Made Saluf Bread*\n\n*- Salatim: Beets with Tehina, Cannellini and Corn, Cabbage with",
-      "starts_at": "2026-10-29T18:00:00-04:00",
-      "ends_at": "2026-10-29T19:00:00-04:00",
+      "id": "b80043ad18fd9fe32b13860afd61481d4e1706fe",
+      "title": "Catena Zapata Dinner with winemaker “Nesti”",
+      "summary": "Join us for an exclusive evening with winemaker Ernesto ‘Nesti’ Bajda of Argentina’s famed Catena Zapata winery. This one-of-a-kind dining experience pairs our signature Butcher's Feast® with an extraordinary lineup of world-class wines. Guests will enjoy a curated vertical tasting of rare back vintages and exclusive cellar selections brought straight from the winery’s personal vault in Mendoza. Don’t miss this rare opportunity to taste history and explore the depth of high-altitude Argentine te",
+      "starts_at": "2026-09-23T19:00:00-04:00",
+      "ends_at": "2026-09-23T22:00:00-04:00",
       "all_day": false,
-      "venue": "AVIV",
-      "neighborhood": "Miami Beach",
-      "city": "Miami Beach",
-      "url": "https://resy.com/cities/miami-fl/events/aviv-hummus-making-class-2026-10-29-6",
-      "rsvp_url": "https://resy.com/cities/miami-fl/events/aviv-hummus-making-class-2026-10-29-6",
-      "image_url": "https://image.resy.com/3/003/2/87357/87e911dadd7d37e365a9bd09b232355e7d2b7582/jpg/640x360",
+      "venue": "COTE Miami",
+      "neighborhood": "Miami",
+      "city": "Miami",
+      "url": "https://resy.com/cities/miami-fl/events/catena-zapata-dinner-with-winemaker-ernesto-nesti-bajda-2026-09-23-6",
+      "rsvp_url": "https://resy.com/cities/miami-fl/events/catena-zapata-dinner-with-winemaker-ernesto-nesti-bajda-2026-09-23-6",
+      "image_url": "https://image.resy.com/3/003/2/72270/9e0cb07e890f32bbbdf9cdeb9329d783078012d0/jpg/640x360",
       "access": "registration",
       "industry": "culinary",
       "categories": [
@@ -848,19 +684,142 @@
       "ask_for": "Restaurant events team via Resy",
       "score": 100,
       "confidence": 0.9,
-      "why_it_matters": "Listed on Resy Experiences — book before hotel calendars catch it — luxury / hospitality keywords — at AVIV",
+      "why_it_matters": "Listed on Resy Experiences — book before hotel calendars catch it — luxury / hospitality keywords — at COTE Miami",
       "source_id": "resy_experiences",
       "source_name": "Resy Experiences · Miami",
       "source_url": "https://resy.com/cities/miami-fl/events",
-      "first_seen_at": "2026-09-13T22:12:28.214498+00:00",
-      "last_seen_at": "2026-09-14T18:16:24.003949+00:00",
-      "lead_hours": 1103,
+      "first_seen_at": "2026-09-21T18:23:08.186996+00:00",
+      "last_seen_at": "2026-09-21T18:23:23.688969+00:00",
+      "lead_hours": 52,
       "source_trail": [
         {
           "source_id": "resy_experiences",
           "source_name": "Resy Experiences · Miami",
-          "seen_at": "2026-09-13T22:12:28.214498+00:00",
-          "url": "https://resy.com/cities/miami-fl/events/aviv-hummus-making-class-2026-10-29-6"
+          "seen_at": "2026-09-21T18:23:08.186996+00:00",
+          "url": "https://resy.com/cities/miami-fl/events/catena-zapata-dinner-with-winemaker-ernesto-nesti-bajda-2026-09-23-6"
+        }
+      ]
+    },
+    {
+      "id": "989878d1cfd258f7d20ab270b5e7a42faecc034f",
+      "title": "Exclusive Wine Tasting Experience: The Classic",
+      "summary": "*Exclusive Wine Tasting Experience: The Classic – $135++*\n*Discover curated wines in a sommelier-guided tasting at Hakkasan’s wine cellar counter. Perfect for curious enthusiasts, this experience includes a welcome sparkling pour and an interactive journey through four unique wines. Each is paired with refined small bites like almond prawns and smoked beef short ribs. A multi-sensory journey of flavor, aroma, and texture.*",
+      "starts_at": "2026-09-25T15:00:00-04:00",
+      "ends_at": "2026-09-25T16:30:00-04:00",
+      "all_day": false,
+      "venue": "Hakkasan Miami",
+      "neighborhood": "Miami",
+      "city": "Miami",
+      "url": "https://resy.com/cities/miami-fl/events/exclusive-wine-tasting-experience-the-classic-2026-09-25-6",
+      "rsvp_url": "https://resy.com/cities/miami-fl/events/exclusive-wine-tasting-experience-the-classic-2026-09-25-6",
+      "image_url": "https://image.resy.com/3/003/2/93714/3a62529ac81adbb946f1fecabe4cddca1a912523/jpg/640x360",
+      "access": "registration",
+      "industry": "culinary",
+      "categories": [
+        "culinary",
+        "hospitality"
+      ],
+      "access_tip": "Book on Resy as soon as listings drop — guest-chef nights often sell out the same week.",
+      "contact_url": "https://resy.com/cities/miami-fl/events",
+      "contact_email": null,
+      "ask_for": "Restaurant events team via Resy",
+      "score": 100,
+      "confidence": 0.9,
+      "why_it_matters": "Listed on Resy Experiences — book before hotel calendars catch it — luxury / hospitality keywords — at Hakkasan Miami",
+      "source_id": "resy_experiences",
+      "source_name": "Resy Experiences · Miami",
+      "source_url": "https://resy.com/cities/miami-fl/events",
+      "first_seen_at": "2026-09-21T18:23:08.187068+00:00",
+      "last_seen_at": "2026-09-21T18:23:23.688969+00:00",
+      "lead_hours": 96,
+      "source_trail": [
+        {
+          "source_id": "resy_experiences",
+          "source_name": "Resy Experiences · Miami",
+          "seen_at": "2026-09-21T18:23:08.187068+00:00",
+          "url": "https://resy.com/cities/miami-fl/events/exclusive-wine-tasting-experience-the-classic-2026-09-25-6"
+        }
+      ]
+    },
+    {
+      "id": "6a8a79db25fa1a4dbf761e81f1c7e9d2e07d586f",
+      "title": "Exclusive Wine Tasting Experience: The Reserve",
+      "summary": "*Exclusive Wine Tasting Experience: The Reserve – $275++*\n\n*Broaden your palate with premium wines and pairings in Hakkasan’s immersive tasting counter. Designed for seasoned wine lovers, this experience features a champagne welcome, four premium pours from around the world, a dessert wine, elevated culinary pairings, and personalized tasting notes. An interactive experience that brings depth and nuance to each of your senses. Includes valet.*",
+      "starts_at": "2026-09-25T16:00:00-04:00",
+      "ends_at": "2026-09-25T17:30:00-04:00",
+      "all_day": false,
+      "venue": "Hakkasan Miami",
+      "neighborhood": "Miami",
+      "city": "Miami",
+      "url": "https://resy.com/cities/miami-fl/events/exclusive-wine-tasting-experience-the-reserve-2026-09-25-7",
+      "rsvp_url": "https://resy.com/cities/miami-fl/events/exclusive-wine-tasting-experience-the-reserve-2026-09-25-7",
+      "image_url": "https://image.resy.com/3/003/2/93714/3a62529ac81adbb946f1fecabe4cddca1a912523/jpg/640x360",
+      "access": "registration",
+      "industry": "culinary",
+      "categories": [
+        "culinary",
+        "hospitality"
+      ],
+      "access_tip": "Book on Resy as soon as listings drop — guest-chef nights often sell out the same week.",
+      "contact_url": "https://resy.com/cities/miami-fl/events",
+      "contact_email": null,
+      "ask_for": "Restaurant events team via Resy",
+      "score": 100,
+      "confidence": 0.9,
+      "why_it_matters": "Listed on Resy Experiences — book before hotel calendars catch it — luxury / hospitality keywords — at Hakkasan Miami",
+      "source_id": "resy_experiences",
+      "source_name": "Resy Experiences · Miami",
+      "source_url": "https://resy.com/cities/miami-fl/events",
+      "first_seen_at": "2026-09-21T18:23:08.187089+00:00",
+      "last_seen_at": "2026-09-21T18:23:23.688969+00:00",
+      "lead_hours": 97,
+      "source_trail": [
+        {
+          "source_id": "resy_experiences",
+          "source_name": "Resy Experiences · Miami",
+          "seen_at": "2026-09-21T18:23:08.187089+00:00",
+          "url": "https://resy.com/cities/miami-fl/events/exclusive-wine-tasting-experience-the-reserve-2026-09-25-7"
+        }
+      ]
+    },
+    {
+      "id": "ee4b6c4ace1191b563cd410f9833910efb6e12a0",
+      "title": "Exclusive Wine Tasting Experience: The Grand Cru",
+      "summary": "*Exclusive Wine Tasting Experience: The Grand Cru – $475++*\n\n*Our sommelier’s finest selection of rare and limited-production vintages, experienced at the counter of Hakkasan’s secluded wine cellar. This pinnacle of tasting experiences offers vintage champagne, five rare wines, chef-elevated pairings including Wagyu A5 and caviar, and dessert.  A luxurious, multi-sensory immersion in rarity, refinement, and resonance. Includes valet.*",
+      "starts_at": "2026-09-25T17:00:00-04:00",
+      "ends_at": "2026-09-25T18:30:00-04:00",
+      "all_day": false,
+      "venue": "Hakkasan Miami",
+      "neighborhood": "Miami",
+      "city": "Miami",
+      "url": "https://resy.com/cities/miami-fl/events/exclusive-wine-tasting-experience-the-grand-cru-2026-09-25-8",
+      "rsvp_url": "https://resy.com/cities/miami-fl/events/exclusive-wine-tasting-experience-the-grand-cru-2026-09-25-8",
+      "image_url": "https://image.resy.com/3/003/2/93714/3a62529ac81adbb946f1fecabe4cddca1a912523/jpg/640x360",
+      "access": "registration",
+      "industry": "culinary",
+      "categories": [
+        "culinary",
+        "hospitality"
+      ],
+      "access_tip": "Book on Resy as soon as listings drop — guest-chef nights often sell out the same week.",
+      "contact_url": "https://resy.com/cities/miami-fl/events",
+      "contact_email": null,
+      "ask_for": "Restaurant events team via Resy",
+      "score": 100,
+      "confidence": 0.9,
+      "why_it_matters": "Listed on Resy Experiences — book before hotel calendars catch it — luxury / hospitality keywords — at Hakkasan Miami",
+      "source_id": "resy_experiences",
+      "source_name": "Resy Experiences · Miami",
+      "source_url": "https://resy.com/cities/miami-fl/events",
+      "first_seen_at": "2026-09-21T18:23:08.187136+00:00",
+      "last_seen_at": "2026-09-21T18:23:23.688969+00:00",
+      "lead_hours": 98,
+      "source_trail": [
+        {
+          "source_id": "resy_experiences",
+          "source_name": "Resy Experiences · Miami",
+          "seen_at": "2026-09-21T18:23:08.187136+00:00",
+          "url": "https://resy.com/cities/miami-fl/events/exclusive-wine-tasting-experience-the-grand-cru-2026-09-25-8"
         }
       ]
     },
@@ -895,7 +854,7 @@
       "source_name": "The Setai Miami Beach",
       "source_url": "https://www.thesetaihotel.com/miami-beach-restaurants/jaya",
       "first_seen_at": "2026-09-13T22:12:24.185758+00:00",
-      "last_seen_at": "2026-09-14T18:16:24.003949+00:00",
+      "last_seen_at": "2026-09-21T18:23:23.688969+00:00",
       "lead_hours": null,
       "source_trail": [
         {
@@ -907,44 +866,43 @@
       ]
     },
     {
-      "id": "98d57ebfdabfc50d4f7d97d616b360b2c6aa57dc",
-      "title": "NMG Growth Circle Dinner (Women Only)",
-      "summary": "",
-      "starts_at": "2026-09-20T19:00:00-04:00",
-      "ends_at": "2026-09-20T21:00:00-04:00",
+      "id": "f639c6c415e8f71cd424c2ba3bed81e43de6c68a",
+      "title": "Acqualina Resort & Residences to Host the 31st Annual “I Have a Dream” Foundation Miami Gala",
+      "summary": "Acqualina Resort hosts the 31st \"I Have a Dream\" Foundation Miami Gala on October 29, 2026 in Aventura. Tickets start at $500. The post Acqualina Resort & Residences to Host the 31st Annual “I Have a Dream” Foundation Miami Gala appeared first on Haute Living .",
+      "starts_at": null,
+      "ends_at": null,
       "all_day": false,
-      "venue": "dōma",
+      "venue": "",
       "neighborhood": "Miami",
       "city": "Miami",
-      "url": "https://luma.com/8j3e5lfs",
-      "rsvp_url": "https://luma.com/8j3e5lfs",
-      "image_url": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/uploads/jq/2a3dc2f8-8280-41f7-bbec-8221edfa368d.png",
-      "access": "public",
-      "industry": "culinary",
+      "url": "https://hauteliving.com/2026/09/acqualina-resort-residences-to-host-the-31st-annual-i-have-a-dream-foundation-miami-gala/796599/",
+      "rsvp_url": "https://hauteliving.com/2026/09/acqualina-resort-residences-to-host-the-31st-annual-i-have-a-dream-foundation-miami-gala/796599/",
+      "image_url": null,
+      "access": "registration",
+      "industry": "hospitality",
       "categories": [
-        "culinary",
-        "hospitality",
-        "networking"
+        "editorial",
+        "luxury"
       ],
-      "access_tip": "Chef collabs and restaurant pop-ups often sell out same-day — reserve on Luma or call the venue directly.",
-      "contact_url": null,
+      "access_tip": "Use the official RSVP link now; top-tier events often close registration before the event date.",
+      "contact_url": "https://hauteliving.com/2026/09/acqualina-resort-residences-to-host-the-31st-annual-i-have-a-dream-foundation-miami-gala/796599/",
       "contact_email": null,
-      "ask_for": "NMG - Events, New Miami Girls, Elen Boesing, Katalina Rodriguez",
-      "score": 88,
-      "confidence": 0.8,
-      "why_it_matters": "From Luma Miami · Food & Chef — at dōma",
-      "source_id": "luma_culinary_miami",
-      "source_name": "Luma Miami · Food & Chef",
-      "source_url": "https://luma.com/miami",
-      "first_seen_at": "2026-09-13T22:12:27.876501+00:00",
-      "last_seen_at": "2026-09-14T18:16:24.003949+00:00",
-      "lead_hours": 168,
+      "ask_for": "The named event host, brand publicist, or venue communications team in the source article",
+      "score": 82,
+      "confidence": 0.6,
+      "why_it_matters": "Early editorial signal from Haute Living — luxury / hospitality keywords",
+      "source_id": "haute_living",
+      "source_name": "Haute Living",
+      "source_url": "https://hauteliving.com/feed/",
+      "first_seen_at": "2026-09-21T18:23:03.205843+00:00",
+      "last_seen_at": "2026-09-21T18:23:23.688969+00:00",
+      "lead_hours": null,
       "source_trail": [
         {
-          "source_id": "luma_culinary_miami",
-          "source_name": "Luma Miami · Food & Chef",
-          "seen_at": "2026-09-13T22:12:27.876501+00:00",
-          "url": "https://luma.com/8j3e5lfs"
+          "source_id": "haute_living",
+          "source_name": "Haute Living",
+          "seen_at": "2026-09-21T18:23:03.205843+00:00",
+          "url": "https://hauteliving.com/2026/09/acqualina-resort-residences-to-host-the-31st-annual-i-have-a-dream-foundation-miami-gala/796599/"
         }
       ]
     },
@@ -979,7 +937,7 @@
       "source_name": "The Backgammon Society",
       "source_url": "https://www.thebackgammonsociety.com/",
       "first_seen_at": "2026-08-31T17:29:52.339038+00:00",
-      "last_seen_at": "2026-09-14T18:16:24.003949+00:00",
+      "last_seen_at": "2026-09-21T18:23:23.688969+00:00",
       "lead_hours": 1229,
       "source_trail": [
         {
@@ -991,18 +949,59 @@
       ]
     },
     {
-      "id": "f4d8b22cd2e0213d3a9de56e1905389df640eb07",
-      "title": "Backgammon Society — PRIVATE TOURNAMENT: SEIA",
-      "summary": "Official Backgammon Society Miami tournament at PRIVATE TOURNAMENT: SEIA.",
-      "starts_at": "2026-09-15T18:00:00-04:00",
+      "id": "ccb4bd421b77e3ce5322abca608e2ed4647a4802",
+      "title": "The 8 Negronis Redefining Miami’s Cocktail Scene",
+      "summary": "The best negronis in Miami right now, from a clarified mezcal variation at SEIA to a classic Italian pour at Le Specialità. The post The 8 Negronis Redefining Miami’s Cocktail Scene appeared first on Haute Living .",
+      "starts_at": null,
       "ends_at": null,
       "all_day": false,
-      "venue": "PRIVATE TOURNAMENT: SEIA",
+      "venue": "",
       "neighborhood": "Miami",
       "city": "Miami",
-      "url": "https://www.thebackgammonsociety.com/tournaments/miami/private-tournament-seia",
-      "rsvp_url": "https://www.thebackgammonsociety.com/tournaments/miami/private-tournament-seia",
-      "image_url": "https://budyxfmlimzpkgcjzmbi.supabase.co/storage/v1/object/public/tournament-images/c5b11f00-e43d-4108-a5b6-ecc15102c134/59c37e681e8472fc5208094fd6ed7702c1b903bb2f07f066dd0ab5ce6b7b50c5.jpg",
+      "url": "https://hauteliving.com/2026/09/the-8-negronis-redefining-miamis-cocktail-scene/796367/",
+      "rsvp_url": "https://hauteliving.com/2026/09/the-8-negronis-redefining-miamis-cocktail-scene/796367/",
+      "image_url": null,
+      "access": "public",
+      "industry": "hospitality",
+      "categories": [
+        "editorial",
+        "luxury"
+      ],
+      "access_tip": "Open the official source for current admission details. Reserve early if a booking option is shown.",
+      "contact_url": "https://hauteliving.com/2026/09/the-8-negronis-redefining-miamis-cocktail-scene/796367/",
+      "contact_email": null,
+      "ask_for": "The named event host, brand publicist, or venue communications team in the source article",
+      "score": 78,
+      "confidence": 0.6,
+      "why_it_matters": "Early editorial signal from Haute Living — luxury / hospitality keywords",
+      "source_id": "haute_living",
+      "source_name": "Haute Living",
+      "source_url": "https://hauteliving.com/feed/",
+      "first_seen_at": "2026-09-21T18:23:03.208538+00:00",
+      "last_seen_at": "2026-09-21T18:23:23.688969+00:00",
+      "lead_hours": null,
+      "source_trail": [
+        {
+          "source_id": "haute_living",
+          "source_name": "Haute Living",
+          "seen_at": "2026-09-21T18:23:03.208538+00:00",
+          "url": "https://hauteliving.com/2026/09/the-8-negronis-redefining-miamis-cocktail-scene/796367/"
+        }
+      ]
+    },
+    {
+      "id": "aaeeed0b210c108e6b8e48d08ea77c382fc0927e",
+      "title": "Backgammon Society — Soho House",
+      "summary": "Official Backgammon Society Miami tournament at Soho House.",
+      "starts_at": "2026-09-22T19:00:00-04:00",
+      "ends_at": null,
+      "all_day": false,
+      "venue": "Soho House",
+      "neighborhood": "Miami",
+      "city": "Miami",
+      "url": "https://www.thebackgammonsociety.com/tournaments/miami/soho-house-sept-22",
+      "rsvp_url": "https://www.thebackgammonsociety.com/tournaments/miami/soho-house-sept-22",
+      "image_url": "https://budyxfmlimzpkgcjzmbi.supabase.co/storage/v1/object/public/tournament-images/94a23a2e-498d-4ff6-96fb-487d3ee27995/1ba15bb9d1ac6aa021b8f16bc0b6a0d9b1e153a006c16f2715b844ffe91ef861.jpg",
       "access": "registration",
       "industry": "sports",
       "categories": [
@@ -1016,199 +1015,35 @@
       "ask_for": "The Backgammon Society Miami tournament host; for club venues, the venue membership or concierge team",
       "score": 74,
       "confidence": 0.8,
-      "why_it_matters": "From The Backgammon Society — at PRIVATE TOURNAMENT: SEIA",
+      "why_it_matters": "From The Backgammon Society — at Soho House",
       "source_id": "backgammon_society",
       "source_name": "The Backgammon Society",
       "source_url": "https://www.thebackgammonsociety.com/",
-      "first_seen_at": "2026-08-12T11:02:18.589351+00:00",
-      "last_seen_at": "2026-09-14T18:16:24.003949+00:00",
-      "lead_hours": 826,
+      "first_seen_at": "2026-09-21T18:23:13.558389+00:00",
+      "last_seen_at": "2026-09-21T18:23:23.688969+00:00",
+      "lead_hours": 28,
       "source_trail": [
         {
           "source_id": "backgammon_society",
           "source_name": "The Backgammon Society",
-          "seen_at": "2026-08-12T11:02:18.589351+00:00",
-          "url": "https://www.thebackgammonsociety.com/tournaments/miami/private-tournament-seia"
+          "seen_at": "2026-09-21T18:23:13.558389+00:00",
+          "url": "https://www.thebackgammonsociety.com/tournaments/miami/soho-house-sept-22"
         }
       ]
     },
     {
-      "id": "ee92aba1fb102f19bf51d8c2c0d182073b5641ec",
-      "title": "A Toast to Hispanic Heritage",
-      "summary": "Tue 15 Sep South Beach Drift A Toast to Hispanic Heritage September 15 - October 15",
-      "starts_at": "2026-09-20T12:00:00-04:00",
-      "ends_at": null,
-      "all_day": false,
-      "venue": "Drift",
-      "neighborhood": "Miami Beach",
-      "city": "Miami Beach",
-      "url": "https://www.1hotels.com/south-beach/do/events/a-toast-to-hispanic-heritage",
-      "rsvp_url": "https://www.1hotels.com/south-beach/do/events/a-toast-to-hispanic-heritage",
-      "image_url": null,
-      "access": "public",
-      "industry": "hospitality",
-      "categories": [
-        "hospitality",
-        "luxury"
-      ],
-      "access_tip": "Use the booking link on the official happening. Event planners can join the official Gathering Together invitation list.",
-      "contact_url": "https://www.1hotels.com/gather/email-signup",
-      "contact_email": null,
-      "ask_for": "1 Hotel South Beach Concierge or 1 Club Member Services",
-      "score": 72,
-      "confidence": 0.98,
-      "why_it_matters": "From 1 Hotel South Beach — luxury / hospitality keywords — at Drift",
-      "source_id": "one_hotel_south_beach",
-      "source_name": "1 Hotel South Beach",
-      "source_url": "https://www.1hotels.com/south-beach/do/events",
-      "first_seen_at": "2026-09-07T15:41:37.572925+00:00",
-      "last_seen_at": "2026-09-14T18:16:24.003949+00:00",
-      "lead_hours": 312,
-      "source_trail": [
-        {
-          "source_id": "one_hotel_south_beach",
-          "source_name": "1 Hotel South Beach",
-          "seen_at": "2026-09-07T15:41:37.572925+00:00",
-          "url": "https://www.1hotels.com/south-beach/do/events/a-toast-to-hispanic-heritage"
-        }
-      ]
-    },
-    {
-      "id": "5e7bc53ebf8fe19bebfcb108ef4d721af1faea02",
-      "title": "Clay Play with Erica Lores",
-      "summary": "Thu 17 Sep South Beach Ocean Terrace Clay Play with Erica Lores September 17",
-      "starts_at": "2026-09-20T12:00:00-04:00",
-      "ends_at": null,
-      "all_day": false,
-      "venue": "Ocean Terrace",
-      "neighborhood": "Miami Beach",
-      "city": "Miami Beach",
-      "url": "https://www.1hotels.com/south-beach/do/events/clay-play-2",
-      "rsvp_url": "https://www.1hotels.com/south-beach/do/events/clay-play-2",
-      "image_url": null,
-      "access": "public",
-      "industry": "hospitality",
-      "categories": [
-        "hospitality",
-        "luxury"
-      ],
-      "access_tip": "Use the booking link on the official happening. Event planners can join the official Gathering Together invitation list.",
-      "contact_url": "https://www.1hotels.com/gather/email-signup",
-      "contact_email": null,
-      "ask_for": "1 Hotel South Beach Concierge or 1 Club Member Services",
-      "score": 72,
-      "confidence": 0.98,
-      "why_it_matters": "From 1 Hotel South Beach — luxury / hospitality keywords — at Ocean Terrace",
-      "source_id": "one_hotel_south_beach",
-      "source_name": "1 Hotel South Beach",
-      "source_url": "https://www.1hotels.com/south-beach/do/events",
-      "first_seen_at": "2026-09-13T22:12:23.434140+00:00",
-      "last_seen_at": "2026-09-14T18:16:24.003949+00:00",
-      "lead_hours": 161,
-      "source_trail": [
-        {
-          "source_id": "one_hotel_south_beach",
-          "source_name": "1 Hotel South Beach",
-          "seen_at": "2026-09-13T22:12:23.434140+00:00",
-          "url": "https://www.1hotels.com/south-beach/do/events/clay-play-2"
-        }
-      ]
-    },
-    {
-      "id": "4846183798aa74e6e875cceb78d0b6bc4274f818",
-      "title": "Havana Nights",
-      "summary": "Fri 18 Sep South Beach Drift Havana Nights September 18",
-      "starts_at": "2026-09-20T12:00:00-04:00",
-      "ends_at": null,
-      "all_day": false,
-      "venue": "Drift",
-      "neighborhood": "Miami Beach",
-      "city": "Miami Beach",
-      "url": "https://www.1hotels.com/south-beach/do/events/havana-nights",
-      "rsvp_url": "https://www.1hotels.com/south-beach/do/events/havana-nights",
-      "image_url": null,
-      "access": "public",
-      "industry": "hospitality",
-      "categories": [
-        "hospitality",
-        "luxury"
-      ],
-      "access_tip": "Use the booking link on the official happening. Event planners can join the official Gathering Together invitation list.",
-      "contact_url": "https://www.1hotels.com/gather/email-signup",
-      "contact_email": null,
-      "ask_for": "1 Hotel South Beach Concierge or 1 Club Member Services",
-      "score": 72,
-      "confidence": 0.98,
-      "why_it_matters": "From 1 Hotel South Beach — luxury / hospitality keywords — at Drift",
-      "source_id": "one_hotel_south_beach",
-      "source_name": "1 Hotel South Beach",
-      "source_url": "https://www.1hotels.com/south-beach/do/events",
-      "first_seen_at": "2026-09-14T18:16:07.684516+00:00",
-      "last_seen_at": "2026-09-14T18:16:24.003949+00:00",
-      "lead_hours": 141,
-      "source_trail": [
-        {
-          "source_id": "one_hotel_south_beach",
-          "source_name": "1 Hotel South Beach",
-          "seen_at": "2026-09-14T18:16:07.684516+00:00",
-          "url": "https://www.1hotels.com/south-beach/do/events/havana-nights"
-        }
-      ]
-    },
-    {
-      "id": "d4d0ac00a220017520e07aab330f9d5364f6b304",
-      "title": "I'm With The DJ",
-      "summary": "Fri 18 Sep South Beach Drift Lobby Bar I'm With The DJ Fridays",
-      "starts_at": "2026-09-20T12:00:00-04:00",
-      "ends_at": null,
-      "all_day": false,
-      "venue": "Drift Lobby Bar",
-      "neighborhood": "Miami Beach",
-      "city": "Miami Beach",
-      "url": "https://www.1hotels.com/south-beach/do/events/im-with-the-dj",
-      "rsvp_url": "https://www.1hotels.com/south-beach/do/events/im-with-the-dj",
-      "image_url": null,
-      "access": "public",
-      "industry": "hospitality",
-      "categories": [
-        "hospitality",
-        "luxury"
-      ],
-      "access_tip": "Use the booking link on the official happening. Event planners can join the official Gathering Together invitation list.",
-      "contact_url": "https://www.1hotels.com/gather/email-signup",
-      "contact_email": null,
-      "ask_for": "1 Hotel South Beach Concierge or 1 Club Member Services",
-      "score": 72,
-      "confidence": 0.98,
-      "why_it_matters": "From 1 Hotel South Beach — luxury / hospitality keywords — at Drift Lobby Bar",
-      "source_id": "one_hotel_south_beach",
-      "source_name": "1 Hotel South Beach",
-      "source_url": "https://www.1hotels.com/south-beach/do/events",
-      "first_seen_at": "2026-09-14T18:16:07.684269+00:00",
-      "last_seen_at": "2026-09-14T18:16:24.003949+00:00",
-      "lead_hours": 141,
-      "source_trail": [
-        {
-          "source_id": "one_hotel_south_beach",
-          "source_name": "1 Hotel South Beach",
-          "seen_at": "2026-09-14T18:16:07.684269+00:00",
-          "url": "https://www.1hotels.com/south-beach/do/events/im-with-the-dj"
-        }
-      ]
-    },
-    {
-      "id": "813784a0ce344433835182a3ebb330a17fe3a7e4",
-      "title": "Backgammon Social x The Shelborne",
+      "id": "da61b6b5d21ab7c272370d71ca745cb89622cbff",
+      "title": "Backgammon Social x The Moore - Tournament Night",
       "summary": "",
-      "starts_at": "2026-09-15T19:00:00-04:00",
-      "ends_at": "2026-09-15T22:00:00-04:00",
+      "starts_at": "2026-09-24T19:00:00-04:00",
+      "ends_at": "2026-09-24T23:00:00-04:00",
       "all_day": false,
-      "venue": "1801 Collins Ave, Miami Beach, FL 33139, USA",
-      "neighborhood": "Miami Beach",
+      "venue": "4040 NE 2nd Ave, Miami, FL 33137, USA",
+      "neighborhood": "Miami",
       "city": "Miami",
-      "url": "https://luma.com/backga-ieoo",
-      "rsvp_url": "https://luma.com/backga-ieoo",
-      "image_url": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/uploads/wn/0a95b4f8-6ce3-4205-a06b-b73527113186.jpg",
+      "url": "https://luma.com/backga-0pig",
+      "rsvp_url": "https://luma.com/backga-0pig",
+      "image_url": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/api-uploads/53/1fa58081-3efa-4715-8804-6e23b8b13372.jpg",
       "access": "public",
       "industry": "sports",
       "categories": [
@@ -1219,63 +1054,22 @@
       "access_tip": "Register through the official Backgammon Social Miami Luma calendar. The event co-host shown on the event page is the correct person to request.",
       "contact_url": "https://luma.com/backgammonsocialmiami",
       "contact_email": null,
-      "ask_for": "Backgammon Social, Katerina Economou, Jeremias Barillas",
-      "score": 70,
-      "confidence": 0.8,
-      "why_it_matters": "From Backgammon Social Miami — at 1801 Collins Ave, Miami Beach, FL 33139, USA",
+      "ask_for": "Backgammon Social, Lydia Menendez",
+      "score": 72,
+      "confidence": 0.9,
+      "why_it_matters": "From Backgammon Social Miami — luxury / hospitality keywords — at 4040 NE 2nd Ave, Miami, FL 33137, USA",
       "source_id": "backgammon_social_miami",
       "source_name": "Backgammon Social Miami",
       "source_url": "https://luma.com/backgammonsocialmiami",
-      "first_seen_at": "2026-08-24T10:42:27.975086+00:00",
-      "last_seen_at": "2026-09-14T18:16:24.003949+00:00",
-      "lead_hours": 540,
+      "first_seen_at": "2026-08-31T17:29:52.237738+00:00",
+      "last_seen_at": "2026-09-21T18:23:23.688969+00:00",
+      "lead_hours": 581,
       "source_trail": [
         {
           "source_id": "backgammon_social_miami",
           "source_name": "Backgammon Social Miami",
-          "seen_at": "2026-08-24T10:42:27.975086+00:00",
-          "url": "https://luma.com/backga-ieoo"
-        }
-      ]
-    },
-    {
-      "id": "f7e71880bc2d43e8bfcec332af96db3bafb75a80",
-      "title": "Exhibition Opening Reception: Mohri, Pica, & Zapata",
-      "summary": "",
-      "starts_at": "2026-09-17T18:00:00-07:00",
-      "ends_at": "2026-09-17T21:00:00-07:00",
-      "all_day": false,
-      "venue": "",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://thebass.org/event/exhibition-opening-reception-mohri-pica-zapata/",
-      "rsvp_url": "https://thebass.org/event/exhibition-opening-reception-mohri-pica-zapata/",
-      "image_url": null,
-      "access": "public",
-      "industry": "art_fashion",
-      "categories": [
-        "art",
-        "culture"
-      ],
-      "access_tip": "Open the official source for current admission details. Reserve early if a booking option is shown.",
-      "contact_url": "https://thebass.org/event/exhibition-opening-reception-mohri-pica-zapata/",
-      "contact_email": null,
-      "ask_for": "The Bass Membership or Development Team for private dinners and patron previews",
-      "score": 70,
-      "confidence": 0.9,
-      "why_it_matters": "From The Bass — luxury + networking keywords",
-      "source_id": "the_bass",
-      "source_name": "The Bass",
-      "source_url": "https://thebass.org/events/?ical=1",
-      "first_seen_at": "2026-08-04T17:01:39.878591+00:00",
-      "last_seen_at": "2026-09-14T18:16:24.003949+00:00",
-      "lead_hours": 1063,
-      "source_trail": [
-        {
-          "source_id": "the_bass",
-          "source_name": "The Bass",
-          "seen_at": "2026-08-04T17:01:39.878591+00:00",
-          "url": "https://thebass.org/event/exhibition-opening-reception-mohri-pica-zapata/"
+          "seen_at": "2026-08-31T17:29:52.237738+00:00",
+          "url": "https://luma.com/backga-0pig"
         }
       ]
     },
@@ -1309,7 +1103,7 @@
       "source_name": "Greater Miami & The Beaches Hotel Association",
       "source_url": "https://members.gmbha.com/events",
       "first_seen_at": "2026-08-31T17:29:50.081956+00:00",
-      "last_seen_at": "2026-09-14T18:16:24.003949+00:00",
+      "last_seen_at": "2026-09-21T18:23:23.688969+00:00",
       "lead_hours": 1374,
       "source_trail": [
         {
@@ -1321,18 +1115,223 @@
       ]
     },
     {
-      "id": "da61b6b5d21ab7c272370d71ca745cb89622cbff",
-      "title": "Backgammon Social x The Moore - Tournament Night",
+      "id": "38b2c0e2f732aa5ced4f15f96814b2c9b54c4a97",
+      "title": "Miami, FL GM Summit at The Hospitality Show November 2, 2026",
       "summary": "",
-      "starts_at": "2026-09-24T19:00:00-04:00",
-      "ends_at": "2026-09-24T23:00:00-04:00",
+      "starts_at": "2026-11-02T00:00:00+00:00",
+      "ends_at": null,
       "all_day": false,
-      "venue": "4040 NE 2nd Ave, Miami, FL 33137, USA",
+      "venue": "",
       "neighborhood": "Miami",
       "city": "Miami",
-      "url": "https://luma.com/backga-0pig",
-      "rsvp_url": "https://luma.com/backga-0pig",
-      "image_url": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/api-uploads/53/1fa58081-3efa-4715-8804-6e23b8b13372.jpg",
+      "url": "https://www.ahla.com/events/gm-summit-hospitality-show-0",
+      "rsvp_url": "https://www.ahla.com/events/gm-summit-hospitality-show-0",
+      "image_url": null,
+      "access": "public",
+      "industry": "hospitality",
+      "categories": [
+        "hospitality",
+        "networking"
+      ],
+      "access_tip": "Register through AHLA's official event page; hotel-industry membership may provide access or pricing.",
+      "contact_url": "https://www.ahla.com/events",
+      "contact_email": null,
+      "ask_for": "",
+      "score": 63,
+      "confidence": 0.7,
+      "why_it_matters": "From American Hotel & Lodging Association — networking keywords",
+      "source_id": "ahla",
+      "source_name": "American Hotel & Lodging Association",
+      "source_url": "https://www.ahla.com/events",
+      "first_seen_at": "2026-09-21T18:23:11.274534+00:00",
+      "last_seen_at": "2026-09-21T18:23:23.688969+00:00",
+      "lead_hours": 989,
+      "source_trail": [
+        {
+          "source_id": "ahla",
+          "source_name": "American Hotel & Lodging Association",
+          "seen_at": "2026-09-21T18:23:11.274534+00:00",
+          "url": "https://www.ahla.com/events/gm-summit-hospitality-show-0"
+        }
+      ]
+    },
+    {
+      "id": "562880edcc59d6bc487075ad01dcf5a09b6e2759",
+      "title": "13th Annual Hospitality Leadership Awards",
+      "summary": "Monday, November 23, 2026",
+      "starts_at": "2026-11-23T00:00:00+00:00",
+      "ends_at": null,
+      "all_day": false,
+      "venue": "",
+      "neighborhood": "Miami",
+      "city": "Miami",
+      "url": "https://members.gmbha.com/events/Details/13th-annual-hospitality-leadership-awards-1885685?sourceTypeId=Website",
+      "rsvp_url": "https://members.gmbha.com/events/Details/13th-annual-hospitality-leadership-awards-1885685?sourceTypeId=Website",
+      "image_url": null,
+      "access": "public",
+      "industry": "hospitality",
+      "categories": [
+        "hospitality",
+        "networking"
+      ],
+      "access_tip": "Register through GMBHA. Membership or partner status may unlock industry luncheons and leadership events.",
+      "contact_url": "https://members.gmbha.com/events",
+      "contact_email": null,
+      "ask_for": "GMBHA Events and Membership Team",
+      "score": 63,
+      "confidence": 0.8,
+      "why_it_matters": "From Greater Miami & The Beaches Hotel Association — networking keywords",
+      "source_id": "gmbha",
+      "source_name": "Greater Miami & The Beaches Hotel Association",
+      "source_url": "https://members.gmbha.com/events",
+      "first_seen_at": "2026-09-21T18:23:11.293871+00:00",
+      "last_seen_at": "2026-09-21T18:23:23.688969+00:00",
+      "lead_hours": 1493,
+      "source_trail": [
+        {
+          "source_id": "gmbha",
+          "source_name": "Greater Miami & The Beaches Hotel Association",
+          "seen_at": "2026-09-21T18:23:11.293871+00:00",
+          "url": "https://members.gmbha.com/events/Details/13th-annual-hospitality-leadership-awards-1885685?sourceTypeId=Website"
+        }
+      ]
+    },
+    {
+      "id": "34a44d2f609de39bb1f4c6efb4049ef7c508557c",
+      "title": "Large Board of Directors Meeting + 30 Years • 30 Connections",
+      "summary": "Thursday, September 24, 2026",
+      "starts_at": "2026-09-24T00:00:00+00:00",
+      "ends_at": null,
+      "all_day": false,
+      "venue": "",
+      "neighborhood": "Miami",
+      "city": "Miami",
+      "url": "https://members.gmbha.com/events/Details/large-board-of-directors-meeting-30-years-30-connections-1900434?sourceTypeId=Website",
+      "rsvp_url": "https://members.gmbha.com/events/Details/large-board-of-directors-meeting-30-years-30-connections-1900434?sourceTypeId=Website",
+      "image_url": null,
+      "access": "public",
+      "industry": "hospitality",
+      "categories": [
+        "hospitality",
+        "networking"
+      ],
+      "access_tip": "Register through GMBHA. Membership or partner status may unlock industry luncheons and leadership events.",
+      "contact_url": "https://members.gmbha.com/events",
+      "contact_email": null,
+      "ask_for": "GMBHA Events and Membership Team",
+      "score": 62,
+      "confidence": 0.8,
+      "why_it_matters": "From Greater Miami & The Beaches Hotel Association",
+      "source_id": "gmbha",
+      "source_name": "Greater Miami & The Beaches Hotel Association",
+      "source_url": "https://members.gmbha.com/events",
+      "first_seen_at": "2026-09-21T18:23:11.292927+00:00",
+      "last_seen_at": "2026-09-21T18:23:23.688969+00:00",
+      "lead_hours": 53,
+      "source_trail": [
+        {
+          "source_id": "gmbha",
+          "source_name": "Greater Miami & The Beaches Hotel Association",
+          "seen_at": "2026-09-21T18:23:11.292927+00:00",
+          "url": "https://members.gmbha.com/events/Details/large-board-of-directors-meeting-30-years-30-connections-1900434?sourceTypeId=Website"
+        }
+      ]
+    },
+    {
+      "id": "a5a4661bf98805717f807888f2de62b6d92eea0c",
+      "title": "WEG Films & FANGORIA Presents: Practical FX & Building the Monsters of Horror Shorts Panel Conversation",
+      "summary": "",
+      "starts_at": "2026-09-26T13:00:00-07:00",
+      "ends_at": "2026-09-26T16:00:00-07:00",
+      "all_day": false,
+      "venue": "",
+      "neighborhood": "Miami",
+      "city": "Miami",
+      "url": "https://thebass.org/event/weg-films-fangoria-presents-practical-fx-building-the-monsters-of-horror-shorts-panel-conversation/",
+      "rsvp_url": "https://thebass.org/event/weg-films-fangoria-presents-practical-fx-building-the-monsters-of-horror-shorts-panel-conversation/",
+      "image_url": null,
+      "access": "public",
+      "industry": "art_fashion",
+      "categories": [
+        "art",
+        "culture"
+      ],
+      "access_tip": "Open the official source for current admission details. Reserve early if a booking option is shown.",
+      "contact_url": "https://thebass.org/event/weg-films-fangoria-presents-practical-fx-building-the-monsters-of-horror-shorts-panel-conversation/",
+      "contact_email": null,
+      "ask_for": "The Bass Membership or Development Team for private dinners and patron previews",
+      "score": 62,
+      "confidence": 0.8,
+      "why_it_matters": "From The Bass — networking keywords",
+      "source_id": "the_bass",
+      "source_name": "The Bass",
+      "source_url": "https://thebass.org/events/?ical=1",
+      "first_seen_at": "2026-09-21T18:23:00.286112+00:00",
+      "last_seen_at": "2026-09-21T18:23:23.688969+00:00",
+      "lead_hours": 121,
+      "source_trail": [
+        {
+          "source_id": "the_bass",
+          "source_name": "The Bass",
+          "seen_at": "2026-09-21T18:23:00.286112+00:00",
+          "url": "https://thebass.org/event/weg-films-fangoria-presents-practical-fx-building-the-monsters-of-horror-shorts-panel-conversation/"
+        }
+      ]
+    },
+    {
+      "id": "7f3b64472b93ed85fc89d7a641450abfd945a47f",
+      "title": "$5 Espresso Martinis For National Coffee Day",
+      "summary": "National Coffee Day calls for something with a little more kick. Settle in by the bay and enjoy a $5 espresso martini at Lido Bayside, because your afternoon coffee deserves a cocktail hour of its own.",
+      "starts_at": "2026-09-29T12:00:00-04:00",
+      "ends_at": null,
+      "all_day": false,
+      "venue": "The Standard Spa Miami Beach",
+      "neighborhood": "Miami Beach",
+      "city": "Miami Beach",
+      "url": "https://www.standardhotels.com/miami/happenings/espresso-martinis",
+      "rsvp_url": "https://www.standardhotels.com/miami/happenings/espresso-martinis",
+      "image_url": null,
+      "access": "public",
+      "industry": "hospitality",
+      "categories": [
+        "hospitality",
+        "luxury"
+      ],
+      "access_tip": "Book directly from the official happening. For private-event access, contact the hotel's official events team.",
+      "contact_url": "https://www.standardhotels.com/miami/properties/miami-beach",
+      "contact_email": "MiamiEvents@StandardMiami.com",
+      "ask_for": "The Standard Miami Events Team or Spa Concierge",
+      "score": 62,
+      "confidence": 0.9,
+      "why_it_matters": "From The Standard Spa Miami Beach — luxury / hospitality keywords — at The Standard Spa Miami Beach",
+      "source_id": "the_standard_miami",
+      "source_name": "The Standard Spa Miami Beach",
+      "source_url": "https://www.standardhotels.com/happenings",
+      "first_seen_at": "2026-09-21T18:23:10.227579+00:00",
+      "last_seen_at": "2026-09-21T18:23:23.688969+00:00",
+      "lead_hours": 189,
+      "source_trail": [
+        {
+          "source_id": "the_standard_miami",
+          "source_name": "The Standard Spa Miami Beach",
+          "seen_at": "2026-09-21T18:23:10.227579+00:00",
+          "url": "https://www.standardhotels.com/miami/happenings/espresso-martinis"
+        }
+      ]
+    },
+    {
+      "id": "2661f0265a27b92b02f154d4d7cfae5af6563869",
+      "title": "Backgammon Social x Fooq's",
+      "summary": "",
+      "starts_at": "2026-10-01T19:00:00-04:00",
+      "ends_at": "2026-10-01T22:00:00-04:00",
+      "all_day": false,
+      "venue": "150 NW 73rd St, Miami, FL 33150, USA",
+      "neighborhood": "Miami",
+      "city": "Miami",
+      "url": "https://luma.com/backga-ta9d",
+      "rsvp_url": "https://luma.com/backga-ta9d",
+      "image_url": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/api-uploads/ku/a34cfac9-eae6-4d18-bc9e-e8791e2d582d.jpg",
       "access": "public",
       "industry": "sports",
       "categories": [
@@ -1343,63 +1342,22 @@
       "access_tip": "Register through the official Backgammon Social Miami Luma calendar. The event co-host shown on the event page is the correct person to request.",
       "contact_url": "https://luma.com/backgammonsocialmiami",
       "contact_email": null,
-      "ask_for": "Backgammon Social, Lydia Menendez",
-      "score": 66,
-      "confidence": 0.9,
-      "why_it_matters": "From Backgammon Social Miami — luxury / hospitality keywords — at 4040 NE 2nd Ave, Miami, FL 33137, USA",
+      "ask_for": "Backgammon Social, Isabella Pacheco, Jeremias Barillas, Alfredo Ponce de Leon",
+      "score": 58,
+      "confidence": 0.8,
+      "why_it_matters": "From Backgammon Social Miami — at 150 NW 73rd St, Miami, FL 33150, USA",
       "source_id": "backgammon_social_miami",
       "source_name": "Backgammon Social Miami",
       "source_url": "https://luma.com/backgammonsocialmiami",
-      "first_seen_at": "2026-08-31T17:29:52.237738+00:00",
-      "last_seen_at": "2026-09-14T18:16:24.003949+00:00",
-      "lead_hours": 581,
+      "first_seen_at": "2026-09-21T18:23:08.281160+00:00",
+      "last_seen_at": "2026-09-21T18:23:23.688969+00:00",
+      "lead_hours": 244,
       "source_trail": [
         {
           "source_id": "backgammon_social_miami",
           "source_name": "Backgammon Social Miami",
-          "seen_at": "2026-08-31T17:29:52.237738+00:00",
-          "url": "https://luma.com/backga-0pig"
-        }
-      ]
-    },
-    {
-      "id": "deccd3221b30123dd0535bb80a072d257ec65699",
-      "title": "Sculpt and Spa Night with Babe Hot Pilates",
-      "summary": "Join Babe Hot Pilates at The Standard Spa, Miami Beach for an unheated Pilates flow, restorative stretching, and an evening of relaxing spa access.",
-      "starts_at": "2026-09-19T12:00:00-04:00",
-      "ends_at": null,
-      "all_day": false,
-      "venue": "The Standard Spa Miami Beach",
-      "neighborhood": "Miami Beach",
-      "city": "Miami Beach",
-      "url": "https://www.standardhotels.com/miami/happenings/babe-hot-pilates-sculpt-spa-night",
-      "rsvp_url": "https://www.standardhotels.com/miami/happenings/babe-hot-pilates-sculpt-spa-night",
-      "image_url": null,
-      "access": "registration",
-      "industry": "hospitality",
-      "categories": [
-        "hospitality",
-        "luxury"
-      ],
-      "access_tip": "Book directly from the official happening. For private-event access, contact the hotel's official events team.",
-      "contact_url": "https://www.standardhotels.com/miami/properties/miami-beach",
-      "contact_email": "MiamiEvents@StandardMiami.com",
-      "ask_for": "The Standard Miami Events Team or Spa Concierge",
-      "score": 64,
-      "confidence": 0.8,
-      "why_it_matters": "From The Standard Spa Miami Beach — at The Standard Spa Miami Beach",
-      "source_id": "the_standard_miami",
-      "source_name": "The Standard Spa Miami Beach",
-      "source_url": "https://www.standardhotels.com/happenings",
-      "first_seen_at": "2026-08-31T17:29:53.903265+00:00",
-      "last_seen_at": "2026-09-14T18:16:24.003949+00:00",
-      "lead_hours": 454,
-      "source_trail": [
-        {
-          "source_id": "the_standard_miami",
-          "source_name": "The Standard Spa Miami Beach",
-          "seen_at": "2026-08-31T17:29:53.903265+00:00",
-          "url": "https://www.standardhotels.com/miami/happenings/babe-hot-pilates-sculpt-spa-night"
+          "seen_at": "2026-09-21T18:23:08.281160+00:00",
+          "url": "https://luma.com/backga-ta9d"
         }
       ]
     }
