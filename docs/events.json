@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T15:01:15.950782+00:00",
+  "generated_at": "2026-10-18T15:02:59.196132+00:00",
   "timezone": "America/New_York",
   "version": 1,
   "event_count": 22,
@@ -629,7 +629,7 @@
       "source_name": "Resy Experiences · Miami",
       "source_url": "https://resy.com/cities/miami-fl/events",
       "first_seen_at": "2026-10-18T15:00:44.662291+00:00",
-      "last_seen_at": "2026-10-18T15:00:58.313983+00:00",
+      "last_seen_at": "2026-10-18T15:02:41.578344+00:00",
       "lead_hours": 4,
       "source_trail": [
         {
@@ -670,7 +670,7 @@
       "source_name": "Resy Experiences · Miami",
       "source_url": "https://resy.com/cities/miami-fl/events",
       "first_seen_at": "2026-10-18T15:00:44.662328+00:00",
-      "last_seen_at": "2026-10-18T15:00:58.313983+00:00",
+      "last_seen_at": "2026-10-18T15:02:41.578344+00:00",
       "lead_hours": 7,
       "source_trail": [
         {
@@ -711,7 +711,7 @@
       "source_name": "Resy Experiences · Miami",
       "source_url": "https://resy.com/cities/miami-fl/events",
       "first_seen_at": "2026-10-18T15:00:44.662390+00:00",
-      "last_seen_at": "2026-10-18T15:00:58.313983+00:00",
+      "last_seen_at": "2026-10-18T15:02:41.578344+00:00",
       "lead_hours": 79,
       "source_trail": [
         {
@@ -752,7 +752,7 @@
       "source_name": "Resy Experiences · Miami",
       "source_url": "https://resy.com/cities/miami-fl/events",
       "first_seen_at": "2026-10-18T15:00:44.662404+00:00",
-      "last_seen_at": "2026-10-18T15:00:58.313983+00:00",
+      "last_seen_at": "2026-10-18T15:02:41.578344+00:00",
       "lead_hours": 103,
       "source_trail": [
         {
@@ -793,7 +793,7 @@
       "source_name": "Resy Experiences · Miami",
       "source_url": "https://resy.com/cities/miami-fl/events",
       "first_seen_at": "2026-10-18T15:00:44.662503+00:00",
-      "last_seen_at": "2026-10-18T15:00:58.313983+00:00",
+      "last_seen_at": "2026-10-18T15:02:41.578344+00:00",
       "lead_hours": 174,
       "source_trail": [
         {
@@ -834,7 +834,7 @@
       "source_name": "Resy Experiences · Miami",
       "source_url": "https://resy.com/cities/miami-fl/events",
       "first_seen_at": "2026-10-18T15:00:44.662546+00:00",
-      "last_seen_at": "2026-10-18T15:00:58.313983+00:00",
+      "last_seen_at": "2026-10-18T15:02:41.578344+00:00",
       "lead_hours": 270,
       "source_trail": [
         {
@@ -876,7 +876,7 @@
       "source_name": "The Setai Miami Beach",
       "source_url": "https://www.thesetaihotel.com/miami-beach-restaurants/jaya",
       "first_seen_at": "2026-09-13T22:12:24.185758+00:00",
-      "last_seen_at": "2026-10-18T15:00:58.313983+00:00",
+      "last_seen_at": "2026-10-18T15:02:41.578344+00:00",
       "lead_hours": null,
       "source_trail": [
         {
@@ -918,7 +918,7 @@
       "source_name": "The Backgammon Society",
       "source_url": "https://www.thebackgammonsociety.com/",
       "first_seen_at": "2026-10-18T15:00:50.588323+00:00",
-      "last_seen_at": "2026-10-18T15:00:58.313983+00:00",
+      "last_seen_at": "2026-10-18T15:02:41.578344+00:00",
       "lead_hours": 584,
       "source_trail": [
         {
@@ -960,7 +960,7 @@
       "source_name": "Luma Miami · Food & Chef",
       "source_url": "https://luma.com/miami",
       "first_seen_at": "2026-10-18T15:00:43.612808+00:00",
-      "last_seen_at": "2026-10-18T15:00:58.313983+00:00",
+      "last_seen_at": "2026-10-18T15:02:41.578344+00:00",
       "lead_hours": 103,
       "source_trail": [
         {
@@ -1002,7 +1002,7 @@
       "source_name": "Eater Miami",
       "source_url": "https://miami.eater.com/rss/index.xml",
       "first_seen_at": "2026-10-12T21:28:12.732047+00:00",
-      "last_seen_at": "2026-10-18T15:00:58.313983+00:00",
+      "last_seen_at": "2026-10-18T15:02:41.578344+00:00",
       "lead_hours": null,
       "source_trail": [
         {
@@ -1043,7 +1043,7 @@
       "source_name": "Haute Living",
       "source_url": "https://hauteliving.com/feed/",
       "first_seen_at": "2026-10-18T15:00:40.334121+00:00",
-      "last_seen_at": "2026-10-18T15:00:58.313983+00:00",
+      "last_seen_at": "2026-10-18T15:02:41.578344+00:00",
       "lead_hours": null,
       "source_trail": [
         {
@@ -1084,7 +1084,7 @@
       "source_name": "Greater Miami & The Beaches Hotel Association",
       "source_url": "https://members.gmbha.com/events",
       "first_seen_at": "2026-08-31T17:29:50.081956+00:00",
-      "last_seen_at": "2026-10-18T15:00:58.313983+00:00",
+      "last_seen_at": "2026-10-18T15:02:41.578344+00:00",
       "lead_hours": 1374,
       "source_trail": [
         {
@@ -1125,7 +1125,7 @@
       "source_name": "World Red Eye",
       "source_url": "https://worldredeye.com/feed/",
       "first_seen_at": "2026-10-18T15:00:37.225597+00:00",
-      "last_seen_at": "2026-10-18T15:00:58.313983+00:00",
+      "last_seen_at": "2026-10-18T15:02:41.578344+00:00",
       "lead_hours": null,
       "source_trail": [
         {
@@ -1167,7 +1167,7 @@
       "source_name": "Backgammon Social Miami",
       "source_url": "https://luma.com/backgammonsocialmiami",
       "first_seen_at": "2026-10-12T21:28:14.043805+00:00",
-      "last_seen_at": "2026-10-18T15:00:58.313983+00:00",
+      "last_seen_at": "2026-10-18T15:02:41.578344+00:00",
       "lead_hours": 241,
       "source_trail": [
         {
@@ -1208,7 +1208,7 @@
       "source_name": "The Standard Spa Miami Beach",
       "source_url": "https://www.standardhotels.com/happenings",
       "first_seen_at": "2026-10-12T21:28:16.473785+00:00",
-      "last_seen_at": "2026-10-18T15:00:58.313983+00:00",
+      "last_seen_at": "2026-10-18T15:02:41.578344+00:00",
       "lead_hours": 402,
       "source_trail": [
         {
@@ -1249,7 +1249,7 @@
       "source_name": "American Hotel & Lodging Association",
       "source_url": "https://www.ahla.com/events",
       "first_seen_at": "2026-09-21T18:23:11.274534+00:00",
-      "last_seen_at": "2026-10-18T15:00:58.313983+00:00",
+      "last_seen_at": "2026-10-18T15:02:41.578344+00:00",
       "lead_hours": 989,
       "source_trail": [
         {
@@ -1290,7 +1290,7 @@
       "source_name": "Greater Miami & The Beaches Hotel Association",
       "source_url": "https://members.gmbha.com/events",
       "first_seen_at": "2026-10-18T15:00:47.758479+00:00",
-      "last_seen_at": "2026-10-18T15:00:58.313983+00:00",
+      "last_seen_at": "2026-10-18T15:02:41.578344+00:00",
       "lead_hours": 32,
       "source_trail": [
         {
@@ -1332,7 +1332,7 @@
       "source_name": "The Backgammon Society",
       "source_url": "https://www.thebackgammonsociety.com/",
       "first_seen_at": "2026-10-18T15:00:50.584999+00:00",
-      "last_seen_at": "2026-10-18T15:00:58.313983+00:00",
+      "last_seen_at": "2026-10-18T15:02:41.578344+00:00",
       "lead_hours": 79,
       "source_trail": [
         {
@@ -1373,7 +1373,7 @@
       "source_name": "Greater Miami & The Beaches Hotel Association",
       "source_url": "https://members.gmbha.com/events",
       "first_seen_at": "2026-10-18T15:00:47.758756+00:00",
-      "last_seen_at": "2026-10-18T15:00:58.313983+00:00",
+      "last_seen_at": "2026-10-18T15:02:41.578344+00:00",
       "lead_hours": 80,
       "source_trail": [
         {
@@ -1414,7 +1414,7 @@
       "source_name": "The Standard Spa Miami Beach",
       "source_url": "https://www.standardhotels.com/happenings",
       "first_seen_at": "2026-10-18T15:00:43.501811+00:00",
-      "last_seen_at": "2026-10-18T15:00:58.313983+00:00",
+      "last_seen_at": "2026-10-18T15:02:41.578344+00:00",
       "lead_hours": 0,
       "source_trail": [
         {
@@ -1455,7 +1455,7 @@
       "source_name": "The Standard Spa Miami Beach",
       "source_url": "https://www.standardhotels.com/happenings",
       "first_seen_at": "2026-09-28T19:54:26.136451+00:00",
-      "last_seen_at": "2026-10-18T15:00:58.313983+00:00",
+      "last_seen_at": "2026-10-18T15:02:41.578344+00:00",
       "lead_hours": 1053,
       "source_trail": [
         {
@@ -1497,7 +1497,7 @@
       "source_name": "Backgammon Social Miami",
       "source_url": "https://luma.com/backgammonsocialmiami",
       "first_seen_at": "2026-10-18T15:00:44.955395+00:00",
-      "last_seen_at": "2026-10-18T15:00:58.313983+00:00",
+      "last_seen_at": "2026-10-18T15:02:41.578344+00:00",
       "lead_hours": 79,
       "source_trail": [
         {
