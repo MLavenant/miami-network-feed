@@ -2,9 +2,8 @@ name: Collect Miami Events
 
 on:
   schedule:
-    # Weekly, Monday 9:00 AM America/New_York
-    # EDT (UTC-4) → 13:00 UTC · EST (UTC-5) → 14:00 UTC — use 13:00 (9am EDT / 8am EST)
-    - cron: "0 13 * * 1"
+    # Daily 9:00 AM America/New_York (EDT=13:00 UTC)
+    - cron: "0 13 * * *"
   workflow_dispatch:
   push:
     branches: [main]
