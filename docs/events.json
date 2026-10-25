@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-24T16:26:17.809401+00:00",
+  "generated_at": "2026-10-25T16:57:19.889082+00:00",
   "timezone": "America/New_York",
   "version": 1,
-  "event_count": 18,
+  "event_count": 19,
   "industries": [
     "hospitality",
     "sports",
@@ -580,17 +580,17 @@
   ],
   "events": [
     {
-      "id": "6a6f2afa3cd51d35929dc47f8f664c5a4970b676",
+      "id": "991e9fb410e9bc871542b8f964aaf7c3949805d1",
       "title": "PALME | Tasting Experience",
       "summary": "*PALME* is a love letter from Italy to Florida, created by Executive Chef Bernardo Paladini under Massimo Bottura’s vision. The menu brings Italian craftsmanship together with the tropical and Latin flavors of Miami’s vibrant local culture.\n\n\n\nDiscover Florida stone crab through Venice’s sweet-and-sour saor, Sardinian fregola with Key West pink shrimp, and handmade tortellini that carry the warmth of Modena. From playful opening bites to Wagyu and a bright Florida citrus finale, each course reve",
-      "starts_at": "2026-10-24T13:00:00-04:00",
-      "ends_at": "2026-10-24T15:00:00-04:00",
+      "starts_at": "2026-10-26T12:30:00-04:00",
+      "ends_at": "2026-10-26T14:30:00-04:00",
       "all_day": false,
       "venue": "Torno Subito",
       "neighborhood": "Miami",
       "city": "Miami",
-      "url": "https://resy.com/cities/miami-fl/events/palme-tasting-experience-2026-10-24-6",
-      "rsvp_url": "https://resy.com/cities/miami-fl/events/palme-tasting-experience-2026-10-24-6",
+      "url": "https://resy.com/cities/miami-fl/events/palme-tasting-experience-2026-10-26-6",
+      "rsvp_url": "https://resy.com/cities/miami-fl/events/palme-tasting-experience-2026-10-26-6",
       "image_url": "https://image.resy.com/3/003/2/94271/3dad403e4e74a3ddedbb65a1ee6a7d8e58a46fbf/jpg/640x360",
       "access": "registration",
       "industry": "culinary",
@@ -608,56 +608,15 @@
       "source_id": "resy_experiences",
       "source_name": "Resy Experiences · Miami",
       "source_url": "https://resy.com/cities/miami-fl/events",
-      "first_seen_at": "2026-10-24T16:25:47.160752+00:00",
-      "last_seen_at": "2026-10-24T16:26:02.589005+00:00",
-      "lead_hours": 0,
+      "first_seen_at": "2026-10-25T16:56:48.817269+00:00",
+      "last_seen_at": "2026-10-25T16:57:04.746978+00:00",
+      "lead_hours": 23,
       "source_trail": [
         {
           "source_id": "resy_experiences",
           "source_name": "Resy Experiences · Miami",
-          "seen_at": "2026-10-24T16:25:47.160752+00:00",
-          "url": "https://resy.com/cities/miami-fl/events/palme-tasting-experience-2026-10-24-6"
-        }
-      ]
-    },
-    {
-      "id": "625df358880cee53cbfe56c8f109086357f7d2e0",
-      "title": "Exclusive Wine Tasting Experience",
-      "summary": "*A multi-sensory journey of flavor, aroma, and texture.*",
-      "starts_at": "2026-10-24T15:00:00-04:00",
-      "ends_at": "2026-10-24T17:30:00-04:00",
-      "all_day": false,
-      "venue": "Hakkasan Miami",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://resy.com/cities/miami-fl/events/exclusive-wine-tasting-experience-2026-10-24-6",
-      "rsvp_url": "https://resy.com/cities/miami-fl/events/exclusive-wine-tasting-experience-2026-10-24-6",
-      "image_url": "https://image.resy.com/3/003/2/93714/3a62529ac81adbb946f1fecabe4cddca1a912523/jpg/640x360",
-      "access": "registration",
-      "industry": "culinary",
-      "categories": [
-        "culinary",
-        "hospitality"
-      ],
-      "access_tip": "Book on Resy as soon as listings drop — guest-chef nights often sell out the same week.",
-      "contact_url": "https://resy.com/cities/miami-fl/events",
-      "contact_email": null,
-      "ask_for": "Restaurant events team via Resy",
-      "score": 100,
-      "confidence": 0.9,
-      "why_it_matters": "Listed on Resy Experiences — book before hotel calendars catch it — luxury / hospitality keywords — at Hakkasan Miami",
-      "source_id": "resy_experiences",
-      "source_name": "Resy Experiences · Miami",
-      "source_url": "https://resy.com/cities/miami-fl/events",
-      "first_seen_at": "2026-10-24T16:25:47.160787+00:00",
-      "last_seen_at": "2026-10-24T16:26:02.589005+00:00",
-      "lead_hours": 2,
-      "source_trail": [
-        {
-          "source_id": "resy_experiences",
-          "source_name": "Resy Experiences · Miami",
-          "seen_at": "2026-10-24T16:25:47.160787+00:00",
-          "url": "https://resy.com/cities/miami-fl/events/exclusive-wine-tasting-experience-2026-10-24-6"
+          "seen_at": "2026-10-25T16:56:48.817269+00:00",
+          "url": "https://resy.com/cities/miami-fl/events/palme-tasting-experience-2026-10-26-6"
         }
       ]
     },
@@ -691,7 +650,7 @@
       "source_name": "Resy Experiences · Miami",
       "source_url": "https://resy.com/cities/miami-fl/events",
       "first_seen_at": "2026-10-22T17:50:29.720451+00:00",
-      "last_seen_at": "2026-10-24T16:26:02.589005+00:00",
+      "last_seen_at": "2026-10-25T16:57:04.746978+00:00",
       "lead_hours": 149,
       "source_trail": [
         {
@@ -732,7 +691,7 @@
       "source_name": "Resy Experiences · Miami",
       "source_url": "https://resy.com/cities/miami-fl/events",
       "first_seen_at": "2026-10-22T17:50:29.720532+00:00",
-      "last_seen_at": "2026-10-24T16:26:02.589005+00:00",
+      "last_seen_at": "2026-10-25T16:57:04.746978+00:00",
       "lead_hours": 172,
       "source_trail": [
         {
@@ -773,7 +732,7 @@
       "source_name": "Resy Experiences · Miami",
       "source_url": "https://resy.com/cities/miami-fl/events",
       "first_seen_at": "2026-10-23T17:40:43.056857+00:00",
-      "last_seen_at": "2026-10-24T16:26:02.589005+00:00",
+      "last_seen_at": "2026-10-25T16:57:04.746978+00:00",
       "lead_hours": 149,
       "source_trail": [
         {
@@ -781,6 +740,47 @@
           "source_name": "Resy Experiences · Miami",
           "seen_at": "2026-10-23T17:40:43.056857+00:00",
           "url": "https://resy.com/cities/miami-fl/events/sake-dinner-at-babette-2026-10-29-6"
+        }
+      ]
+    },
+    {
+      "id": "c6ae3615388f6baf595ca00db05d6d6e54ed343b",
+      "title": "Scary Fish: Vampire Tide Halloween Dinner",
+      "summary": "**Saturday, October 31st**\n\n**7pm - 2am**\n\n**$150 per person Minimum Spend  + Tax & Service Charge**\n\n\n\nJoin us from 7pm for a Halloween dinner experience, where our à la carte menu of Sexy Fish signatures meets a world of gothic glamour and after-dark spectacle. For Halloween, Sexy Fish takes on a darker persona, transforming the room into a seductive world of after-dark intrigue, where otherworldly characters, striking costumes and theatrical performances set the stage for an evening of dark d",
+      "starts_at": "2026-10-31T20:00:00-04:00",
+      "ends_at": "2026-10-31T22:00:00-04:00",
+      "all_day": false,
+      "venue": "Sexy Fish - Miami",
+      "neighborhood": "Miami",
+      "city": "Miami",
+      "url": "https://resy.com/cities/miami-fl/events/scary-fish-vampire-tide-halloween-dinner-2026-10-31-6",
+      "rsvp_url": "https://resy.com/cities/miami-fl/events/scary-fish-vampire-tide-halloween-dinner-2026-10-31-6",
+      "image_url": "https://image.resy.com/3/003/2/69602/bb7fb759f7907cfd8dc46e6a37a6c10cd523b23e/jpg/640x360",
+      "access": "registration",
+      "industry": "culinary",
+      "categories": [
+        "culinary",
+        "hospitality"
+      ],
+      "access_tip": "Book on Resy as soon as listings drop — guest-chef nights often sell out the same week.",
+      "contact_url": "https://resy.com/cities/miami-fl/events",
+      "contact_email": null,
+      "ask_for": "Restaurant events team via Resy",
+      "score": 100,
+      "confidence": 0.9,
+      "why_it_matters": "Listed on Resy Experiences — book before hotel calendars catch it — luxury / hospitality keywords — at Sexy Fish - Miami",
+      "source_id": "resy_experiences",
+      "source_name": "Resy Experiences · Miami",
+      "source_url": "https://resy.com/cities/miami-fl/events",
+      "first_seen_at": "2026-10-25T16:56:48.817882+00:00",
+      "last_seen_at": "2026-10-25T16:57:04.746978+00:00",
+      "lead_hours": 151,
+      "source_trail": [
+        {
+          "source_id": "resy_experiences",
+          "source_name": "Resy Experiences · Miami",
+          "seen_at": "2026-10-25T16:56:48.817882+00:00",
+          "url": "https://resy.com/cities/miami-fl/events/scary-fish-vampire-tide-halloween-dinner-2026-10-31-6"
         }
       ]
     },
@@ -814,7 +814,7 @@
       "source_name": "Resy Experiences · Miami",
       "source_url": "https://resy.com/cities/miami-fl/events",
       "first_seen_at": "2026-10-23T17:40:43.057161+00:00",
-      "last_seen_at": "2026-10-24T16:26:02.589005+00:00",
+      "last_seen_at": "2026-10-25T16:57:04.746978+00:00",
       "lead_hours": 219,
       "source_trail": [
         {
@@ -856,7 +856,7 @@
       "source_name": "The Backgammon Society",
       "source_url": "https://www.thebackgammonsociety.com/",
       "first_seen_at": "2026-10-23T17:40:48.777626+00:00",
-      "last_seen_at": "2026-10-24T16:26:02.589005+00:00",
+      "last_seen_at": "2026-10-25T16:57:04.746978+00:00",
       "lead_hours": 462,
       "source_trail": [
         {
@@ -898,7 +898,7 @@
       "source_name": "Eater Miami",
       "source_url": "https://miami.eater.com/rss/index.xml",
       "first_seen_at": "2026-10-12T21:28:12.732047+00:00",
-      "last_seen_at": "2026-10-24T16:26:02.589005+00:00",
+      "last_seen_at": "2026-10-25T16:57:04.746978+00:00",
       "lead_hours": null,
       "source_trail": [
         {
@@ -939,7 +939,7 @@
       "source_name": "Haute Living",
       "source_url": "https://hauteliving.com/feed/",
       "first_seen_at": "2026-10-20T17:44:49.274446+00:00",
-      "last_seen_at": "2026-10-24T16:26:02.589005+00:00",
+      "last_seen_at": "2026-10-25T16:57:04.746978+00:00",
       "lead_hours": null,
       "source_trail": [
         {
@@ -947,6 +947,47 @@
           "source_name": "Haute Living",
           "seen_at": "2026-10-20T17:44:49.274446+00:00",
           "url": "https://hauteliving.com/2026/10/instamall-same-day-luxury-fashion-delivery-miami/800102/"
+        }
+      ]
+    },
+    {
+      "id": "8a5f46728504358dc88b0307fa64fbb0bd6b2e1f",
+      "title": "Flying Private to Art Basel Miami Beach 2026: The Insider’s Arrival Guide",
+      "summary": "Art Basel Miami Beach returns December 4–6, 2026. Here’s how collectors fly private into OPF, MIA, FLL and TMB, and how to plan the week with ease. The post Flying Private to Art Basel Miami Beach 2026: The Insider’s Arrival Guide appeared first on Haute Living .",
+      "starts_at": null,
+      "ends_at": null,
+      "all_day": false,
+      "venue": "",
+      "neighborhood": "Miami Beach",
+      "city": "Miami",
+      "url": "https://hauteliving.com/2026/10/art-basel-miami-beach-2026-flying-private/800623/",
+      "rsvp_url": "https://hauteliving.com/2026/10/art-basel-miami-beach-2026-flying-private/800623/",
+      "image_url": null,
+      "access": "public",
+      "industry": "art_fashion",
+      "categories": [
+        "editorial",
+        "luxury"
+      ],
+      "access_tip": "Open the official source for current admission details. Reserve early if a booking option is shown.",
+      "contact_url": "https://hauteliving.com/2026/10/art-basel-miami-beach-2026-flying-private/800623/",
+      "contact_email": null,
+      "ask_for": "The named event host, brand publicist, or venue communications team in the source article",
+      "score": 78,
+      "confidence": 0.6,
+      "why_it_matters": "Early editorial signal from Haute Living — luxury / hospitality keywords",
+      "source_id": "haute_living",
+      "source_name": "Haute Living",
+      "source_url": "https://hauteliving.com/feed/",
+      "first_seen_at": "2026-10-25T16:56:44.392555+00:00",
+      "last_seen_at": "2026-10-25T16:57:04.746978+00:00",
+      "lead_hours": null,
+      "source_trail": [
+        {
+          "source_id": "haute_living",
+          "source_name": "Haute Living",
+          "seen_at": "2026-10-25T16:56:44.392555+00:00",
+          "url": "https://hauteliving.com/2026/10/art-basel-miami-beach-2026-flying-private/800623/"
         }
       ]
     },
@@ -980,7 +1021,7 @@
       "source_name": "The Standard Spa Miami Beach",
       "source_url": "https://www.standardhotels.com/happenings",
       "first_seen_at": "2026-10-12T21:28:16.473785+00:00",
-      "last_seen_at": "2026-10-24T16:26:02.589005+00:00",
+      "last_seen_at": "2026-10-25T16:57:04.746978+00:00",
       "lead_hours": 402,
       "source_trail": [
         {
@@ -1021,7 +1062,7 @@
       "source_name": "American Hotel & Lodging Association",
       "source_url": "https://www.ahla.com/events",
       "first_seen_at": "2026-09-21T18:23:11.274534+00:00",
-      "last_seen_at": "2026-10-24T16:26:02.589005+00:00",
+      "last_seen_at": "2026-10-25T16:57:04.746978+00:00",
       "lead_hours": 989,
       "source_trail": [
         {
@@ -1063,7 +1104,7 @@
       "source_name": "The Backgammon Society",
       "source_url": "https://www.thebackgammonsociety.com/",
       "first_seen_at": "2026-10-23T17:40:48.775095+00:00",
-      "last_seen_at": "2026-10-24T16:26:02.589005+00:00",
+      "last_seen_at": "2026-10-25T16:57:04.746978+00:00",
       "lead_hours": 125,
       "source_trail": [
         {
@@ -1104,7 +1145,7 @@
       "source_name": "The Standard Spa Miami Beach",
       "source_url": "https://www.standardhotels.com/happenings",
       "first_seen_at": "2026-09-28T19:54:26.136451+00:00",
-      "last_seen_at": "2026-10-24T16:26:02.589005+00:00",
+      "last_seen_at": "2026-10-25T16:57:04.746978+00:00",
       "lead_hours": 1053,
       "source_trail": [
         {
@@ -1146,7 +1187,7 @@
       "source_name": "Backgammon Social Miami",
       "source_url": "https://luma.com/backgammonsocialmiami",
       "first_seen_at": "2026-10-22T17:50:30.191315+00:00",
-      "last_seen_at": "2026-10-24T16:26:02.589005+00:00",
+      "last_seen_at": "2026-10-25T16:57:04.746978+00:00",
       "lead_hours": 173,
       "source_trail": [
         {
@@ -1187,7 +1228,7 @@
       "source_name": "The Standard Spa Miami Beach",
       "source_url": "https://www.standardhotels.com/happenings",
       "first_seen_at": "2026-10-22T17:50:29.688294+00:00",
-      "last_seen_at": "2026-10-24T16:26:02.589005+00:00",
+      "last_seen_at": "2026-10-25T16:57:04.746978+00:00",
       "lead_hours": 214,
       "source_trail": [
         {
@@ -1228,7 +1269,7 @@
       "source_name": "World Red Eye",
       "source_url": "https://worldredeye.com/feed/",
       "first_seen_at": "2026-10-23T17:40:35.115596+00:00",
-      "last_seen_at": "2026-10-24T16:26:02.589005+00:00",
+      "last_seen_at": "2026-10-25T16:57:04.746978+00:00",
       "lead_hours": null,
       "source_trail": [
         {
@@ -1270,7 +1311,7 @@
       "source_name": "Backgammon Social Miami",
       "source_url": "https://luma.com/backgammonsocialmiami",
       "first_seen_at": "2026-10-23T17:40:42.979190+00:00",
-      "last_seen_at": "2026-10-24T16:26:02.589005+00:00",
+      "last_seen_at": "2026-10-25T16:57:04.746978+00:00",
       "lead_hours": 774,
       "source_trail": [
         {
@@ -1282,10 +1323,10 @@
       ]
     },
     {
-      "id": "d531848f2a6e6a86246879f150acc626592df625",
+      "id": "4dfa1cead0023d442ad7afb1e0ef38c4731a532b",
       "title": "View our Event Calendar",
       "summary": "Home » Resort Home » View our Event Calendar » October 2026",
-      "starts_at": "2026-10-24T00:00:00+00:00",
+      "starts_at": "2026-10-25T00:00:00+00:00",
       "ends_at": null,
       "all_day": false,
       "venue": "",
@@ -1309,14 +1350,14 @@
       "source_id": "loews_miami",
       "source_name": "Loews Miami Beach",
       "source_url": "https://www.loewshotels.com/miami-beach/event-calendar",
-      "first_seen_at": "2026-10-24T16:25:40.721246+00:00",
-      "last_seen_at": "2026-10-24T16:26:02.589005+00:00",
+      "first_seen_at": "2026-10-25T16:56:42.748700+00:00",
+      "last_seen_at": "2026-10-25T16:57:04.746978+00:00",
       "lead_hours": -17,
       "source_trail": [
         {
           "source_id": "loews_miami",
           "source_name": "Loews Miami Beach",
-          "seen_at": "2026-10-24T16:25:40.721246+00:00",
+          "seen_at": "2026-10-25T16:56:42.748700+00:00",
           "url": "https://www.loewshotels.com/miami-beach/event-calendar"
         }
       ]
