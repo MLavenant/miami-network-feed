@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T16:57:19.889082+00:00",
+  "generated_at": "2026-10-26T19:01:17.725330+00:00",
   "timezone": "America/New_York",
   "version": 1,
   "event_count": 19,
@@ -583,8 +583,8 @@
       "id": "991e9fb410e9bc871542b8f964aaf7c3949805d1",
       "title": "PALME | Tasting Experience",
       "summary": "*PALME* is a love letter from Italy to Florida, created by Executive Chef Bernardo Paladini under Massimo Bottura’s vision. The menu brings Italian craftsmanship together with the tropical and Latin flavors of Miami’s vibrant local culture.\n\n\n\nDiscover Florida stone crab through Venice’s sweet-and-sour saor, Sardinian fregola with Key West pink shrimp, and handmade tortellini that carry the warmth of Modena. From playful opening bites to Wagyu and a bright Florida citrus finale, each course reve",
-      "starts_at": "2026-10-26T12:30:00-04:00",
-      "ends_at": "2026-10-26T14:30:00-04:00",
+      "starts_at": "2026-10-26T18:00:00-04:00",
+      "ends_at": "2026-10-26T20:00:00-04:00",
       "all_day": false,
       "venue": "Torno Subito",
       "neighborhood": "Miami",
@@ -609,8 +609,8 @@
       "source_name": "Resy Experiences · Miami",
       "source_url": "https://resy.com/cities/miami-fl/events",
       "first_seen_at": "2026-10-25T16:56:48.817269+00:00",
-      "last_seen_at": "2026-10-25T16:57:04.746978+00:00",
-      "lead_hours": 23,
+      "last_seen_at": "2026-10-26T19:01:03.787774+00:00",
+      "lead_hours": 29,
       "source_trail": [
         {
           "source_id": "resy_experiences",
@@ -650,7 +650,7 @@
       "source_name": "Resy Experiences · Miami",
       "source_url": "https://resy.com/cities/miami-fl/events",
       "first_seen_at": "2026-10-22T17:50:29.720451+00:00",
-      "last_seen_at": "2026-10-25T16:57:04.746978+00:00",
+      "last_seen_at": "2026-10-26T19:01:03.787774+00:00",
       "lead_hours": 149,
       "source_trail": [
         {
@@ -691,7 +691,7 @@
       "source_name": "Resy Experiences · Miami",
       "source_url": "https://resy.com/cities/miami-fl/events",
       "first_seen_at": "2026-10-22T17:50:29.720532+00:00",
-      "last_seen_at": "2026-10-25T16:57:04.746978+00:00",
+      "last_seen_at": "2026-10-26T19:01:03.787774+00:00",
       "lead_hours": 172,
       "source_trail": [
         {
@@ -732,7 +732,7 @@
       "source_name": "Resy Experiences · Miami",
       "source_url": "https://resy.com/cities/miami-fl/events",
       "first_seen_at": "2026-10-23T17:40:43.056857+00:00",
-      "last_seen_at": "2026-10-25T16:57:04.746978+00:00",
+      "last_seen_at": "2026-10-26T19:01:03.787774+00:00",
       "lead_hours": 149,
       "source_trail": [
         {
@@ -773,7 +773,7 @@
       "source_name": "Resy Experiences · Miami",
       "source_url": "https://resy.com/cities/miami-fl/events",
       "first_seen_at": "2026-10-25T16:56:48.817882+00:00",
-      "last_seen_at": "2026-10-25T16:57:04.746978+00:00",
+      "last_seen_at": "2026-10-26T19:01:03.787774+00:00",
       "lead_hours": 151,
       "source_trail": [
         {
@@ -814,7 +814,7 @@
       "source_name": "Resy Experiences · Miami",
       "source_url": "https://resy.com/cities/miami-fl/events",
       "first_seen_at": "2026-10-23T17:40:43.057161+00:00",
-      "last_seen_at": "2026-10-25T16:57:04.746978+00:00",
+      "last_seen_at": "2026-10-26T19:01:03.787774+00:00",
       "lead_hours": 219,
       "source_trail": [
         {
@@ -848,7 +848,7 @@
       "access_tip": "Register on the official Backgammon Society tournament page. For members-club venues, ask the tournament host and the venue membership or concierge team.",
       "contact_url": "https://www.thebackgammonsociety.com/",
       "contact_email": null,
-      "ask_for": "The Backgammon Society Miami tournament host; for club venues, the venue membership or concierge team",
+      "ask_for": "The Backgammon Society",
       "score": 92,
       "confidence": 0.9,
       "why_it_matters": "From The Backgammon Society — members access — luxury / hospitality keywords — at Soho Beach House",
@@ -856,7 +856,7 @@
       "source_name": "The Backgammon Society",
       "source_url": "https://www.thebackgammonsociety.com/",
       "first_seen_at": "2026-10-23T17:40:48.777626+00:00",
-      "last_seen_at": "2026-10-25T16:57:04.746978+00:00",
+      "last_seen_at": "2026-10-26T19:01:03.787774+00:00",
       "lead_hours": 462,
       "source_trail": [
         {
@@ -864,6 +864,48 @@
           "source_name": "The Backgammon Society",
           "seen_at": "2026-10-23T17:40:48.777626+00:00",
           "url": "https://www.thebackgammonsociety.com/tournaments/miami/soho-beach-house-nov11"
+        }
+      ]
+    },
+    {
+      "id": "197142b2453c10f4710ea9ed89b4270dc8291fe8",
+      "title": "Challahween Shabbat Dinner",
+      "summary": "",
+      "starts_at": "2026-10-30T20:00:00-04:00",
+      "ends_at": "2026-10-30T23:00:00-04:00",
+      "all_day": false,
+      "venue": "BeyBey Miami Beach",
+      "neighborhood": "Miami Beach",
+      "city": "Miami Beach",
+      "url": "https://luma.com/igyn2r1j",
+      "rsvp_url": "https://luma.com/igyn2r1j",
+      "image_url": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/uploads/ps/0d47f56c-3988-4f21-9ad8-5c7d74110700.png",
+      "access": "public",
+      "industry": "culinary",
+      "categories": [
+        "culinary",
+        "hospitality",
+        "networking"
+      ],
+      "access_tip": "Chef collabs and restaurant pop-ups often sell out same-day — reserve on Luma or call the venue directly.",
+      "contact_url": null,
+      "contact_email": null,
+      "ask_for": "Challah Baby",
+      "score": 88,
+      "confidence": 0.8,
+      "why_it_matters": "From Luma Miami · Food & Chef — at BeyBey Miami Beach",
+      "source_id": "luma_culinary_miami",
+      "source_name": "Luma Miami · Food & Chef",
+      "source_url": "https://luma.com/miami",
+      "first_seen_at": "2026-10-26T19:00:32.405099+00:00",
+      "last_seen_at": "2026-10-26T19:01:03.787774+00:00",
+      "lead_hours": 100,
+      "source_trail": [
+        {
+          "source_id": "luma_culinary_miami",
+          "source_name": "Luma Miami · Food & Chef",
+          "seen_at": "2026-10-26T19:00:32.405099+00:00",
+          "url": "https://luma.com/igyn2r1j"
         }
       ]
     },
@@ -898,7 +940,7 @@
       "source_name": "Eater Miami",
       "source_url": "https://miami.eater.com/rss/index.xml",
       "first_seen_at": "2026-10-12T21:28:12.732047+00:00",
-      "last_seen_at": "2026-10-25T16:57:04.746978+00:00",
+      "last_seen_at": "2026-10-26T19:01:03.787774+00:00",
       "lead_hours": null,
       "source_trail": [
         {
@@ -939,7 +981,7 @@
       "source_name": "Haute Living",
       "source_url": "https://hauteliving.com/feed/",
       "first_seen_at": "2026-10-20T17:44:49.274446+00:00",
-      "last_seen_at": "2026-10-25T16:57:04.746978+00:00",
+      "last_seen_at": "2026-10-26T19:01:03.787774+00:00",
       "lead_hours": null,
       "source_trail": [
         {
@@ -980,7 +1022,7 @@
       "source_name": "Haute Living",
       "source_url": "https://hauteliving.com/feed/",
       "first_seen_at": "2026-10-25T16:56:44.392555+00:00",
-      "last_seen_at": "2026-10-25T16:57:04.746978+00:00",
+      "last_seen_at": "2026-10-26T19:01:03.787774+00:00",
       "lead_hours": null,
       "source_trail": [
         {
@@ -1021,7 +1063,7 @@
       "source_name": "The Standard Spa Miami Beach",
       "source_url": "https://www.standardhotels.com/happenings",
       "first_seen_at": "2026-10-12T21:28:16.473785+00:00",
-      "last_seen_at": "2026-10-25T16:57:04.746978+00:00",
+      "last_seen_at": "2026-10-26T19:01:03.787774+00:00",
       "lead_hours": 402,
       "source_trail": [
         {
@@ -1055,14 +1097,14 @@
       "contact_url": "https://www.ahla.com/events",
       "contact_email": null,
       "ask_for": "",
-      "score": 69,
+      "score": 75,
       "confidence": 0.7,
       "why_it_matters": "From American Hotel & Lodging Association — networking keywords",
       "source_id": "ahla",
       "source_name": "American Hotel & Lodging Association",
       "source_url": "https://www.ahla.com/events",
       "first_seen_at": "2026-09-21T18:23:11.274534+00:00",
-      "last_seen_at": "2026-10-25T16:57:04.746978+00:00",
+      "last_seen_at": "2026-10-26T19:01:03.787774+00:00",
       "lead_hours": 989,
       "source_trail": [
         {
@@ -1096,7 +1138,7 @@
       "access_tip": "Register on the official Backgammon Society tournament page. For members-club venues, ask the tournament host and the venue membership or concierge team.",
       "contact_url": "https://www.thebackgammonsociety.com/",
       "contact_email": null,
-      "ask_for": "The Backgammon Society Miami tournament host; for club venues, the venue membership or concierge team",
+      "ask_for": "The Backgammon Society",
       "score": 68,
       "confidence": 0.8,
       "why_it_matters": "From The Backgammon Society — at Esme Rooftop",
@@ -1104,7 +1146,7 @@
       "source_name": "The Backgammon Society",
       "source_url": "https://www.thebackgammonsociety.com/",
       "first_seen_at": "2026-10-23T17:40:48.775095+00:00",
-      "last_seen_at": "2026-10-25T16:57:04.746978+00:00",
+      "last_seen_at": "2026-10-26T19:01:03.787774+00:00",
       "lead_hours": 125,
       "source_trail": [
         {
@@ -1145,7 +1187,7 @@
       "source_name": "The Standard Spa Miami Beach",
       "source_url": "https://www.standardhotels.com/happenings",
       "first_seen_at": "2026-09-28T19:54:26.136451+00:00",
-      "last_seen_at": "2026-10-25T16:57:04.746978+00:00",
+      "last_seen_at": "2026-10-26T19:01:03.787774+00:00",
       "lead_hours": 1053,
       "source_trail": [
         {
@@ -1153,6 +1195,48 @@
           "source_name": "The Standard Spa Miami Beach",
           "seen_at": "2026-09-28T19:54:26.136451+00:00",
           "url": "https://www.standardhotels.com/miami/happenings/aura-photography"
+        }
+      ]
+    },
+    {
+      "id": "9ae36d3cae7069dd51a21b823e3ba70e310de3c1",
+      "title": "Backgammon Social x The Moore - Tournament Night",
+      "summary": "",
+      "starts_at": "2026-11-19T19:00:00-05:00",
+      "ends_at": "2026-11-19T23:00:00-05:00",
+      "all_day": false,
+      "venue": "4040 NE 2nd Ave, Miami, FL 33137, USA",
+      "neighborhood": "Miami",
+      "city": "Miami",
+      "url": "https://luma.com/backga-jzo8",
+      "rsvp_url": "https://luma.com/backga-jzo8",
+      "image_url": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/api-uploads/0a/b0a5d9a2-1342-4cfa-89d5-a5bc15db698e.jpg",
+      "access": "public",
+      "industry": "sports",
+      "categories": [
+        "hospitality",
+        "networking",
+        "sports"
+      ],
+      "access_tip": "Register through the official Backgammon Social Miami Luma calendar. The event co-host shown on the event page is the correct person to request.",
+      "contact_url": "https://luma.com/backgammonsocialmiami",
+      "contact_email": null,
+      "ask_for": "Backgammon Social, Catherine Manley, Lydia Menendez",
+      "score": 66,
+      "confidence": 0.9,
+      "why_it_matters": "From Backgammon Social Miami — luxury / hospitality keywords — at 4040 NE 2nd Ave, Miami, FL 33137, USA",
+      "source_id": "backgammon_social_miami",
+      "source_name": "Backgammon Social Miami",
+      "source_url": "https://luma.com/backgammonsocialmiami",
+      "first_seen_at": "2026-10-26T19:00:33.733949+00:00",
+      "last_seen_at": "2026-10-26T19:01:03.787774+00:00",
+      "lead_hours": 580,
+      "source_trail": [
+        {
+          "source_id": "backgammon_social_miami",
+          "source_name": "Backgammon Social Miami",
+          "seen_at": "2026-10-26T19:00:33.733949+00:00",
+          "url": "https://luma.com/backga-jzo8"
         }
       ]
     },
@@ -1187,7 +1271,7 @@
       "source_name": "Backgammon Social Miami",
       "source_url": "https://luma.com/backgammonsocialmiami",
       "first_seen_at": "2026-10-22T17:50:30.191315+00:00",
-      "last_seen_at": "2026-10-25T16:57:04.746978+00:00",
+      "last_seen_at": "2026-10-26T19:01:03.787774+00:00",
       "lead_hours": 173,
       "source_trail": [
         {
@@ -1228,7 +1312,7 @@
       "source_name": "The Standard Spa Miami Beach",
       "source_url": "https://www.standardhotels.com/happenings",
       "first_seen_at": "2026-10-22T17:50:29.688294+00:00",
-      "last_seen_at": "2026-10-25T16:57:04.746978+00:00",
+      "last_seen_at": "2026-10-26T19:01:03.787774+00:00",
       "lead_hours": 214,
       "source_trail": [
         {
@@ -1240,125 +1324,43 @@
       ]
     },
     {
-      "id": "a90ccde7f452e828d9bf2ea66afdc851ae3ad3e9",
-      "title": "TikTok Hosts Industry Executive Event During Billboard Latin Music Week at Gekkō",
-      "summary": "Miami, FL - October 21, 2026 - Last night, TikTok hosted an exclusive industry executive gathering at Gekkō during Billboard Latin Music Week. Guests from across music and entertainment came together over dinner and drinks at Gekkō Lounge. The post TikTok Hosts Industry Executive Event During Billboard Latin Music Week at Gekkō appeared first on World Red Eye .",
-      "starts_at": null,
-      "ends_at": null,
-      "all_day": false,
-      "venue": "",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://worldredeye.com/2026/10/tiktok-hosts-industry-executive-event-during-billboard-latin-music-week-at-gekko/",
-      "rsvp_url": "https://worldredeye.com/2026/10/tiktok-hosts-industry-executive-event-during-billboard-latin-music-week-at-gekko/",
-      "image_url": null,
-      "access": "public",
-      "industry": "culinary",
-      "categories": [
-        "editorial",
-        "nightlife"
-      ],
-      "access_tip": "Open the official source for current admission details. Reserve early if a booking option is shown.",
-      "contact_url": "https://worldredeye.com/2026/10/tiktok-hosts-industry-executive-event-during-billboard-latin-music-week-at-gekko/",
-      "contact_email": null,
-      "ask_for": "The host or sponsor named in the World Red Eye article",
-      "score": 55,
-      "confidence": 0.5,
-      "why_it_matters": "World Red Eye coverage (often same-day / post-event)",
-      "source_id": "world_red_eye",
-      "source_name": "World Red Eye",
-      "source_url": "https://worldredeye.com/feed/",
-      "first_seen_at": "2026-10-23T17:40:35.115596+00:00",
-      "last_seen_at": "2026-10-25T16:57:04.746978+00:00",
-      "lead_hours": null,
-      "source_trail": [
-        {
-          "source_id": "world_red_eye",
-          "source_name": "World Red Eye",
-          "seen_at": "2026-10-23T17:40:35.115596+00:00",
-          "url": "https://worldredeye.com/2026/10/tiktok-hosts-industry-executive-event-during-billboard-latin-music-week-at-gekko/"
-        }
-      ]
-    },
-    {
-      "id": "df312f131c1d0d8996a9e682900e96bf71591edc",
-      "title": "Backgammon Social x The Shelborne",
+      "id": "e967fea3512d4b619a9e18f5fdde20dbe9b591dd",
+      "title": "MIAMI ART WEEK | EXHIBITION OPENING RECEPTION",
       "summary": "",
-      "starts_at": "2026-11-24T19:00:00-05:00",
-      "ends_at": "2026-11-24T22:00:00-05:00",
-      "all_day": false,
-      "venue": "1801 Collins Ave, Miami Beach, FL 33139, USA",
-      "neighborhood": "Miami Beach",
-      "city": "Miami",
-      "url": "https://luma.com/backga-bjzu",
-      "rsvp_url": "https://luma.com/backga-bjzu",
-      "image_url": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/api-uploads/d0/b4c95a0c-d290-4832-9187-68311092e03c.jpg",
-      "access": "public",
-      "industry": "sports",
-      "categories": [
-        "hospitality",
-        "networking",
-        "sports"
-      ],
-      "access_tip": "Register through the official Backgammon Social Miami Luma calendar. The event co-host shown on the event page is the correct person to request.",
-      "contact_url": "https://luma.com/backgammonsocialmiami",
-      "contact_email": null,
-      "ask_for": "Backgammon Social",
-      "score": 52,
-      "confidence": 0.8,
-      "why_it_matters": "From Backgammon Social Miami — at 1801 Collins Ave, Miami Beach, FL 33139, USA",
-      "source_id": "backgammon_social_miami",
-      "source_name": "Backgammon Social Miami",
-      "source_url": "https://luma.com/backgammonsocialmiami",
-      "first_seen_at": "2026-10-23T17:40:42.979190+00:00",
-      "last_seen_at": "2026-10-25T16:57:04.746978+00:00",
-      "lead_hours": 774,
-      "source_trail": [
-        {
-          "source_id": "backgammon_social_miami",
-          "source_name": "Backgammon Social Miami",
-          "seen_at": "2026-10-23T17:40:42.979190+00:00",
-          "url": "https://luma.com/backga-bjzu"
-        }
-      ]
-    },
-    {
-      "id": "4dfa1cead0023d442ad7afb1e0ef38c4731a532b",
-      "title": "View our Event Calendar",
-      "summary": "Home » Resort Home » View our Event Calendar » October 2026",
-      "starts_at": "2026-10-25T00:00:00+00:00",
-      "ends_at": null,
+      "starts_at": "2026-12-02T18:00:00-08:00",
+      "ends_at": "2026-12-02T22:00:00-08:00",
       "all_day": false,
       "venue": "",
       "neighborhood": "Miami",
       "city": "Miami",
-      "url": "https://www.loewshotels.com/miami-beach/event-calendar",
-      "rsvp_url": "https://www.loewshotels.com/miami-beach/event-calendar",
+      "url": "https://thebass.org/event/miami-art-week-exhibition-opening-reception/",
+      "rsvp_url": "https://thebass.org/event/miami-art-week-exhibition-opening-reception/",
       "image_url": null,
       "access": "public",
-      "industry": "hospitality",
+      "industry": "art_fashion",
       "categories": [
-        "hospitality"
+        "art",
+        "culture"
       ],
       "access_tip": "Open the official source for current admission details. Reserve early if a booking option is shown.",
-      "contact_url": "https://www.loewshotels.com/miami-beach/event-calendar",
+      "contact_url": "https://thebass.org/event/miami-art-week-exhibition-opening-reception/",
       "contact_email": null,
-      "ask_for": "",
-      "score": 42,
-      "confidence": 0.7,
-      "why_it_matters": "From Loews Miami Beach",
-      "source_id": "loews_miami",
-      "source_name": "Loews Miami Beach",
-      "source_url": "https://www.loewshotels.com/miami-beach/event-calendar",
-      "first_seen_at": "2026-10-25T16:56:42.748700+00:00",
-      "last_seen_at": "2026-10-25T16:57:04.746978+00:00",
-      "lead_hours": -17,
+      "ask_for": "The Bass Membership or Development Team for private dinners and patron previews",
+      "score": 58,
+      "confidence": 0.9,
+      "why_it_matters": "From The Bass — luxury + networking keywords",
+      "source_id": "the_bass",
+      "source_name": "The Bass",
+      "source_url": "https://thebass.org/events/?ical=1",
+      "first_seen_at": "2026-10-26T19:00:25.816750+00:00",
+      "last_seen_at": "2026-10-26T19:01:03.787774+00:00",
+      "lead_hours": 894,
       "source_trail": [
         {
-          "source_id": "loews_miami",
-          "source_name": "Loews Miami Beach",
-          "seen_at": "2026-10-25T16:56:42.748700+00:00",
-          "url": "https://www.loewshotels.com/miami-beach/event-calendar"
+          "source_id": "the_bass",
+          "source_name": "The Bass",
+          "seen_at": "2026-10-26T19:00:25.816750+00:00",
+          "url": "https://thebass.org/event/miami-art-week-exhibition-opening-reception/"
         }
       ]
     }
