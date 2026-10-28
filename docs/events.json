@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-27T18:33:18.891509+00:00",
+  "generated_at": "2026-10-28T18:39:18.351685+00:00",
   "timezone": "America/New_York",
   "version": 1,
-  "event_count": 23,
+  "event_count": 24,
   "industries": [
     "hospitality",
     "sports",
@@ -580,17 +580,17 @@
   ],
   "events": [
     {
-      "id": "d66d9764ddd7177be6b826c7e98b62c38cf04643",
+      "id": "ab7aafba6f728a4d472854f588e4152fb20e7ba4",
       "title": "PALME | Tasting Experience",
       "summary": "*PALME* is a love letter from Italy to Florida, created by Executive Chef Bernardo Paladini under Massimo Bottura’s vision. The menu brings Italian craftsmanship together with the tropical and Latin flavors of Miami’s vibrant local culture.\n\n\n\nDiscover Florida stone crab through Venice’s sweet-and-sour saor, Sardinian fregola with Key West pink shrimp, and handmade tortellini that carry the warmth of Modena. From playful opening bites to Wagyu and a bright Florida citrus finale, each course reve",
-      "starts_at": "2026-10-27T18:00:00-04:00",
-      "ends_at": "2026-10-27T20:00:00-04:00",
+      "starts_at": "2026-10-28T18:00:00-04:00",
+      "ends_at": "2026-10-28T20:00:00-04:00",
       "all_day": false,
       "venue": "Torno Subito",
       "neighborhood": "Miami",
       "city": "Miami",
-      "url": "https://resy.com/cities/miami-fl/events/palme-tasting-experience-2026-10-27-6",
-      "rsvp_url": "https://resy.com/cities/miami-fl/events/palme-tasting-experience-2026-10-27-6",
+      "url": "https://resy.com/cities/miami-fl/events/palme-tasting-experience-2026-10-28-6",
+      "rsvp_url": "https://resy.com/cities/miami-fl/events/palme-tasting-experience-2026-10-28-6",
       "image_url": "https://image.resy.com/3/003/2/94271/3dad403e4e74a3ddedbb65a1ee6a7d8e58a46fbf/jpg/640x360",
       "access": "registration",
       "industry": "culinary",
@@ -608,15 +608,15 @@
       "source_id": "resy_experiences",
       "source_name": "Resy Experiences · Miami",
       "source_url": "https://resy.com/cities/miami-fl/events",
-      "first_seen_at": "2026-10-27T18:32:49.637150+00:00",
-      "last_seen_at": "2026-10-27T18:33:03.566355+00:00",
+      "first_seen_at": "2026-10-28T18:38:47.852797+00:00",
+      "last_seen_at": "2026-10-28T18:39:03.202187+00:00",
       "lead_hours": 3,
       "source_trail": [
         {
           "source_id": "resy_experiences",
           "source_name": "Resy Experiences · Miami",
-          "seen_at": "2026-10-27T18:32:49.637150+00:00",
-          "url": "https://resy.com/cities/miami-fl/events/palme-tasting-experience-2026-10-27-6"
+          "seen_at": "2026-10-28T18:38:47.852797+00:00",
+          "url": "https://resy.com/cities/miami-fl/events/palme-tasting-experience-2026-10-28-6"
         }
       ]
     },
@@ -625,7 +625,7 @@
       "title": "La Scolca Wine Dinner",
       "summary": "**LA SCOLCA WINE DINNER**\n**October 28 | 7:00 PM**\n\n*La Scolca is one of the most historic and prestigious wineries in Piedmont, Italy, widely celebrated as the birthplace and ultimate benchmark producer of Gavi dei Gavi. Founded between 1917 and 1919 by the Soldati family, the estate is currently managed by its fifth generation. It revolutionized the region by uprooting red grapes to plant Cortese, proving that Piedmont could produce white wines with the complexity, crispness, and aging potenti",
       "starts_at": "2026-10-28T19:00:00-04:00",
-      "ends_at": "2026-10-28T21:00:00-04:00",
+      "ends_at": "2026-10-28T19:30:00-04:00",
       "all_day": false,
       "venue": "Macchialina Taverna Rustica",
       "neighborhood": "Miami Beach",
@@ -650,7 +650,7 @@
       "source_name": "Resy Experiences · Miami",
       "source_url": "https://resy.com/cities/miami-fl/events",
       "first_seen_at": "2026-10-22T17:50:29.720451+00:00",
-      "last_seen_at": "2026-10-27T18:33:03.566355+00:00",
+      "last_seen_at": "2026-10-28T18:39:03.202187+00:00",
       "lead_hours": 149,
       "source_trail": [
         {
@@ -691,7 +691,7 @@
       "source_name": "Resy Experiences · Miami",
       "source_url": "https://resy.com/cities/miami-fl/events",
       "first_seen_at": "2026-10-22T17:50:29.720532+00:00",
-      "last_seen_at": "2026-10-27T18:33:03.566355+00:00",
+      "last_seen_at": "2026-10-28T18:39:03.202187+00:00",
       "lead_hours": 172,
       "source_trail": [
         {
@@ -699,6 +699,47 @@
           "source_name": "Resy Experiences · Miami",
           "seen_at": "2026-10-22T17:50:29.720532+00:00",
           "url": "https://resy.com/cities/miami-fl/events/aviv-hummus-making-class-2026-10-29-6"
+        }
+      ]
+    },
+    {
+      "id": "1234d665c00161680d57899eda57f107db44656f",
+      "title": "Barceloneta Pop-Up",
+      "summary": "Spanish Mediterranean tapas, seafood, arroz, and more from a Miami Beach icon.",
+      "starts_at": "2026-10-29T18:00:00-04:00",
+      "ends_at": "2026-10-29T19:30:00-04:00",
+      "all_day": false,
+      "venue": "Lido Bayside",
+      "neighborhood": "Miami Beach",
+      "city": "Miami Beach",
+      "url": "https://resy.com/cities/miami-fl/events/barceloneta-pop-up-2026-10-29-6",
+      "rsvp_url": "https://resy.com/cities/miami-fl/events/barceloneta-pop-up-2026-10-29-6",
+      "image_url": "https://image.resy.com/3/003/2/98459/86b4cb50ebe5c044cbbaee79e0db79095709e053/jpg/640x360",
+      "access": "registration",
+      "industry": "culinary",
+      "categories": [
+        "culinary",
+        "hospitality"
+      ],
+      "access_tip": "Book on Resy as soon as listings drop — guest-chef nights often sell out the same week.",
+      "contact_url": "https://resy.com/cities/miami-fl/events",
+      "contact_email": null,
+      "ask_for": "Restaurant events team via Resy",
+      "score": 100,
+      "confidence": 0.9,
+      "why_it_matters": "Listed on Resy Experiences — book before hotel calendars catch it — luxury / hospitality keywords — at Lido Bayside",
+      "source_id": "resy_experiences",
+      "source_name": "Resy Experiences · Miami",
+      "source_url": "https://resy.com/cities/miami-fl/events",
+      "first_seen_at": "2026-10-28T18:38:47.852932+00:00",
+      "last_seen_at": "2026-10-28T18:39:03.202187+00:00",
+      "lead_hours": 27,
+      "source_trail": [
+        {
+          "source_id": "resy_experiences",
+          "source_name": "Resy Experiences · Miami",
+          "seen_at": "2026-10-28T18:38:47.852932+00:00",
+          "url": "https://resy.com/cities/miami-fl/events/barceloneta-pop-up-2026-10-29-6"
         }
       ]
     },
@@ -732,7 +773,7 @@
       "source_name": "Resy Experiences · Miami",
       "source_url": "https://resy.com/cities/miami-fl/events",
       "first_seen_at": "2026-10-23T17:40:43.056857+00:00",
-      "last_seen_at": "2026-10-27T18:33:03.566355+00:00",
+      "last_seen_at": "2026-10-28T18:39:03.202187+00:00",
       "lead_hours": 149,
       "source_trail": [
         {
@@ -773,7 +814,7 @@
       "source_name": "Resy Experiences · Miami",
       "source_url": "https://resy.com/cities/miami-fl/events",
       "first_seen_at": "2026-10-23T17:40:43.057161+00:00",
-      "last_seen_at": "2026-10-27T18:33:03.566355+00:00",
+      "last_seen_at": "2026-10-28T18:39:03.202187+00:00",
       "lead_hours": 219,
       "source_trail": [
         {
@@ -781,47 +822,6 @@
           "source_name": "Resy Experiences · Miami",
           "seen_at": "2026-10-23T17:40:43.057161+00:00",
           "url": "https://resy.com/cities/miami-fl/events/dinner-anniversary-series-1-2026-11-01-6"
-        }
-      ]
-    },
-    {
-      "id": "b698afb04a2d89a6dd36cc9419366154b4038066",
-      "title": "Flour + Water x Boia De, Presented by Resy",
-      "summary": "Boia De and Flour + Water come together to curate a special tasting menu featuring the best of both restaurants. On 10/14 at 12 p.m. ET, Global Dining Access by Resy members will have exclusive 48-hour access to this event. An eligible American Express® Card must be on your Resy profile to unlock. Terms apply.\n\nMust be 21+ to drink alcohol. Please drink responsibly. \n\nDue to the nature of this experience, the venue may be unable to accommodate certain allergies or dietary restrictions. Amex/Resy",
-      "starts_at": "2026-11-02T17:30:00-05:00",
-      "ends_at": "2026-11-02T22:00:00-05:00",
-      "all_day": false,
-      "venue": "Boia De",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://resy.com/cities/miami-fl/events/flour-water-at-boia-de-presented-by-resy-2026-11-02-6",
-      "rsvp_url": "https://resy.com/cities/miami-fl/events/flour-water-at-boia-de-presented-by-resy-2026-11-02-6",
-      "image_url": "https://image.resy.com/3/003/2/6463/75b56a884613ea228468e36ef3dc97abbe963831/jpg/640x360",
-      "access": "registration",
-      "industry": "culinary",
-      "categories": [
-        "culinary",
-        "hospitality"
-      ],
-      "access_tip": "Book on Resy as soon as listings drop — guest-chef nights often sell out the same week.",
-      "contact_url": "https://resy.com/cities/miami-fl/events",
-      "contact_email": null,
-      "ask_for": "Restaurant events team via Resy",
-      "score": 100,
-      "confidence": 0.9,
-      "why_it_matters": "Listed on Resy Experiences — book before hotel calendars catch it — luxury / hospitality keywords — at Boia De",
-      "source_id": "resy_experiences",
-      "source_name": "Resy Experiences · Miami",
-      "source_url": "https://resy.com/cities/miami-fl/events",
-      "first_seen_at": "2026-10-27T18:32:49.637662+00:00",
-      "last_seen_at": "2026-10-27T18:33:03.566355+00:00",
-      "lead_hours": 147,
-      "source_trail": [
-        {
-          "source_id": "resy_experiences",
-          "source_name": "Resy Experiences · Miami",
-          "seen_at": "2026-10-27T18:32:49.637662+00:00",
-          "url": "https://resy.com/cities/miami-fl/events/flour-water-at-boia-de-presented-by-resy-2026-11-02-6"
         }
       ]
     },
@@ -835,9 +835,9 @@
       "venue": "Soho Beach House",
       "neighborhood": "Miami",
       "city": "Miami",
-      "url": "https://www.thebackgammonsociety.com/tournaments/miami/soho-beach-house-nov11",
-      "rsvp_url": "https://www.thebackgammonsociety.com/tournaments/miami/soho-beach-house-nov11",
-      "image_url": "https://budyxfmlimzpkgcjzmbi.supabase.co/storage/v1/object/public/tournament-images/d6910992-a305-43f7-8a8d-86383cd2c28a/e544f7d488202401da4ff5e819cc0c1cd633c32c881778aae6c03e1f00c56d3e.jpg",
+      "url": "https://www.thebackgammonsociety.com/tournaments/miami/soho-beach-house-1111",
+      "rsvp_url": "https://www.thebackgammonsociety.com/tournaments/miami/soho-beach-house-1111",
+      "image_url": "https://budyxfmlimzpkgcjzmbi.supabase.co/storage/v1/object/public/tournament-images/d6910992-a305-43f7-8a8d-86383cd2c28a/f5e35d1a1ad78d84ac42a23a08ef122e96ebea3fc571f1d95bbb3b4c11d9de86.jpg",
       "access": "members",
       "industry": "sports",
       "categories": [
@@ -856,7 +856,7 @@
       "source_name": "The Backgammon Society",
       "source_url": "https://www.thebackgammonsociety.com/",
       "first_seen_at": "2026-10-23T17:40:48.777626+00:00",
-      "last_seen_at": "2026-10-27T18:33:03.566355+00:00",
+      "last_seen_at": "2026-10-28T18:39:03.202187+00:00",
       "lead_hours": 462,
       "source_trail": [
         {
@@ -898,7 +898,7 @@
       "source_name": "Luma Miami · Food & Chef",
       "source_url": "https://luma.com/miami",
       "first_seen_at": "2026-10-26T19:00:32.405099+00:00",
-      "last_seen_at": "2026-10-27T18:33:03.566355+00:00",
+      "last_seen_at": "2026-10-28T18:39:03.202187+00:00",
       "lead_hours": 100,
       "source_trail": [
         {
@@ -906,6 +906,47 @@
           "source_name": "Luma Miami · Food & Chef",
           "seen_at": "2026-10-26T19:00:32.405099+00:00",
           "url": "https://luma.com/igyn2r1j"
+        }
+      ]
+    },
+    {
+      "id": "075f6e8f89d67e63fd00050588cb6287a4e0e3db",
+      "title": "ICA Miami VIP Opening Reception: Miami Art Week 2026 presented by W Magazine",
+      "summary": "Celebrate Miami Art Week 2026 at the ICA Miami VIP Opening Reception presented by W Magazine, featuring five special exhibitions on December 1, 2026.",
+      "starts_at": "2026-12-01T11:00:00+00:00",
+      "ends_at": "2026-10-28T19:00:00+00:00",
+      "all_day": false,
+      "venue": "Institute of Contemporary Art, Miami",
+      "neighborhood": "Miami",
+      "city": "Miami",
+      "url": "https://icamiami.org/calendar/",
+      "rsvp_url": "https://icamiami.org/calendar/",
+      "image_url": "https://media-icamiami-org.imgix.net/2026/06/03f0019c-qualiascope_-solar-wind-2021–2022.jpg?auto=compress,format&cs=srgb",
+      "access": "public",
+      "industry": "art_fashion",
+      "categories": [
+        "art",
+        "culture"
+      ],
+      "access_tip": "Open the official source for current admission details. Reserve early if a booking option is shown.",
+      "contact_url": "https://icamiami.org/calendar/",
+      "contact_email": null,
+      "ask_for": "",
+      "score": 86,
+      "confidence": 0.9,
+      "why_it_matters": "From ICA Miami — luxury + networking keywords — at Institute of Contemporary Art, Miami",
+      "source_id": "ica_miami",
+      "source_name": "ICA Miami",
+      "source_url": "https://icamiami.org/calendar/",
+      "first_seen_at": "2026-10-28T18:38:39.973041+00:00",
+      "last_seen_at": "2026-10-28T18:39:03.202187+00:00",
+      "lead_hours": 808,
+      "source_trail": [
+        {
+          "source_id": "ica_miami",
+          "source_name": "ICA Miami",
+          "seen_at": "2026-10-28T18:38:39.973041+00:00",
+          "url": "https://icamiami.org/calendar/"
         }
       ]
     },
@@ -940,7 +981,7 @@
       "source_name": "Eater Miami",
       "source_url": "https://miami.eater.com/rss/index.xml",
       "first_seen_at": "2026-10-12T21:28:12.732047+00:00",
-      "last_seen_at": "2026-10-27T18:33:03.566355+00:00",
+      "last_seen_at": "2026-10-28T18:39:03.202187+00:00",
       "lead_hours": null,
       "source_trail": [
         {
@@ -952,43 +993,43 @@
       ]
     },
     {
-      "id": "922c716eb30047dc46b131293ae235d5b5d6982d",
-      "title": "Sheroanawe Hakihiiwe Opening",
-      "summary": "Join ICA Miami and Fondation Cartier pour l’art contemporain on November 19, 2026, for the opening night of visionary artist Sheroanawe Hakihiiwe's landmark exhibition. RSVP now for an exclusive first look.",
-      "starts_at": "2026-11-19T11:00:00+00:00",
-      "ends_at": "2026-10-27T19:00:00+00:00",
+      "id": "4a63f16f788311fe7264668397d73d08038e0349",
+      "title": "Barceloneta Pop-Up at Belle Bar",
+      "summary": "The iconic Sunset Harbour restaurant—known as one of Miami Beach’s most sought-after tables for Spanish Mediterranean dining—brings its signature tapas, seafood, and arroz bayside on Thursday, October 29.",
+      "starts_at": "2026-10-29T12:00:00-04:00",
+      "ends_at": null,
       "all_day": false,
-      "venue": "Institute of Contemporary Art, Miami",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://icamiami.org/calendar/",
-      "rsvp_url": "https://icamiami.org/calendar/",
-      "image_url": "https://media-icamiami-org.imgix.net/2026/09/88a39e6c-sh1789.jpg?auto=compress,format&cs=srgb",
-      "access": "registration",
-      "industry": "art_fashion",
+      "venue": "The Standard Spa Miami Beach",
+      "neighborhood": "Miami Beach",
+      "city": "Miami Beach",
+      "url": "https://www.standardhotels.com/miami/happenings/barceloneta-october-popup",
+      "rsvp_url": "https://www.standardhotels.com/miami/happenings/barceloneta-october-popup",
+      "image_url": null,
+      "access": "public",
+      "industry": "hospitality",
       "categories": [
-        "art",
-        "culture"
+        "hospitality",
+        "luxury"
       ],
-      "access_tip": "Use the official RSVP link now; top-tier events often close registration before the event date.",
-      "contact_url": "https://icamiami.org/calendar/",
-      "contact_email": null,
-      "ask_for": "",
-      "score": 80,
+      "access_tip": "Book directly from the official happening. For private-event access, contact the hotel's official events team.",
+      "contact_url": "https://www.standardhotels.com/miami/properties/miami-beach",
+      "contact_email": "MiamiEvents@StandardMiami.com",
+      "ask_for": "The Standard Miami Events Team or Spa Concierge",
+      "score": 81,
       "confidence": 0.9,
-      "why_it_matters": "From ICA Miami — luxury + networking keywords — at Institute of Contemporary Art, Miami",
-      "source_id": "ica_miami",
-      "source_name": "ICA Miami",
-      "source_url": "https://icamiami.org/calendar/",
-      "first_seen_at": "2026-10-27T18:32:40.899574+00:00",
-      "last_seen_at": "2026-10-27T18:33:03.566355+00:00",
-      "lead_hours": 544,
+      "why_it_matters": "From The Standard Spa Miami Beach — luxury / hospitality keywords — at The Standard Spa Miami Beach",
+      "source_id": "the_standard_miami",
+      "source_name": "The Standard Spa Miami Beach",
+      "source_url": "https://www.standardhotels.com/happenings",
+      "first_seen_at": "2026-10-12T21:28:16.473785+00:00",
+      "last_seen_at": "2026-10-28T18:39:03.202187+00:00",
+      "lead_hours": 402,
       "source_trail": [
         {
-          "source_id": "ica_miami",
-          "source_name": "ICA Miami",
-          "seen_at": "2026-10-27T18:32:40.899574+00:00",
-          "url": "https://icamiami.org/calendar/"
+          "source_id": "the_standard_miami",
+          "source_name": "The Standard Spa Miami Beach",
+          "seen_at": "2026-10-12T21:28:16.473785+00:00",
+          "url": "https://www.standardhotels.com/miami/happenings/barceloneta-october-popup"
         }
       ]
     },
@@ -1022,7 +1063,7 @@
       "source_name": "Haute Living",
       "source_url": "https://hauteliving.com/feed/",
       "first_seen_at": "2026-10-25T16:56:44.392555+00:00",
-      "last_seen_at": "2026-10-27T18:33:03.566355+00:00",
+      "last_seen_at": "2026-10-28T18:39:03.202187+00:00",
       "lead_hours": null,
       "source_trail": [
         {
@@ -1030,47 +1071,6 @@
           "source_name": "Haute Living",
           "seen_at": "2026-10-25T16:56:44.392555+00:00",
           "url": "https://hauteliving.com/2026/10/art-basel-miami-beach-2026-flying-private/800623/"
-        }
-      ]
-    },
-    {
-      "id": "4a63f16f788311fe7264668397d73d08038e0349",
-      "title": "Barceloneta Pop-Up at Belle Bar",
-      "summary": "The iconic Sunset Harbour restaurant—known as one of Miami Beach’s most sought-after tables for Spanish Mediterranean dining—brings its signature tapas, seafood, and arroz bayside on Thursday, October 29.",
-      "starts_at": "2026-10-29T12:00:00-04:00",
-      "ends_at": null,
-      "all_day": false,
-      "venue": "The Standard Spa Miami Beach",
-      "neighborhood": "Miami Beach",
-      "city": "Miami Beach",
-      "url": "https://www.standardhotels.com/miami/happenings/barceloneta-october-popup",
-      "rsvp_url": "https://www.standardhotels.com/miami/happenings/barceloneta-october-popup",
-      "image_url": null,
-      "access": "public",
-      "industry": "hospitality",
-      "categories": [
-        "hospitality",
-        "luxury"
-      ],
-      "access_tip": "Book directly from the official happening. For private-event access, contact the hotel's official events team.",
-      "contact_url": "https://www.standardhotels.com/miami/properties/miami-beach",
-      "contact_email": "MiamiEvents@StandardMiami.com",
-      "ask_for": "The Standard Miami Events Team or Spa Concierge",
-      "score": 75,
-      "confidence": 0.9,
-      "why_it_matters": "From The Standard Spa Miami Beach — luxury / hospitality keywords — at The Standard Spa Miami Beach",
-      "source_id": "the_standard_miami",
-      "source_name": "The Standard Spa Miami Beach",
-      "source_url": "https://www.standardhotels.com/happenings",
-      "first_seen_at": "2026-10-12T21:28:16.473785+00:00",
-      "last_seen_at": "2026-10-27T18:33:03.566355+00:00",
-      "lead_hours": 402,
-      "source_trail": [
-        {
-          "source_id": "the_standard_miami",
-          "source_name": "The Standard Spa Miami Beach",
-          "seen_at": "2026-10-12T21:28:16.473785+00:00",
-          "url": "https://www.standardhotels.com/miami/happenings/barceloneta-october-popup"
         }
       ]
     },
@@ -1104,7 +1104,7 @@
       "source_name": "American Hotel & Lodging Association",
       "source_url": "https://www.ahla.com/events",
       "first_seen_at": "2026-09-21T18:23:11.274534+00:00",
-      "last_seen_at": "2026-10-27T18:33:03.566355+00:00",
+      "last_seen_at": "2026-10-28T18:39:03.202187+00:00",
       "lead_hours": 989,
       "source_trail": [
         {
@@ -1146,7 +1146,7 @@
       "source_name": "The Backgammon Society",
       "source_url": "https://www.thebackgammonsociety.com/",
       "first_seen_at": "2026-10-23T17:40:48.775095+00:00",
-      "last_seen_at": "2026-10-27T18:33:03.566355+00:00",
+      "last_seen_at": "2026-10-28T18:39:03.202187+00:00",
       "lead_hours": 125,
       "source_trail": [
         {
@@ -1158,44 +1158,127 @@
       ]
     },
     {
-      "id": "7987ca5d0e633ceb02052b8cd7d162255a8179db",
-      "title": "Popular NYC café to open first Florida location in West Palm Beach",
-      "summary": "A New York staple for Australian-style breakfast and dinner is opening its first Florida location in West Palm Beach in 2027.",
-      "starts_at": null,
+      "id": "6cd3ccb747001f9caa1fb8d2e3e19c7a30db717c",
+      "title": "Mike’s Amazing® Burger Bash presented by Schweid & Sons® hosted by Rachael Ray February 25, 2027 7:30 PM",
+      "summary": "Favorite Event Mike’s Amazing® Burger Bash presented by Schweid & Sons® hosted by Rachael Ray February 25, 2027 7:30 PM",
+      "starts_at": "2027-02-25T00:00:00+00:00",
       "ends_at": null,
       "all_day": false,
       "venue": "",
       "neighborhood": "Miami",
       "city": "Miami",
-      "url": "https://www.miaminewtimes.com/food-drink/popular-nyc-cafe-to-open-first-florida-location-in-west-palm-beach-40594293/",
-      "rsvp_url": "https://www.miaminewtimes.com/food-drink/popular-nyc-cafe-to-open-first-florida-location-in-west-palm-beach-40594293/",
+      "url": "https://sobewff.org/events/burger/",
+      "rsvp_url": "https://sobewff.org/events/burger/",
       "image_url": null,
       "access": "public",
       "industry": "culinary",
       "categories": [
         "culinary",
-        "culture",
-        "editorial"
+        "luxury",
+        "networking"
       ],
-      "access_tip": "Open the official source for current admission details. Reserve early if a booking option is shown.",
-      "contact_url": "https://www.miaminewtimes.com/food-drink/popular-nyc-cafe-to-open-first-florida-location-in-west-palm-beach-40594293/",
+      "access_tip": "Buy or reserve only through the official SOBEWFF event page; high-demand dinners sell out early.",
+      "contact_url": "https://sobewff.org/events/",
       "contact_email": null,
       "ask_for": "",
+      "score": 73,
+      "confidence": 0.8,
+      "why_it_matters": "From SOBEWFF — luxury / hospitality keywords",
+      "source_id": "sobewff",
+      "source_name": "SOBEWFF",
+      "source_url": "https://corporate.sobewff.org/",
+      "first_seen_at": "2026-10-28T18:38:45.655134+00:00",
+      "last_seen_at": "2026-10-28T18:39:03.202187+00:00",
+      "lead_hours": 2861,
+      "source_trail": [
+        {
+          "source_id": "sobewff",
+          "source_name": "SOBEWFF",
+          "seen_at": "2026-10-28T18:38:45.655134+00:00",
+          "url": "https://sobewff.org/events/burger/"
+        }
+      ]
+    },
+    {
+      "id": "2d461f3528440d5a16dd58f8e2951fe21c8f78bd",
+      "title": "The Collection Audi & Audi Miami South Present Baptist Grand Gala at the Loews Miami Beach Hotel",
+      "summary": "Miami, FL - October 24, 2026 - The Collection and Audi Miami South proudly sponsored the Baptist Health Foundation Grand Gala on October 24 at the Loews Miami Beach Hotel, bringing together hundreds of guests for an evening of entertainment, philanthropy, and community. The night began with a showcase of Audi’s standout models, including the RS 3, RS Q8, and all-new Q7, before guests gathered inside for dinner and a ",
+      "starts_at": null,
+      "ends_at": null,
+      "all_day": false,
+      "venue": "",
+      "neighborhood": "Miami Beach",
+      "city": "Miami",
+      "url": "https://worldredeye.com/2026/10/the-collection-audi-audi-miami-south-present-baptist-grand-gala-at-the-loews-miami-beach-hotel/",
+      "rsvp_url": "https://worldredeye.com/2026/10/the-collection-audi-audi-miami-south-present-baptist-grand-gala-at-the-loews-miami-beach-hotel/",
+      "image_url": null,
+      "access": "public",
+      "industry": "culinary",
+      "categories": [
+        "editorial",
+        "nightlife"
+      ],
+      "access_tip": "Open the official source for current admission details. Reserve early if a booking option is shown.",
+      "contact_url": "https://worldredeye.com/2026/10/the-collection-audi-audi-miami-south-present-baptist-grand-gala-at-the-loews-miami-beach-hotel/",
+      "contact_email": null,
+      "ask_for": "The host or sponsor named in the World Red Eye article",
       "score": 71,
-      "confidence": 0.5,
-      "why_it_matters": "From Miami New Times · Food — networking keywords",
-      "source_id": "miami_new_times_food",
-      "source_name": "Miami New Times · Food",
-      "source_url": "https://www.miaminewtimes.com/miami/Rss.xml",
-      "first_seen_at": "2026-10-27T18:32:49.018525+00:00",
-      "last_seen_at": "2026-10-27T18:33:03.566355+00:00",
+      "confidence": 0.6,
+      "why_it_matters": "World Red Eye coverage (often same-day / post-event) — luxury / hospitality keywords",
+      "source_id": "world_red_eye",
+      "source_name": "World Red Eye",
+      "source_url": "https://worldredeye.com/feed/",
+      "first_seen_at": "2026-10-28T18:38:39.631677+00:00",
+      "last_seen_at": "2026-10-28T18:39:03.202187+00:00",
       "lead_hours": null,
       "source_trail": [
         {
-          "source_id": "miami_new_times_food",
-          "source_name": "Miami New Times · Food",
-          "seen_at": "2026-10-27T18:32:49.018525+00:00",
-          "url": "https://www.miaminewtimes.com/food-drink/popular-nyc-cafe-to-open-first-florida-location-in-west-palm-beach-40594293/"
+          "source_id": "world_red_eye",
+          "source_name": "World Red Eye",
+          "seen_at": "2026-10-28T18:38:39.631677+00:00",
+          "url": "https://worldredeye.com/2026/10/the-collection-audi-audi-miami-south-present-baptist-grand-gala-at-the-loews-miami-beach-hotel/"
+        }
+      ]
+    },
+    {
+      "id": "5701fb489126dd6e612e6d4aec1b00d337d5a60d",
+      "title": "Backgammon Social x Jon & Vinny's",
+      "summary": "",
+      "starts_at": "2026-10-29T19:00:00-04:00",
+      "ends_at": "2026-10-29T22:00:00-04:00",
+      "all_day": false,
+      "venue": "1100 NW 23rd St, Miami, FL 33127, USA",
+      "neighborhood": "Miami",
+      "city": "Miami",
+      "url": "https://luma.com/backga-5a95",
+      "rsvp_url": "https://luma.com/backga-5a95",
+      "image_url": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/uploads/4r/4897287e-80f9-4d78-85e3-2d9567cb1b75.jpg",
+      "access": "public",
+      "industry": "sports",
+      "categories": [
+        "hospitality",
+        "networking",
+        "sports"
+      ],
+      "access_tip": "Register through the official Backgammon Social Miami Luma calendar. The event co-host shown on the event page is the correct person to request.",
+      "contact_url": "https://luma.com/backgammonsocialmiami",
+      "contact_email": null,
+      "ask_for": "Backgammon Social, Isabella Pacheco",
+      "score": 70,
+      "confidence": 0.8,
+      "why_it_matters": "From Backgammon Social Miami — at 1100 NW 23rd St, Miami, FL 33127, USA",
+      "source_id": "backgammon_social_miami",
+      "source_name": "Backgammon Social Miami",
+      "source_url": "https://luma.com/backgammonsocialmiami",
+      "first_seen_at": "2026-10-22T17:50:30.191315+00:00",
+      "last_seen_at": "2026-10-28T18:39:03.202187+00:00",
+      "lead_hours": 173,
+      "source_trail": [
+        {
+          "source_id": "backgammon_social_miami",
+          "source_name": "Backgammon Social Miami",
+          "seen_at": "2026-10-22T17:50:30.191315+00:00",
+          "url": "https://luma.com/backga-5a95"
         }
       ]
     },
@@ -1229,7 +1312,7 @@
       "source_name": "The Standard Spa Miami Beach",
       "source_url": "https://www.standardhotels.com/happenings",
       "first_seen_at": "2026-10-27T18:32:52.326478+00:00",
-      "last_seen_at": "2026-10-27T18:33:03.566355+00:00",
+      "last_seen_at": "2026-10-28T18:39:03.202187+00:00",
       "lead_hours": 238,
       "source_trail": [
         {
@@ -1270,7 +1353,7 @@
       "source_name": "The Standard Spa Miami Beach",
       "source_url": "https://www.standardhotels.com/happenings",
       "first_seen_at": "2026-10-27T18:32:54.888969+00:00",
-      "last_seen_at": "2026-10-27T18:33:03.566355+00:00",
+      "last_seen_at": "2026-10-28T18:39:03.202187+00:00",
       "lead_hours": 430,
       "source_trail": [
         {
@@ -1311,7 +1394,7 @@
       "source_name": "The Standard Spa Miami Beach",
       "source_url": "https://www.standardhotels.com/happenings",
       "first_seen_at": "2026-09-28T19:54:26.136451+00:00",
-      "last_seen_at": "2026-10-27T18:33:03.566355+00:00",
+      "last_seen_at": "2026-10-28T18:39:03.202187+00:00",
       "lead_hours": 1053,
       "source_trail": [
         {
@@ -1353,7 +1436,7 @@
       "source_name": "Backgammon Social Miami",
       "source_url": "https://luma.com/backgammonsocialmiami",
       "first_seen_at": "2026-10-26T19:00:33.733949+00:00",
-      "last_seen_at": "2026-10-27T18:33:03.566355+00:00",
+      "last_seen_at": "2026-10-28T18:39:03.202187+00:00",
       "lead_hours": 580,
       "source_trail": [
         {
@@ -1361,48 +1444,6 @@
           "source_name": "Backgammon Social Miami",
           "seen_at": "2026-10-26T19:00:33.733949+00:00",
           "url": "https://luma.com/backga-jzo8"
-        }
-      ]
-    },
-    {
-      "id": "5701fb489126dd6e612e6d4aec1b00d337d5a60d",
-      "title": "Backgammon Social x Jon & Vinny's",
-      "summary": "",
-      "starts_at": "2026-10-29T19:00:00-04:00",
-      "ends_at": "2026-10-29T22:00:00-04:00",
-      "all_day": false,
-      "venue": "1100 NW 23rd St, Miami, FL 33127, USA",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://luma.com/backga-5a95",
-      "rsvp_url": "https://luma.com/backga-5a95",
-      "image_url": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/uploads/4r/4897287e-80f9-4d78-85e3-2d9567cb1b75.jpg",
-      "access": "public",
-      "industry": "sports",
-      "categories": [
-        "hospitality",
-        "networking",
-        "sports"
-      ],
-      "access_tip": "Register through the official Backgammon Social Miami Luma calendar. The event co-host shown on the event page is the correct person to request.",
-      "contact_url": "https://luma.com/backgammonsocialmiami",
-      "contact_email": null,
-      "ask_for": "Backgammon Social, Isabella Pacheco",
-      "score": 64,
-      "confidence": 0.8,
-      "why_it_matters": "From Backgammon Social Miami — at 1100 NW 23rd St, Miami, FL 33127, USA",
-      "source_id": "backgammon_social_miami",
-      "source_name": "Backgammon Social Miami",
-      "source_url": "https://luma.com/backgammonsocialmiami",
-      "first_seen_at": "2026-10-22T17:50:30.191315+00:00",
-      "last_seen_at": "2026-10-27T18:33:03.566355+00:00",
-      "lead_hours": 173,
-      "source_trail": [
-        {
-          "source_id": "backgammon_social_miami",
-          "source_name": "Backgammon Social Miami",
-          "seen_at": "2026-10-22T17:50:30.191315+00:00",
-          "url": "https://luma.com/backga-5a95"
         }
       ]
     },
@@ -1436,7 +1477,7 @@
       "source_name": "World Red Eye",
       "source_url": "https://worldredeye.com/feed/",
       "first_seen_at": "2026-10-27T18:32:40.880951+00:00",
-      "last_seen_at": "2026-10-27T18:33:03.566355+00:00",
+      "last_seen_at": "2026-10-28T18:39:03.202187+00:00",
       "lead_hours": null,
       "source_trail": [
         {
@@ -1477,7 +1518,7 @@
       "source_name": "The Standard Spa Miami Beach",
       "source_url": "https://www.standardhotels.com/happenings",
       "first_seen_at": "2026-10-22T17:50:29.688294+00:00",
-      "last_seen_at": "2026-10-27T18:33:03.566355+00:00",
+      "last_seen_at": "2026-10-28T18:39:03.202187+00:00",
       "lead_hours": 214,
       "source_trail": [
         {
@@ -1518,7 +1559,7 @@
       "source_name": "The Bass",
       "source_url": "https://thebass.org/events/?ical=1",
       "first_seen_at": "2026-10-26T19:00:25.816750+00:00",
-      "last_seen_at": "2026-10-27T18:33:03.566355+00:00",
+      "last_seen_at": "2026-10-28T18:39:03.202187+00:00",
       "lead_hours": 894,
       "source_trail": [
         {
