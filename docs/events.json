@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T22:06:03.873895+00:00",
+  "generated_at": "2026-11-03T19:57:06.013366+00:00",
   "timezone": "America/New_York",
   "version": 1,
   "event_count": 21,
@@ -476,26 +476,6 @@
       "basis": "Public caption or professional role text; no face recognition or private contact data."
     },
     {
-      "id": "30eb9b38d2fd9dc5",
-      "name": "Sexyy Red",
-      "role": "Recurring name in curated event coverage",
-      "organization": "Miami luxury and industry network",
-      "industry": "hospitality",
-      "priority": 67,
-      "mentions": 10,
-      "event_count": 1,
-      "why_connect": "Published in 10 World Red Eye caption(s) across 1 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
-      "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
-      "source_name": "World Red Eye",
-      "source_urls": [
-        "https://worldredeye.com/2026/10/sexyy-red-at-liv-2/"
-      ],
-      "event_titles": [
-        "Sexyy Red at LIV"
-      ],
-      "basis": "Public caption or professional role text; no face recognition or private contact data."
-    },
-    {
       "id": "ac8585c20fee65bb",
       "name": "Verónica Gorson",
       "role": "Recurring name in curated event coverage",
@@ -574,21 +554,41 @@
         "World Red Eye Preview Dinner Hosted by Seth Browarnik at Gigi Rigolatto Celebrating Delano"
       ],
       "basis": "Public caption or professional role text; no face recognition or private contact data."
+    },
+    {
+      "id": "4cdf1f5e0c97fd06",
+      "name": "Fredrik Eklund",
+      "role": "Recurring name in curated event coverage",
+      "organization": "Miami luxury and industry network",
+      "industry": "hospitality",
+      "priority": 65,
+      "mentions": 8,
+      "event_count": 1,
+      "why_connect": "Published in 8 World Red Eye caption(s) across 1 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
+      "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
+      "source_name": "World Red Eye",
+      "source_urls": [
+        "https://worldredeye.com/2026/11/the-ritz-carlton-residences-south-beach-debuts-exclusive-salon-series/"
+      ],
+      "event_titles": [
+        "The Ritz-Carlton Residences, South Beach Debuts Exclusive Salon Series"
+      ],
+      "basis": "Public caption or professional role text; no face recognition or private contact data."
     }
   ],
   "events": [
     {
-      "id": "c67c4cdbaedf3b2f1f8bf05e5d9f3426be2ff750",
+      "id": "cd17b760a5baeffb812a9bb6ff7d857324c746ca",
       "title": "PALME | Tasting Experience",
       "summary": "*PALME* is a love letter from Italy to Florida, created by Executive Chef Bernardo Paladini under Massimo Bottura’s vision. The menu brings Italian craftsmanship together with the tropical and Latin flavors of Miami’s vibrant local culture.\n\n\n\nDiscover Florida stone crab through Venice’s sweet-and-sour saor, Sardinian fregola with Key West pink shrimp, and handmade tortellini that carry the warmth of Modena. From playful opening bites to Wagyu and a bright Florida citrus finale, each course reve",
-      "starts_at": "2026-11-02T18:00:00-05:00",
-      "ends_at": "2026-11-02T20:00:00-05:00",
+      "starts_at": "2026-11-03T18:00:00-05:00",
+      "ends_at": "2026-11-03T20:00:00-05:00",
       "all_day": false,
       "venue": "Torno Subito",
       "neighborhood": "Miami",
       "city": "Miami",
-      "url": "https://resy.com/cities/miami-fl/events/palme-tasting-experience-2026-11-02-6",
-      "rsvp_url": "https://resy.com/cities/miami-fl/events/palme-tasting-experience-2026-11-02-6",
+      "url": "https://resy.com/cities/miami-fl/events/palme-tasting-experience-2026-11-03-6",
+      "rsvp_url": "https://resy.com/cities/miami-fl/events/palme-tasting-experience-2026-11-03-6",
       "image_url": "https://image.resy.com/3/003/2/94271/3dad403e4e74a3ddedbb65a1ee6a7d8e58a46fbf/jpg/640x360",
       "access": "registration",
       "industry": "culinary",
@@ -606,56 +606,15 @@
       "source_id": "resy_experiences",
       "source_name": "Resy Experiences · Miami",
       "source_url": "https://resy.com/cities/miami-fl/events",
-      "first_seen_at": "2026-11-01T18:14:42.856535+00:00",
-      "last_seen_at": "2026-11-02T22:05:47.447090+00:00",
-      "lead_hours": 28,
+      "first_seen_at": "2026-11-03T19:56:33.640037+00:00",
+      "last_seen_at": "2026-11-03T19:56:49.639501+00:00",
+      "lead_hours": 3,
       "source_trail": [
         {
           "source_id": "resy_experiences",
           "source_name": "Resy Experiences · Miami",
-          "seen_at": "2026-11-01T18:14:42.856535+00:00",
-          "url": "https://resy.com/cities/miami-fl/events/palme-tasting-experience-2026-11-02-6"
-        }
-      ]
-    },
-    {
-      "id": "d6084ef6c3b661cad6c6bb660db13d0564724ce3",
-      "title": "WHITE GOLD LABEL DINNER",
-      "summary": "**WHITE GOLD LABEL DINNER**\n**November 2 | 6:30 PM**\n\nJoin Sunshine Provisions and Macchialina for a special White Gold Label Dinner.\n\nWhite Gold Label is Sunshine Provisions’ premium line featuring domestic Black Angus beef, heritage all-natural Duroc pork and Australian lamb. Sunshine Provisions is South Florida’s premier USDA purveyor of premium proprietary food goods, supplying restaurants and hotels throughout South Florida and beyond.\n\nThis special dinner brings these exceptional cuts to t",
-      "starts_at": "2026-11-02T18:30:00-05:00",
-      "ends_at": "2026-11-02T19:00:00-05:00",
-      "all_day": false,
-      "venue": "Macchialina Taverna Rustica",
-      "neighborhood": "Miami Beach",
-      "city": "Miami Beach",
-      "url": "https://resy.com/cities/miami-fl/events/white-gold-label-dinner-2026-11-02-6",
-      "rsvp_url": "https://resy.com/cities/miami-fl/events/white-gold-label-dinner-2026-11-02-6",
-      "image_url": "https://image.resy.com/3/003/2/8803/6b13bade90bbd7a2d7e11f8ee61a7556e8909a84/jpg/640x360",
-      "access": "registration",
-      "industry": "culinary",
-      "categories": [
-        "culinary",
-        "hospitality"
-      ],
-      "access_tip": "Book on Resy as soon as listings drop — guest-chef nights often sell out the same week.",
-      "contact_url": "https://resy.com/cities/miami-fl/events",
-      "contact_email": null,
-      "ask_for": "Restaurant events team via Resy",
-      "score": 100,
-      "confidence": 0.9,
-      "why_it_matters": "Listed on Resy Experiences — book before hotel calendars catch it — luxury / hospitality keywords — at Macchialina Taverna Rustica",
-      "source_id": "resy_experiences",
-      "source_name": "Resy Experiences · Miami",
-      "source_url": "https://resy.com/cities/miami-fl/events",
-      "first_seen_at": "2026-10-30T18:23:39.216020+00:00",
-      "last_seen_at": "2026-11-02T22:05:47.447090+00:00",
-      "lead_hours": 77,
-      "source_trail": [
-        {
-          "source_id": "resy_experiences",
-          "source_name": "Resy Experiences · Miami",
-          "seen_at": "2026-10-30T18:23:39.216020+00:00",
-          "url": "https://resy.com/cities/miami-fl/events/white-gold-label-dinner-2026-11-02-6"
+          "seen_at": "2026-11-03T19:56:33.640037+00:00",
+          "url": "https://resy.com/cities/miami-fl/events/palme-tasting-experience-2026-11-03-6"
         }
       ]
     },
@@ -663,8 +622,8 @@
       "id": "56202d91ed1994ba02b4e5565f8f51332a744d1c",
       "title": "Walrus Rodeo X Flour & Water Pizzeria, Presented by Resy",
       "summary": "For one night only, Flour + Water brings its award-winning sourdough pizza straight from San Francisco and into our fire.  Enjoy an à la carte food menu, seasonal craft cocktails, fun curated wines, and all the fun you have come to expect at the Rodeo.\n\nThe menu will feature meat, seafood, dairy, and gluten.  **Changes to menu due to allergy or aversions will not be considered.**\n\nPlease select correct ticket for seating prefrence. We accommodate reservations at the bar, chefs counter and dining",
-      "starts_at": "2026-11-03T17:45:00-05:00",
-      "ends_at": "2026-11-03T19:45:00-05:00",
+      "starts_at": "2026-11-03T21:30:00-05:00",
+      "ends_at": "2026-11-03T23:30:00-05:00",
       "all_day": false,
       "venue": "Walrus Rodeo",
       "neighborhood": "Miami",
@@ -689,8 +648,8 @@
       "source_name": "Resy Experiences · Miami",
       "source_url": "https://resy.com/cities/miami-fl/events",
       "first_seen_at": "2026-11-02T22:05:32.404169+00:00",
-      "last_seen_at": "2026-11-02T22:05:47.447090+00:00",
-      "lead_hours": 24,
+      "last_seen_at": "2026-11-03T19:56:49.639501+00:00",
+      "lead_hours": 28,
       "source_trail": [
         {
           "source_id": "resy_experiences",
@@ -730,7 +689,7 @@
       "source_name": "Resy Experiences · Miami",
       "source_url": "https://resy.com/cities/miami-fl/events",
       "first_seen_at": "2026-11-01T18:14:42.856636+00:00",
-      "last_seen_at": "2026-11-02T22:05:47.447090+00:00",
+      "last_seen_at": "2026-11-03T19:56:49.639501+00:00",
       "lead_hours": 77,
       "source_trail": [
         {
@@ -738,6 +697,47 @@
           "source_name": "Resy Experiences · Miami",
           "seen_at": "2026-11-01T18:14:42.856636+00:00",
           "url": "https://resy.com/cities/miami-fl/events/pasta-omakase-2026-11-04-6"
+        }
+      ]
+    },
+    {
+      "id": "f83095a5027679ebf83e5d7f9e9682dd773f76e5",
+      "title": "Tango Night: Targo",
+      "summary": "**An Unforgettable Night of Tango!** \n\nGet ready to be swept away by the passion, elegance, and irresistible rhythm of Argentina! Join us for an electrifying Tango Night featuring **Nahuel Santos and captivating Tango Dancers**, bringing the romance and intensity of Buenos Aires to life. Experience breathtaking performances, mesmerizing music, and the magic of a dance that speaks straight to the soul. **An evening of passion, artistry, and unforgettable moments awaits!**",
+      "starts_at": "2026-11-04T19:00:00-05:00",
+      "ends_at": "2026-11-04T22:00:00-05:00",
+      "all_day": false,
+      "venue": "Jass Kitchen",
+      "neighborhood": "Miami",
+      "city": "Miami",
+      "url": "https://resy.com/cities/miami-fl/events/tango-night-targo-2026-11-04-6",
+      "rsvp_url": "https://resy.com/cities/miami-fl/events/tango-night-targo-2026-11-04-6",
+      "image_url": "https://image.resy.com/3/003/2/80414/43d024458bffd8790e0334d634c809bbdd94823c/jpg/640x360",
+      "access": "registration",
+      "industry": "culinary",
+      "categories": [
+        "culinary",
+        "hospitality"
+      ],
+      "access_tip": "Book on Resy as soon as listings drop — guest-chef nights often sell out the same week.",
+      "contact_url": "https://resy.com/cities/miami-fl/events",
+      "contact_email": null,
+      "ask_for": "Restaurant events team via Resy",
+      "score": 100,
+      "confidence": 0.9,
+      "why_it_matters": "Listed on Resy Experiences — book before hotel calendars catch it — luxury / hospitality keywords — at Jass Kitchen",
+      "source_id": "resy_experiences",
+      "source_name": "Resy Experiences · Miami",
+      "source_url": "https://resy.com/cities/miami-fl/events",
+      "first_seen_at": "2026-11-03T19:56:33.640181+00:00",
+      "last_seen_at": "2026-11-03T19:56:49.639501+00:00",
+      "lead_hours": 28,
+      "source_trail": [
+        {
+          "source_id": "resy_experiences",
+          "source_name": "Resy Experiences · Miami",
+          "seen_at": "2026-11-03T19:56:33.640181+00:00",
+          "url": "https://resy.com/cities/miami-fl/events/tango-night-targo-2026-11-04-6"
         }
       ]
     },
@@ -771,7 +771,7 @@
       "source_name": "Resy Experiences · Miami",
       "source_url": "https://resy.com/cities/miami-fl/events",
       "first_seen_at": "2026-11-02T22:05:32.404253+00:00",
-      "last_seen_at": "2026-11-02T22:05:47.447090+00:00",
+      "last_seen_at": "2026-11-03T19:56:49.639501+00:00",
       "lead_hours": 73,
       "source_trail": [
         {
@@ -812,7 +812,7 @@
       "source_name": "Resy Experiences · Miami",
       "source_url": "https://resy.com/cities/miami-fl/events",
       "first_seen_at": "2026-11-02T22:05:32.404303+00:00",
-      "last_seen_at": "2026-11-02T22:05:47.447090+00:00",
+      "last_seen_at": "2026-11-03T19:56:49.639501+00:00",
       "lead_hours": 96,
       "source_trail": [
         {
@@ -854,7 +854,7 @@
       "source_name": "Faena Miami Beach",
       "source_url": "https://www.faena.com/miami-beach/things-to-do",
       "first_seen_at": "2026-11-02T22:05:26.691779+00:00",
-      "last_seen_at": "2026-11-02T22:05:47.447090+00:00",
+      "last_seen_at": "2026-11-03T19:56:49.639501+00:00",
       "lead_hours": 570,
       "source_trail": [
         {
@@ -896,7 +896,7 @@
       "source_name": "The Backgammon Society",
       "source_url": "https://www.thebackgammonsociety.com/",
       "first_seen_at": "2026-10-23T17:40:48.777626+00:00",
-      "last_seen_at": "2026-11-02T22:05:47.447090+00:00",
+      "last_seen_at": "2026-11-03T19:56:49.639501+00:00",
       "lead_hours": 462,
       "source_trail": [
         {
@@ -938,7 +938,7 @@
       "source_name": "Eater Miami",
       "source_url": "https://miami.eater.com/rss/index.xml",
       "first_seen_at": "2026-10-30T18:23:37.970494+00:00",
-      "last_seen_at": "2026-11-02T22:05:47.447090+00:00",
+      "last_seen_at": "2026-11-03T19:56:49.639501+00:00",
       "lead_hours": null,
       "source_trail": [
         {
@@ -946,48 +946,6 @@
           "source_name": "Eater Miami",
           "seen_at": "2026-10-30T18:23:37.970494+00:00",
           "url": "https://miami.eater.com/maps/best-miami-cocktail-bars-guide-map"
-        }
-      ]
-    },
-    {
-      "id": "4df1a32e167532a0ca4de1783b09313f08573e73",
-      "title": "Mahjong & Mingle at Wan’s Mandarin House February 28, 2027 12:00 PM",
-      "summary": "Favorite Event Mahjong & Mingle at Wan’s Mandarin House February 28, 2027 12:00 PM",
-      "starts_at": "2027-02-28T00:00:00+00:00",
-      "ends_at": null,
-      "all_day": false,
-      "venue": "",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://sobewff.org/events/mahjong2/",
-      "rsvp_url": "https://sobewff.org/events/mahjong2/",
-      "image_url": null,
-      "access": "public",
-      "industry": "culinary",
-      "categories": [
-        "culinary",
-        "luxury",
-        "networking"
-      ],
-      "access_tip": "Buy or reserve only through the official SOBEWFF event page; high-demand dinners sell out early.",
-      "contact_url": "https://sobewff.org/events/",
-      "contact_email": null,
-      "ask_for": "",
-      "score": 89,
-      "confidence": 0.8,
-      "why_it_matters": "From SOBEWFF — luxury / hospitality keywords",
-      "source_id": "sobewff",
-      "source_name": "SOBEWFF",
-      "source_url": "https://corporate.sobewff.org/",
-      "first_seen_at": "2026-11-02T22:05:30.617131+00:00",
-      "last_seen_at": "2026-11-02T22:05:47.447090+00:00",
-      "lead_hours": 2809,
-      "source_trail": [
-        {
-          "source_id": "sobewff",
-          "source_name": "SOBEWFF",
-          "seen_at": "2026-11-02T22:05:30.617131+00:00",
-          "url": "https://sobewff.org/events/mahjong2/"
         }
       ]
     },
@@ -1022,7 +980,7 @@
       "source_name": "Eater Miami",
       "source_url": "https://miami.eater.com/rss/index.xml",
       "first_seen_at": "2026-10-12T21:28:12.732047+00:00",
-      "last_seen_at": "2026-11-02T22:05:47.447090+00:00",
+      "last_seen_at": "2026-11-03T19:56:49.639501+00:00",
       "lead_hours": null,
       "source_trail": [
         {
@@ -1030,6 +988,48 @@
           "source_name": "Eater Miami",
           "seen_at": "2026-10-12T21:28:12.732047+00:00",
           "url": "https://miami.eater.com/maps/miami-best-restaurants-38"
+        }
+      ]
+    },
+    {
+      "id": "645b6bfdac6ac4e2df6aea6f66447181125393a3",
+      "title": "Dinner hosted by Frank Castronovo, Frank Falcinelli, Jon Shook and Vinny Dotolo February 26, 2027 7:00 PM",
+      "summary": "Favorite Event Dinner hosted by Frank Castronovo, Frank Falcinelli, Jon Shook and Vinny Dotolo February 26, 2027 7:00 PM",
+      "starts_at": "2027-02-26T00:00:00+00:00",
+      "ends_at": null,
+      "all_day": false,
+      "venue": "",
+      "neighborhood": "Miami",
+      "city": "Miami",
+      "url": "https://sobewff.org/events/jonvinnys/",
+      "rsvp_url": "https://sobewff.org/events/jonvinnys/",
+      "image_url": null,
+      "access": "public",
+      "industry": "culinary",
+      "categories": [
+        "culinary",
+        "luxury",
+        "networking"
+      ],
+      "access_tip": "Buy or reserve only through the official SOBEWFF event page; high-demand dinners sell out early.",
+      "contact_url": "https://sobewff.org/events/",
+      "contact_email": null,
+      "ask_for": "",
+      "score": 82,
+      "confidence": 0.8,
+      "why_it_matters": "From SOBEWFF — luxury / hospitality keywords",
+      "source_id": "sobewff",
+      "source_name": "SOBEWFF",
+      "source_url": "https://corporate.sobewff.org/",
+      "first_seen_at": "2026-11-03T19:56:31.998490+00:00",
+      "last_seen_at": "2026-11-03T19:56:49.639501+00:00",
+      "lead_hours": 2740,
+      "source_trail": [
+        {
+          "source_id": "sobewff",
+          "source_name": "SOBEWFF",
+          "seen_at": "2026-11-03T19:56:31.998490+00:00",
+          "url": "https://sobewff.org/events/jonvinnys/"
         }
       ]
     },
@@ -1063,7 +1063,7 @@
       "source_name": "The Standard Spa Miami Beach",
       "source_url": "https://www.standardhotels.com/happenings",
       "first_seen_at": "2026-10-27T18:32:52.326478+00:00",
-      "last_seen_at": "2026-11-02T22:05:47.447090+00:00",
+      "last_seen_at": "2026-11-03T19:56:49.639501+00:00",
       "lead_hours": 238,
       "source_trail": [
         {
@@ -1105,7 +1105,7 @@
       "source_name": "The Backgammon Society",
       "source_url": "https://www.thebackgammonsociety.com/",
       "first_seen_at": "2026-10-29T18:46:29.522181+00:00",
-      "last_seen_at": "2026-11-02T22:05:47.447090+00:00",
+      "last_seen_at": "2026-11-03T19:56:49.639501+00:00",
       "lead_hours": 125,
       "source_trail": [
         {
@@ -1147,7 +1147,7 @@
       "source_name": "SOBEWFF",
       "source_url": "https://corporate.sobewff.org/",
       "first_seen_at": "2026-10-30T18:23:38.545058+00:00",
-      "last_seen_at": "2026-11-02T22:05:47.447090+00:00",
+      "last_seen_at": "2026-11-03T19:56:49.639501+00:00",
       "lead_hours": 2837,
       "source_trail": [
         {
@@ -1188,7 +1188,7 @@
       "source_name": "The Standard Spa Miami Beach",
       "source_url": "https://www.standardhotels.com/happenings",
       "first_seen_at": "2026-10-27T18:32:54.888969+00:00",
-      "last_seen_at": "2026-11-02T22:05:47.447090+00:00",
+      "last_seen_at": "2026-11-03T19:56:49.639501+00:00",
       "lead_hours": 430,
       "source_trail": [
         {
@@ -1229,7 +1229,7 @@
       "source_name": "The Standard Spa Miami Beach",
       "source_url": "https://www.standardhotels.com/happenings",
       "first_seen_at": "2026-10-31T17:29:47.992717+00:00",
-      "last_seen_at": "2026-11-02T22:05:47.447090+00:00",
+      "last_seen_at": "2026-11-03T19:56:49.639501+00:00",
       "lead_hours": 527,
       "source_trail": [
         {
@@ -1270,7 +1270,7 @@
       "source_name": "The Standard Spa Miami Beach",
       "source_url": "https://www.standardhotels.com/happenings",
       "first_seen_at": "2026-09-28T19:54:26.136451+00:00",
-      "last_seen_at": "2026-11-02T22:05:47.447090+00:00",
+      "last_seen_at": "2026-11-03T19:56:49.639501+00:00",
       "lead_hours": 1053,
       "source_trail": [
         {
@@ -1312,7 +1312,7 @@
       "source_name": "Backgammon Social Miami",
       "source_url": "https://luma.com/backgammonsocialmiami",
       "first_seen_at": "2026-10-26T19:00:33.733949+00:00",
-      "last_seen_at": "2026-11-02T22:05:47.447090+00:00",
+      "last_seen_at": "2026-11-03T19:56:49.639501+00:00",
       "lead_hours": 580,
       "source_trail": [
         {
@@ -1320,6 +1320,47 @@
           "source_name": "Backgammon Social Miami",
           "seen_at": "2026-10-26T19:00:33.733949+00:00",
           "url": "https://luma.com/backga-jzo8"
+        }
+      ]
+    },
+    {
+      "id": "e967fea3512d4b619a9e18f5fdde20dbe9b591dd",
+      "title": "MIAMI ART WEEK | EXHIBITION OPENING RECEPTION",
+      "summary": "",
+      "starts_at": "2026-12-02T18:00:00-08:00",
+      "ends_at": "2026-12-02T22:00:00-08:00",
+      "all_day": false,
+      "venue": "",
+      "neighborhood": "Miami",
+      "city": "Miami",
+      "url": "https://thebass.org/event/miami-art-week-exhibition-opening-reception/",
+      "rsvp_url": "https://thebass.org/event/miami-art-week-exhibition-opening-reception/",
+      "image_url": null,
+      "access": "public",
+      "industry": "art_fashion",
+      "categories": [
+        "art",
+        "culture"
+      ],
+      "access_tip": "Open the official source for current admission details. Reserve early if a booking option is shown.",
+      "contact_url": "https://thebass.org/event/miami-art-week-exhibition-opening-reception/",
+      "contact_email": null,
+      "ask_for": "The Bass Membership or Development Team for private dinners and patron previews",
+      "score": 64,
+      "confidence": 0.9,
+      "why_it_matters": "From The Bass — luxury + networking keywords",
+      "source_id": "the_bass",
+      "source_name": "The Bass",
+      "source_url": "https://thebass.org/events/?ical=1",
+      "first_seen_at": "2026-10-26T19:00:25.816750+00:00",
+      "last_seen_at": "2026-11-03T19:56:49.639501+00:00",
+      "lead_hours": 894,
+      "source_trail": [
+        {
+          "source_id": "the_bass",
+          "source_name": "The Bass",
+          "seen_at": "2026-10-26T19:00:25.816750+00:00",
+          "url": "https://thebass.org/event/miami-art-week-exhibition-opening-reception/"
         }
       ]
     },
@@ -1353,7 +1394,7 @@
       "source_name": "The Standard Spa Miami Beach",
       "source_url": "https://www.standardhotels.com/happenings",
       "first_seen_at": "2026-11-01T18:14:45.758590+00:00",
-      "last_seen_at": "2026-11-02T22:05:47.447090+00:00",
+      "last_seen_at": "2026-11-03T19:56:49.639501+00:00",
       "lead_hours": 406,
       "source_trail": [
         {
@@ -1395,7 +1436,7 @@
       "source_name": "Backgammon Social Miami",
       "source_url": "https://luma.com/backgammonsocialmiami",
       "first_seen_at": "2026-10-30T18:23:38.875506+00:00",
-      "last_seen_at": "2026-11-02T22:05:47.447090+00:00",
+      "last_seen_at": "2026-11-03T19:56:49.639501+00:00",
       "lead_hours": 605,
       "source_trail": [
         {
@@ -1403,47 +1444,6 @@
           "source_name": "Backgammon Social Miami",
           "seen_at": "2026-10-30T18:23:38.875506+00:00",
           "url": "https://luma.com/backga-bjzu"
-        }
-      ]
-    },
-    {
-      "id": "e967fea3512d4b619a9e18f5fdde20dbe9b591dd",
-      "title": "MIAMI ART WEEK | EXHIBITION OPENING RECEPTION",
-      "summary": "",
-      "starts_at": "2026-12-02T18:00:00-08:00",
-      "ends_at": "2026-12-02T22:00:00-08:00",
-      "all_day": false,
-      "venue": "",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://thebass.org/event/miami-art-week-exhibition-opening-reception/",
-      "rsvp_url": "https://thebass.org/event/miami-art-week-exhibition-opening-reception/",
-      "image_url": null,
-      "access": "public",
-      "industry": "art_fashion",
-      "categories": [
-        "art",
-        "culture"
-      ],
-      "access_tip": "Open the official source for current admission details. Reserve early if a booking option is shown.",
-      "contact_url": "https://thebass.org/event/miami-art-week-exhibition-opening-reception/",
-      "contact_email": null,
-      "ask_for": "The Bass Membership or Development Team for private dinners and patron previews",
-      "score": 58,
-      "confidence": 0.9,
-      "why_it_matters": "From The Bass — luxury + networking keywords",
-      "source_id": "the_bass",
-      "source_name": "The Bass",
-      "source_url": "https://thebass.org/events/?ical=1",
-      "first_seen_at": "2026-10-26T19:00:25.816750+00:00",
-      "last_seen_at": "2026-11-02T22:05:47.447090+00:00",
-      "lead_hours": 894,
-      "source_trail": [
-        {
-          "source_id": "the_bass",
-          "source_name": "The Bass",
-          "seen_at": "2026-10-26T19:00:25.816750+00:00",
-          "url": "https://thebass.org/event/miami-art-week-exhibition-opening-reception/"
         }
       ]
     }
