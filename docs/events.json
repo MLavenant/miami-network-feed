@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T20:27:52.432836+00:00",
+  "generated_at": "2026-11-06T19:50:20.770387+00:00",
   "timezone": "America/New_York",
   "version": 1,
   "event_count": 24,
@@ -418,8 +418,8 @@
       "basis": "Public caption or professional role text; no face recognition or private contact data."
     },
     {
-      "id": "acc3ea143e32f644",
-      "name": "Vanessa Leon",
+      "id": "69db60e99b12fb9f",
+      "name": "Manny Angelo Varas",
       "role": "Recurring name in curated event coverage",
       "organization": "Miami luxury and industry network",
       "industry": "hospitality",
@@ -430,10 +430,10 @@
       "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
       "source_name": "World Red Eye",
       "source_urls": [
-        "https://worldredeye.com/2026/11/zacapa-celebrates-50-years-with-master-blender-lorena-vasquez-at-mimi-kakushi/"
+        "https://worldredeye.com/2026/11/collection-sei-design-by-pininfarina-brokers-soiree/"
       ],
       "event_titles": [
-        "Zacapa Celebrates 50 Years with Master Blender Lorena Vásquez at Mimi Kakushi"
+        "Collection Sei Design by Pininfarina Brokers’ Soirée"
       ],
       "basis": "Public caption or professional role text; no face recognition or private contact data."
     },
@@ -498,26 +498,6 @@
       "basis": "Public caption or professional role text; no face recognition or private contact data."
     },
     {
-      "id": "e6b9e90e0dd59593",
-      "name": "Lorena Vasquez",
-      "role": "Recurring name in curated event coverage",
-      "organization": "Miami luxury and industry network",
-      "industry": "hospitality",
-      "priority": 67,
-      "mentions": 10,
-      "event_count": 1,
-      "why_connect": "Published in 10 World Red Eye caption(s) across 1 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
-      "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
-      "source_name": "World Red Eye",
-      "source_urls": [
-        "https://worldredeye.com/2026/11/zacapa-celebrates-50-years-with-master-blender-lorena-vasquez-at-mimi-kakushi/"
-      ],
-      "event_titles": [
-        "Zacapa Celebrates 50 Years with Master Blender Lorena Vásquez at Mimi Kakushi"
-      ],
-      "basis": "Public caption or professional role text; no face recognition or private contact data."
-    },
-    {
       "id": "ac8585c20fee65bb",
       "name": "Verónica Gorson",
       "role": "Recurring name in curated event coverage",
@@ -558,6 +538,26 @@
       "basis": "Public caption or professional role text; no face recognition or private contact data."
     },
     {
+      "id": "0af51ca53db6b01b",
+      "name": "Gigi Vogel",
+      "role": "Recurring name in curated event coverage",
+      "organization": "Miami luxury and industry network",
+      "industry": "hospitality",
+      "priority": 66,
+      "mentions": 9,
+      "event_count": 1,
+      "why_connect": "Published in 9 World Red Eye caption(s) across 1 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
+      "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
+      "source_name": "World Red Eye",
+      "source_urls": [
+        "https://worldredeye.com/2026/11/qa-de-la-heart-is-making-everyday-self-care-a-ritual/"
+      ],
+      "event_titles": [
+        "Q&A: De La Heart Is Making Everyday Self-Care a Ritual"
+      ],
+      "basis": "Public caption or professional role text; no face recognition or private contact data."
+    },
+    {
       "id": "4442c07fbb3b2533",
       "name": "Robert Rivani",
       "role": "Recurring name in curated event coverage",
@@ -580,175 +580,11 @@
   ],
   "events": [
     {
-      "id": "7a3c37c7ae479ac2bc8fe7771af009dd6ca62dae",
-      "title": "The Apartment x Le Specialita Cafe & Market: La Tavola",
-      "summary": "**The Apartment x Le Specialita Cafe and Market: La Tavola**\n\nJoin us Thursday, November 5, 2026, at Le Specialita Cafe and Market in Coconut Grove for an intimate Italian dinner party celebrating great food and new connections.\n\n\n\n**The Menu**\n\n**Passed Appetizers:** Chicken Croquettes, Mozzarella in Carrozza\n\n**Antipasti:** Polpette della Nonna, Caesar Salad\n\n**Pasta:** Mezze Bolognese, Linguine al Branzino\n\n**Main Course:** Beef Tenderloin\n\n**Dolci:** Choice of Tiramisù or Meringue Cake\n\n\n\n**",
-      "starts_at": "2026-11-05T18:30:00-05:00",
-      "ends_at": "2026-11-05T22:00:00-05:00",
-      "all_day": false,
-      "venue": "Le Specialita Café & Market",
-      "neighborhood": "Coconut Grove",
-      "city": "Miami",
-      "url": "https://resy.com/cities/miami-fl/events/the-apartment-x-le-specialita-cafe-market-la-tavola-2026-11-05-6",
-      "rsvp_url": "https://resy.com/cities/miami-fl/events/the-apartment-x-le-specialita-cafe-market-la-tavola-2026-11-05-6",
-      "image_url": "https://image.resy.com/3/003/2/83093/b436058d4b5bff3389842b50bfa6cccd9637c45a/jpg/640x360",
-      "access": "registration",
-      "industry": "culinary",
-      "categories": [
-        "culinary",
-        "hospitality"
-      ],
-      "access_tip": "Book on Resy as soon as listings drop — guest-chef nights often sell out the same week.",
-      "contact_url": "https://resy.com/cities/miami-fl/events",
-      "contact_email": null,
-      "ask_for": "Restaurant events team via Resy",
-      "score": 100,
-      "confidence": 0.9,
-      "why_it_matters": "Listed on Resy Experiences — book before hotel calendars catch it — luxury / hospitality keywords — at Le Specialita Café & Market",
-      "source_id": "resy_experiences",
-      "source_name": "Resy Experiences · Miami",
-      "source_url": "https://resy.com/cities/miami-fl/events",
-      "first_seen_at": "2026-11-04T20:15:20.085582+00:00",
-      "last_seen_at": "2026-11-05T20:27:36.012396+00:00",
-      "lead_hours": 27,
-      "source_trail": [
-        {
-          "source_id": "resy_experiences",
-          "source_name": "Resy Experiences · Miami",
-          "seen_at": "2026-11-04T20:15:20.085582+00:00",
-          "url": "https://resy.com/cities/miami-fl/events/the-apartment-x-le-specialita-cafe-market-la-tavola-2026-11-05-6"
-        }
-      ]
-    },
-    {
-      "id": "4463abf52b15073dfff0477d49ca791ddc70bb2d",
-      "title": "AVIV X Chef Ayesha Nurdjaja Cookbook Celebration, Presented by Resy",
-      "summary": "Join us for an evening celebrating the release of *Mediterranean All the Way*, the new cookbook from acclaimed chef, Food Network stat, and New York restaurateur Ayesha Nurdjaja. Gather on the second floor of AVIV for a cocktail reception inspired by the flavors, traditions, and spirit of the Mediterranean, featuring a selection of seasonal dishes by Chef Michael Solomonov, alongside passed canapés from Chef Ayesha's new cookbook.\n\nThe $75++ per person will include a continuous wine experience f",
-      "starts_at": "2026-11-05T19:00:00-05:00",
-      "ends_at": "2026-11-05T22:00:00-05:00",
-      "all_day": false,
-      "venue": "AVIV",
-      "neighborhood": "Miami Beach",
-      "city": "Miami Beach",
-      "url": "https://resy.com/cities/miami-fl/events/chef-ayesha-cookbook-tour-2026-11-05-6",
-      "rsvp_url": "https://resy.com/cities/miami-fl/events/chef-ayesha-cookbook-tour-2026-11-05-6",
-      "image_url": "https://image.resy.com/3/003/2/87357/224bd5b47a21555dfaa88e174154fb53ddfdacf2/jpg/640x360",
-      "access": "registration",
-      "industry": "culinary",
-      "categories": [
-        "culinary",
-        "hospitality"
-      ],
-      "access_tip": "Book on Resy as soon as listings drop — guest-chef nights often sell out the same week.",
-      "contact_url": "https://resy.com/cities/miami-fl/events",
-      "contact_email": null,
-      "ask_for": "Restaurant events team via Resy",
-      "score": 100,
-      "confidence": 0.9,
-      "why_it_matters": "Listed on Resy Experiences — book before hotel calendars catch it — luxury / hospitality keywords — at AVIV",
-      "source_id": "resy_experiences",
-      "source_name": "Resy Experiences · Miami",
-      "source_url": "https://resy.com/cities/miami-fl/events",
-      "first_seen_at": "2026-11-02T22:05:32.404253+00:00",
-      "last_seen_at": "2026-11-05T20:27:36.012396+00:00",
-      "lead_hours": 73,
-      "source_trail": [
-        {
-          "source_id": "resy_experiences",
-          "source_name": "Resy Experiences · Miami",
-          "seen_at": "2026-11-02T22:05:32.404253+00:00",
-          "url": "https://resy.com/cities/miami-fl/events/chef-ayesha-cookbook-tour-2026-11-05-6"
-        }
-      ]
-    },
-    {
-      "id": "06191ab888a157cd961b77393453f8f54b87ac74",
-      "title": "PALME | Tasting Experience",
-      "summary": "*PALME* is a love letter from Italy to Florida, created by Executive Chef Bernardo Paladini under Massimo Bottura’s vision. The menu brings Italian craftsmanship together with the tropical and Latin flavors of Miami’s vibrant local culture.\n\n\n\nDiscover Florida stone crab through Venice’s sweet-and-sour saor, Sardinian fregola with Key West pink shrimp, and handmade tortellini that carry the warmth of Modena. From playful opening bites to Wagyu and a bright Florida citrus finale, each course reve",
-      "starts_at": "2026-11-05T19:00:00-05:00",
-      "ends_at": "2026-11-05T21:00:00-05:00",
-      "all_day": false,
-      "venue": "Torno Subito",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://resy.com/cities/miami-fl/events/palme-tasting-experience-2026-11-05-6",
-      "rsvp_url": "https://resy.com/cities/miami-fl/events/palme-tasting-experience-2026-11-05-6",
-      "image_url": "https://image.resy.com/3/003/2/94271/3dad403e4e74a3ddedbb65a1ee6a7d8e58a46fbf/jpg/640x360",
-      "access": "registration",
-      "industry": "culinary",
-      "categories": [
-        "culinary",
-        "hospitality"
-      ],
-      "access_tip": "Book on Resy as soon as listings drop — guest-chef nights often sell out the same week.",
-      "contact_url": "https://resy.com/cities/miami-fl/events",
-      "contact_email": null,
-      "ask_for": "Restaurant events team via Resy",
-      "score": 100,
-      "confidence": 0.9,
-      "why_it_matters": "Listed on Resy Experiences — book before hotel calendars catch it — luxury + networking keywords — at Torno Subito",
-      "source_id": "resy_experiences",
-      "source_name": "Resy Experiences · Miami",
-      "source_url": "https://resy.com/cities/miami-fl/events",
-      "first_seen_at": "2026-11-05T20:27:20.614142+00:00",
-      "last_seen_at": "2026-11-05T20:27:36.012396+00:00",
-      "lead_hours": 3,
-      "source_trail": [
-        {
-          "source_id": "resy_experiences",
-          "source_name": "Resy Experiences · Miami",
-          "seen_at": "2026-11-05T20:27:20.614142+00:00",
-          "url": "https://resy.com/cities/miami-fl/events/palme-tasting-experience-2026-11-05-6"
-        }
-      ]
-    },
-    {
-      "id": "f213a85c24ba1aa3143c902c29abe1a70ce32720",
-      "title": "Mahjong Social at Sadelle's Coconut Grove",
-      "summary": "Bring your Mahjong game to Sadelle’s Coconut Grove! Join Abby, of Mahj in Miami, a modern mahjong movement based in Miami, for a morning of tiles, toasts, and team play. Each ticket includes 1 player seat, and a Sadelle's matcha or smoothie. Those who RSVP for 1, 2 or 3 seats are welcome, but we cannot guarantee tables of four. Skilled players only. No lesson provided, must be familiar with the game. Full menu available a la carte. Tickets are non-refundable if canceled less than 72 hours in adv",
-      "starts_at": "2026-11-06T09:30:00-05:00",
-      "ends_at": "2026-11-06T11:30:00-05:00",
-      "all_day": false,
-      "venue": "Sadelle's Coconut Grove",
-      "neighborhood": "Coconut Grove",
-      "city": "Miami",
-      "url": "https://resy.com/cities/miami-fl/events/mahjong-social-at-sadelle-s-coconut-grove-2026-11-06-6",
-      "rsvp_url": "https://resy.com/cities/miami-fl/events/mahjong-social-at-sadelle-s-coconut-grove-2026-11-06-6",
-      "image_url": "https://image.resy.com/3/003/2/56583/f34f45c14d8607150afb42a543cb763b8cc3f5dc/jpg/640x360",
-      "access": "registration",
-      "industry": "culinary",
-      "categories": [
-        "culinary",
-        "hospitality"
-      ],
-      "access_tip": "Book on Resy as soon as listings drop — guest-chef nights often sell out the same week.",
-      "contact_url": "https://resy.com/cities/miami-fl/events",
-      "contact_email": null,
-      "ask_for": "Restaurant events team via Resy",
-      "score": 100,
-      "confidence": 0.9,
-      "why_it_matters": "Listed on Resy Experiences — book before hotel calendars catch it — luxury + networking keywords — at Sadelle's Coconut Grove",
-      "source_id": "resy_experiences",
-      "source_name": "Resy Experiences · Miami",
-      "source_url": "https://resy.com/cities/miami-fl/events",
-      "first_seen_at": "2026-11-05T20:27:20.614222+00:00",
-      "last_seen_at": "2026-11-05T20:27:36.012396+00:00",
-      "lead_hours": 18,
-      "source_trail": [
-        {
-          "source_id": "resy_experiences",
-          "source_name": "Resy Experiences · Miami",
-          "seen_at": "2026-11-05T20:27:20.614222+00:00",
-          "url": "https://resy.com/cities/miami-fl/events/mahjong-social-at-sadelle-s-coconut-grove-2026-11-06-6"
-        }
-      ]
-    },
-    {
       "id": "7d348c6e4d1f2e18ee5bb506956a9afe039a0f52",
       "title": "Exclusive Wine Tasting Experience",
       "summary": "*A multi-sensory journey of flavor, aroma, and texture.*",
       "starts_at": "2026-11-06T15:00:00-05:00",
-      "ends_at": "2026-11-06T15:45:00-05:00",
+      "ends_at": "2026-11-06T17:30:00-05:00",
       "all_day": false,
       "venue": "Hakkasan Miami",
       "neighborhood": "Miami",
@@ -773,7 +609,7 @@
       "source_name": "Resy Experiences · Miami",
       "source_url": "https://resy.com/cities/miami-fl/events",
       "first_seen_at": "2026-11-05T20:27:20.614254+00:00",
-      "last_seen_at": "2026-11-05T20:27:36.012396+00:00",
+      "last_seen_at": "2026-11-06T19:50:03.137841+00:00",
       "lead_hours": 23,
       "source_trail": [
         {
@@ -781,6 +617,47 @@
           "source_name": "Resy Experiences · Miami",
           "seen_at": "2026-11-05T20:27:20.614254+00:00",
           "url": "https://resy.com/cities/miami-fl/events/exclusive-wine-tasting-experience-2026-11-06-6"
+        }
+      ]
+    },
+    {
+      "id": "bdd1e939f60afc19a4ad78ee0d95ce78a23b0619",
+      "title": "PALME | Tasting Experience",
+      "summary": "*PALME* is a love letter from Italy to Florida, created by Executive Chef Bernardo Paladini under Massimo Bottura’s vision. The menu brings Italian craftsmanship together with the tropical and Latin flavors of Miami’s vibrant local culture.\n\n\n\nDiscover Florida stone crab through Venice’s sweet-and-sour saor, Sardinian fregola with Key West pink shrimp, and handmade tortellini that carry the warmth of Modena. From playful opening bites to Wagyu and a bright Florida citrus finale, each course reve",
+      "starts_at": "2026-11-06T18:00:00-05:00",
+      "ends_at": "2026-11-06T20:00:00-05:00",
+      "all_day": false,
+      "venue": "Torno Subito",
+      "neighborhood": "Miami",
+      "city": "Miami",
+      "url": "https://resy.com/cities/miami-fl/events/palme-tasting-experience-2026-11-06-6",
+      "rsvp_url": "https://resy.com/cities/miami-fl/events/palme-tasting-experience-2026-11-06-6",
+      "image_url": "https://image.resy.com/3/003/2/94271/3dad403e4e74a3ddedbb65a1ee6a7d8e58a46fbf/jpg/640x360",
+      "access": "registration",
+      "industry": "culinary",
+      "categories": [
+        "culinary",
+        "hospitality"
+      ],
+      "access_tip": "Book on Resy as soon as listings drop — guest-chef nights often sell out the same week.",
+      "contact_url": "https://resy.com/cities/miami-fl/events",
+      "contact_email": null,
+      "ask_for": "Restaurant events team via Resy",
+      "score": 100,
+      "confidence": 0.9,
+      "why_it_matters": "Listed on Resy Experiences — book before hotel calendars catch it — luxury + networking keywords — at Torno Subito",
+      "source_id": "resy_experiences",
+      "source_name": "Resy Experiences · Miami",
+      "source_url": "https://resy.com/cities/miami-fl/events",
+      "first_seen_at": "2026-11-06T19:49:47.666299+00:00",
+      "last_seen_at": "2026-11-06T19:50:03.137841+00:00",
+      "lead_hours": 3,
+      "source_trail": [
+        {
+          "source_id": "resy_experiences",
+          "source_name": "Resy Experiences · Miami",
+          "seen_at": "2026-11-06T19:49:47.666299+00:00",
+          "url": "https://resy.com/cities/miami-fl/events/palme-tasting-experience-2026-11-06-6"
         }
       ]
     },
@@ -814,7 +691,7 @@
       "source_name": "Resy Experiences · Miami",
       "source_url": "https://resy.com/cities/miami-fl/events",
       "first_seen_at": "2026-11-02T22:05:32.404303+00:00",
-      "last_seen_at": "2026-11-05T20:27:36.012396+00:00",
+      "last_seen_at": "2026-11-06T19:50:03.137841+00:00",
       "lead_hours": 96,
       "source_trail": [
         {
@@ -822,6 +699,129 @@
           "source_name": "Resy Experiences · Miami",
           "seen_at": "2026-11-02T22:05:32.404303+00:00",
           "url": "https://resy.com/cities/miami-fl/events/the-chef-counter-at-prime-54-2026-11-06-6"
+        }
+      ]
+    },
+    {
+      "id": "8946b5f67a4a57ab42dbdb89a70aa670c2836d62",
+      "title": "Jazz Night",
+      "summary": "Transport your ears to the birth of Jazz crooner Era of the 1950s. Haley presents the Great American Songbook in it’s purest form bring Nostalgia to the days that were. \n\n\n\n\n\n[https://www.instagram.com/haley.cove?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==](https://www.instagram.com/haley.cove?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)",
+      "starts_at": "2026-11-07T20:00:00-05:00",
+      "ends_at": "2026-11-07T23:00:00-05:00",
+      "all_day": false,
+      "venue": "Jass Kitchen",
+      "neighborhood": "Miami",
+      "city": "Miami",
+      "url": "https://resy.com/cities/miami-fl/events/jazz-night-2026-11-07-6",
+      "rsvp_url": "https://resy.com/cities/miami-fl/events/jazz-night-2026-11-07-6",
+      "image_url": "https://image.resy.com/3/003/2/80414/30cb3aecd77d5b85273ab473d0382b0ea97684ec/jpg/640x360",
+      "access": "registration",
+      "industry": "culinary",
+      "categories": [
+        "culinary",
+        "hospitality"
+      ],
+      "access_tip": "Book on Resy as soon as listings drop — guest-chef nights often sell out the same week.",
+      "contact_url": "https://resy.com/cities/miami-fl/events",
+      "contact_email": null,
+      "ask_for": "Restaurant events team via Resy",
+      "score": 100,
+      "confidence": 0.9,
+      "why_it_matters": "Listed on Resy Experiences — book before hotel calendars catch it — luxury / hospitality keywords — at Jass Kitchen",
+      "source_id": "resy_experiences",
+      "source_name": "Resy Experiences · Miami",
+      "source_url": "https://resy.com/cities/miami-fl/events",
+      "first_seen_at": "2026-11-06T19:49:47.666527+00:00",
+      "last_seen_at": "2026-11-06T19:50:03.137841+00:00",
+      "lead_hours": 29,
+      "source_trail": [
+        {
+          "source_id": "resy_experiences",
+          "source_name": "Resy Experiences · Miami",
+          "seen_at": "2026-11-06T19:49:47.666527+00:00",
+          "url": "https://resy.com/cities/miami-fl/events/jazz-night-2026-11-07-6"
+        }
+      ]
+    },
+    {
+      "id": "1e498b534c1f40641e331299eac9d5bc7f5f050f",
+      "title": "Dinner Anniversary Series #2",
+      "summary": "Celebrate Miss Crispy Rice’s second anniversary in Coral Gables with an unforgettable 16-course omakase collaboration featuring some of our favorite Miami chefs. Each evening’s guest chefs will join us behind the omakase bar, preparing and presenting their courses directly to you. Four Sundays, four unique chef lineups, and an intimate celebration of food, friendship, and Miami’s culinary community. Service Fee is included in lieu of gratuity.",
+      "starts_at": "2026-11-08T16:00:00-05:00",
+      "ends_at": "2026-11-08T18:00:00-05:00",
+      "all_day": false,
+      "venue": "Miss Crispy Rice",
+      "neighborhood": "Coral Gables",
+      "city": "Coral Gables",
+      "url": "https://resy.com/cities/miami-fl/events/dinner-anniversary-series-2-2026-11-08-6",
+      "rsvp_url": "https://resy.com/cities/miami-fl/events/dinner-anniversary-series-2-2026-11-08-6",
+      "image_url": "https://image.resy.com/3/003/2/72913/f7cab94ab811ea9ac12da06e2006feb3c64eefd5/jpg/640x360",
+      "access": "registration",
+      "industry": "culinary",
+      "categories": [
+        "culinary",
+        "hospitality"
+      ],
+      "access_tip": "Book on Resy as soon as listings drop — guest-chef nights often sell out the same week.",
+      "contact_url": "https://resy.com/cities/miami-fl/events",
+      "contact_email": null,
+      "ask_for": "Restaurant events team via Resy",
+      "score": 100,
+      "confidence": 0.9,
+      "why_it_matters": "Listed on Resy Experiences — book before hotel calendars catch it — luxury / hospitality keywords — at Miss Crispy Rice",
+      "source_id": "resy_experiences",
+      "source_name": "Resy Experiences · Miami",
+      "source_url": "https://resy.com/cities/miami-fl/events",
+      "first_seen_at": "2026-11-06T19:49:47.666666+00:00",
+      "last_seen_at": "2026-11-06T19:50:03.137841+00:00",
+      "lead_hours": 49,
+      "source_trail": [
+        {
+          "source_id": "resy_experiences",
+          "source_name": "Resy Experiences · Miami",
+          "seen_at": "2026-11-06T19:49:47.666666+00:00",
+          "url": "https://resy.com/cities/miami-fl/events/dinner-anniversary-series-2-2026-11-08-6"
+        }
+      ]
+    },
+    {
+      "id": "783b39d25509607c5deea4a481b063617b43aa43",
+      "title": "Walrus Rodeo X Right Hand",
+      "summary": "Rodeo Bar X Right Hand. Two teams, one night, and a whole lot of trouble (the good kind).\n\nWe’re taking over for a one-night-only  featuring some of Miami’s best drinks, nostalgic ’90s throwbacks, and enough flavor to make you say *“Oops!... I Did It Again.”* \n\nThink killer cocktails, throwback energy, and hospitality that never goes out of style.\n\nSo dust off your coolest fit, channel your inner ’90s icon, and come ready to sip, snack and shake. \n\n Dress Code: ’90s throwback — go all out!\n\nDrin",
+      "starts_at": "2026-11-11T17:30:00-05:00",
+      "ends_at": "2026-11-11T19:30:00-05:00",
+      "all_day": false,
+      "venue": "Walrus Rodeo",
+      "neighborhood": "Miami",
+      "city": "Miami",
+      "url": "https://resy.com/cities/miami-fl/events/walrus-rodeo-x-right-hand-2026-11-11-6",
+      "rsvp_url": "https://resy.com/cities/miami-fl/events/walrus-rodeo-x-right-hand-2026-11-11-6",
+      "image_url": "https://image.resy.com/3/003/2/66635/d8c95750536f74622bcd97fa4be40c6e7622d9eb/jpg/640x360",
+      "access": "registration",
+      "industry": "culinary",
+      "categories": [
+        "culinary",
+        "hospitality"
+      ],
+      "access_tip": "Book on Resy as soon as listings drop — guest-chef nights often sell out the same week.",
+      "contact_url": "https://resy.com/cities/miami-fl/events",
+      "contact_email": null,
+      "ask_for": "Restaurant events team via Resy",
+      "score": 100,
+      "confidence": 0.9,
+      "why_it_matters": "Listed on Resy Experiences — book before hotel calendars catch it — luxury + networking keywords — at Walrus Rodeo",
+      "source_id": "resy_experiences",
+      "source_name": "Resy Experiences · Miami",
+      "source_url": "https://resy.com/cities/miami-fl/events",
+      "first_seen_at": "2026-11-06T19:49:47.666824+00:00",
+      "last_seen_at": "2026-11-06T19:50:03.137841+00:00",
+      "lead_hours": 122,
+      "source_trail": [
+        {
+          "source_id": "resy_experiences",
+          "source_name": "Resy Experiences · Miami",
+          "seen_at": "2026-11-06T19:49:47.666824+00:00",
+          "url": "https://resy.com/cities/miami-fl/events/walrus-rodeo-x-right-hand-2026-11-11-6"
         }
       ]
     },
@@ -856,7 +856,7 @@
       "source_name": "The Backgammon Society",
       "source_url": "https://www.thebackgammonsociety.com/",
       "first_seen_at": "2026-10-23T17:40:48.777626+00:00",
-      "last_seen_at": "2026-11-05T20:27:36.012396+00:00",
+      "last_seen_at": "2026-11-06T19:50:03.137841+00:00",
       "lead_hours": 462,
       "source_trail": [
         {
@@ -898,7 +898,7 @@
       "source_name": "Faena Miami Beach",
       "source_url": "https://www.faena.com/miami-beach/things-to-do",
       "first_seen_at": "2026-11-02T22:05:26.691779+00:00",
-      "last_seen_at": "2026-11-05T20:27:36.012396+00:00",
+      "last_seen_at": "2026-11-06T19:50:03.137841+00:00",
       "lead_hours": 570,
       "source_trail": [
         {
@@ -939,7 +939,7 @@
       "source_name": "World Red Eye",
       "source_url": "https://worldredeye.com/feed/",
       "first_seen_at": "2026-11-04T20:15:11.508541+00:00",
-      "last_seen_at": "2026-11-05T20:27:36.012396+00:00",
+      "last_seen_at": "2026-11-06T19:50:03.137841+00:00",
       "lead_hours": null,
       "source_trail": [
         {
@@ -981,7 +981,7 @@
       "source_name": "Luma Miami · Food & Chef",
       "source_url": "https://luma.com/miami",
       "first_seen_at": "2026-11-04T20:15:18.029563+00:00",
-      "last_seen_at": "2026-11-05T20:27:36.012396+00:00",
+      "last_seen_at": "2026-11-06T19:50:03.137841+00:00",
       "lead_hours": 114,
       "source_trail": [
         {
@@ -1023,7 +1023,7 @@
       "source_name": "Eater Miami",
       "source_url": "https://miami.eater.com/rss/index.xml",
       "first_seen_at": "2026-10-30T18:23:37.970494+00:00",
-      "last_seen_at": "2026-11-05T20:27:36.012396+00:00",
+      "last_seen_at": "2026-11-06T19:50:03.137841+00:00",
       "lead_hours": null,
       "source_trail": [
         {
@@ -1065,7 +1065,7 @@
       "source_name": "Luma Miami · Food & Chef",
       "source_url": "https://luma.com/miami",
       "first_seen_at": "2026-11-04T20:15:18.029407+00:00",
-      "last_seen_at": "2026-11-05T20:27:36.012396+00:00",
+      "last_seen_at": "2026-11-06T19:50:03.137841+00:00",
       "lead_hours": 90,
       "source_trail": [
         {
@@ -1106,7 +1106,7 @@
       "source_name": "World Red Eye",
       "source_url": "https://worldredeye.com/feed/",
       "first_seen_at": "2026-11-04T20:15:11.508340+00:00",
-      "last_seen_at": "2026-11-05T20:27:36.012396+00:00",
+      "last_seen_at": "2026-11-06T19:50:03.137841+00:00",
       "lead_hours": null,
       "source_trail": [
         {
@@ -1148,7 +1148,7 @@
       "source_name": "Eater Miami",
       "source_url": "https://miami.eater.com/rss/index.xml",
       "first_seen_at": "2026-10-12T21:28:12.732047+00:00",
-      "last_seen_at": "2026-11-05T20:27:36.012396+00:00",
+      "last_seen_at": "2026-11-06T19:50:03.137841+00:00",
       "lead_hours": null,
       "source_trail": [
         {
@@ -1189,7 +1189,7 @@
       "source_name": "The Standard Spa Miami Beach",
       "source_url": "https://www.standardhotels.com/happenings",
       "first_seen_at": "2026-10-27T18:32:52.326478+00:00",
-      "last_seen_at": "2026-11-05T20:27:36.012396+00:00",
+      "last_seen_at": "2026-11-06T19:50:03.137841+00:00",
       "lead_hours": 238,
       "source_trail": [
         {
@@ -1230,7 +1230,7 @@
       "source_name": "Haute Living",
       "source_url": "https://hauteliving.com/feed/",
       "first_seen_at": "2026-11-05T20:27:16.336011+00:00",
-      "last_seen_at": "2026-11-05T20:27:36.012396+00:00",
+      "last_seen_at": "2026-11-06T19:50:03.137841+00:00",
       "lead_hours": null,
       "source_trail": [
         {
@@ -1271,7 +1271,7 @@
       "source_name": "The Standard Spa Miami Beach",
       "source_url": "https://www.standardhotels.com/happenings",
       "first_seen_at": "2026-09-28T19:54:26.136451+00:00",
-      "last_seen_at": "2026-11-05T20:27:36.012396+00:00",
+      "last_seen_at": "2026-11-06T19:50:03.137841+00:00",
       "lead_hours": 1053,
       "source_trail": [
         {
@@ -1312,7 +1312,7 @@
       "source_name": "The Standard Spa Miami Beach",
       "source_url": "https://www.standardhotels.com/happenings",
       "first_seen_at": "2026-10-27T18:32:54.888969+00:00",
-      "last_seen_at": "2026-11-05T20:27:36.012396+00:00",
+      "last_seen_at": "2026-11-06T19:50:03.137841+00:00",
       "lead_hours": 430,
       "source_trail": [
         {
@@ -1353,7 +1353,7 @@
       "source_name": "The Standard Spa Miami Beach",
       "source_url": "https://www.standardhotels.com/happenings",
       "first_seen_at": "2026-10-31T17:29:47.992717+00:00",
-      "last_seen_at": "2026-11-05T20:27:36.012396+00:00",
+      "last_seen_at": "2026-11-06T19:50:03.137841+00:00",
       "lead_hours": 527,
       "source_trail": [
         {
@@ -1395,7 +1395,7 @@
       "source_name": "The Backgammon Society",
       "source_url": "https://www.thebackgammonsociety.com/",
       "first_seen_at": "2026-11-05T20:27:25.222999+00:00",
-      "last_seen_at": "2026-11-05T20:27:36.012396+00:00",
+      "last_seen_at": "2026-11-06T19:50:03.137841+00:00",
       "lead_hours": 123,
       "source_trail": [
         {
@@ -1437,7 +1437,7 @@
       "source_name": "Backgammon Social Miami",
       "source_url": "https://luma.com/backgammonsocialmiami",
       "first_seen_at": "2026-10-26T19:00:33.733949+00:00",
-      "last_seen_at": "2026-11-05T20:27:36.012396+00:00",
+      "last_seen_at": "2026-11-06T19:50:03.137841+00:00",
       "lead_hours": 580,
       "source_trail": [
         {
@@ -1478,7 +1478,7 @@
       "source_name": "The Bass",
       "source_url": "https://thebass.org/events/?ical=1",
       "first_seen_at": "2026-10-26T19:00:25.816750+00:00",
-      "last_seen_at": "2026-11-05T20:27:36.012396+00:00",
+      "last_seen_at": "2026-11-06T19:50:03.137841+00:00",
       "lead_hours": 894,
       "source_trail": [
         {
@@ -1519,7 +1519,7 @@
       "source_name": "The Standard Spa Miami Beach",
       "source_url": "https://www.standardhotels.com/happenings",
       "first_seen_at": "2026-11-01T18:14:45.758590+00:00",
-      "last_seen_at": "2026-11-05T20:27:36.012396+00:00",
+      "last_seen_at": "2026-11-06T19:50:03.137841+00:00",
       "lead_hours": 406,
       "source_trail": [
         {
@@ -1561,7 +1561,7 @@
       "source_name": "Backgammon Social Miami",
       "source_url": "https://luma.com/backgammonsocialmiami",
       "first_seen_at": "2026-10-30T18:23:38.875506+00:00",
-      "last_seen_at": "2026-11-05T20:27:36.012396+00:00",
+      "last_seen_at": "2026-11-06T19:50:03.137841+00:00",
       "lead_hours": 605,
       "source_trail": [
         {
