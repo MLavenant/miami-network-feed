@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T19:50:20.770387+00:00",
+  "generated_at": "2026-11-07T17:56:41.604576+00:00",
   "timezone": "America/New_York",
   "version": 1,
   "event_count": 24,
@@ -272,28 +272,6 @@
       "basis": "Public caption or professional role text; no face recognition or private contact data."
     },
     {
-      "id": "83fc295b8fe006a7",
-      "name": "Russell Galbut",
-      "role": "Recurring name in curated event coverage",
-      "organization": "Miami luxury and industry network",
-      "industry": "hospitality",
-      "priority": 78,
-      "mentions": 19,
-      "event_count": 2,
-      "why_connect": "Published in 19 World Red Eye caption(s) across 2 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
-      "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
-      "source_name": "World Red Eye",
-      "source_urls": [
-        "https://worldredeye.com/2026/05/world-red-eye-preview-dinner-hosted-by-seth-browarnik-at-gigi-rigolatto-celebrating-delano/",
-        "https://worldredeye.com/2026/11/the-real-deal-miami-forum-vip-dinner-at-klaw-miami/"
-      ],
-      "event_titles": [
-        "The Real Deal Miami Forum VIP Dinner at Klaw Miami",
-        "World Red Eye Preview Dinner Hosted by Seth Browarnik at Gigi Rigolatto Celebrating Delano"
-      ],
-      "basis": "Public caption or professional role text; no face recognition or private contact data."
-    },
-    {
       "id": "62820920c24f0ae7",
       "name": "Steven Meiner",
       "role": "Recurring name in curated event coverage",
@@ -347,6 +325,26 @@
       "mentions": 16,
       "event_count": 1,
       "why_connect": "Published in 16 World Red Eye caption(s) across 1 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
+      "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
+      "source_name": "World Red Eye",
+      "source_urls": [
+        "https://worldredeye.com/2026/05/world-red-eye-preview-dinner-hosted-by-seth-browarnik-at-gigi-rigolatto-celebrating-delano/"
+      ],
+      "event_titles": [
+        "World Red Eye Preview Dinner Hosted by Seth Browarnik at Gigi Rigolatto Celebrating Delano"
+      ],
+      "basis": "Public caption or professional role text; no face recognition or private contact data."
+    },
+    {
+      "id": "83fc295b8fe006a7",
+      "name": "Russell Galbut",
+      "role": "Recurring name in curated event coverage",
+      "organization": "Miami luxury and industry network",
+      "industry": "hospitality",
+      "priority": 69,
+      "mentions": 14,
+      "event_count": 1,
+      "why_connect": "Published in 14 World Red Eye caption(s) across 1 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
       "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
       "source_name": "World Red Eye",
       "source_urls": [
@@ -538,6 +536,26 @@
       "basis": "Public caption or professional role text; no face recognition or private contact data."
     },
     {
+      "id": "9d6c8bc14fa38a5d",
+      "name": "Betiana Bradas",
+      "role": "Recurring name in curated event coverage",
+      "organization": "Miami luxury and industry network",
+      "industry": "hospitality",
+      "priority": 66,
+      "mentions": 9,
+      "event_count": 1,
+      "why_connect": "Published in 9 World Red Eye caption(s) across 1 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
+      "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
+      "source_name": "World Red Eye",
+      "source_urls": [
+        "https://worldredeye.com/2026/11/lo-que-nos-une-art-exhibition-at-the-argentine-consulate/"
+      ],
+      "event_titles": [
+        "LO QUE NOS UNE Art Exhibition at the Argentine Consulate"
+      ],
+      "basis": "Public caption or professional role text; no face recognition or private contact data."
+    },
+    {
       "id": "0af51ca53db6b01b",
       "name": "Gigi Vogel",
       "role": "Recurring name in curated event coverage",
@@ -556,82 +574,21 @@
         "Q&A: De La Heart Is Making Everyday Self-Care a Ritual"
       ],
       "basis": "Public caption or professional role text; no face recognition or private contact data."
-    },
-    {
-      "id": "4442c07fbb3b2533",
-      "name": "Robert Rivani",
-      "role": "Recurring name in curated event coverage",
-      "organization": "Miami luxury and industry network",
-      "industry": "hospitality",
-      "priority": 66,
-      "mentions": 9,
-      "event_count": 1,
-      "why_connect": "Published in 9 World Red Eye caption(s) across 1 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
-      "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
-      "source_name": "World Red Eye",
-      "source_urls": [
-        "https://worldredeye.com/2026/05/world-red-eye-preview-dinner-hosted-by-seth-browarnik-at-gigi-rigolatto-celebrating-delano/"
-      ],
-      "event_titles": [
-        "World Red Eye Preview Dinner Hosted by Seth Browarnik at Gigi Rigolatto Celebrating Delano"
-      ],
-      "basis": "Public caption or professional role text; no face recognition or private contact data."
     }
   ],
   "events": [
     {
-      "id": "7d348c6e4d1f2e18ee5bb506956a9afe039a0f52",
-      "title": "Exclusive Wine Tasting Experience",
-      "summary": "*A multi-sensory journey of flavor, aroma, and texture.*",
-      "starts_at": "2026-11-06T15:00:00-05:00",
-      "ends_at": "2026-11-06T17:30:00-05:00",
-      "all_day": false,
-      "venue": "Hakkasan Miami",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://resy.com/cities/miami-fl/events/exclusive-wine-tasting-experience-2026-11-06-6",
-      "rsvp_url": "https://resy.com/cities/miami-fl/events/exclusive-wine-tasting-experience-2026-11-06-6",
-      "image_url": "https://image.resy.com/3/003/2/93714/3a62529ac81adbb946f1fecabe4cddca1a912523/jpg/640x360",
-      "access": "registration",
-      "industry": "culinary",
-      "categories": [
-        "culinary",
-        "hospitality"
-      ],
-      "access_tip": "Book on Resy as soon as listings drop — guest-chef nights often sell out the same week.",
-      "contact_url": "https://resy.com/cities/miami-fl/events",
-      "contact_email": null,
-      "ask_for": "Restaurant events team via Resy",
-      "score": 100,
-      "confidence": 0.9,
-      "why_it_matters": "Listed on Resy Experiences — book before hotel calendars catch it — luxury / hospitality keywords — at Hakkasan Miami",
-      "source_id": "resy_experiences",
-      "source_name": "Resy Experiences · Miami",
-      "source_url": "https://resy.com/cities/miami-fl/events",
-      "first_seen_at": "2026-11-05T20:27:20.614254+00:00",
-      "last_seen_at": "2026-11-06T19:50:03.137841+00:00",
-      "lead_hours": 23,
-      "source_trail": [
-        {
-          "source_id": "resy_experiences",
-          "source_name": "Resy Experiences · Miami",
-          "seen_at": "2026-11-05T20:27:20.614254+00:00",
-          "url": "https://resy.com/cities/miami-fl/events/exclusive-wine-tasting-experience-2026-11-06-6"
-        }
-      ]
-    },
-    {
-      "id": "bdd1e939f60afc19a4ad78ee0d95ce78a23b0619",
+      "id": "73349fc086aae6c16593fdc1cb1856072b075166",
       "title": "PALME | Tasting Experience",
       "summary": "*PALME* is a love letter from Italy to Florida, created by Executive Chef Bernardo Paladini under Massimo Bottura’s vision. The menu brings Italian craftsmanship together with the tropical and Latin flavors of Miami’s vibrant local culture.\n\n\n\nDiscover Florida stone crab through Venice’s sweet-and-sour saor, Sardinian fregola with Key West pink shrimp, and handmade tortellini that carry the warmth of Modena. From playful opening bites to Wagyu and a bright Florida citrus finale, each course reve",
-      "starts_at": "2026-11-06T18:00:00-05:00",
-      "ends_at": "2026-11-06T20:00:00-05:00",
+      "starts_at": "2026-11-07T13:30:00-05:00",
+      "ends_at": "2026-11-07T15:30:00-05:00",
       "all_day": false,
       "venue": "Torno Subito",
       "neighborhood": "Miami",
       "city": "Miami",
-      "url": "https://resy.com/cities/miami-fl/events/palme-tasting-experience-2026-11-06-6",
-      "rsvp_url": "https://resy.com/cities/miami-fl/events/palme-tasting-experience-2026-11-06-6",
+      "url": "https://resy.com/cities/miami-fl/events/palme-tasting-experience-2026-11-07-6",
+      "rsvp_url": "https://resy.com/cities/miami-fl/events/palme-tasting-experience-2026-11-07-6",
       "image_url": "https://image.resy.com/3/003/2/94271/3dad403e4e74a3ddedbb65a1ee6a7d8e58a46fbf/jpg/640x360",
       "access": "registration",
       "industry": "culinary",
@@ -649,31 +606,31 @@
       "source_id": "resy_experiences",
       "source_name": "Resy Experiences · Miami",
       "source_url": "https://resy.com/cities/miami-fl/events",
-      "first_seen_at": "2026-11-06T19:49:47.666299+00:00",
-      "last_seen_at": "2026-11-06T19:50:03.137841+00:00",
-      "lead_hours": 3,
+      "first_seen_at": "2026-11-07T17:56:09.080438+00:00",
+      "last_seen_at": "2026-11-07T17:56:23.890247+00:00",
+      "lead_hours": 0,
       "source_trail": [
         {
           "source_id": "resy_experiences",
           "source_name": "Resy Experiences · Miami",
-          "seen_at": "2026-11-06T19:49:47.666299+00:00",
-          "url": "https://resy.com/cities/miami-fl/events/palme-tasting-experience-2026-11-06-6"
+          "seen_at": "2026-11-07T17:56:09.080438+00:00",
+          "url": "https://resy.com/cities/miami-fl/events/palme-tasting-experience-2026-11-07-6"
         }
       ]
     },
     {
-      "id": "6d2bb3446578cb1c7b863f5f9616440fb0ced869",
-      "title": "The Chef Counter at Prime 54",
-      "summary": "Experience an unforgettable evening at the Prime 54 Chef’s Counter, where you’re immersed in live culinary artistry. Set within the vibrant energy of the restaurant’s bustling open kitchen, you’ll enjoy a front-row view as our chefs prepare, plate, and present a specially curated multi-course menu crafted exclusively for you. This intimate experience is limited to just six guests and is priced at $195 per person, plus taxes and gratuity.",
-      "starts_at": "2026-11-06T18:00:00-05:00",
-      "ends_at": "2026-11-06T19:00:00-05:00",
+      "id": "5f2caaebb6a4145666c20d2cc6fddee4a8191694",
+      "title": "Exclusive Wine Tasting Experience",
+      "summary": "*A multi-sensory journey of flavor, aroma, and texture.*",
+      "starts_at": "2026-11-07T15:00:00-05:00",
+      "ends_at": "2026-11-07T17:30:00-05:00",
       "all_day": false,
-      "venue": "Prime 54",
-      "neighborhood": "Miami Beach",
-      "city": "Miami Beach",
-      "url": "https://resy.com/cities/miami-fl/events/the-chef-counter-at-prime-54-2026-11-06-6",
-      "rsvp_url": "https://resy.com/cities/miami-fl/events/the-chef-counter-at-prime-54-2026-11-06-6",
-      "image_url": "https://image.resy.com/3/003/2/93713/2e8dac08dbb4a4b08838c5cd852a6aefb1b3b9e3/jpg/640x360",
+      "venue": "Hakkasan Miami",
+      "neighborhood": "Miami",
+      "city": "Miami",
+      "url": "https://resy.com/cities/miami-fl/events/exclusive-wine-tasting-experience-2026-11-07-6",
+      "rsvp_url": "https://resy.com/cities/miami-fl/events/exclusive-wine-tasting-experience-2026-11-07-6",
+      "image_url": "https://image.resy.com/3/003/2/93714/3a62529ac81adbb946f1fecabe4cddca1a912523/jpg/640x360",
       "access": "registration",
       "industry": "culinary",
       "categories": [
@@ -686,19 +643,19 @@
       "ask_for": "Restaurant events team via Resy",
       "score": 100,
       "confidence": 0.9,
-      "why_it_matters": "Listed on Resy Experiences — book before hotel calendars catch it — luxury / hospitality keywords — at Prime 54",
+      "why_it_matters": "Listed on Resy Experiences — book before hotel calendars catch it — luxury / hospitality keywords — at Hakkasan Miami",
       "source_id": "resy_experiences",
       "source_name": "Resy Experiences · Miami",
       "source_url": "https://resy.com/cities/miami-fl/events",
-      "first_seen_at": "2026-11-02T22:05:32.404303+00:00",
-      "last_seen_at": "2026-11-06T19:50:03.137841+00:00",
-      "lead_hours": 96,
+      "first_seen_at": "2026-11-07T17:56:09.080462+00:00",
+      "last_seen_at": "2026-11-07T17:56:23.890247+00:00",
+      "lead_hours": 2,
       "source_trail": [
         {
           "source_id": "resy_experiences",
           "source_name": "Resy Experiences · Miami",
-          "seen_at": "2026-11-02T22:05:32.404303+00:00",
-          "url": "https://resy.com/cities/miami-fl/events/the-chef-counter-at-prime-54-2026-11-06-6"
+          "seen_at": "2026-11-07T17:56:09.080462+00:00",
+          "url": "https://resy.com/cities/miami-fl/events/exclusive-wine-tasting-experience-2026-11-07-6"
         }
       ]
     },
@@ -732,7 +689,7 @@
       "source_name": "Resy Experiences · Miami",
       "source_url": "https://resy.com/cities/miami-fl/events",
       "first_seen_at": "2026-11-06T19:49:47.666527+00:00",
-      "last_seen_at": "2026-11-06T19:50:03.137841+00:00",
+      "last_seen_at": "2026-11-07T17:56:23.890247+00:00",
       "lead_hours": 29,
       "source_trail": [
         {
@@ -773,7 +730,7 @@
       "source_name": "Resy Experiences · Miami",
       "source_url": "https://resy.com/cities/miami-fl/events",
       "first_seen_at": "2026-11-06T19:49:47.666666+00:00",
-      "last_seen_at": "2026-11-06T19:50:03.137841+00:00",
+      "last_seen_at": "2026-11-07T17:56:23.890247+00:00",
       "lead_hours": 49,
       "source_trail": [
         {
@@ -814,7 +771,7 @@
       "source_name": "Resy Experiences · Miami",
       "source_url": "https://resy.com/cities/miami-fl/events",
       "first_seen_at": "2026-11-06T19:49:47.666824+00:00",
-      "last_seen_at": "2026-11-06T19:50:03.137841+00:00",
+      "last_seen_at": "2026-11-07T17:56:23.890247+00:00",
       "lead_hours": 122,
       "source_trail": [
         {
@@ -822,6 +779,47 @@
           "source_name": "Resy Experiences · Miami",
           "seen_at": "2026-11-06T19:49:47.666824+00:00",
           "url": "https://resy.com/cities/miami-fl/events/walrus-rodeo-x-right-hand-2026-11-11-6"
+        }
+      ]
+    },
+    {
+      "id": "d74a89effc69b51bbe578dc3997b1544a9c2ceb4",
+      "title": "Pasta Omakase",
+      "summary": "Pasta Omakase continues! A collection of specialty crudos and pastas. Brought to you by chefs Mike Pirolo & Trevor Zwaan.\n\nBar seating only. Begins promptly at 6:30 PM. We are unfortunately not able to modify this menu.",
+      "starts_at": "2026-11-11T18:30:00-05:00",
+      "ends_at": "2026-11-11T19:00:00-05:00",
+      "all_day": false,
+      "venue": "Macchialina Taverna Rustica",
+      "neighborhood": "Miami Beach",
+      "city": "Miami Beach",
+      "url": "https://resy.com/cities/miami-fl/events/pasta-omakase-2026-11-11-6",
+      "rsvp_url": "https://resy.com/cities/miami-fl/events/pasta-omakase-2026-11-11-6",
+      "image_url": "https://image.resy.com/3/003/2/8803/91bd5e3f2a032ba4699878d704328000b38e03c9/jpg/640x360",
+      "access": "registration",
+      "industry": "culinary",
+      "categories": [
+        "culinary",
+        "hospitality"
+      ],
+      "access_tip": "Book on Resy as soon as listings drop — guest-chef nights often sell out the same week.",
+      "contact_url": "https://resy.com/cities/miami-fl/events",
+      "contact_email": null,
+      "ask_for": "Restaurant events team via Resy",
+      "score": 100,
+      "confidence": 0.9,
+      "why_it_matters": "Listed on Resy Experiences — book before hotel calendars catch it — luxury / hospitality keywords — at Macchialina Taverna Rustica",
+      "source_id": "resy_experiences",
+      "source_name": "Resy Experiences · Miami",
+      "source_url": "https://resy.com/cities/miami-fl/events",
+      "first_seen_at": "2026-11-07T17:56:09.080734+00:00",
+      "last_seen_at": "2026-11-07T17:56:23.890247+00:00",
+      "lead_hours": 101,
+      "source_trail": [
+        {
+          "source_id": "resy_experiences",
+          "source_name": "Resy Experiences · Miami",
+          "seen_at": "2026-11-07T17:56:09.080734+00:00",
+          "url": "https://resy.com/cities/miami-fl/events/pasta-omakase-2026-11-11-6"
         }
       ]
     },
@@ -856,7 +854,7 @@
       "source_name": "The Backgammon Society",
       "source_url": "https://www.thebackgammonsociety.com/",
       "first_seen_at": "2026-10-23T17:40:48.777626+00:00",
-      "last_seen_at": "2026-11-06T19:50:03.137841+00:00",
+      "last_seen_at": "2026-11-07T17:56:23.890247+00:00",
       "lead_hours": 462,
       "source_trail": [
         {
@@ -898,7 +896,7 @@
       "source_name": "Faena Miami Beach",
       "source_url": "https://www.faena.com/miami-beach/things-to-do",
       "first_seen_at": "2026-11-02T22:05:26.691779+00:00",
-      "last_seen_at": "2026-11-06T19:50:03.137841+00:00",
+      "last_seen_at": "2026-11-07T17:56:23.890247+00:00",
       "lead_hours": 570,
       "source_trail": [
         {
@@ -910,43 +908,44 @@
       ]
     },
     {
-      "id": "161ac6748b6660aa6def804bf9b2c8c50f07ae5d",
-      "title": "The Real Deal Miami Forum VIP Dinner at Klaw Miami",
-      "summary": "Miami, FL - November 3, 2026 - The Real Deal in partnership with BSH, hosted an exclusive, invite-only VIP dinner at Klaw before the 2026 Miami Real Estate Forum. This intimate dinner brought Miami Forum speakers and real estate leaders together to celebrate and kick off the Forum. This event offered speakers and VIPs an opportunity to network and build relationships before the main event began. The post The Real Dea",
-      "starts_at": null,
-      "ends_at": null,
+      "id": "bc1df38e847f5155a0bab21c5f6ea96608878386",
+      "title": "The Apron Estate-First Pop Up",
+      "summary": "",
+      "starts_at": "2026-11-08T10:00:00-05:00",
+      "ends_at": "2026-11-08T13:00:00-05:00",
       "all_day": false,
-      "venue": "",
+      "venue": "Miami, FL",
       "neighborhood": "Miami",
       "city": "Miami",
-      "url": "https://worldredeye.com/2026/11/the-real-deal-miami-forum-vip-dinner-at-klaw-miami/",
-      "rsvp_url": "https://worldredeye.com/2026/11/the-real-deal-miami-forum-vip-dinner-at-klaw-miami/",
-      "image_url": null,
-      "access": "invitation-only",
-      "industry": "real_estate",
+      "url": "https://luma.com/cpzz5ym8",
+      "rsvp_url": "https://luma.com/cpzz5ym8",
+      "image_url": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/uploads/14/8281a17b-3336-492e-924e-54d0daed7366.png",
+      "access": "public",
+      "industry": "culinary",
       "categories": [
-        "editorial",
-        "nightlife"
+        "culinary",
+        "hospitality",
+        "networking"
       ],
-      "access_tip": "No public RSVP is listed. Follow the official organizer and venue, join their newsletter, then request a host, member, concierge or PR introduction. Never use unofficial ticket links.",
-      "contact_url": "https://worldredeye.com/2026/11/the-real-deal-miami-forum-vip-dinner-at-klaw-miami/",
+      "access_tip": "Chef collabs and restaurant pop-ups often sell out same-day — reserve on Luma or call the venue directly.",
+      "contact_url": null,
       "contact_email": null,
-      "ask_for": "The host or sponsor named in the World Red Eye article",
-      "score": 98,
-      "confidence": 0.6,
-      "why_it_matters": "World Red Eye coverage (often same-day / post-event) — invitation-only access — luxury + networking keywords",
-      "source_id": "world_red_eye",
-      "source_name": "World Red Eye",
-      "source_url": "https://worldredeye.com/feed/",
-      "first_seen_at": "2026-11-04T20:15:11.508541+00:00",
-      "last_seen_at": "2026-11-06T19:50:03.137841+00:00",
-      "lead_hours": null,
+      "ask_for": "Apron Estate",
+      "score": 95,
+      "confidence": 0.9,
+      "why_it_matters": "From Luma Miami · Food & Chef — luxury / hospitality keywords — at Miami, FL",
+      "source_id": "luma_culinary_miami",
+      "source_name": "Luma Miami · Food & Chef",
+      "source_url": "https://luma.com/miami",
+      "first_seen_at": "2026-11-04T20:15:18.029407+00:00",
+      "last_seen_at": "2026-11-07T17:56:23.890247+00:00",
+      "lead_hours": 90,
       "source_trail": [
         {
-          "source_id": "world_red_eye",
-          "source_name": "World Red Eye",
-          "seen_at": "2026-11-04T20:15:11.508541+00:00",
-          "url": "https://worldredeye.com/2026/11/the-real-deal-miami-forum-vip-dinner-at-klaw-miami/"
+          "source_id": "luma_culinary_miami",
+          "source_name": "Luma Miami · Food & Chef",
+          "seen_at": "2026-11-04T20:15:18.029407+00:00",
+          "url": "https://luma.com/cpzz5ym8"
         }
       ]
     },
@@ -981,7 +980,7 @@
       "source_name": "Luma Miami · Food & Chef",
       "source_url": "https://luma.com/miami",
       "first_seen_at": "2026-11-04T20:15:18.029563+00:00",
-      "last_seen_at": "2026-11-06T19:50:03.137841+00:00",
+      "last_seen_at": "2026-11-07T17:56:23.890247+00:00",
       "lead_hours": 114,
       "source_trail": [
         {
@@ -1023,7 +1022,7 @@
       "source_name": "Eater Miami",
       "source_url": "https://miami.eater.com/rss/index.xml",
       "first_seen_at": "2026-10-30T18:23:37.970494+00:00",
-      "last_seen_at": "2026-11-06T19:50:03.137841+00:00",
+      "last_seen_at": "2026-11-07T17:56:23.890247+00:00",
       "lead_hours": null,
       "source_trail": [
         {
@@ -1031,48 +1030,6 @@
           "source_name": "Eater Miami",
           "seen_at": "2026-10-30T18:23:37.970494+00:00",
           "url": "https://miami.eater.com/maps/best-miami-cocktail-bars-guide-map"
-        }
-      ]
-    },
-    {
-      "id": "bc1df38e847f5155a0bab21c5f6ea96608878386",
-      "title": "The Apron Estate-First Pop Up",
-      "summary": "",
-      "starts_at": "2026-11-08T10:00:00-05:00",
-      "ends_at": "2026-11-08T13:00:00-05:00",
-      "all_day": false,
-      "venue": "Miami, FL",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://luma.com/cpzz5ym8",
-      "rsvp_url": "https://luma.com/cpzz5ym8",
-      "image_url": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/uploads/14/8281a17b-3336-492e-924e-54d0daed7366.png",
-      "access": "public",
-      "industry": "culinary",
-      "categories": [
-        "culinary",
-        "hospitality",
-        "networking"
-      ],
-      "access_tip": "Chef collabs and restaurant pop-ups often sell out same-day — reserve on Luma or call the venue directly.",
-      "contact_url": null,
-      "contact_email": null,
-      "ask_for": "Apron Estate",
-      "score": 89,
-      "confidence": 0.9,
-      "why_it_matters": "From Luma Miami · Food & Chef — luxury / hospitality keywords — at Miami, FL",
-      "source_id": "luma_culinary_miami",
-      "source_name": "Luma Miami · Food & Chef",
-      "source_url": "https://luma.com/miami",
-      "first_seen_at": "2026-11-04T20:15:18.029407+00:00",
-      "last_seen_at": "2026-11-06T19:50:03.137841+00:00",
-      "lead_hours": 90,
-      "source_trail": [
-        {
-          "source_id": "luma_culinary_miami",
-          "source_name": "Luma Miami · Food & Chef",
-          "seen_at": "2026-11-04T20:15:18.029407+00:00",
-          "url": "https://luma.com/cpzz5ym8"
         }
       ]
     },
@@ -1106,7 +1063,7 @@
       "source_name": "World Red Eye",
       "source_url": "https://worldredeye.com/feed/",
       "first_seen_at": "2026-11-04T20:15:11.508340+00:00",
-      "last_seen_at": "2026-11-06T19:50:03.137841+00:00",
+      "last_seen_at": "2026-11-07T17:56:23.890247+00:00",
       "lead_hours": null,
       "source_trail": [
         {
@@ -1148,7 +1105,7 @@
       "source_name": "Eater Miami",
       "source_url": "https://miami.eater.com/rss/index.xml",
       "first_seen_at": "2026-10-12T21:28:12.732047+00:00",
-      "last_seen_at": "2026-11-06T19:50:03.137841+00:00",
+      "last_seen_at": "2026-11-07T17:56:23.890247+00:00",
       "lead_hours": null,
       "source_trail": [
         {
@@ -1156,47 +1113,6 @@
           "source_name": "Eater Miami",
           "seen_at": "2026-10-12T21:28:12.732047+00:00",
           "url": "https://miami.eater.com/maps/miami-best-restaurants-38"
-        }
-      ]
-    },
-    {
-      "id": "ce9f67b68c4b7517ef996b74184030d67479a61a",
-      "title": "Nia Thomas Pop Up",
-      "summary": "The Shop welcomes Nia Thomas for a three-day pop-up featuring handmade knitwear, sculptural crochet designs, and fluid silhouettes. Explore resortwear that highlights the designer’s approach to craftsmanship and versatile dressing.",
-      "starts_at": "2026-11-06T12:00:00-05:00",
-      "ends_at": null,
-      "all_day": false,
-      "venue": "The Standard Spa Miami Beach",
-      "neighborhood": "Miami Beach",
-      "city": "Miami Beach",
-      "url": "https://www.standardhotels.com/miami/happenings/nia-thomas-pop-up",
-      "rsvp_url": "https://www.standardhotels.com/miami/happenings/nia-thomas-pop-up",
-      "image_url": null,
-      "access": "public",
-      "industry": "hospitality",
-      "categories": [
-        "hospitality",
-        "luxury"
-      ],
-      "access_tip": "Book directly from the official happening. For private-event access, contact the hotel's official events team.",
-      "contact_url": "https://www.standardhotels.com/miami/properties/miami-beach",
-      "contact_email": "MiamiEvents@StandardMiami.com",
-      "ask_for": "The Standard Miami Events Team or Spa Concierge",
-      "score": 82,
-      "confidence": 0.9,
-      "why_it_matters": "From The Standard Spa Miami Beach — luxury / hospitality keywords — at The Standard Spa Miami Beach",
-      "source_id": "the_standard_miami",
-      "source_name": "The Standard Spa Miami Beach",
-      "source_url": "https://www.standardhotels.com/happenings",
-      "first_seen_at": "2026-10-27T18:32:52.326478+00:00",
-      "last_seen_at": "2026-11-06T19:50:03.137841+00:00",
-      "lead_hours": 238,
-      "source_trail": [
-        {
-          "source_id": "the_standard_miami",
-          "source_name": "The Standard Spa Miami Beach",
-          "seen_at": "2026-10-27T18:32:52.326478+00:00",
-          "url": "https://www.standardhotels.com/miami/happenings/nia-thomas-pop-up"
         }
       ]
     },
@@ -1230,7 +1146,7 @@
       "source_name": "Haute Living",
       "source_url": "https://hauteliving.com/feed/",
       "first_seen_at": "2026-11-05T20:27:16.336011+00:00",
-      "last_seen_at": "2026-11-06T19:50:03.137841+00:00",
+      "last_seen_at": "2026-11-07T17:56:23.890247+00:00",
       "lead_hours": null,
       "source_trail": [
         {
@@ -1238,6 +1154,47 @@
           "source_name": "Haute Living",
           "seen_at": "2026-11-05T20:27:16.336011+00:00",
           "url": "https://hauteliving.com/2026/11/flying-private-to-art-basel-miami-beach-2026/801623/"
+        }
+      ]
+    },
+    {
+      "id": "c0e8c613b810cb23f14214663ec82a4cfc1efb71",
+      "title": "Mara Brazil Pop Up",
+      "summary": "The Shop welcomes Mara Brazil for a two-day pop-up featuring handcrafted handbags. The Brazilian brand works with women artisans across different regions of Brazil using traditional techniques including crochet, macramé, and natural fiber weaving.",
+      "starts_at": "2026-11-14T12:00:00-05:00",
+      "ends_at": null,
+      "all_day": false,
+      "venue": "The Standard Spa Miami Beach",
+      "neighborhood": "Miami Beach",
+      "city": "Miami Beach",
+      "url": "https://www.standardhotels.com/miami/happenings/mara-brazil-pop-up",
+      "rsvp_url": "https://www.standardhotels.com/miami/happenings/mara-brazil-pop-up",
+      "image_url": null,
+      "access": "public",
+      "industry": "hospitality",
+      "categories": [
+        "hospitality",
+        "luxury"
+      ],
+      "access_tip": "Book directly from the official happening. For private-event access, contact the hotel's official events team.",
+      "contact_url": "https://www.standardhotels.com/miami/properties/miami-beach",
+      "contact_email": "MiamiEvents@StandardMiami.com",
+      "ask_for": "The Standard Miami Events Team or Spa Concierge",
+      "score": 76,
+      "confidence": 0.9,
+      "why_it_matters": "From The Standard Spa Miami Beach — luxury / hospitality keywords — at The Standard Spa Miami Beach",
+      "source_id": "the_standard_miami",
+      "source_name": "The Standard Spa Miami Beach",
+      "source_url": "https://www.standardhotels.com/happenings",
+      "first_seen_at": "2026-10-27T18:32:54.888969+00:00",
+      "last_seen_at": "2026-11-07T17:56:23.890247+00:00",
+      "lead_hours": 430,
+      "source_trail": [
+        {
+          "source_id": "the_standard_miami",
+          "source_name": "The Standard Spa Miami Beach",
+          "seen_at": "2026-10-27T18:32:54.888969+00:00",
+          "url": "https://www.standardhotels.com/miami/happenings/mara-brazil-pop-up"
         }
       ]
     },
@@ -1271,7 +1228,7 @@
       "source_name": "The Standard Spa Miami Beach",
       "source_url": "https://www.standardhotels.com/happenings",
       "first_seen_at": "2026-09-28T19:54:26.136451+00:00",
-      "last_seen_at": "2026-11-06T19:50:03.137841+00:00",
+      "last_seen_at": "2026-11-07T17:56:23.890247+00:00",
       "lead_hours": 1053,
       "source_trail": [
         {
@@ -1279,47 +1236,6 @@
           "source_name": "The Standard Spa Miami Beach",
           "seen_at": "2026-09-28T19:54:26.136451+00:00",
           "url": "https://www.standardhotels.com/miami/happenings/aura-photography"
-        }
-      ]
-    },
-    {
-      "id": "c0e8c613b810cb23f14214663ec82a4cfc1efb71",
-      "title": "Mara Brazil Pop Up",
-      "summary": "The Shop welcomes Mara Brazil for a two-day pop-up featuring handcrafted handbags. The Brazilian brand works with women artisans across different regions of Brazil using traditional techniques including crochet, macramé, and natural fiber weaving.",
-      "starts_at": "2026-11-14T12:00:00-05:00",
-      "ends_at": null,
-      "all_day": false,
-      "venue": "The Standard Spa Miami Beach",
-      "neighborhood": "Miami Beach",
-      "city": "Miami Beach",
-      "url": "https://www.standardhotels.com/miami/happenings/mara-brazil-pop-up",
-      "rsvp_url": "https://www.standardhotels.com/miami/happenings/mara-brazil-pop-up",
-      "image_url": null,
-      "access": "public",
-      "industry": "hospitality",
-      "categories": [
-        "hospitality",
-        "luxury"
-      ],
-      "access_tip": "Book directly from the official happening. For private-event access, contact the hotel's official events team.",
-      "contact_url": "https://www.standardhotels.com/miami/properties/miami-beach",
-      "contact_email": "MiamiEvents@StandardMiami.com",
-      "ask_for": "The Standard Miami Events Team or Spa Concierge",
-      "score": 70,
-      "confidence": 0.9,
-      "why_it_matters": "From The Standard Spa Miami Beach — luxury / hospitality keywords — at The Standard Spa Miami Beach",
-      "source_id": "the_standard_miami",
-      "source_name": "The Standard Spa Miami Beach",
-      "source_url": "https://www.standardhotels.com/happenings",
-      "first_seen_at": "2026-10-27T18:32:54.888969+00:00",
-      "last_seen_at": "2026-11-06T19:50:03.137841+00:00",
-      "lead_hours": 430,
-      "source_trail": [
-        {
-          "source_id": "the_standard_miami",
-          "source_name": "The Standard Spa Miami Beach",
-          "seen_at": "2026-10-27T18:32:54.888969+00:00",
-          "url": "https://www.standardhotels.com/miami/happenings/mara-brazil-pop-up"
         }
       ]
     },
@@ -1353,7 +1269,7 @@
       "source_name": "The Standard Spa Miami Beach",
       "source_url": "https://www.standardhotels.com/happenings",
       "first_seen_at": "2026-10-31T17:29:47.992717+00:00",
-      "last_seen_at": "2026-11-06T19:50:03.137841+00:00",
+      "last_seen_at": "2026-11-07T17:56:23.890247+00:00",
       "lead_hours": 527,
       "source_trail": [
         {
@@ -1395,7 +1311,7 @@
       "source_name": "The Backgammon Society",
       "source_url": "https://www.thebackgammonsociety.com/",
       "first_seen_at": "2026-11-05T20:27:25.222999+00:00",
-      "last_seen_at": "2026-11-06T19:50:03.137841+00:00",
+      "last_seen_at": "2026-11-07T17:56:23.890247+00:00",
       "lead_hours": 123,
       "source_trail": [
         {
@@ -1437,7 +1353,7 @@
       "source_name": "Backgammon Social Miami",
       "source_url": "https://luma.com/backgammonsocialmiami",
       "first_seen_at": "2026-10-26T19:00:33.733949+00:00",
-      "last_seen_at": "2026-11-06T19:50:03.137841+00:00",
+      "last_seen_at": "2026-11-07T17:56:23.890247+00:00",
       "lead_hours": 580,
       "source_trail": [
         {
@@ -1478,7 +1394,7 @@
       "source_name": "The Bass",
       "source_url": "https://thebass.org/events/?ical=1",
       "first_seen_at": "2026-10-26T19:00:25.816750+00:00",
-      "last_seen_at": "2026-11-06T19:50:03.137841+00:00",
+      "last_seen_at": "2026-11-07T17:56:23.890247+00:00",
       "lead_hours": 894,
       "source_trail": [
         {
@@ -1519,7 +1435,7 @@
       "source_name": "The Standard Spa Miami Beach",
       "source_url": "https://www.standardhotels.com/happenings",
       "first_seen_at": "2026-11-01T18:14:45.758590+00:00",
-      "last_seen_at": "2026-11-06T19:50:03.137841+00:00",
+      "last_seen_at": "2026-11-07T17:56:23.890247+00:00",
       "lead_hours": 406,
       "source_trail": [
         {
@@ -1527,6 +1443,47 @@
           "source_name": "The Standard Spa Miami Beach",
           "seen_at": "2026-11-01T18:14:45.758590+00:00",
           "url": "https://www.standardhotels.com/miami/happenings/friendsgiving-bingo-night"
+        }
+      ]
+    },
+    {
+      "id": "35e15fbde972d52b9353149559f61c0a8d75bd08",
+      "title": "Something's Melting.",
+      "summary": "We've got hot plans for Art Basel this year. Stay tuned.",
+      "starts_at": "2026-11-24T12:00:00-05:00",
+      "ends_at": null,
+      "all_day": false,
+      "venue": "The Standard Spa Miami Beach",
+      "neighborhood": "Miami Beach",
+      "city": "Miami Beach",
+      "url": "https://www.standardhotels.com/miami/happenings/art-basel-2026",
+      "rsvp_url": "https://www.standardhotels.com/miami/happenings/art-basel-2026",
+      "image_url": null,
+      "access": "public",
+      "industry": "hospitality",
+      "categories": [
+        "hospitality",
+        "luxury"
+      ],
+      "access_tip": "Book directly from the official happening. For private-event access, contact the hotel's official events team.",
+      "contact_url": "https://www.standardhotels.com/miami/properties/miami-beach",
+      "contact_email": "MiamiEvents@StandardMiami.com",
+      "ask_for": "The Standard Miami Events Team or Spa Concierge",
+      "score": 62,
+      "confidence": 0.9,
+      "why_it_matters": "From The Standard Spa Miami Beach — luxury / hospitality keywords — at The Standard Spa Miami Beach",
+      "source_id": "the_standard_miami",
+      "source_name": "The Standard Spa Miami Beach",
+      "source_url": "https://www.standardhotels.com/happenings",
+      "first_seen_at": "2026-11-07T17:56:13.025945+00:00",
+      "last_seen_at": "2026-11-07T17:56:23.890247+00:00",
+      "lead_hours": 407,
+      "source_trail": [
+        {
+          "source_id": "the_standard_miami",
+          "source_name": "The Standard Spa Miami Beach",
+          "seen_at": "2026-11-07T17:56:13.025945+00:00",
+          "url": "https://www.standardhotels.com/miami/happenings/art-basel-2026"
         }
       ]
     },
@@ -1561,7 +1518,7 @@
       "source_name": "Backgammon Social Miami",
       "source_url": "https://luma.com/backgammonsocialmiami",
       "first_seen_at": "2026-10-30T18:23:38.875506+00:00",
-      "last_seen_at": "2026-11-06T19:50:03.137841+00:00",
+      "last_seen_at": "2026-11-07T17:56:23.890247+00:00",
       "lead_hours": 605,
       "source_trail": [
         {
@@ -1569,6 +1526,46 @@
           "source_name": "Backgammon Social Miami",
           "seen_at": "2026-10-30T18:23:38.875506+00:00",
           "url": "https://luma.com/backga-bjzu"
+        }
+      ]
+    },
+    {
+      "id": "2fac8e01bf920dc43c2faa59f6f346702f5cb05f",
+      "title": "View our Event Calendar",
+      "summary": "Home » Resort Home » View our Event Calendar » November 2026",
+      "starts_at": "2026-11-07T00:00:00+00:00",
+      "ends_at": null,
+      "all_day": false,
+      "venue": "",
+      "neighborhood": "Miami",
+      "city": "Miami",
+      "url": "https://www.loewshotels.com/miami-beach/event-calendar",
+      "rsvp_url": "https://www.loewshotels.com/miami-beach/event-calendar",
+      "image_url": null,
+      "access": "public",
+      "industry": "hospitality",
+      "categories": [
+        "hospitality"
+      ],
+      "access_tip": "Open the official source for current admission details. Reserve early if a booking option is shown.",
+      "contact_url": "https://www.loewshotels.com/miami-beach/event-calendar",
+      "contact_email": null,
+      "ask_for": "",
+      "score": 42,
+      "confidence": 0.7,
+      "why_it_matters": "From Loews Miami Beach",
+      "source_id": "loews_miami",
+      "source_name": "Loews Miami Beach",
+      "source_url": "https://www.loewshotels.com/miami-beach/event-calendar",
+      "first_seen_at": "2026-11-07T17:56:02.313751+00:00",
+      "last_seen_at": "2026-11-07T17:56:23.890247+00:00",
+      "lead_hours": -18,
+      "source_trail": [
+        {
+          "source_id": "loews_miami",
+          "source_name": "Loews Miami Beach",
+          "seen_at": "2026-11-07T17:56:02.313751+00:00",
+          "url": "https://www.loewshotels.com/miami-beach/event-calendar"
         }
       ]
     }
