@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-13T20:17:49.511026+00:00",
+  "generated_at": "2026-11-14T18:38:47.706797+00:00",
   "timezone": "America/New_York",
   "version": 1,
-  "event_count": 24,
+  "event_count": 25,
   "industries": [
     "hospitality",
     "sports",
@@ -150,28 +150,6 @@
       "basis": "Public caption or professional role text; no face recognition or private contact data."
     },
     {
-      "id": "4f4a17b20e42171d",
-      "name": "Alan Faena",
-      "role": "Founder",
-      "organization": "Faena",
-      "industry": "hospitality",
-      "priority": 100,
-      "mentions": 9,
-      "event_count": 2,
-      "why_connect": "Founder at Faena; explicitly named in public coverage of 2 curated Miami event(s).",
-      "how_to_connect": "Request an introduction through Faena Rose Membership or a named Faena event host—not through private contact details.",
-      "source_name": "World Red Eye",
-      "source_urls": [
-        "https://worldredeye.com/2026/04/faena-rose-presents-mayan-inspired-dinner-at-pao-at-faena-miami-beach/",
-        "https://worldredeye.com/2026/11/faena-residences-miami-groundbreaking/"
-      ],
-      "event_titles": [
-        "Faena Residences Miami Groundbreaking",
-        "Faena Rose: Presents Mayan Inspired Dinner at PAO at Faena Miami Beach"
-      ],
-      "basis": "Public caption or professional role text; no face recognition or private contact data."
-    },
-    {
       "id": "7ad2ac04fb8f4c31",
       "name": "Cristiano Buono",
       "role": "General Manager",
@@ -250,6 +228,26 @@
       ],
       "event_titles": [
         "Delano Miami Beach Ribbon Cutting"
+      ],
+      "basis": "Public caption or professional role text; no face recognition or private contact data."
+    },
+    {
+      "id": "4f4a17b20e42171d",
+      "name": "Alan Faena",
+      "role": "Founder",
+      "organization": "Faena",
+      "industry": "hospitality",
+      "priority": 89,
+      "mentions": 2,
+      "event_count": 1,
+      "why_connect": "Founder at Faena; explicitly named in public coverage of 1 curated Miami event(s).",
+      "how_to_connect": "Request an introduction through Faena Rose Membership or a named Faena event host—not through private contact details.",
+      "source_name": "World Red Eye",
+      "source_urls": [
+        "https://worldredeye.com/2026/04/faena-rose-presents-mayan-inspired-dinner-at-pao-at-faena-miami-beach/"
+      ],
+      "event_titles": [
+        "Faena Rose: Presents Mayan Inspired Dinner at PAO at Faena Miami Beach"
       ],
       "basis": "Public caption or professional role text; no face recognition or private contact data."
     },
@@ -602,88 +600,6 @@
   ],
   "events": [
     {
-      "id": "6aca9ffde570556a00cc8df1922f9d1d6794463e",
-      "title": "Exclusive Wine Tasting Experience",
-      "summary": "*A multi-sensory journey of flavor, aroma, and texture.*",
-      "starts_at": "2026-11-13T15:00:00-05:00",
-      "ends_at": "2026-11-13T17:30:00-05:00",
-      "all_day": false,
-      "venue": "Hakkasan Miami",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://resy.com/cities/miami-fl/events/exclusive-wine-tasting-experience-2026-11-13-6",
-      "rsvp_url": "https://resy.com/cities/miami-fl/events/exclusive-wine-tasting-experience-2026-11-13-6",
-      "image_url": "https://image.resy.com/3/003/2/93714/3a62529ac81adbb946f1fecabe4cddca1a912523/jpg/640x360",
-      "access": "registration",
-      "industry": "culinary",
-      "categories": [
-        "culinary",
-        "hospitality"
-      ],
-      "access_tip": "Book on Resy as soon as listings drop — guest-chef nights often sell out the same week.",
-      "contact_url": "https://resy.com/cities/miami-fl/events",
-      "contact_email": null,
-      "ask_for": "Restaurant events team via Resy",
-      "score": 100,
-      "confidence": 0.9,
-      "why_it_matters": "Listed on Resy Experiences — book before hotel calendars catch it — luxury / hospitality keywords — at Hakkasan Miami",
-      "source_id": "resy_experiences",
-      "source_name": "Resy Experiences · Miami",
-      "source_url": "https://resy.com/cities/miami-fl/events",
-      "first_seen_at": "2026-11-12T20:37:53.318328+00:00",
-      "last_seen_at": "2026-11-13T20:17:35.624339+00:00",
-      "lead_hours": 23,
-      "source_trail": [
-        {
-          "source_id": "resy_experiences",
-          "source_name": "Resy Experiences · Miami",
-          "seen_at": "2026-11-12T20:37:53.318328+00:00",
-          "url": "https://resy.com/cities/miami-fl/events/exclusive-wine-tasting-experience-2026-11-13-6"
-        }
-      ]
-    },
-    {
-      "id": "53461ac24b1a2c82c829d7e1f99f85364c287615",
-      "title": "PALME | Tasting Experience",
-      "summary": "*PALME* is a love letter from Italy to Florida, created by Executive Chef Bernardo Paladini under Massimo Bottura’s vision. The menu brings Italian craftsmanship together with the tropical and Latin flavors of Miami’s vibrant local culture.\n\n\n\nDiscover Florida stone crab through Venice’s sweet-and-sour saor, Sardinian fregola with Key West pink shrimp, and handmade tortellini that carry the warmth of Modena. From playful opening bites to Wagyu and a bright Florida citrus finale, each course reve",
-      "starts_at": "2026-11-13T18:00:00-05:00",
-      "ends_at": "2026-11-13T20:00:00-05:00",
-      "all_day": false,
-      "venue": "Torno Subito",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://resy.com/cities/miami-fl/events/palme-tasting-experience-2026-11-13-6",
-      "rsvp_url": "https://resy.com/cities/miami-fl/events/palme-tasting-experience-2026-11-13-6",
-      "image_url": "https://image.resy.com/3/003/2/94271/3dad403e4e74a3ddedbb65a1ee6a7d8e58a46fbf/jpg/640x360",
-      "access": "registration",
-      "industry": "culinary",
-      "categories": [
-        "culinary",
-        "hospitality"
-      ],
-      "access_tip": "Book on Resy as soon as listings drop — guest-chef nights often sell out the same week.",
-      "contact_url": "https://resy.com/cities/miami-fl/events",
-      "contact_email": null,
-      "ask_for": "Restaurant events team via Resy",
-      "score": 100,
-      "confidence": 0.9,
-      "why_it_matters": "Listed on Resy Experiences — book before hotel calendars catch it — luxury + networking keywords — at Torno Subito",
-      "source_id": "resy_experiences",
-      "source_name": "Resy Experiences · Miami",
-      "source_url": "https://resy.com/cities/miami-fl/events",
-      "first_seen_at": "2026-11-13T20:17:20.151434+00:00",
-      "last_seen_at": "2026-11-13T20:17:35.624339+00:00",
-      "lead_hours": 2,
-      "source_trail": [
-        {
-          "source_id": "resy_experiences",
-          "source_name": "Resy Experiences · Miami",
-          "seen_at": "2026-11-13T20:17:20.151434+00:00",
-          "url": "https://resy.com/cities/miami-fl/events/palme-tasting-experience-2026-11-13-6"
-        }
-      ]
-    },
-    {
       "id": "c9a16b18aa9133163be5d0ac702ec720ba2718e0",
       "title": "Bondi Midtown Block Party!",
       "summary": "Join us all day as we takeover NE34th St!\n\n11am-12:30pm - outdoor workouts by UFC, Anatomy & BodyBar (tickets sold here: [https://bit.ly/BondiBlockPartyWorkouts](https://bit.ly/BondiBlockPartyWorkouts))\n\n2pm - Doggy & Me Fashion Show judged by celebrity panel: Adriana de Moura of Real Housewives; Danny Santiago, Hollywood Stylist; Dope Tavio, Designer and hosted by Alan T, Miami Designer (apply here: [https://bit.ly/BondiBlockPartyDoggyFashionShowApp](https://bit.ly/BondiBlockPartyDoggyFashionSh",
@@ -713,7 +629,7 @@
       "source_name": "Resy Experiences · Miami",
       "source_url": "https://resy.com/cities/miami-fl/events",
       "first_seen_at": "2026-11-13T20:17:20.151516+00:00",
-      "last_seen_at": "2026-11-13T20:17:35.624339+00:00",
+      "last_seen_at": "2026-11-14T18:38:33.725986+00:00",
       "lead_hours": 19,
       "source_trail": [
         {
@@ -721,6 +637,47 @@
           "source_name": "Resy Experiences · Miami",
           "seen_at": "2026-11-13T20:17:20.151516+00:00",
           "url": "https://resy.com/cities/miami-fl/events/bondi-midtown-block-party-2026-11-14-6"
+        }
+      ]
+    },
+    {
+      "id": "997935f2b18eb20752faa0d961f4e4be72c76a59",
+      "title": "Exclusive Wine Tasting Experience",
+      "summary": "*A multi-sensory journey of flavor, aroma, and texture.*",
+      "starts_at": "2026-11-14T15:00:00-05:00",
+      "ends_at": "2026-11-14T17:30:00-05:00",
+      "all_day": false,
+      "venue": "Hakkasan Miami",
+      "neighborhood": "Miami",
+      "city": "Miami",
+      "url": "https://resy.com/cities/miami-fl/events/exclusive-wine-tasting-experience-2026-11-14-6",
+      "rsvp_url": "https://resy.com/cities/miami-fl/events/exclusive-wine-tasting-experience-2026-11-14-6",
+      "image_url": "https://image.resy.com/3/003/2/93714/3a62529ac81adbb946f1fecabe4cddca1a912523/jpg/640x360",
+      "access": "registration",
+      "industry": "culinary",
+      "categories": [
+        "culinary",
+        "hospitality"
+      ],
+      "access_tip": "Book on Resy as soon as listings drop — guest-chef nights often sell out the same week.",
+      "contact_url": "https://resy.com/cities/miami-fl/events",
+      "contact_email": null,
+      "ask_for": "Restaurant events team via Resy",
+      "score": 100,
+      "confidence": 0.9,
+      "why_it_matters": "Listed on Resy Experiences — book before hotel calendars catch it — luxury / hospitality keywords — at Hakkasan Miami",
+      "source_id": "resy_experiences",
+      "source_name": "Resy Experiences · Miami",
+      "source_url": "https://resy.com/cities/miami-fl/events",
+      "first_seen_at": "2026-11-14T18:38:18.885028+00:00",
+      "last_seen_at": "2026-11-14T18:38:33.725986+00:00",
+      "lead_hours": 1,
+      "source_trail": [
+        {
+          "source_id": "resy_experiences",
+          "source_name": "Resy Experiences · Miami",
+          "seen_at": "2026-11-14T18:38:18.885028+00:00",
+          "url": "https://resy.com/cities/miami-fl/events/exclusive-wine-tasting-experience-2026-11-14-6"
         }
       ]
     },
@@ -754,7 +711,7 @@
       "source_name": "Resy Experiences · Miami",
       "source_url": "https://resy.com/cities/miami-fl/events",
       "first_seen_at": "2026-11-09T22:50:59.270125+00:00",
-      "last_seen_at": "2026-11-13T20:17:35.624339+00:00",
+      "last_seen_at": "2026-11-14T18:38:33.725986+00:00",
       "lead_hours": 121,
       "source_trail": [
         {
@@ -795,7 +752,7 @@
       "source_name": "Resy Experiences · Miami",
       "source_url": "https://resy.com/cities/miami-fl/events",
       "first_seen_at": "2026-11-09T22:50:59.270162+00:00",
-      "last_seen_at": "2026-11-13T20:17:35.624339+00:00",
+      "last_seen_at": "2026-11-14T18:38:33.725986+00:00",
       "lead_hours": 142,
       "source_trail": [
         {
@@ -836,7 +793,7 @@
       "source_name": "Resy Experiences · Miami",
       "source_url": "https://resy.com/cities/miami-fl/events",
       "first_seen_at": "2026-11-11T19:59:33.936708+00:00",
-      "last_seen_at": "2026-11-13T20:17:35.624339+00:00",
+      "last_seen_at": "2026-11-14T18:38:33.725986+00:00",
       "lead_hours": 147,
       "source_trail": [
         {
@@ -848,18 +805,59 @@
       ]
     },
     {
-      "id": "fe165562fa9282daa764bb717fec59d1992f1646",
-      "title": "Thanksgiving at Faena Miami Beach",
-      "summary": "This season, gather together and indulge in extraordinary culinary experiences at Faena. From fire-kissed creations to avant-garde Asian flavors and rustic Latin warmth, each restaurant presents a distinct expression of the season’s bounty.",
-      "starts_at": "2026-11-26T12:00:00-05:00",
-      "ends_at": null,
+      "id": "b52b48481f0e8e94b04515900b2ab7d34afd475e",
+      "title": "Pasta Omakase",
+      "summary": "Pasta Omakase continues! A collection of specialty crudos and pastas. Brought to you by chefs Mike Pirolo & Trevor Zwaan.\n\nBar seating only. Begins promptly at 6:30 PM. We are unfortunately not able to modify this menu.",
+      "starts_at": "2026-11-18T18:30:00-05:00",
+      "ends_at": "2026-11-18T20:00:00-05:00",
       "all_day": false,
-      "venue": "Los Fuegos",
+      "venue": "Macchialina Taverna Rustica",
       "neighborhood": "Miami Beach",
       "city": "Miami Beach",
-      "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/thanksgiving-at-faena-miami-beach",
-      "rsvp_url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/thanksgiving-at-faena-miami-beach",
-      "image_url": null,
+      "url": "https://resy.com/cities/miami-fl/events/pasta-omakase-2026-11-18-6",
+      "rsvp_url": "https://resy.com/cities/miami-fl/events/pasta-omakase-2026-11-18-6",
+      "image_url": "https://image.resy.com/3/003/2/8803/91bd5e3f2a032ba4699878d704328000b38e03c9/jpg/640x360",
+      "access": "registration",
+      "industry": "culinary",
+      "categories": [
+        "culinary",
+        "hospitality"
+      ],
+      "access_tip": "Book on Resy as soon as listings drop — guest-chef nights often sell out the same week.",
+      "contact_url": "https://resy.com/cities/miami-fl/events",
+      "contact_email": null,
+      "ask_for": "Restaurant events team via Resy",
+      "score": 100,
+      "confidence": 0.9,
+      "why_it_matters": "Listed on Resy Experiences — book before hotel calendars catch it — luxury / hospitality keywords — at Macchialina Taverna Rustica",
+      "source_id": "resy_experiences",
+      "source_name": "Resy Experiences · Miami",
+      "source_url": "https://resy.com/cities/miami-fl/events",
+      "first_seen_at": "2026-11-14T18:38:18.885198+00:00",
+      "last_seen_at": "2026-11-14T18:38:33.725986+00:00",
+      "lead_hours": 100,
+      "source_trail": [
+        {
+          "source_id": "resy_experiences",
+          "source_name": "Resy Experiences · Miami",
+          "seen_at": "2026-11-14T18:38:18.885198+00:00",
+          "url": "https://resy.com/cities/miami-fl/events/pasta-omakase-2026-11-18-6"
+        }
+      ]
+    },
+    {
+      "id": "1b2c337e6f998c458f4a54e258a6aa4fc437d2f4",
+      "title": "Thanksgiving at Campo, Casa Faena",
+      "summary": "Latin-inspired Thanksgiving dinner at Campo, Casa Faena: Roasted Turkey Roulade with squash blossom and spinach, hibiscus cranberry sauce, Roasted Sweet Potato in Hoja Sauce and Charred Brussels Sprouts.",
+      "starts_at": "2026-11-26T17:30:00-05:00",
+      "ends_at": "2026-11-26T22:00:00-05:00",
+      "all_day": false,
+      "venue": "Campo at Casa Faena",
+      "neighborhood": "Miami Beach",
+      "city": "Miami Beach",
+      "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/thanksgiving-dinner-at-faena-miami-beach",
+      "rsvp_url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/thanksgiving-dinner-at-faena-miami-beach",
+      "image_url": "https://www.faena.com/sites/default/files/styles/hero/public/2026-11/Thanksgiving%20-%20Faena%20Header2.jpg",
       "access": "public",
       "industry": "hospitality",
       "categories": [
@@ -870,22 +868,106 @@
       "access_tip": "Use the event booking link for public programming. For Faena Rose events, submit the official membership-interest form.",
       "contact_url": "https://forms.rosemembers.faena.com/membership-interest",
       "contact_email": null,
-      "ask_for": "Faena Theater box office for public tickets; Faena Rose Membership Team for Rose programming",
-      "score": 98,
+      "ask_for": "Faena Miami Beach",
+      "score": 97,
       "confidence": 0.98,
-      "why_it_matters": "Listed on Faena Miami Beach — luxury / hospitality keywords — at Los Fuegos",
+      "why_it_matters": "Listed on Faena Miami Beach — luxury / hospitality keywords — at Campo at Casa Faena",
       "source_id": "faena",
       "source_name": "Faena Miami Beach",
-      "source_url": "https://www.faena.com/miami-beach/things-to-do",
-      "first_seen_at": "2026-11-02T22:05:26.691779+00:00",
-      "last_seen_at": "2026-11-13T20:17:35.624339+00:00",
-      "lead_hours": 570,
+      "source_url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/thanksgiving-at-faena-miami-beach",
+      "first_seen_at": "2026-11-14T18:38:12.835307+00:00",
+      "last_seen_at": "2026-11-14T18:38:33.725986+00:00",
+      "lead_hours": 291,
       "source_trail": [
         {
           "source_id": "faena",
           "source_name": "Faena Miami Beach",
-          "seen_at": "2026-11-02T22:05:26.691779+00:00",
-          "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/thanksgiving-at-faena-miami-beach"
+          "seen_at": "2026-11-14T18:38:12.835307+00:00",
+          "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/thanksgiving-dinner-at-faena-miami-beach"
+        }
+      ]
+    },
+    {
+      "id": "b464c72b3fd7839f4f2099bfdb743330014d6173",
+      "title": "Thanksgiving at Los Fuegos by Francis Mallmann",
+      "summary": "Live-fire Thanksgiving dinner at Los Fuegos by Francis Mallmann, Faena Miami Beach: Wood-Fired Wild Mushrooms, Colorado Lamb Loin, Slow-Cooked Turkey Pamplona with chestnut and sourdough stuffing and black truffle gravy, and Autumn Sweet Medley desserts.",
+      "starts_at": "2026-11-26T18:30:00-05:00",
+      "ends_at": "2026-11-26T22:30:00-05:00",
+      "all_day": false,
+      "venue": "Los Fuegos by Francis Mallmann at Faena Miami Beach",
+      "neighborhood": "Miami Beach",
+      "city": "Miami Beach",
+      "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/thanksgiving-dinner-at-faena-miami-beach",
+      "rsvp_url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/thanksgiving-dinner-at-faena-miami-beach",
+      "image_url": "https://www.faena.com/sites/default/files/styles/hero/public/2026-11/Thanksgiving%20-%20Faena%20Header2.jpg",
+      "access": "public",
+      "industry": "hospitality",
+      "categories": [
+        "hospitality",
+        "luxury",
+        "nightlife"
+      ],
+      "access_tip": "Use the event booking link for public programming. For Faena Rose events, submit the official membership-interest form.",
+      "contact_url": "https://forms.rosemembers.faena.com/membership-interest",
+      "contact_email": null,
+      "ask_for": "Faena Miami Beach",
+      "score": 91,
+      "confidence": 0.98,
+      "why_it_matters": "Listed on Faena Miami Beach — luxury / hospitality keywords — at Los Fuegos by Francis Mallmann at Faena Miami Beach",
+      "source_id": "faena",
+      "source_name": "Faena Miami Beach",
+      "source_url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/thanksgiving-at-faena-miami-beach",
+      "first_seen_at": "2026-11-14T18:38:12.834534+00:00",
+      "last_seen_at": "2026-11-14T18:38:33.725986+00:00",
+      "lead_hours": 292,
+      "source_trail": [
+        {
+          "source_id": "faena",
+          "source_name": "Faena Miami Beach",
+          "seen_at": "2026-11-14T18:38:12.834534+00:00",
+          "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/thanksgiving-dinner-at-faena-miami-beach"
+        }
+      ]
+    },
+    {
+      "id": "244adc915bc49c4205dde62a50ff4bbe411b3d43",
+      "title": "Thanksgiving at Pao by Paul Qui",
+      "summary": "Asian-inspired Thanksgiving dinner at Pao by Paul Qui, Faena Miami Beach: Scallop Crudo with wagyu caramel, Pumpkin Risotto with truffle and burrata, Heritage Turkey Breast with cranberry-stuffed morels and duck tamari gravy, and Sweet Harvest desserts.",
+      "starts_at": "2026-11-26T18:30:00-05:00",
+      "ends_at": "2026-11-26T23:00:00-05:00",
+      "all_day": false,
+      "venue": "Pao by Paul Qui at Faena Miami Beach",
+      "neighborhood": "Miami Beach",
+      "city": "Miami Beach",
+      "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/thanksgiving-dinner-at-faena-miami-beach",
+      "rsvp_url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/thanksgiving-dinner-at-faena-miami-beach",
+      "image_url": "https://www.faena.com/sites/default/files/styles/hero/public/2026-11/Thanksgiving%20-%20Faena%20Header2.jpg",
+      "access": "public",
+      "industry": "hospitality",
+      "categories": [
+        "hospitality",
+        "luxury",
+        "nightlife"
+      ],
+      "access_tip": "Use the event booking link for public programming. For Faena Rose events, submit the official membership-interest form.",
+      "contact_url": "https://forms.rosemembers.faena.com/membership-interest",
+      "contact_email": null,
+      "ask_for": "Faena Miami Beach",
+      "score": 91,
+      "confidence": 0.98,
+      "why_it_matters": "Listed on Faena Miami Beach — luxury / hospitality keywords — at Pao by Paul Qui at Faena Miami Beach",
+      "source_id": "faena",
+      "source_name": "Faena Miami Beach",
+      "source_url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/thanksgiving-at-faena-miami-beach",
+      "first_seen_at": "2026-11-14T18:38:12.834908+00:00",
+      "last_seen_at": "2026-11-14T18:38:33.725986+00:00",
+      "lead_hours": 292,
+      "source_trail": [
+        {
+          "source_id": "faena",
+          "source_name": "Faena Miami Beach",
+          "seen_at": "2026-11-14T18:38:12.834908+00:00",
+          "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/thanksgiving-dinner-at-faena-miami-beach"
         }
       ]
     },
@@ -920,7 +1002,7 @@
       "source_name": "Luma Miami · Food & Chef",
       "source_url": "https://luma.com/miami",
       "first_seen_at": "2026-11-10T20:11:20.744987+00:00",
-      "last_seen_at": "2026-11-13T20:17:35.624339+00:00",
+      "last_seen_at": "2026-11-14T18:38:33.725986+00:00",
       "lead_hours": 578,
       "source_trail": [
         {
@@ -962,7 +1044,7 @@
       "source_name": "Eater Miami",
       "source_url": "https://miami.eater.com/rss/index.xml",
       "first_seen_at": "2026-10-30T18:23:37.970494+00:00",
-      "last_seen_at": "2026-11-13T20:17:35.624339+00:00",
+      "last_seen_at": "2026-11-14T18:38:33.725986+00:00",
       "lead_hours": null,
       "source_trail": [
         {
@@ -1004,7 +1086,7 @@
       "source_name": "Eater Miami",
       "source_url": "https://miami.eater.com/rss/index.xml",
       "first_seen_at": "2026-10-12T21:28:12.732047+00:00",
-      "last_seen_at": "2026-11-13T20:17:35.624339+00:00",
+      "last_seen_at": "2026-11-14T18:38:33.725986+00:00",
       "lead_hours": null,
       "source_trail": [
         {
@@ -1045,7 +1127,7 @@
       "source_name": "The Standard Spa Miami Beach",
       "source_url": "https://www.standardhotels.com/happenings",
       "first_seen_at": "2026-10-27T18:32:54.888969+00:00",
-      "last_seen_at": "2026-11-13T20:17:35.624339+00:00",
+      "last_seen_at": "2026-11-14T18:38:33.725986+00:00",
       "lead_hours": 430,
       "source_trail": [
         {
@@ -1057,85 +1139,43 @@
       ]
     },
     {
-      "id": "1e1f86a416f4c22a9022f24b760582e245578781",
-      "title": "Flying Private to Art Basel Miami Beach 2026",
-      "summary": "How to fly private to Art Basel Miami Beach 2026: OPF, FXE, MIA and PBI trade-offs, timing tips, and Haute Living’s own fair-week dinners. The post Flying Private to Art Basel Miami Beach 2026 appeared first on Haute Living .",
+      "id": "d3b6b75c8b8ad362afe2f69eef1573674e4d99b5",
+      "title": "Komodo Celebrates the Launch of its Classics Menu with a Dinner hosted by David Grutman and Mr. Eats305",
+      "summary": "Miami, FL - November 12, 2026 - Komodo Miami celebrated the launch of its new Classics Menu with an exclusive dinner hosted by David Grutman and George Arango, \"Mr. Eats305.\" The Classics Menu brings together Komodo’s most iconic, fan-favorite dishes, curated in collaboration with Mr. Eats 305. Friends and family joined Dave and George for an evening in the heart of Brickell, featuring dishes from the new menu alongs",
       "starts_at": null,
       "ends_at": null,
       "all_day": false,
       "venue": "",
-      "neighborhood": "Miami Beach",
+      "neighborhood": "Brickell",
       "city": "Miami",
-      "url": "https://hauteliving.com/2026/11/flying-private-to-art-basel-miami-beach-2026/801623/",
-      "rsvp_url": "https://hauteliving.com/2026/11/flying-private-to-art-basel-miami-beach-2026/801623/",
+      "url": "https://worldredeye.com/2026/11/komodo-celebrates-the-launch-of-its-classics-menu-with-a-dinner-hosted-by-david-grutman-and-mr-eats-305/",
+      "rsvp_url": "https://worldredeye.com/2026/11/komodo-celebrates-the-launch-of-its-classics-menu-with-a-dinner-hosted-by-david-grutman-and-mr-eats-305/",
       "image_url": null,
       "access": "public",
-      "industry": "art_fashion",
+      "industry": "culinary",
       "categories": [
         "editorial",
-        "luxury"
+        "nightlife"
       ],
       "access_tip": "Open the official source for current admission details. Reserve early if a booking option is shown.",
-      "contact_url": "https://hauteliving.com/2026/11/flying-private-to-art-basel-miami-beach-2026/801623/",
+      "contact_url": "https://worldredeye.com/2026/11/komodo-celebrates-the-launch-of-its-classics-menu-with-a-dinner-hosted-by-david-grutman-and-mr-eats-305/",
       "contact_email": null,
-      "ask_for": "The named event host, brand publicist, or venue communications team in the source article",
-      "score": 78,
+      "ask_for": "The host or sponsor named in the World Red Eye article",
+      "score": 82,
       "confidence": 0.6,
-      "why_it_matters": "Early editorial signal from Haute Living — luxury / hospitality keywords",
-      "source_id": "haute_living",
-      "source_name": "Haute Living",
-      "source_url": "https://hauteliving.com/feed/",
-      "first_seen_at": "2026-11-05T20:27:16.336011+00:00",
-      "last_seen_at": "2026-11-13T20:17:35.624339+00:00",
+      "why_it_matters": "World Red Eye coverage (often same-day / post-event) — luxury + networking keywords",
+      "source_id": "world_red_eye",
+      "source_name": "World Red Eye",
+      "source_url": "https://worldredeye.com/feed/",
+      "first_seen_at": "2026-11-14T18:38:10.449198+00:00",
+      "last_seen_at": "2026-11-14T18:38:33.725986+00:00",
       "lead_hours": null,
       "source_trail": [
         {
-          "source_id": "haute_living",
-          "source_name": "Haute Living",
-          "seen_at": "2026-11-05T20:27:16.336011+00:00",
-          "url": "https://hauteliving.com/2026/11/flying-private-to-art-basel-miami-beach-2026/801623/"
-        }
-      ]
-    },
-    {
-      "id": "8b6b485bacc70383adff16e48428272ce0bf5a50",
-      "title": "Backgammon Society — Private Event: Rok Shul",
-      "summary": "Official Backgammon Society Miami tournament at Private Event: Rok Shul.",
-      "starts_at": "2026-11-17T19:00:00-05:00",
-      "ends_at": null,
-      "all_day": false,
-      "venue": "Private Event: Rok Shul",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://www.thebackgammonsociety.com/tournaments/miami/private-event-rok-shul",
-      "rsvp_url": "https://www.thebackgammonsociety.com/tournaments/miami/private-event-rok-shul",
-      "image_url": "https://budyxfmlimzpkgcjzmbi.supabase.co/storage/v1/object/public/tournament-images/4d2d4c54-6e60-41f0-b060-df7090d115af/381d01baba88ba78dd44301100916b523b521a24f44cafcc6dae8fc3836d23bf.png",
-      "access": "invitation-only",
-      "industry": "sports",
-      "categories": [
-        "hospitality",
-        "networking",
-        "sports"
-      ],
-      "access_tip": "Register on the official Backgammon Society tournament page. For members-club venues, ask the tournament host and the venue membership or concierge team.",
-      "contact_url": "https://www.thebackgammonsociety.com/",
-      "contact_email": null,
-      "ask_for": "The Backgammon Society",
-      "score": 74,
-      "confidence": 0.8,
-      "why_it_matters": "From The Backgammon Society — invitation-only access — at Private Event: Rok Shul",
-      "source_id": "backgammon_society",
-      "source_name": "The Backgammon Society",
-      "source_url": "https://www.thebackgammonsociety.com/",
-      "first_seen_at": "2026-11-11T19:59:38.775962+00:00",
-      "last_seen_at": "2026-11-13T20:17:35.624339+00:00",
-      "lead_hours": 148,
-      "source_trail": [
-        {
-          "source_id": "backgammon_society",
-          "source_name": "The Backgammon Society",
-          "seen_at": "2026-11-11T19:59:38.775962+00:00",
-          "url": "https://www.thebackgammonsociety.com/tournaments/miami/private-event-rok-shul"
+          "source_id": "world_red_eye",
+          "source_name": "World Red Eye",
+          "seen_at": "2026-11-14T18:38:10.449198+00:00",
+          "url": "https://worldredeye.com/2026/11/komodo-celebrates-the-launch-of-its-classics-menu-with-a-dinner-hosted-by-david-grutman-and-mr-eats-305/"
         }
       ]
     },
@@ -1169,7 +1209,7 @@
       "source_name": "World Red Eye",
       "source_url": "https://worldredeye.com/feed/",
       "first_seen_at": "2026-11-12T20:37:45.121698+00:00",
-      "last_seen_at": "2026-11-13T20:17:35.624339+00:00",
+      "last_seen_at": "2026-11-14T18:38:33.725986+00:00",
       "lead_hours": null,
       "source_trail": [
         {
@@ -1211,7 +1251,7 @@
       "source_name": "Backgammon Social Miami",
       "source_url": "https://luma.com/backgammonsocialmiami",
       "first_seen_at": "2026-10-26T19:00:33.733949+00:00",
-      "last_seen_at": "2026-11-13T20:17:35.624339+00:00",
+      "last_seen_at": "2026-11-14T18:38:33.725986+00:00",
       "lead_hours": 580,
       "source_trail": [
         {
@@ -1252,7 +1292,7 @@
       "source_name": "The Standard Spa Miami Beach",
       "source_url": "https://www.standardhotels.com/happenings",
       "first_seen_at": "2026-10-31T17:29:47.992717+00:00",
-      "last_seen_at": "2026-11-13T20:17:35.624339+00:00",
+      "last_seen_at": "2026-11-14T18:38:33.725986+00:00",
       "lead_hours": 527,
       "source_trail": [
         {
@@ -1293,7 +1333,7 @@
       "source_name": "World Red Eye",
       "source_url": "https://worldredeye.com/feed/",
       "first_seen_at": "2026-11-13T20:17:12.606950+00:00",
-      "last_seen_at": "2026-11-13T20:17:35.624339+00:00",
+      "last_seen_at": "2026-11-14T18:38:33.725986+00:00",
       "lead_hours": null,
       "source_trail": [
         {
@@ -1335,7 +1375,7 @@
       "source_name": "The Backgammon Society",
       "source_url": "https://www.thebackgammonsociety.com/",
       "first_seen_at": "2026-11-12T20:37:58.226578+00:00",
-      "last_seen_at": "2026-11-13T20:17:35.624339+00:00",
+      "last_seen_at": "2026-11-14T18:38:33.725986+00:00",
       "lead_hours": 123,
       "source_trail": [
         {
@@ -1376,7 +1416,7 @@
       "source_name": "The Standard Spa Miami Beach",
       "source_url": "https://www.standardhotels.com/happenings",
       "first_seen_at": "2026-11-01T18:14:45.758590+00:00",
-      "last_seen_at": "2026-11-13T20:17:35.624339+00:00",
+      "last_seen_at": "2026-11-14T18:38:33.725986+00:00",
       "lead_hours": 406,
       "source_trail": [
         {
@@ -1384,6 +1424,48 @@
           "source_name": "The Standard Spa Miami Beach",
           "seen_at": "2026-11-01T18:14:45.758590+00:00",
           "url": "https://www.standardhotels.com/miami/happenings/friendsgiving-bingo-night"
+        }
+      ]
+    },
+    {
+      "id": "3811cfb1fa3973f415d0d118a5082f0ecc6961a3",
+      "title": "Backgammon Society — Naked Tomato",
+      "summary": "Official Backgammon Society Miami tournament at Naked Tomato.",
+      "starts_at": "2026-11-18T19:00:00-05:00",
+      "ends_at": null,
+      "all_day": false,
+      "venue": "Naked Tomato",
+      "neighborhood": "Miami",
+      "city": "Miami",
+      "url": "https://www.thebackgammonsociety.com/tournaments/miami/naked-tomato",
+      "rsvp_url": "https://www.thebackgammonsociety.com/tournaments/miami/naked-tomato",
+      "image_url": "https://budyxfmlimzpkgcjzmbi.supabase.co/storage/v1/object/public/tournament-images/f703f262-0068-4fce-b277-4cedd32f14da/fe9cb89553c2c9a967d7e93d7132d0d3d477816e57608b21302ab7f3041488c8.png",
+      "access": "registration",
+      "industry": "sports",
+      "categories": [
+        "hospitality",
+        "networking",
+        "sports"
+      ],
+      "access_tip": "Register on the official Backgammon Society tournament page. For members-club venues, ask the tournament host and the venue membership or concierge team.",
+      "contact_url": "https://www.thebackgammonsociety.com/",
+      "contact_email": null,
+      "ask_for": "The Backgammon Society",
+      "score": 68,
+      "confidence": 0.8,
+      "why_it_matters": "From The Backgammon Society — at Naked Tomato",
+      "source_id": "backgammon_society",
+      "source_name": "The Backgammon Society",
+      "source_url": "https://www.thebackgammonsociety.com/",
+      "first_seen_at": "2026-11-14T18:38:23.355962+00:00",
+      "last_seen_at": "2026-11-14T18:38:33.725986+00:00",
+      "lead_hours": 101,
+      "source_trail": [
+        {
+          "source_id": "backgammon_society",
+          "source_name": "The Backgammon Society",
+          "seen_at": "2026-11-14T18:38:23.355962+00:00",
+          "url": "https://www.thebackgammonsociety.com/tournaments/miami/naked-tomato"
         }
       ]
     },
@@ -1417,7 +1499,7 @@
       "source_name": "The Standard Spa Miami Beach",
       "source_url": "https://www.standardhotels.com/happenings",
       "first_seen_at": "2026-11-12T20:37:50.303823+00:00",
-      "last_seen_at": "2026-11-13T20:17:35.624339+00:00",
+      "last_seen_at": "2026-11-14T18:38:33.725986+00:00",
       "lead_hours": 44,
       "source_trail": [
         {
@@ -1458,7 +1540,7 @@
       "source_name": "The Bass",
       "source_url": "https://thebass.org/events/?ical=1",
       "first_seen_at": "2026-10-26T19:00:25.816750+00:00",
-      "last_seen_at": "2026-11-13T20:17:35.624339+00:00",
+      "last_seen_at": "2026-11-14T18:38:33.725986+00:00",
       "lead_hours": 894,
       "source_trail": [
         {
@@ -1466,47 +1548,6 @@
           "source_name": "The Bass",
           "seen_at": "2026-10-26T19:00:25.816750+00:00",
           "url": "https://thebass.org/event/miami-art-week-exhibition-opening-reception/"
-        }
-      ]
-    },
-    {
-      "id": "35e15fbde972d52b9353149559f61c0a8d75bd08",
-      "title": "Something's Melting.",
-      "summary": "We've got hot plans for Art Basel this year. Stay tuned.",
-      "starts_at": "2026-11-24T12:00:00-05:00",
-      "ends_at": null,
-      "all_day": false,
-      "venue": "The Standard Spa Miami Beach",
-      "neighborhood": "Miami Beach",
-      "city": "Miami Beach",
-      "url": "https://www.standardhotels.com/miami/happenings/art-basel-2026",
-      "rsvp_url": "https://www.standardhotels.com/miami/happenings/art-basel-2026",
-      "image_url": null,
-      "access": "public",
-      "industry": "hospitality",
-      "categories": [
-        "hospitality",
-        "luxury"
-      ],
-      "access_tip": "Book directly from the official happening. For private-event access, contact the hotel's official events team.",
-      "contact_url": "https://www.standardhotels.com/miami/properties/miami-beach",
-      "contact_email": "MiamiEvents@StandardMiami.com",
-      "ask_for": "The Standard Miami Events Team or Spa Concierge",
-      "score": 62,
-      "confidence": 0.9,
-      "why_it_matters": "From The Standard Spa Miami Beach — luxury / hospitality keywords — at The Standard Spa Miami Beach",
-      "source_id": "the_standard_miami",
-      "source_name": "The Standard Spa Miami Beach",
-      "source_url": "https://www.standardhotels.com/happenings",
-      "first_seen_at": "2026-11-07T17:56:13.025945+00:00",
-      "last_seen_at": "2026-11-13T20:17:35.624339+00:00",
-      "lead_hours": 407,
-      "source_trail": [
-        {
-          "source_id": "the_standard_miami",
-          "source_name": "The Standard Spa Miami Beach",
-          "seen_at": "2026-11-07T17:56:13.025945+00:00",
-          "url": "https://www.standardhotels.com/miami/happenings/art-basel-2026"
         }
       ]
     },
@@ -1541,7 +1582,7 @@
       "source_name": "Backgammon Social Miami",
       "source_url": "https://luma.com/backgammonsocialmiami",
       "first_seen_at": "2026-10-30T18:23:38.875506+00:00",
-      "last_seen_at": "2026-11-13T20:17:35.624339+00:00",
+      "last_seen_at": "2026-11-14T18:38:33.725986+00:00",
       "lead_hours": 605,
       "source_trail": [
         {
@@ -1582,7 +1623,7 @@
       "source_name": "Beacon Council RSS",
       "source_url": "https://www.beaconcouncil.com/events/feed/",
       "first_seen_at": "2026-11-09T22:50:53.261145+00:00",
-      "last_seen_at": "2026-11-13T20:17:35.624339+00:00",
+      "last_seen_at": "2026-11-14T18:38:33.725986+00:00",
       "lead_hours": 754,
       "source_trail": [
         {
