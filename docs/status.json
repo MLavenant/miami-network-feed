@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-14T18:38:47.708845+00:00",
+  "generated_at": "2026-11-15T19:13:53.344292+00:00",
   "ok": true,
-  "event_count": 25,
+  "event_count": 24,
   "preserved_previous": false,
-  "raw_fetched": 390,
+  "raw_fetched": 384,
   "sources": [
     {
       "id": "haute_living",
@@ -11,7 +11,7 @@
       "ok": true,
       "fetched": 5,
       "error": null,
-      "duration_ms": 4827
+      "duration_ms": 4186
     },
     {
       "id": "world_red_eye",
@@ -19,7 +19,7 @@
       "ok": true,
       "fetched": 9,
       "error": null,
-      "duration_ms": 1827
+      "duration_ms": 1846
     },
     {
       "id": "miami_beach_events",
@@ -35,7 +35,7 @@
       "ok": true,
       "fetched": 30,
       "error": null,
-      "duration_ms": 1502
+      "duration_ms": 1486
     },
     {
       "id": "the_bass_rss",
@@ -51,7 +51,7 @@
       "ok": true,
       "fetched": 10,
       "error": null,
-      "duration_ms": 1752
+      "duration_ms": 1744
     },
     {
       "id": "beacon_council",
@@ -59,7 +59,7 @@
       "ok": false,
       "fetched": 0,
       "error": "'list' object has no attribute 'strip'",
-      "duration_ms": 2161
+      "duration_ms": 1506
     },
     {
       "id": "beacon_council_rss",
@@ -67,7 +67,7 @@
       "ok": true,
       "fetched": 4,
       "error": null,
-      "duration_ms": 510
+      "duration_ms": 1079
     },
     {
       "id": "faena",
@@ -75,7 +75,7 @@
       "ok": true,
       "fetched": 22,
       "error": null,
-      "duration_ms": 23989
+      "duration_ms": 23855
     },
     {
       "id": "faena_links",
@@ -83,7 +83,7 @@
       "ok": true,
       "fetched": 0,
       "error": null,
-      "duration_ms": 1104
+      "duration_ms": 1291
     },
     {
       "id": "wr_chess",
@@ -91,7 +91,7 @@
       "ok": true,
       "fetched": 5,
       "error": null,
-      "duration_ms": 2605
+      "duration_ms": 1915
     },
     {
       "id": "wr_chess_links",
@@ -107,7 +107,7 @@
       "ok": true,
       "fetched": 1,
       "error": null,
-      "duration_ms": 1842
+      "duration_ms": 1688
     },
     {
       "id": "fontainebleau",
@@ -115,7 +115,7 @@
       "ok": false,
       "fetched": 0,
       "error": "HTTP 403",
-      "duration_ms": 1266
+      "duration_ms": 1261
     },
     {
       "id": "loews_miami",
@@ -123,7 +123,7 @@
       "ok": true,
       "fetched": 20,
       "error": null,
-      "duration_ms": 1695
+      "duration_ms": 1505
     },
     {
       "id": "st_regis_bal_harbour",
@@ -131,7 +131,7 @@
       "ok": true,
       "fetched": 1,
       "error": null,
-      "duration_ms": 1846
+      "duration_ms": 1299
     },
     {
       "id": "delano_miami",
@@ -139,7 +139,7 @@
       "ok": true,
       "fetched": 1,
       "error": null,
-      "duration_ms": 1296
+      "duration_ms": 1387
     },
     {
       "id": "w_south_beach",
@@ -147,7 +147,7 @@
       "ok": false,
       "fetched": 0,
       "error": "HTTP 403",
-      "duration_ms": 1152
+      "duration_ms": 1502
     },
     {
       "id": "one_hotel_south_beach",
@@ -155,15 +155,15 @@
       "ok": true,
       "fetched": 0,
       "error": null,
-      "duration_ms": 1516
+      "duration_ms": 1538
     },
     {
       "id": "the_standard_miami",
       "name": "The Standard Spa Miami Beach",
       "ok": true,
-      "fetched": 7,
+      "fetched": 5,
       "error": null,
-      "duration_ms": 10456
+      "duration_ms": 7755
     },
     {
       "id": "setai_miami",
@@ -171,7 +171,7 @@
       "ok": true,
       "fetched": 6,
       "error": null,
-      "duration_ms": 2092
+      "duration_ms": 1944
     },
     {
       "id": "surf_club",
@@ -179,7 +179,7 @@
       "ok": true,
       "fetched": 5,
       "error": null,
-      "duration_ms": 1609
+      "duration_ms": 1476
     },
     {
       "id": "edition_miami",
@@ -187,7 +187,7 @@
       "ok": true,
       "fetched": 1,
       "error": null,
-      "duration_ms": 1477
+      "duration_ms": 1573
     },
     {
       "id": "moore_miami",
@@ -195,7 +195,7 @@
       "ok": true,
       "fetched": 2,
       "error": null,
-      "duration_ms": 1335
+      "duration_ms": 1374
     },
     {
       "id": "soho_beach_house",
@@ -203,7 +203,7 @@
       "ok": true,
       "fetched": 7,
       "error": null,
-      "duration_ms": 2040
+      "duration_ms": 2629
     },
     {
       "id": "casa_tua_club",
@@ -211,7 +211,7 @@
       "ok": true,
       "fetched": 0,
       "error": null,
-      "duration_ms": 1314
+      "duration_ms": 1257
     },
     {
       "id": "zzs_club",
@@ -219,7 +219,7 @@
       "ok": true,
       "fetched": 2,
       "error": null,
-      "duration_ms": 1914
+      "duration_ms": 1798
     },
     {
       "id": "bath_club",
@@ -227,7 +227,7 @@
       "ok": true,
       "fetched": 0,
       "error": null,
-      "duration_ms": 1293
+      "duration_ms": 1279
     },
     {
       "id": "casa_neos",
@@ -235,7 +235,7 @@
       "ok": true,
       "fetched": 2,
       "error": null,
-      "duration_ms": 1421
+      "duration_ms": 1316
     },
     {
       "id": "art_basel",
@@ -243,7 +243,7 @@
       "ok": true,
       "fetched": 1,
       "error": null,
-      "duration_ms": 1888
+      "duration_ms": 1739
     },
     {
       "id": "design_miami",
@@ -251,7 +251,7 @@
       "ok": true,
       "fetched": 6,
       "error": null,
-      "duration_ms": 1624
+      "duration_ms": 1593
     },
     {
       "id": "miami_fashion_week",
@@ -275,7 +275,7 @@
       "ok": true,
       "fetched": 16,
       "error": null,
-      "duration_ms": 1558
+      "duration_ms": 1548
     },
     {
       "id": "sobewff_ics",
@@ -283,7 +283,7 @@
       "ok": true,
       "fetched": 1,
       "error": null,
-      "duration_ms": 1600
+      "duration_ms": 1365
     },
     {
       "id": "luma_culinary_miami",
@@ -291,7 +291,7 @@
       "ok": true,
       "fetched": 1,
       "error": null,
-      "duration_ms": 1536
+      "duration_ms": 1688
     },
     {
       "id": "eater_miami",
@@ -299,7 +299,7 @@
       "ok": true,
       "fetched": 4,
       "error": null,
-      "duration_ms": 1295
+      "duration_ms": 1320
     },
     {
       "id": "miami_new_times_food",
@@ -307,7 +307,7 @@
       "ok": true,
       "fetched": 1,
       "error": null,
-      "duration_ms": 1433
+      "duration_ms": 1375
     },
     {
       "id": "infatuation_miami",
@@ -315,7 +315,7 @@
       "ok": false,
       "fetched": 0,
       "error": "HTTP 404",
-      "duration_ms": 2029
+      "duration_ms": 1593
     },
     {
       "id": "timeout_miami_food",
@@ -323,7 +323,7 @@
       "ok": false,
       "fetched": 0,
       "error": "HTTP 404",
-      "duration_ms": 1548
+      "duration_ms": 1460
     },
     {
       "id": "eventbrite_miami_food",
@@ -331,7 +331,7 @@
       "ok": false,
       "fetched": 0,
       "error": "HTTP 405",
-      "duration_ms": 1257
+      "duration_ms": 1267
     },
     {
       "id": "localwineevents_miami",
@@ -339,15 +339,15 @@
       "ok": true,
       "fetched": 5,
       "error": null,
-      "duration_ms": 1636
+      "duration_ms": 1527
     },
     {
       "id": "resy_experiences",
       "name": "Resy Experiences · Miami",
       "ok": true,
-      "fetched": 152,
+      "fetched": 148,
       "error": null,
-      "duration_ms": 1477
+      "duration_ms": 846
     },
     {
       "id": "resy_miami_watch",
@@ -355,7 +355,7 @@
       "ok": true,
       "fetched": 3,
       "error": null,
-      "duration_ms": 1466
+      "duration_ms": 1371
     },
     {
       "id": "mandolin_aegean",
@@ -363,7 +363,7 @@
       "ok": true,
       "fetched": 1,
       "error": null,
-      "duration_ms": 1273
+      "duration_ms": 1276
     },
     {
       "id": "cote_miami",
@@ -371,7 +371,7 @@
       "ok": false,
       "fetched": 0,
       "error": "HTTP 404",
-      "duration_ms": 1568
+      "duration_ms": 1479
     },
     {
       "id": "boat_show",
@@ -379,7 +379,7 @@
       "ok": true,
       "fetched": 1,
       "error": null,
-      "duration_ms": 1311
+      "duration_ms": 1296
     },
     {
       "id": "uli_seflorida",
@@ -387,7 +387,7 @@
       "ok": false,
       "fetched": 0,
       "error": "HTTP 403",
-      "duration_ms": 1311
+      "duration_ms": 1275
     },
     {
       "id": "bisnow_sf",
@@ -395,7 +395,7 @@
       "ok": true,
       "fetched": 2,
       "error": null,
-      "duration_ms": 1369
+      "duration_ms": 1286
     },
     {
       "id": "naiop_sfl",
@@ -403,7 +403,7 @@
       "ok": false,
       "fetched": 0,
       "error": "HTTP 403",
-      "duration_ms": 1275
+      "duration_ms": 1308
     },
     {
       "id": "miami_realtors",
@@ -411,7 +411,7 @@
       "ok": false,
       "fetched": 0,
       "error": "HTTP 403",
-      "duration_ms": 1275
+      "duration_ms": 1265
     },
     {
       "id": "gmbha",
@@ -419,7 +419,7 @@
       "ok": false,
       "fetched": 0,
       "error": "HTTP 403",
-      "duration_ms": 1267
+      "duration_ms": 1259
     },
     {
       "id": "ahla",
@@ -427,7 +427,7 @@
       "ok": true,
       "fetched": 3,
       "error": null,
-      "duration_ms": 1412
+      "duration_ms": 1403
     },
     {
       "id": "f1_miami",
@@ -435,7 +435,7 @@
       "ok": true,
       "fetched": 4,
       "error": null,
-      "duration_ms": 2347
+      "duration_ms": 2240
     },
     {
       "id": "miami_open",
@@ -443,7 +443,7 @@
       "ok": true,
       "fetched": 11,
       "error": null,
-      "duration_ms": 1489
+      "duration_ms": 1377
     },
     {
       "id": "inter_miami",
@@ -451,7 +451,7 @@
       "ok": true,
       "fetched": 5,
       "error": null,
-      "duration_ms": 1895
+      "duration_ms": 1367
     },
     {
       "id": "miami_heat",
@@ -459,7 +459,7 @@
       "ok": false,
       "fetched": 0,
       "error": "HTTP 403",
-      "duration_ms": 1313
+      "duration_ms": 1289
     },
     {
       "id": "fifa_miami",
@@ -467,7 +467,7 @@
       "ok": false,
       "fetched": 0,
       "error": "HTTP 500",
-      "duration_ms": 2609
+      "duration_ms": 3306
     },
     {
       "id": "backgammon_society",
@@ -475,7 +475,7 @@
       "ok": true,
       "fetched": 10,
       "error": null,
-      "duration_ms": 2282
+      "duration_ms": 1986
     },
     {
       "id": "backgammon_social_miami",
@@ -483,7 +483,7 @@
       "ok": true,
       "fetched": 3,
       "error": null,
-      "duration_ms": 1144
+      "duration_ms": 1087
     },
     {
       "id": "luma_miami",
@@ -507,7 +507,7 @@
       "ok": true,
       "fetched": 0,
       "error": null,
-      "duration_ms": 1397
+      "duration_ms": 1319
     },
     {
       "id": "gmcvb",
@@ -515,7 +515,7 @@
       "ok": true,
       "fetched": 20,
       "error": null,
-      "duration_ms": 1734
+      "duration_ms": 1497
     },
     {
       "id": "pr_newswire_miami",
@@ -523,7 +523,7 @@
       "ok": true,
       "fetched": 0,
       "error": null,
-      "duration_ms": 1753
+      "duration_ms": 1482
     }
   ]
 }
