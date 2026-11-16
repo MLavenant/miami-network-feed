@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-15T19:13:53.341924+00:00",
+  "generated_at": "2026-11-16T22:43:43.393193+00:00",
   "timezone": "America/New_York",
   "version": 1,
-  "event_count": 24,
+  "event_count": 23,
   "industries": [
     "hospitality",
     "sports",
@@ -84,50 +84,6 @@
   ],
   "people": [
     {
-      "id": "5b5df60760c3680e",
-      "name": "Seth Browarnik",
-      "role": "Founder",
-      "organization": "World Red Eye",
-      "industry": "hospitality",
-      "priority": 100,
-      "mentions": 48,
-      "event_count": 2,
-      "why_connect": "Founder at World Red Eye; explicitly named in public coverage of 2 curated Miami event(s).",
-      "how_to_connect": "Use World Red Eye's official contact/editorial route or a WRE-hosted event; reference the specific coverage where he was host.",
-      "source_name": "World Red Eye",
-      "source_urls": [
-        "https://worldredeye.com/2026/05/world-red-eye-preview-dinner-hosted-by-seth-browarnik-at-gigi-rigolatto-celebrating-delano/",
-        "https://worldredeye.com/2026/11/world-red-eye-presents-vip-opening-of-ukiyo-hosted-by-seth-browarnik/"
-      ],
-      "event_titles": [
-        "World Red Eye Presents VIP Opening of UKIYO Hosted by Seth Browarnik",
-        "World Red Eye Preview Dinner Hosted by Seth Browarnik at Gigi Rigolatto Celebrating Delano"
-      ],
-      "basis": "Public caption or professional role text; no face recognition or private contact data."
-    },
-    {
-      "id": "b2aceffff057e169",
-      "name": "David Martin",
-      "role": "Chief Executive Officer",
-      "organization": "Terra",
-      "industry": "real_estate",
-      "priority": 100,
-      "mentions": 17,
-      "event_count": 2,
-      "why_connect": "Chief Executive Officer at Terra; explicitly named in public coverage of 2 curated Miami event(s).",
-      "how_to_connect": "Use Terra's official business route or the host/sponsor of the sourced event for a warm introduction.",
-      "source_name": "World Red Eye",
-      "source_urls": [
-        "https://worldredeye.com/2026/05/world-red-eye-preview-dinner-hosted-by-seth-browarnik-at-gigi-rigolatto-celebrating-delano/",
-        "https://worldredeye.com/2026/11/villa-miami-residences-top-out-celebration-at-zzs-club/"
-      ],
-      "event_titles": [
-        "Villa Miami Residences Top Out Celebration at ZZ’s Club",
-        "World Red Eye Preview Dinner Hosted by Seth Browarnik at Gigi Rigolatto Celebrating Delano"
-      ],
-      "basis": "Public caption or professional role text; no face recognition or private contact data."
-    },
-    {
       "id": "37c9c21dcd211dd6",
       "name": "Ben Pundole",
       "role": "Chief Brand Officer",
@@ -168,6 +124,46 @@
       "event_titles": [
         "Delano Miami Beach Ribbon Cutting",
         "Delano Residences Miami Launch"
+      ],
+      "basis": "Public caption or professional role text; no face recognition or private contact data."
+    },
+    {
+      "id": "5b5df60760c3680e",
+      "name": "Seth Browarnik",
+      "role": "Founder",
+      "organization": "World Red Eye",
+      "industry": "hospitality",
+      "priority": 95,
+      "mentions": 29,
+      "event_count": 1,
+      "why_connect": "Founder at World Red Eye; explicitly named in public coverage of 1 curated Miami event(s).",
+      "how_to_connect": "Use World Red Eye's official contact/editorial route or a WRE-hosted event; reference the specific coverage where he was host.",
+      "source_name": "World Red Eye",
+      "source_urls": [
+        "https://worldredeye.com/2026/05/world-red-eye-preview-dinner-hosted-by-seth-browarnik-at-gigi-rigolatto-celebrating-delano/"
+      ],
+      "event_titles": [
+        "World Red Eye Preview Dinner Hosted by Seth Browarnik at Gigi Rigolatto Celebrating Delano"
+      ],
+      "basis": "Public caption or professional role text; no face recognition or private contact data."
+    },
+    {
+      "id": "b2aceffff057e169",
+      "name": "David Martin",
+      "role": "Chief Executive Officer",
+      "organization": "Terra",
+      "industry": "real_estate",
+      "priority": 95,
+      "mentions": 13,
+      "event_count": 1,
+      "why_connect": "Chief Executive Officer at Terra; explicitly named in public coverage of 1 curated Miami event(s).",
+      "how_to_connect": "Use Terra's official business route or the host/sponsor of the sourced event for a warm introduction.",
+      "source_name": "World Red Eye",
+      "source_urls": [
+        "https://worldredeye.com/2026/05/world-red-eye-preview-dinner-hosted-by-seth-browarnik-at-gigi-rigolatto-celebrating-delano/"
+      ],
+      "event_titles": [
+        "World Red Eye Preview Dinner Hosted by Seth Browarnik at Gigi Rigolatto Celebrating Delano"
       ],
       "basis": "Public caption or professional role text; no face recognition or private contact data."
     },
@@ -252,30 +248,6 @@
       "basis": "Public caption or professional role text; no face recognition or private contact data."
     },
     {
-      "id": "62820920c24f0ae7",
-      "name": "Steven Meiner",
-      "role": "Recurring name in curated event coverage",
-      "organization": "Miami luxury and industry network",
-      "industry": "hospitality",
-      "priority": 79,
-      "mentions": 18,
-      "event_count": 3,
-      "why_connect": "Published in 18 World Red Eye caption(s) across 3 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
-      "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
-      "source_name": "World Red Eye",
-      "source_urls": [
-        "https://worldredeye.com/2026/05/world-red-eye-preview-dinner-hosted-by-seth-browarnik-at-gigi-rigolatto-celebrating-delano/",
-        "https://worldredeye.com/2026/04/delano-miami-beach-ribbon-cutting/",
-        "https://worldredeye.com/2026/11/world-red-eye-presents-vip-opening-of-ukiyo-hosted-by-seth-browarnik/"
-      ],
-      "event_titles": [
-        "Delano Miami Beach Ribbon Cutting",
-        "World Red Eye Presents VIP Opening of UKIYO Hosted by Seth Browarnik",
-        "World Red Eye Preview Dinner Hosted by Seth Browarnik at Gigi Rigolatto Celebrating Delano"
-      ],
-      "basis": "Public caption or professional role text; no face recognition or private contact data."
-    },
-    {
       "id": "89ccb324ad259d27",
       "name": "Violet Camacho",
       "role": "Recurring name in curated event coverage",
@@ -300,30 +272,8 @@
       "basis": "Public caption or professional role text; no face recognition or private contact data."
     },
     {
-      "id": "28e2cd833e686a11",
-      "name": "Kobi Karp",
-      "role": "Recurring name in curated event coverage",
-      "organization": "Miami luxury and industry network",
-      "industry": "hospitality",
-      "priority": 78,
-      "mentions": 16,
-      "event_count": 2,
-      "why_connect": "Published in 16 World Red Eye caption(s) across 2 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
-      "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
-      "source_name": "World Red Eye",
-      "source_urls": [
-        "https://worldredeye.com/2026/05/world-red-eye-preview-dinner-hosted-by-seth-browarnik-at-gigi-rigolatto-celebrating-delano/",
-        "https://worldredeye.com/2026/11/world-red-eye-presents-vip-opening-of-ukiyo-hosted-by-seth-browarnik/"
-      ],
-      "event_titles": [
-        "World Red Eye Presents VIP Opening of UKIYO Hosted by Seth Browarnik",
-        "World Red Eye Preview Dinner Hosted by Seth Browarnik at Gigi Rigolatto Celebrating Delano"
-      ],
-      "basis": "Public caption or professional role text; no face recognition or private contact data."
-    },
-    {
-      "id": "930a03f4a73a1c18",
-      "name": "Jay Parker",
+      "id": "62820920c24f0ae7",
+      "name": "Steven Meiner",
       "role": "Recurring name in curated event coverage",
       "organization": "Miami luxury and industry network",
       "industry": "hospitality",
@@ -335,10 +285,10 @@
       "source_name": "World Red Eye",
       "source_urls": [
         "https://worldredeye.com/2026/05/world-red-eye-preview-dinner-hosted-by-seth-browarnik-at-gigi-rigolatto-celebrating-delano/",
-        "https://worldredeye.com/2026/11/villa-miami-residences-top-out-celebration-at-zzs-club/"
+        "https://worldredeye.com/2026/04/delano-miami-beach-ribbon-cutting/"
       ],
       "event_titles": [
-        "Villa Miami Residences Top Out Celebration at ZZ’s Club",
+        "Delano Miami Beach Ribbon Cutting",
         "World Red Eye Preview Dinner Hosted by Seth Browarnik at Gigi Rigolatto Celebrating Delano"
       ],
       "basis": "Public caption or professional role text; no face recognition or private contact data."
@@ -366,134 +316,22 @@
       "basis": "Public caption or professional role text; no face recognition or private contact data."
     },
     {
-      "id": "42dd1bc65e3f9c5c",
-      "name": "Nathan Lieberman",
+      "id": "77ebfc06a05607a1",
+      "name": "Radmila Lolly",
       "role": "Recurring name in curated event coverage",
       "organization": "Miami luxury and industry network",
       "industry": "hospitality",
-      "priority": 74,
-      "mentions": 8,
-      "event_count": 2,
-      "why_connect": "Published in 8 World Red Eye caption(s) across 2 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
+      "priority": 69,
+      "mentions": 16,
+      "event_count": 1,
+      "why_connect": "Published in 16 World Red Eye caption(s) across 1 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
       "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
       "source_name": "World Red Eye",
       "source_urls": [
-        "https://worldredeye.com/2026/05/world-red-eye-preview-dinner-hosted-by-seth-browarnik-at-gigi-rigolatto-celebrating-delano/",
-        "https://worldredeye.com/2026/11/world-red-eye-presents-vip-opening-of-ukiyo-hosted-by-seth-browarnik/"
+        "https://worldredeye.com/2026/11/radmila-lolly-performs-for-the-miami-heats-halftime-show-at-the-kaseya-center/"
       ],
       "event_titles": [
-        "World Red Eye Presents VIP Opening of UKIYO Hosted by Seth Browarnik",
-        "World Red Eye Preview Dinner Hosted by Seth Browarnik at Gigi Rigolatto Celebrating Delano"
-      ],
-      "basis": "Public caption or professional role text; no face recognition or private contact data."
-    },
-    {
-      "id": "2c3647966e7ada9f",
-      "name": "Eric Marx",
-      "role": "Recurring name in curated event coverage",
-      "organization": "Miami luxury and industry network",
-      "industry": "hospitality",
-      "priority": 73,
-      "mentions": 7,
-      "event_count": 2,
-      "why_connect": "Published in 7 World Red Eye caption(s) across 2 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
-      "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
-      "source_name": "World Red Eye",
-      "source_urls": [
-        "https://worldredeye.com/2026/05/world-red-eye-preview-dinner-hosted-by-seth-browarnik-at-gigi-rigolatto-celebrating-delano/",
-        "https://worldredeye.com/2026/11/world-red-eye-presents-vip-opening-of-ukiyo-hosted-by-seth-browarnik/"
-      ],
-      "event_titles": [
-        "World Red Eye Presents VIP Opening of UKIYO Hosted by Seth Browarnik",
-        "World Red Eye Preview Dinner Hosted by Seth Browarnik at Gigi Rigolatto Celebrating Delano"
-      ],
-      "basis": "Public caption or professional role text; no face recognition or private contact data."
-    },
-    {
-      "id": "1b324fd35bdb1450",
-      "name": "Andre Sakhai",
-      "role": "Recurring name in curated event coverage",
-      "organization": "Miami luxury and industry network",
-      "industry": "hospitality",
-      "priority": 72,
-      "mentions": 6,
-      "event_count": 2,
-      "why_connect": "Published in 6 World Red Eye caption(s) across 2 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
-      "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
-      "source_name": "World Red Eye",
-      "source_urls": [
-        "https://worldredeye.com/2026/05/world-red-eye-preview-dinner-hosted-by-seth-browarnik-at-gigi-rigolatto-celebrating-delano/",
-        "https://worldredeye.com/2026/11/world-red-eye-presents-vip-opening-of-ukiyo-hosted-by-seth-browarnik/"
-      ],
-      "event_titles": [
-        "World Red Eye Presents VIP Opening of UKIYO Hosted by Seth Browarnik",
-        "World Red Eye Preview Dinner Hosted by Seth Browarnik at Gigi Rigolatto Celebrating Delano"
-      ],
-      "basis": "Public caption or professional role text; no face recognition or private contact data."
-    },
-    {
-      "id": "b03c0c38616c0170",
-      "name": "Jason Gallus",
-      "role": "Recurring name in curated event coverage",
-      "organization": "Miami luxury and industry network",
-      "industry": "hospitality",
-      "priority": 72,
-      "mentions": 6,
-      "event_count": 2,
-      "why_connect": "Published in 6 World Red Eye caption(s) across 2 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
-      "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
-      "source_name": "World Red Eye",
-      "source_urls": [
-        "https://worldredeye.com/2026/05/world-red-eye-preview-dinner-hosted-by-seth-browarnik-at-gigi-rigolatto-celebrating-delano/",
-        "https://worldredeye.com/2026/11/world-red-eye-presents-vip-opening-of-ukiyo-hosted-by-seth-browarnik/"
-      ],
-      "event_titles": [
-        "World Red Eye Presents VIP Opening of UKIYO Hosted by Seth Browarnik",
-        "World Red Eye Preview Dinner Hosted by Seth Browarnik at Gigi Rigolatto Celebrating Delano"
-      ],
-      "basis": "Public caption or professional role text; no face recognition or private contact data."
-    },
-    {
-      "id": "8fed6364758420ab",
-      "name": "Marita Stavrou",
-      "role": "Recurring name in curated event coverage",
-      "organization": "Miami luxury and industry network",
-      "industry": "hospitality",
-      "priority": 71,
-      "mentions": 5,
-      "event_count": 2,
-      "why_connect": "Published in 5 World Red Eye caption(s) across 2 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
-      "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
-      "source_name": "World Red Eye",
-      "source_urls": [
-        "https://worldredeye.com/2026/05/world-red-eye-preview-dinner-hosted-by-seth-browarnik-at-gigi-rigolatto-celebrating-delano/",
-        "https://worldredeye.com/2026/11/world-red-eye-presents-vip-opening-of-ukiyo-hosted-by-seth-browarnik/"
-      ],
-      "event_titles": [
-        "World Red Eye Presents VIP Opening of UKIYO Hosted by Seth Browarnik",
-        "World Red Eye Preview Dinner Hosted by Seth Browarnik at Gigi Rigolatto Celebrating Delano"
-      ],
-      "basis": "Public caption or professional role text; no face recognition or private contact data."
-    },
-    {
-      "id": "8b2cf2d1d0ffef54",
-      "name": "Bill Spector",
-      "role": "Recurring name in curated event coverage",
-      "organization": "Miami luxury and industry network",
-      "industry": "hospitality",
-      "priority": 70,
-      "mentions": 4,
-      "event_count": 2,
-      "why_connect": "Published in 4 World Red Eye caption(s) across 2 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
-      "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
-      "source_name": "World Red Eye",
-      "source_urls": [
-        "https://worldredeye.com/2026/05/world-red-eye-preview-dinner-hosted-by-seth-browarnik-at-gigi-rigolatto-celebrating-delano/",
-        "https://worldredeye.com/2026/11/world-red-eye-presents-vip-opening-of-ukiyo-hosted-by-seth-browarnik/"
-      ],
-      "event_titles": [
-        "World Red Eye Presents VIP Opening of UKIYO Hosted by Seth Browarnik",
-        "World Red Eye Preview Dinner Hosted by Seth Browarnik at Gigi Rigolatto Celebrating Delano"
+        "Radmila Lolly Performs for Miami Heat’s Halftime Show at the Kaseya Center"
       ],
       "basis": "Public caption or professional role text; no face recognition or private contact data."
     },
@@ -518,6 +356,26 @@
       "basis": "Public caption or professional role text; no face recognition or private contact data."
     },
     {
+      "id": "828266b62e450e31",
+      "name": "Morgan Shara",
+      "role": "Recurring name in curated event coverage",
+      "organization": "Miami luxury and industry network",
+      "industry": "hospitality",
+      "priority": 69,
+      "mentions": 15,
+      "event_count": 1,
+      "why_connect": "Published in 15 World Red Eye caption(s) across 1 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
+      "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
+      "source_name": "World Red Eye",
+      "source_urls": [
+        "https://worldredeye.com/2026/11/celebrating-morgan-shara-at-harbour-club/"
+      ],
+      "event_titles": [
+        "Celebrating Morgan Shara at Harbour Club"
+      ],
+      "basis": "Public caption or professional role text; no face recognition or private contact data."
+    },
+    {
       "id": "83fc295b8fe006a7",
       "name": "Russell Galbut",
       "role": "Recurring name in curated event coverage",
@@ -527,6 +385,26 @@
       "mentions": 14,
       "event_count": 1,
       "why_connect": "Published in 14 World Red Eye caption(s) across 1 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
+      "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
+      "source_name": "World Red Eye",
+      "source_urls": [
+        "https://worldredeye.com/2026/05/world-red-eye-preview-dinner-hosted-by-seth-browarnik-at-gigi-rigolatto-celebrating-delano/"
+      ],
+      "event_titles": [
+        "World Red Eye Preview Dinner Hosted by Seth Browarnik at Gigi Rigolatto Celebrating Delano"
+      ],
+      "basis": "Public caption or professional role text; no face recognition or private contact data."
+    },
+    {
+      "id": "930a03f4a73a1c18",
+      "name": "Jay Parker",
+      "role": "Recurring name in curated event coverage",
+      "organization": "Miami luxury and industry network",
+      "industry": "hospitality",
+      "priority": 69,
+      "mentions": 12,
+      "event_count": 1,
+      "why_connect": "Published in 12 World Red Eye caption(s) across 1 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
       "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
       "source_name": "World Red Eye",
       "source_urls": [
@@ -596,50 +474,109 @@
         "World Red Eye Preview Dinner Hosted by Seth Browarnik at Gigi Rigolatto Celebrating Delano"
       ],
       "basis": "Public caption or professional role text; no face recognition or private contact data."
+    },
+    {
+      "id": "28e2cd833e686a11",
+      "name": "Kobi Karp",
+      "role": "Recurring name in curated event coverage",
+      "organization": "Miami luxury and industry network",
+      "industry": "hospitality",
+      "priority": 67,
+      "mentions": 10,
+      "event_count": 1,
+      "why_connect": "Published in 10 World Red Eye caption(s) across 1 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
+      "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
+      "source_name": "World Red Eye",
+      "source_urls": [
+        "https://worldredeye.com/2026/05/world-red-eye-preview-dinner-hosted-by-seth-browarnik-at-gigi-rigolatto-celebrating-delano/"
+      ],
+      "event_titles": [
+        "World Red Eye Preview Dinner Hosted by Seth Browarnik at Gigi Rigolatto Celebrating Delano"
+      ],
+      "basis": "Public caption or professional role text; no face recognition or private contact data."
+    },
+    {
+      "id": "a181c2610f3f7d54",
+      "name": "Rebecca Edelson",
+      "role": "Recurring name in curated event coverage",
+      "organization": "Miami luxury and industry network",
+      "industry": "hospitality",
+      "priority": 67,
+      "mentions": 10,
+      "event_count": 1,
+      "why_connect": "Published in 10 World Red Eye caption(s) across 1 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
+      "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
+      "source_name": "World Red Eye",
+      "source_urls": [
+        "https://worldredeye.com/2026/11/lovestruck-productions-presents-rock-4-the-rack-miami-2026-at-savage-labs/"
+      ],
+      "event_titles": [
+        "Lovestruck Productions Presents: Rock 4 The Rack Miami 2026 at Savage Labs"
+      ],
+      "basis": "Public caption or professional role text; no face recognition or private contact data."
+    },
+    {
+      "id": "ac8585c20fee65bb",
+      "name": "Verónica Gorson",
+      "role": "Recurring name in curated event coverage",
+      "organization": "Miami luxury and industry network",
+      "industry": "hospitality",
+      "priority": 67,
+      "mentions": 10,
+      "event_count": 1,
+      "why_connect": "Published in 10 World Red Eye caption(s) across 1 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
+      "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
+      "source_name": "World Red Eye",
+      "source_urls": [
+        "https://worldredeye.com/2026/04/delano-residences-miami-launch/"
+      ],
+      "event_titles": [
+        "Delano Residences Miami Launch"
+      ],
+      "basis": "Public caption or professional role text; no face recognition or private contact data."
+    },
+    {
+      "id": "4442c07fbb3b2533",
+      "name": "Robert Rivani",
+      "role": "Recurring name in curated event coverage",
+      "organization": "Miami luxury and industry network",
+      "industry": "hospitality",
+      "priority": 66,
+      "mentions": 9,
+      "event_count": 1,
+      "why_connect": "Published in 9 World Red Eye caption(s) across 1 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
+      "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
+      "source_name": "World Red Eye",
+      "source_urls": [
+        "https://worldredeye.com/2026/05/world-red-eye-preview-dinner-hosted-by-seth-browarnik-at-gigi-rigolatto-celebrating-delano/"
+      ],
+      "event_titles": [
+        "World Red Eye Preview Dinner Hosted by Seth Browarnik at Gigi Rigolatto Celebrating Delano"
+      ],
+      "basis": "Public caption or professional role text; no face recognition or private contact data."
+    },
+    {
+      "id": "6a75a4c626e77340",
+      "name": "Andres Gomes",
+      "role": "Recurring name in curated event coverage",
+      "organization": "Miami luxury and industry network",
+      "industry": "hospitality",
+      "priority": 65,
+      "mentions": 8,
+      "event_count": 1,
+      "why_connect": "Published in 8 World Red Eye caption(s) across 1 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
+      "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
+      "source_name": "World Red Eye",
+      "source_urls": [
+        "https://worldredeye.com/2026/11/the-collection-mclaren-x-wellup-wellness-club/"
+      ],
+      "event_titles": [
+        "The Collection McLaren x WellUp Collective Wellness Club"
+      ],
+      "basis": "Public caption or professional role text; no face recognition or private contact data."
     }
   ],
   "events": [
-    {
-      "id": "30460703002c8efa65cdea3f81853e7c403e944e",
-      "title": "Dinner Anniversary Series #3",
-      "summary": "Celebrate Miss Crispy Rice’s second anniversary in Coral Gables with an unforgettable 16-course omakase collaboration featuring some of our favorite Miami chefs. Each evening’s guest chefs will join us behind the omakase bar, preparing and presenting their courses directly to you. Four Sundays, four unique chef lineups, and an intimate celebration of food, friendship, and Miami’s culinary community. Service Fee is included in lieu of gratuity.",
-      "starts_at": "2026-11-15T18:00:00-05:00",
-      "ends_at": "2026-11-15T20:00:00-05:00",
-      "all_day": false,
-      "venue": "Miss Crispy Rice",
-      "neighborhood": "Coral Gables",
-      "city": "Coral Gables",
-      "url": "https://resy.com/cities/miami-fl/events/dinner-anniversary-series-1-2026-11-15-6",
-      "rsvp_url": "https://resy.com/cities/miami-fl/events/dinner-anniversary-series-1-2026-11-15-6",
-      "image_url": "https://image.resy.com/3/003/2/72913/de99af2d1eb9cbe9d40a210ff28dd6a35ee0b8f8/jpg/640x360",
-      "access": "registration",
-      "industry": "culinary",
-      "categories": [
-        "culinary",
-        "hospitality"
-      ],
-      "access_tip": "Book on Resy as soon as listings drop — guest-chef nights often sell out the same week.",
-      "contact_url": "https://resy.com/cities/miami-fl/events",
-      "contact_email": null,
-      "ask_for": "Restaurant events team via Resy",
-      "score": 100,
-      "confidence": 0.9,
-      "why_it_matters": "Listed on Resy Experiences — book before hotel calendars catch it — luxury / hospitality keywords — at Miss Crispy Rice",
-      "source_id": "resy_experiences",
-      "source_name": "Resy Experiences · Miami",
-      "source_url": "https://resy.com/cities/miami-fl/events",
-      "first_seen_at": "2026-11-09T22:50:59.270162+00:00",
-      "last_seen_at": "2026-11-15T19:13:40.704784+00:00",
-      "lead_hours": 144,
-      "source_trail": [
-        {
-          "source_id": "resy_experiences",
-          "source_name": "Resy Experiences · Miami",
-          "seen_at": "2026-11-09T22:50:59.270162+00:00",
-          "url": "https://resy.com/cities/miami-fl/events/dinner-anniversary-series-1-2026-11-15-6"
-        }
-      ]
-    },
     {
       "id": "853995daadb0e6cd3a0c8b38e768f2856c4c3104",
       "title": "Four Centuries in a Glass: An Evening with Champagne Henri Giraud",
@@ -670,7 +607,7 @@
       "source_name": "Resy Experiences · Miami",
       "source_url": "https://resy.com/cities/miami-fl/events",
       "first_seen_at": "2026-11-11T19:59:33.936708+00:00",
-      "last_seen_at": "2026-11-15T19:13:40.704784+00:00",
+      "last_seen_at": "2026-11-16T22:43:28.208502+00:00",
       "lead_hours": 147,
       "source_trail": [
         {
@@ -711,7 +648,7 @@
       "source_name": "Resy Experiences · Miami",
       "source_url": "https://resy.com/cities/miami-fl/events",
       "first_seen_at": "2026-11-14T18:38:18.885198+00:00",
-      "last_seen_at": "2026-11-15T19:13:40.704784+00:00",
+      "last_seen_at": "2026-11-16T22:43:28.208502+00:00",
       "lead_hours": 100,
       "source_trail": [
         {
@@ -752,7 +689,7 @@
       "source_name": "Resy Experiences · Miami",
       "source_url": "https://resy.com/cities/miami-fl/events",
       "first_seen_at": "2026-11-15T19:13:24.582647+00:00",
-      "last_seen_at": "2026-11-15T19:13:40.704784+00:00",
+      "last_seen_at": "2026-11-16T22:43:28.208502+00:00",
       "lead_hours": 99,
       "source_trail": [
         {
@@ -793,7 +730,7 @@
       "source_name": "Resy Experiences · Miami",
       "source_url": "https://resy.com/cities/miami-fl/events",
       "first_seen_at": "2026-11-15T19:13:24.582679+00:00",
-      "last_seen_at": "2026-11-15T19:13:40.704784+00:00",
+      "last_seen_at": "2026-11-16T22:43:28.208502+00:00",
       "lead_hours": 101,
       "source_trail": [
         {
@@ -834,7 +771,7 @@
       "source_name": "Resy Experiences · Miami",
       "source_url": "https://resy.com/cities/miami-fl/events",
       "first_seen_at": "2026-11-15T19:13:24.582822+00:00",
-      "last_seen_at": "2026-11-15T19:13:40.704784+00:00",
+      "last_seen_at": "2026-11-16T22:43:28.208502+00:00",
       "lead_hours": 169,
       "source_trail": [
         {
@@ -842,6 +779,47 @@
           "source_name": "Resy Experiences · Miami",
           "seen_at": "2026-11-15T19:13:24.582822+00:00",
           "url": "https://resy.com/cities/miami-fl/events/dinner-anniversary-series-4-2026-11-22-6"
+        }
+      ]
+    },
+    {
+      "id": "c8f49c38520e26e74a7d0b83c0b81972533b386f",
+      "title": "Thanksgiving at Americana Kitchen",
+      "summary": "Celebrate Thanksgiving with a festive holiday buffet featuring chef-carved rosemary and butter-basted turkey, roasted honey baked ham, and herb-roasted ribeye alongside seasonal salads, hearty sides, and decadent desserts.\n\nEnjoy warm autumn décor, festive cocktails, and a bountiful spread of holiday favorites - the perfect way to gather and give thanks.\n\nMimosas, Bellinis and Bloody Marys by the glass $17. Bottomless option for $27\n\n\n\n$98 per adult\n\n$35 for kids ages 6-12\n\nKids 5 and under eat ",
+      "starts_at": "2026-11-26T12:00:00-05:00",
+      "ends_at": "2026-11-26T13:30:00-05:00",
+      "all_day": false,
+      "venue": "Americana Kitchen at Loews Coral Gables Hotel",
+      "neighborhood": "Coral Gables",
+      "city": "Coral Gables",
+      "url": "https://resy.com/cities/miami-fl/events/thanksgiving-at-americana-kitchen-2026-11-26-6",
+      "rsvp_url": "https://resy.com/cities/miami-fl/events/thanksgiving-at-americana-kitchen-2026-11-26-6",
+      "image_url": "https://image.resy.com/3/003/2/65279/8b6a6de68b084eece36058f60a5f819542e402e9/jpg/640x360",
+      "access": "registration",
+      "industry": "culinary",
+      "categories": [
+        "culinary",
+        "hospitality"
+      ],
+      "access_tip": "Book on Resy as soon as listings drop — guest-chef nights often sell out the same week.",
+      "contact_url": "https://resy.com/cities/miami-fl/events",
+      "contact_email": null,
+      "ask_for": "Restaurant events team via Resy",
+      "score": 100,
+      "confidence": 0.9,
+      "why_it_matters": "Listed on Resy Experiences — book before hotel calendars catch it — luxury / hospitality keywords — at Americana Kitchen at Loews Coral Gables Hotel",
+      "source_id": "resy_experiences",
+      "source_name": "Resy Experiences · Miami",
+      "source_url": "https://resy.com/cities/miami-fl/events",
+      "first_seen_at": "2026-11-16T22:43:13.261535+00:00",
+      "last_seen_at": "2026-11-16T22:43:28.208502+00:00",
+      "lead_hours": 234,
+      "source_trail": [
+        {
+          "source_id": "resy_experiences",
+          "source_name": "Resy Experiences · Miami",
+          "seen_at": "2026-11-16T22:43:13.261535+00:00",
+          "url": "https://resy.com/cities/miami-fl/events/thanksgiving-at-americana-kitchen-2026-11-26-6"
         }
       ]
     },
@@ -876,7 +854,7 @@
       "source_name": "Faena Miami Beach",
       "source_url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/thanksgiving-at-faena-miami-beach",
       "first_seen_at": "2026-11-14T18:38:12.835307+00:00",
-      "last_seen_at": "2026-11-15T19:13:40.704784+00:00",
+      "last_seen_at": "2026-11-16T22:43:28.208502+00:00",
       "lead_hours": 291,
       "source_trail": [
         {
@@ -884,6 +862,48 @@
           "source_name": "Faena Miami Beach",
           "seen_at": "2026-11-14T18:38:12.835307+00:00",
           "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/thanksgiving-dinner-at-faena-miami-beach"
+        }
+      ]
+    },
+    {
+      "id": "3a675850a877bb14f80f5087a2e67d6cafdeb131",
+      "title": "Backgammon Society — Rare Collects x Yellowpop Collab",
+      "summary": "Official Backgammon Society Miami tournament at Rare Collects x Yellowpop Collab.",
+      "starts_at": "2026-12-30T19:00:00-05:00",
+      "ends_at": null,
+      "all_day": false,
+      "venue": "Rare Collects x Yellowpop Collab",
+      "neighborhood": "Miami",
+      "city": "Miami",
+      "url": "https://www.thebackgammonsociety.com/tournaments/miami/rare-collects-x-yellowpop-collab",
+      "rsvp_url": "https://www.thebackgammonsociety.com/tournaments/miami/rare-collects-x-yellowpop-collab",
+      "image_url": "https://budyxfmlimzpkgcjzmbi.supabase.co/storage/v1/object/public/tournament-images/55adf33f-a4eb-4bab-a728-2a23b56731cd/78179d95d4ba763e23d885ec4fef674b6937ee39020a417262d1870ebf8131c8.png",
+      "access": "registration",
+      "industry": "sports",
+      "categories": [
+        "hospitality",
+        "networking",
+        "sports"
+      ],
+      "access_tip": "Register on the official Backgammon Society tournament page. For members-club venues, ask the tournament host and the venue membership or concierge team.",
+      "contact_url": "https://www.thebackgammonsociety.com/",
+      "contact_email": null,
+      "ask_for": "The Backgammon Society",
+      "score": 96,
+      "confidence": 0.9,
+      "why_it_matters": "From The Backgammon Society — luxury / hospitality keywords — at Rare Collects x Yellowpop Collab",
+      "source_id": "backgammon_society",
+      "source_name": "The Backgammon Society",
+      "source_url": "https://www.thebackgammonsociety.com/",
+      "first_seen_at": "2026-11-16T22:43:17.460348+00:00",
+      "last_seen_at": "2026-11-16T22:43:28.208502+00:00",
+      "lead_hours": 1057,
+      "source_trail": [
+        {
+          "source_id": "backgammon_society",
+          "source_name": "The Backgammon Society",
+          "seen_at": "2026-11-16T22:43:17.460348+00:00",
+          "url": "https://www.thebackgammonsociety.com/tournaments/miami/rare-collects-x-yellowpop-collab"
         }
       ]
     },
@@ -918,7 +938,7 @@
       "source_name": "Faena Miami Beach",
       "source_url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/thanksgiving-at-faena-miami-beach",
       "first_seen_at": "2026-11-14T18:38:12.834534+00:00",
-      "last_seen_at": "2026-11-15T19:13:40.704784+00:00",
+      "last_seen_at": "2026-11-16T22:43:28.208502+00:00",
       "lead_hours": 292,
       "source_trail": [
         {
@@ -960,7 +980,7 @@
       "source_name": "Faena Miami Beach",
       "source_url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/thanksgiving-at-faena-miami-beach",
       "first_seen_at": "2026-11-14T18:38:12.834908+00:00",
-      "last_seen_at": "2026-11-15T19:13:40.704784+00:00",
+      "last_seen_at": "2026-11-16T22:43:28.208502+00:00",
       "lead_hours": 292,
       "source_trail": [
         {
@@ -1002,7 +1022,7 @@
       "source_name": "Luma Miami · Food & Chef",
       "source_url": "https://luma.com/miami",
       "first_seen_at": "2026-11-10T20:11:20.744987+00:00",
-      "last_seen_at": "2026-11-15T19:13:40.704784+00:00",
+      "last_seen_at": "2026-11-16T22:43:28.208502+00:00",
       "lead_hours": 578,
       "source_trail": [
         {
@@ -1044,7 +1064,7 @@
       "source_name": "Eater Miami",
       "source_url": "https://miami.eater.com/rss/index.xml",
       "first_seen_at": "2026-10-30T18:23:37.970494+00:00",
-      "last_seen_at": "2026-11-15T19:13:40.704784+00:00",
+      "last_seen_at": "2026-11-16T22:43:28.208502+00:00",
       "lead_hours": null,
       "source_trail": [
         {
@@ -1052,6 +1072,48 @@
           "source_name": "Eater Miami",
           "seen_at": "2026-10-30T18:23:37.970494+00:00",
           "url": "https://miami.eater.com/maps/best-miami-cocktail-bars-guide-map"
+        }
+      ]
+    },
+    {
+      "id": "ee95305a0bc1c739e94d2d222646a6e2eb90c413",
+      "title": "Backgammon Society — Soho Beach House",
+      "summary": "Official Backgammon Society Miami tournament at Soho Beach House.",
+      "starts_at": "2027-01-20T19:00:00-05:00",
+      "ends_at": null,
+      "all_day": false,
+      "venue": "Soho Beach House",
+      "neighborhood": "Miami",
+      "city": "Miami",
+      "url": "https://www.thebackgammonsociety.com/tournaments/miami/soho-beach-house-27",
+      "rsvp_url": "https://www.thebackgammonsociety.com/tournaments/miami/soho-beach-house-27",
+      "image_url": "https://budyxfmlimzpkgcjzmbi.supabase.co/storage/v1/object/public/tournament-images/480bc043-2c6a-44f4-ae9d-0c638aaac0bf/f62f2c8610ab92e478f09141edd4550e4c6be4b6b718c1d2fd42019e39982a1b.png",
+      "access": "members",
+      "industry": "sports",
+      "categories": [
+        "hospitality",
+        "networking",
+        "sports"
+      ],
+      "access_tip": "Register on the official Backgammon Society tournament page. For members-club venues, ask the tournament host and the venue membership or concierge team.",
+      "contact_url": "https://www.thebackgammonsociety.com/",
+      "contact_email": null,
+      "ask_for": "The Backgammon Society",
+      "score": 86,
+      "confidence": 0.9,
+      "why_it_matters": "From The Backgammon Society — members access — luxury / hospitality keywords — at Soho Beach House",
+      "source_id": "backgammon_society",
+      "source_name": "The Backgammon Society",
+      "source_url": "https://www.thebackgammonsociety.com/",
+      "first_seen_at": "2026-11-16T22:43:17.460815+00:00",
+      "last_seen_at": "2026-11-16T22:43:28.208502+00:00",
+      "lead_hours": 1561,
+      "source_trail": [
+        {
+          "source_id": "backgammon_society",
+          "source_name": "The Backgammon Society",
+          "seen_at": "2026-11-16T22:43:17.460815+00:00",
+          "url": "https://www.thebackgammonsociety.com/tournaments/miami/soho-beach-house-27"
         }
       ]
     },
@@ -1086,7 +1148,7 @@
       "source_name": "Eater Miami",
       "source_url": "https://miami.eater.com/rss/index.xml",
       "first_seen_at": "2026-10-12T21:28:12.732047+00:00",
-      "last_seen_at": "2026-11-15T19:13:40.704784+00:00",
+      "last_seen_at": "2026-11-16T22:43:28.208502+00:00",
       "lead_hours": null,
       "source_trail": [
         {
@@ -1098,17 +1160,59 @@
       ]
     },
     {
-      "id": "d3b6b75c8b8ad362afe2f69eef1573674e4d99b5",
-      "title": "Komodo Celebrates the Launch of its Classics Menu with a Dinner hosted by David Grutman and Mr. Eats305",
-      "summary": "Miami, FL - November 12, 2026 - Komodo Miami celebrated the launch of its new Classics Menu with an exclusive dinner hosted by David Grutman and George Arango, \"Mr. Eats305.\" The Classics Menu brings together Komodo’s most iconic, fan-favorite dishes, curated in collaboration with Mr. Eats 305. Friends and family joined Dave and George for an evening in the heart of Brickell, featuring dishes from the new menu alongs",
+      "id": "a1dceea70053387ec37296d9d888165da4c0ab9f",
+      "title": "Elvis Duran and the Z100 Morning Show’s Sunday Family Brunch February 28, 2027 11:30 AM",
+      "summary": "Favorite Event Elvis Duran and the Z100 Morning Show’s Sunday Family Brunch February 28, 2027 11:30 AM",
+      "starts_at": "2027-02-28T00:00:00+00:00",
+      "ends_at": null,
+      "all_day": false,
+      "venue": "",
+      "neighborhood": "Miami",
+      "city": "Miami",
+      "url": "https://sobewff.org/events/sundaybrunch/",
+      "rsvp_url": "https://sobewff.org/events/sundaybrunch/",
+      "image_url": null,
+      "access": "public",
+      "industry": "culinary",
+      "categories": [
+        "culinary",
+        "luxury",
+        "networking"
+      ],
+      "access_tip": "Buy or reserve only through the official SOBEWFF event page; high-demand dinners sell out early.",
+      "contact_url": "https://sobewff.org/events/",
+      "contact_email": null,
+      "ask_for": "",
+      "score": 82,
+      "confidence": 0.8,
+      "why_it_matters": "From SOBEWFF — luxury / hospitality keywords",
+      "source_id": "sobewff",
+      "source_name": "SOBEWFF",
+      "source_url": "https://corporate.sobewff.org/",
+      "first_seen_at": "2026-11-16T22:43:10.891585+00:00",
+      "last_seen_at": "2026-11-16T22:43:28.208502+00:00",
+      "lead_hours": 2473,
+      "source_trail": [
+        {
+          "source_id": "sobewff",
+          "source_name": "SOBEWFF",
+          "seen_at": "2026-11-16T22:43:10.891585+00:00",
+          "url": "https://sobewff.org/events/sundaybrunch/"
+        }
+      ]
+    },
+    {
+      "id": "019b7ddb9bc7167a477c3d8733dc57300f08480e",
+      "title": "28th Annual Best Buddies Miami Gala at the MANA Wynwood Convention Center",
+      "summary": "Miami, FL - November 14, 2026 - The 28th Annual Best Buddies Miami Gala and Champion of the Year was a spectacular and impactful event benefitting Best Buddies’ mission. Limited to 850 guests, including business leaders, political dignitaries, sports figures, and celebrities — Gala attendees gathered to support and celebrate Best Buddies’ mission with a gourmet dinner, dazzling entertainment, and a top-notch auction.",
       "starts_at": null,
       "ends_at": null,
       "all_day": false,
       "venue": "",
-      "neighborhood": "Brickell",
+      "neighborhood": "Wynwood",
       "city": "Miami",
-      "url": "https://worldredeye.com/2026/11/komodo-celebrates-the-launch-of-its-classics-menu-with-a-dinner-hosted-by-david-grutman-and-mr-eats-305/",
-      "rsvp_url": "https://worldredeye.com/2026/11/komodo-celebrates-the-launch-of-its-classics-menu-with-a-dinner-hosted-by-david-grutman-and-mr-eats-305/",
+      "url": "https://worldredeye.com/2026/11/28th-annual-best-buddies-miami-gala-at-the-mana-wynwood-convention-center/",
+      "rsvp_url": "https://worldredeye.com/2026/11/28th-annual-best-buddies-miami-gala-at-the-mana-wynwood-convention-center/",
       "image_url": null,
       "access": "public",
       "industry": "culinary",
@@ -1117,24 +1221,24 @@
         "nightlife"
       ],
       "access_tip": "Open the official source for current admission details. Reserve early if a booking option is shown.",
-      "contact_url": "https://worldredeye.com/2026/11/komodo-celebrates-the-launch-of-its-classics-menu-with-a-dinner-hosted-by-david-grutman-and-mr-eats-305/",
+      "contact_url": "https://worldredeye.com/2026/11/28th-annual-best-buddies-miami-gala-at-the-mana-wynwood-convention-center/",
       "contact_email": null,
       "ask_for": "The host or sponsor named in the World Red Eye article",
-      "score": 82,
+      "score": 79,
       "confidence": 0.6,
-      "why_it_matters": "World Red Eye coverage (often same-day / post-event) — luxury + networking keywords",
+      "why_it_matters": "World Red Eye coverage (often same-day / post-event) — luxury / hospitality keywords",
       "source_id": "world_red_eye",
       "source_name": "World Red Eye",
       "source_url": "https://worldredeye.com/feed/",
-      "first_seen_at": "2026-11-14T18:38:10.449198+00:00",
-      "last_seen_at": "2026-11-15T19:13:40.704784+00:00",
+      "first_seen_at": "2026-11-16T22:43:04.635490+00:00",
+      "last_seen_at": "2026-11-16T22:43:28.208502+00:00",
       "lead_hours": null,
       "source_trail": [
         {
           "source_id": "world_red_eye",
           "source_name": "World Red Eye",
-          "seen_at": "2026-11-14T18:38:10.449198+00:00",
-          "url": "https://worldredeye.com/2026/11/komodo-celebrates-the-launch-of-its-classics-menu-with-a-dinner-hosted-by-david-grutman-and-mr-eats-305/"
+          "seen_at": "2026-11-16T22:43:04.635490+00:00",
+          "url": "https://worldredeye.com/2026/11/28th-annual-best-buddies-miami-gala-at-the-mana-wynwood-convention-center/"
         }
       ]
     },
@@ -1168,7 +1272,7 @@
       "source_name": "The Standard Spa Miami Beach",
       "source_url": "https://www.standardhotels.com/happenings",
       "first_seen_at": "2026-10-31T17:29:47.992717+00:00",
-      "last_seen_at": "2026-11-15T19:13:40.704784+00:00",
+      "last_seen_at": "2026-11-16T22:43:28.208502+00:00",
       "lead_hours": 527,
       "source_trail": [
         {
@@ -1176,47 +1280,6 @@
           "source_name": "The Standard Spa Miami Beach",
           "seen_at": "2026-10-31T17:29:47.992717+00:00",
           "url": "https://www.standardhotels.com/miami/happenings/leggera-pop-up"
-        }
-      ]
-    },
-    {
-      "id": "286fe738941eed23e6d5cc573119976751eaa135",
-      "title": "WRE News: Motek By The Sea Opens at W Fort Lauderdale",
-      "summary": "Fort Lauderdale, FL - November 12, 2026 - Motek Cafe is bringing its Mediterranean flavors to Fort Lauderdale with the opening of its first Broward location. Motej By The Sea has officially opened at W Fort Lauderdale , marking a major expansion for Miami-based Happy Corner Hospitality, founded by Charlie Levy. Spanning approximately 12,000 square feet with seating for 315 guests, the oceanfront restaurant serves a M",
-      "starts_at": null,
-      "ends_at": null,
-      "all_day": false,
-      "venue": "",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://worldredeye.com/2026/11/wre-news-motek-by-the-sea-opens-at-w-fort-lauderdale/",
-      "rsvp_url": "https://worldredeye.com/2026/11/wre-news-motek-by-the-sea-opens-at-w-fort-lauderdale/",
-      "image_url": null,
-      "access": "public",
-      "industry": "culinary",
-      "categories": [
-        "editorial",
-        "nightlife"
-      ],
-      "access_tip": "Open the official source for current admission details. Reserve early if a booking option is shown.",
-      "contact_url": "https://worldredeye.com/2026/11/wre-news-motek-by-the-sea-opens-at-w-fort-lauderdale/",
-      "contact_email": null,
-      "ask_for": "The host or sponsor named in the World Red Eye article",
-      "score": 74,
-      "confidence": 0.5,
-      "why_it_matters": "World Red Eye coverage (often same-day / post-event) — networking keywords",
-      "source_id": "world_red_eye",
-      "source_name": "World Red Eye",
-      "source_url": "https://worldredeye.com/feed/",
-      "first_seen_at": "2026-11-12T20:37:45.121698+00:00",
-      "last_seen_at": "2026-11-15T19:13:40.704784+00:00",
-      "lead_hours": null,
-      "source_trail": [
-        {
-          "source_id": "world_red_eye",
-          "source_name": "World Red Eye",
-          "seen_at": "2026-11-12T20:37:45.121698+00:00",
-          "url": "https://worldredeye.com/2026/11/wre-news-motek-by-the-sea-opens-at-w-fort-lauderdale/"
         }
       ]
     },
@@ -1243,7 +1306,7 @@
       "access_tip": "Register through the official Backgammon Social Miami Luma calendar. The event co-host shown on the event page is the correct person to request.",
       "contact_url": "https://luma.com/backgammonsocialmiami",
       "contact_email": null,
-      "ask_for": "Backgammon Social, Catherine Manley, Lydia Menendez, Alfredo Ponce de Leon",
+      "ask_for": "Backgammon Social, Lydia Menendez, Alfredo Ponce de Leon",
       "score": 72,
       "confidence": 0.9,
       "why_it_matters": "From Backgammon Social Miami — luxury / hospitality keywords — at 4040 NE 2nd Ave, Miami, FL 33137, USA",
@@ -1251,7 +1314,7 @@
       "source_name": "Backgammon Social Miami",
       "source_url": "https://luma.com/backgammonsocialmiami",
       "first_seen_at": "2026-10-26T19:00:33.733949+00:00",
-      "last_seen_at": "2026-11-15T19:13:40.704784+00:00",
+      "last_seen_at": "2026-11-16T22:43:28.208502+00:00",
       "lead_hours": 580,
       "source_trail": [
         {
@@ -1259,89 +1322,6 @@
           "source_name": "Backgammon Social Miami",
           "seen_at": "2026-10-26T19:00:33.733949+00:00",
           "url": "https://luma.com/backga-jzo8"
-        }
-      ]
-    },
-    {
-      "id": "cb9d76067f6f2e3c944a9a8873514a9b0f3b79d9",
-      "title": "World Red Eye Presents VIP Opening of UKIYO Hosted by Seth Browarnik",
-      "summary": "Miami Beach, FL - November 12, 2026 - World Red Eye hosted an exclusive dinner on November 12 at UKIYO, celebrating the debut of Lincoln Road’s newest dining destination and an elevated take on Japan’s iconic kaiten sushi tradition. Hosted by Seth Browarnik and joined by The Real Housewives of Miami cast members Lisa Hochstein, Kiki Barth, Alexia Nepola, and Julia Lemigova, alongside other notable guests, the evening",
-      "starts_at": null,
-      "ends_at": null,
-      "all_day": false,
-      "venue": "",
-      "neighborhood": "Miami Beach",
-      "city": "Miami",
-      "url": "https://worldredeye.com/2026/11/world-red-eye-presents-vip-opening-of-ukiyo-hosted-by-seth-browarnik/",
-      "rsvp_url": "https://worldredeye.com/2026/11/world-red-eye-presents-vip-opening-of-ukiyo-hosted-by-seth-browarnik/",
-      "image_url": null,
-      "access": "public",
-      "industry": "culinary",
-      "categories": [
-        "editorial",
-        "nightlife"
-      ],
-      "access_tip": "Open the official source for current admission details. Reserve early if a booking option is shown.",
-      "contact_url": "https://worldredeye.com/2026/11/world-red-eye-presents-vip-opening-of-ukiyo-hosted-by-seth-browarnik/",
-      "contact_email": null,
-      "ask_for": "The host or sponsor named in the World Red Eye article",
-      "score": 69,
-      "confidence": 0.6,
-      "why_it_matters": "World Red Eye coverage (often same-day / post-event) — luxury + networking keywords",
-      "source_id": "world_red_eye",
-      "source_name": "World Red Eye",
-      "source_url": "https://worldredeye.com/feed/",
-      "first_seen_at": "2026-11-13T20:17:12.606950+00:00",
-      "last_seen_at": "2026-11-15T19:13:40.704784+00:00",
-      "lead_hours": null,
-      "source_trail": [
-        {
-          "source_id": "world_red_eye",
-          "source_name": "World Red Eye",
-          "seen_at": "2026-11-13T20:17:12.606950+00:00",
-          "url": "https://worldredeye.com/2026/11/world-red-eye-presents-vip-opening-of-ukiyo-hosted-by-seth-browarnik/"
-        }
-      ]
-    },
-    {
-      "id": "90e7f4e6e1bdc36ed9e3b83ef1a2c0ac9c70bb95",
-      "title": "Backgammon Society — YAYA Coastal",
-      "summary": "Official Backgammon Society Miami tournament at YAYA Coastal.",
-      "starts_at": "2026-11-17T19:00:00-05:00",
-      "ends_at": null,
-      "all_day": false,
-      "venue": "YAYA Coastal",
-      "neighborhood": "Miami Chess",
-      "city": "Miami Chess",
-      "url": "https://www.thebackgammonsociety.com/tournaments/miami-chess/yaya-coastal",
-      "rsvp_url": "https://www.thebackgammonsociety.com/tournaments/miami-chess/yaya-coastal",
-      "image_url": "https://budyxfmlimzpkgcjzmbi.supabase.co/storage/v1/object/public/tournament-images/75cb08d7-d25e-4fed-8f31-9cf3d17918d6/b5fc13b59d363df4f947c54ea3105044a1c80faaa51cb37ddffd6cb1bfd9c9a9.jpg",
-      "access": "registration",
-      "industry": "sports",
-      "categories": [
-        "hospitality",
-        "networking",
-        "sports"
-      ],
-      "access_tip": "Register on the official Backgammon Society tournament page. For members-club venues, ask the tournament host and the venue membership or concierge team.",
-      "contact_url": "https://www.thebackgammonsociety.com/",
-      "contact_email": null,
-      "ask_for": "The Backgammon Society",
-      "score": 68,
-      "confidence": 0.8,
-      "why_it_matters": "From The Backgammon Society — at YAYA Coastal",
-      "source_id": "backgammon_society",
-      "source_name": "The Backgammon Society",
-      "source_url": "https://www.thebackgammonsociety.com/",
-      "first_seen_at": "2026-11-12T20:37:58.226578+00:00",
-      "last_seen_at": "2026-11-15T19:13:40.704784+00:00",
-      "lead_hours": 123,
-      "source_trail": [
-        {
-          "source_id": "backgammon_society",
-          "source_name": "The Backgammon Society",
-          "seen_at": "2026-11-12T20:37:58.226578+00:00",
-          "url": "https://www.thebackgammonsociety.com/tournaments/miami-chess/yaya-coastal"
         }
       ]
     },
@@ -1375,7 +1355,7 @@
       "source_name": "The Standard Spa Miami Beach",
       "source_url": "https://www.standardhotels.com/happenings",
       "first_seen_at": "2026-11-01T18:14:45.758590+00:00",
-      "last_seen_at": "2026-11-15T19:13:40.704784+00:00",
+      "last_seen_at": "2026-11-16T22:43:28.208502+00:00",
       "lead_hours": 406,
       "source_trail": [
         {
@@ -1387,52 +1367,10 @@
       ]
     },
     {
-      "id": "3811cfb1fa3973f415d0d118a5082f0ecc6961a3",
-      "title": "Backgammon Society — Naked Tomato",
-      "summary": "Official Backgammon Society Miami tournament at Naked Tomato.",
-      "starts_at": "2026-11-18T19:00:00-05:00",
-      "ends_at": null,
-      "all_day": false,
-      "venue": "Naked Tomato",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://www.thebackgammonsociety.com/tournaments/miami/naked-tomato",
-      "rsvp_url": "https://www.thebackgammonsociety.com/tournaments/miami/naked-tomato",
-      "image_url": "https://budyxfmlimzpkgcjzmbi.supabase.co/storage/v1/object/public/tournament-images/f703f262-0068-4fce-b277-4cedd32f14da/fe9cb89553c2c9a967d7e93d7132d0d3d477816e57608b21302ab7f3041488c8.png",
-      "access": "registration",
-      "industry": "sports",
-      "categories": [
-        "hospitality",
-        "networking",
-        "sports"
-      ],
-      "access_tip": "Register on the official Backgammon Society tournament page. For members-club venues, ask the tournament host and the venue membership or concierge team.",
-      "contact_url": "https://www.thebackgammonsociety.com/",
-      "contact_email": null,
-      "ask_for": "The Backgammon Society",
-      "score": 68,
-      "confidence": 0.8,
-      "why_it_matters": "From The Backgammon Society — at Naked Tomato",
-      "source_id": "backgammon_society",
-      "source_name": "The Backgammon Society",
-      "source_url": "https://www.thebackgammonsociety.com/",
-      "first_seen_at": "2026-11-14T18:38:23.355962+00:00",
-      "last_seen_at": "2026-11-15T19:13:40.704784+00:00",
-      "lead_hours": 101,
-      "source_trail": [
-        {
-          "source_id": "backgammon_society",
-          "source_name": "The Backgammon Society",
-          "seen_at": "2026-11-14T18:38:23.355962+00:00",
-          "url": "https://www.thebackgammonsociety.com/tournaments/miami/naked-tomato"
-        }
-      ]
-    },
-    {
       "id": "e967fea3512d4b619a9e18f5fdde20dbe9b591dd",
       "title": "MIAMI ART WEEK | EXHIBITION OPENING RECEPTION",
       "summary": "",
-      "starts_at": "2026-12-02T18:00:00-08:00",
+      "starts_at": "2026-12-02T20:00:00-08:00",
       "ends_at": "2026-12-02T22:00:00-08:00",
       "all_day": false,
       "venue": "",
@@ -1458,8 +1396,8 @@
       "source_name": "The Bass",
       "source_url": "https://thebass.org/events/?ical=1",
       "first_seen_at": "2026-10-26T19:00:25.816750+00:00",
-      "last_seen_at": "2026-11-15T19:13:40.704784+00:00",
-      "lead_hours": 894,
+      "last_seen_at": "2026-11-16T22:43:28.208502+00:00",
+      "lead_hours": 896,
       "source_trail": [
         {
           "source_id": "the_bass",
@@ -1499,7 +1437,7 @@
       "source_name": "The Standard Spa Miami Beach",
       "source_url": "https://www.standardhotels.com/happenings",
       "first_seen_at": "2026-11-15T19:13:24.549497+00:00",
-      "last_seen_at": "2026-11-15T19:13:40.704784+00:00",
+      "last_seen_at": "2026-11-16T22:43:28.208502+00:00",
       "lead_hours": 213,
       "source_trail": [
         {
@@ -1541,7 +1479,7 @@
       "source_name": "Backgammon Social Miami",
       "source_url": "https://luma.com/backgammonsocialmiami",
       "first_seen_at": "2026-10-30T18:23:38.875506+00:00",
-      "last_seen_at": "2026-11-15T19:13:40.704784+00:00",
+      "last_seen_at": "2026-11-16T22:43:28.208502+00:00",
       "lead_hours": 605,
       "source_trail": [
         {
@@ -1582,7 +1520,7 @@
       "source_name": "Beacon Council RSS",
       "source_url": "https://www.beaconcouncil.com/events/feed/",
       "first_seen_at": "2026-11-09T22:50:53.261145+00:00",
-      "last_seen_at": "2026-11-15T19:13:40.704784+00:00",
+      "last_seen_at": "2026-11-16T22:43:28.208502+00:00",
       "lead_hours": 754,
       "source_trail": [
         {
