@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-18T21:04:49.489006+00:00",
+  "generated_at": "2026-11-19T21:09:55.320038+00:00",
   "timezone": "America/New_York",
   "version": 1,
-  "event_count": 21,
+  "event_count": 22,
   "industries": [
     "hospitality",
     "sports",
@@ -316,28 +316,6 @@
       "basis": "Public caption or professional role text; no face recognition or private contact data."
     },
     {
-      "id": "ba46d610a631d6af",
-      "name": "Jayne Gottlieb",
-      "role": "Recurring name in curated event coverage",
-      "organization": "Miami luxury and industry network",
-      "industry": "hospitality",
-      "priority": 71,
-      "mentions": 5,
-      "event_count": 2,
-      "why_connect": "Published in 5 World Red Eye caption(s) across 2 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
-      "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
-      "source_name": "World Red Eye",
-      "source_urls": [
-        "https://worldredeye.com/2026/11/betterness-worldcenter-perks-program-launch-at-miami-worldcenter-rooftop/",
-        "https://worldredeye.com/2026/11/celebrating-morgan-shara-at-harbour-club/"
-      ],
-      "event_titles": [
-        "Betterness Worldcenter Perks Program Launch at Miami Worldcenter Rooftop",
-        "Celebrating Morgan Shara at Harbour Club"
-      ],
-      "basis": "Public caption or professional role text; no face recognition or private contact data."
-    },
-    {
       "id": "9d78a6c3ea84dd8f",
       "name": "Rodney Barreto",
       "role": "Recurring name in curated event coverage",
@@ -354,26 +332,6 @@
       ],
       "event_titles": [
         "World Red Eye Preview Dinner Hosted by Seth Browarnik at Gigi Rigolatto Celebrating Delano"
-      ],
-      "basis": "Public caption or professional role text; no face recognition or private contact data."
-    },
-    {
-      "id": "828266b62e450e31",
-      "name": "Morgan Shara",
-      "role": "Recurring name in curated event coverage",
-      "organization": "Miami luxury and industry network",
-      "industry": "hospitality",
-      "priority": 69,
-      "mentions": 14,
-      "event_count": 1,
-      "why_connect": "Published in 14 World Red Eye caption(s) across 1 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
-      "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
-      "source_name": "World Red Eye",
-      "source_urls": [
-        "https://worldredeye.com/2026/11/celebrating-morgan-shara-at-harbour-club/"
-      ],
-      "event_titles": [
-        "Celebrating Morgan Shara at Harbour Club"
       ],
       "basis": "Public caption or professional role text; no face recognition or private contact data."
     },
@@ -480,26 +438,6 @@
       "basis": "Public caption or professional role text; no face recognition or private contact data."
     },
     {
-      "id": "c23907351887a695",
-      "name": "Candy Tree",
-      "role": "Recurring name in curated event coverage",
-      "organization": "Miami luxury and industry network",
-      "industry": "hospitality",
-      "priority": 68,
-      "mentions": 11,
-      "event_count": 1,
-      "why_connect": "Published in 11 World Red Eye caption(s) across 1 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
-      "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
-      "source_name": "World Red Eye",
-      "source_urls": [
-        "https://worldredeye.com/2026/11/remembering-donna-cyrus-a-celebration-of-life/"
-      ],
-      "event_titles": [
-        "Remembering Donna Cyrus: A Celebration of Life"
-      ],
-      "basis": "Public caption or professional role text; no face recognition or private contact data."
-    },
-    {
       "id": "45a12898bc683ec2",
       "name": "Jon Paul Pérez",
       "role": "Recurring name in curated event coverage",
@@ -560,6 +498,26 @@
       "basis": "Public caption or professional role text; no face recognition or private contact data."
     },
     {
+      "id": "57fd34ebcd2b6fe2",
+      "name": "Lyndsey Meade",
+      "role": "Recurring name in curated event coverage",
+      "organization": "Miami luxury and industry network",
+      "industry": "hospitality",
+      "priority": 66,
+      "mentions": 9,
+      "event_count": 1,
+      "why_connect": "Published in 9 World Red Eye caption(s) across 1 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
+      "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
+      "source_name": "World Red Eye",
+      "source_urls": [
+        "https://worldredeye.com/2026/11/body-hot-pilates-expands-its-miami-footprint-with-new-midtown-flagship/"
+      ],
+      "event_titles": [
+        "BODY Hot Pilates Expands Its Miami Footprint With New Midtown Flagship"
+      ],
+      "basis": "Public caption or professional role text; no face recognition or private contact data."
+    },
+    {
       "id": "4442c07fbb3b2533",
       "name": "Robert Rivani",
       "role": "Recurring name in curated event coverage",
@@ -578,50 +536,49 @@
         "World Red Eye Preview Dinner Hosted by Seth Browarnik at Gigi Rigolatto Celebrating Delano"
       ],
       "basis": "Public caption or professional role text; no face recognition or private contact data."
+    },
+    {
+      "id": "4ef0d988fe48ffde",
+      "name": "Daniel De La Vega",
+      "role": "Recurring name in curated event coverage",
+      "organization": "Miami luxury and industry network",
+      "industry": "hospitality",
+      "priority": 65,
+      "mentions": 8,
+      "event_count": 1,
+      "why_connect": "Published in 8 World Red Eye caption(s) across 1 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
+      "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
+      "source_name": "World Red Eye",
+      "source_urls": [
+        "https://worldredeye.com/2026/05/world-red-eye-preview-dinner-hosted-by-seth-browarnik-at-gigi-rigolatto-celebrating-delano/"
+      ],
+      "event_titles": [
+        "World Red Eye Preview Dinner Hosted by Seth Browarnik at Gigi Rigolatto Celebrating Delano"
+      ],
+      "basis": "Public caption or professional role text; no face recognition or private contact data."
+    },
+    {
+      "id": "0ca2ef09782ada2a",
+      "name": "Valerio Morabito",
+      "role": "Recurring name in curated event coverage",
+      "organization": "Miami luxury and industry network",
+      "industry": "hospitality",
+      "priority": 65,
+      "mentions": 8,
+      "event_count": 1,
+      "why_connect": "Published in 8 World Red Eye caption(s) across 1 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
+      "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
+      "source_name": "World Red Eye",
+      "source_urls": [
+        "https://worldredeye.com/2026/05/world-red-eye-preview-dinner-hosted-by-seth-browarnik-at-gigi-rigolatto-celebrating-delano/"
+      ],
+      "event_titles": [
+        "World Red Eye Preview Dinner Hosted by Seth Browarnik at Gigi Rigolatto Celebrating Delano"
+      ],
+      "basis": "Public caption or professional role text; no face recognition or private contact data."
     }
   ],
   "events": [
-    {
-      "id": "b52b48481f0e8e94b04515900b2ab7d34afd475e",
-      "title": "Pasta Omakase",
-      "summary": "Pasta Omakase continues! A collection of specialty crudos and pastas. Brought to you by chefs Mike Pirolo & Trevor Zwaan.\n\nBar seating only. Begins promptly at 6:30 PM. We are unfortunately not able to modify this menu.",
-      "starts_at": "2026-11-18T18:30:00-05:00",
-      "ends_at": "2026-11-18T20:00:00-05:00",
-      "all_day": false,
-      "venue": "Macchialina Taverna Rustica",
-      "neighborhood": "Miami Beach",
-      "city": "Miami Beach",
-      "url": "https://resy.com/cities/miami-fl/events/pasta-omakase-2026-11-18-6",
-      "rsvp_url": "https://resy.com/cities/miami-fl/events/pasta-omakase-2026-11-18-6",
-      "image_url": "https://image.resy.com/3/003/2/8803/91bd5e3f2a032ba4699878d704328000b38e03c9/jpg/640x360",
-      "access": "registration",
-      "industry": "culinary",
-      "categories": [
-        "culinary",
-        "hospitality"
-      ],
-      "access_tip": "Book on Resy as soon as listings drop — guest-chef nights often sell out the same week.",
-      "contact_url": "https://resy.com/cities/miami-fl/events",
-      "contact_email": null,
-      "ask_for": "Restaurant events team via Resy",
-      "score": 100,
-      "confidence": 0.9,
-      "why_it_matters": "Listed on Resy Experiences — book before hotel calendars catch it — luxury / hospitality keywords — at Macchialina Taverna Rustica",
-      "source_id": "resy_experiences",
-      "source_name": "Resy Experiences · Miami",
-      "source_url": "https://resy.com/cities/miami-fl/events",
-      "first_seen_at": "2026-11-14T18:38:18.885198+00:00",
-      "last_seen_at": "2026-11-18T21:04:34.152603+00:00",
-      "lead_hours": 100,
-      "source_trail": [
-        {
-          "source_id": "resy_experiences",
-          "source_name": "Resy Experiences · Miami",
-          "seen_at": "2026-11-14T18:38:18.885198+00:00",
-          "url": "https://resy.com/cities/miami-fl/events/pasta-omakase-2026-11-18-6"
-        }
-      ]
-    },
     {
       "id": "8f5df5c59f8d5de1a920824b72008427757f37a3",
       "title": "AVIV Hummus Making Class",
@@ -652,7 +609,7 @@
       "source_name": "Resy Experiences · Miami",
       "source_url": "https://resy.com/cities/miami-fl/events",
       "first_seen_at": "2026-11-15T19:13:24.582647+00:00",
-      "last_seen_at": "2026-11-18T21:04:34.152603+00:00",
+      "last_seen_at": "2026-11-19T21:09:38.835415+00:00",
       "lead_hours": 99,
       "source_trail": [
         {
@@ -660,6 +617,88 @@
           "source_name": "Resy Experiences · Miami",
           "seen_at": "2026-11-15T19:13:24.582647+00:00",
           "url": "https://resy.com/cities/miami-fl/events/aviv-hummus-making-class-2026-11-19-6"
+        }
+      ]
+    },
+    {
+      "id": "e00d0a7673dc617d4133cc0863b1d85440d9842e",
+      "title": "Exclusive Wine Tasting Experience",
+      "summary": "*A multi-sensory journey of flavor, aroma, and texture.*",
+      "starts_at": "2026-11-20T15:00:00-05:00",
+      "ends_at": "2026-11-20T15:45:00-05:00",
+      "all_day": false,
+      "venue": "Hakkasan Miami",
+      "neighborhood": "Miami",
+      "city": "Miami",
+      "url": "https://resy.com/cities/miami-fl/events/exclusive-wine-tasting-experience-2026-11-20-6",
+      "rsvp_url": "https://resy.com/cities/miami-fl/events/exclusive-wine-tasting-experience-2026-11-20-6",
+      "image_url": "https://image.resy.com/3/003/2/93714/3a62529ac81adbb946f1fecabe4cddca1a912523/jpg/640x360",
+      "access": "registration",
+      "industry": "culinary",
+      "categories": [
+        "culinary",
+        "hospitality"
+      ],
+      "access_tip": "Book on Resy as soon as listings drop — guest-chef nights often sell out the same week.",
+      "contact_url": "https://resy.com/cities/miami-fl/events",
+      "contact_email": null,
+      "ask_for": "Restaurant events team via Resy",
+      "score": 100,
+      "confidence": 0.9,
+      "why_it_matters": "Listed on Resy Experiences — book before hotel calendars catch it — luxury / hospitality keywords — at Hakkasan Miami",
+      "source_id": "resy_experiences",
+      "source_name": "Resy Experiences · Miami",
+      "source_url": "https://resy.com/cities/miami-fl/events",
+      "first_seen_at": "2026-11-19T21:09:24.056298+00:00",
+      "last_seen_at": "2026-11-19T21:09:38.835415+00:00",
+      "lead_hours": 22,
+      "source_trail": [
+        {
+          "source_id": "resy_experiences",
+          "source_name": "Resy Experiences · Miami",
+          "seen_at": "2026-11-19T21:09:24.056298+00:00",
+          "url": "https://resy.com/cities/miami-fl/events/exclusive-wine-tasting-experience-2026-11-20-6"
+        }
+      ]
+    },
+    {
+      "id": "045a70c0671196c8ade9d0ecb09c77a1acd01a12",
+      "title": "La Dolce Vita · Anniversary Celebration · VIP Tables",
+      "summary": "We're turning two, and we're celebrating it La Dolce Vita style. Join us on Friday, November 20 on our 9th-floor rooftop in Wynwood for our Anniversary Celebration, with DJs Insomnia & Naza Gold and a live fire show. The party runs until 3 AM.\n\nOnly 8 VIP tables are available. Each table is for 2 to 6 guests and has a $500 minimum spend, prepaid when you book and fully credited to your food & drink bill that night.\n\nYour table is guaranteed when you arrive between 10:30 PM and 1:30 AM. Please ad",
+      "starts_at": "2026-11-20T22:30:00-05:00",
+      "ends_at": "2026-11-21T03:00:00-05:00",
+      "all_day": false,
+      "venue": "La Fernetería",
+      "neighborhood": "Wynwood",
+      "city": "Miami",
+      "url": "https://resy.com/cities/miami-fl/events/la-dolce-vita-anniversary-celebration-vip-tables-2026-11-20-6",
+      "rsvp_url": "https://resy.com/cities/miami-fl/events/la-dolce-vita-anniversary-celebration-vip-tables-2026-11-20-6",
+      "image_url": "https://image.resy.com/3/003/2/83835/2c3f3d50691748ed6ecbecf9d8181e032623aac4/jpg/640x360",
+      "access": "registration",
+      "industry": "culinary",
+      "categories": [
+        "culinary",
+        "hospitality"
+      ],
+      "access_tip": "Book on Resy as soon as listings drop — guest-chef nights often sell out the same week.",
+      "contact_url": "https://resy.com/cities/miami-fl/events",
+      "contact_email": null,
+      "ask_for": "Restaurant events team via Resy",
+      "score": 100,
+      "confidence": 0.9,
+      "why_it_matters": "Listed on Resy Experiences — book before hotel calendars catch it — luxury / hospitality keywords — at La Fernetería",
+      "source_id": "resy_experiences",
+      "source_name": "Resy Experiences · Miami",
+      "source_url": "https://resy.com/cities/miami-fl/events",
+      "first_seen_at": "2026-11-19T21:09:24.056324+00:00",
+      "last_seen_at": "2026-11-19T21:09:38.835415+00:00",
+      "lead_hours": 30,
+      "source_trail": [
+        {
+          "source_id": "resy_experiences",
+          "source_name": "Resy Experiences · Miami",
+          "seen_at": "2026-11-19T21:09:24.056324+00:00",
+          "url": "https://resy.com/cities/miami-fl/events/la-dolce-vita-anniversary-celebration-vip-tables-2026-11-20-6"
         }
       ]
     },
@@ -693,7 +732,7 @@
       "source_name": "Resy Experiences · Miami",
       "source_url": "https://resy.com/cities/miami-fl/events",
       "first_seen_at": "2026-11-15T19:13:24.582822+00:00",
-      "last_seen_at": "2026-11-18T21:04:34.152603+00:00",
+      "last_seen_at": "2026-11-19T21:09:38.835415+00:00",
       "lead_hours": 169,
       "source_trail": [
         {
@@ -705,59 +744,18 @@
       ]
     },
     {
-      "id": "c8f49c38520e26e74a7d0b83c0b81972533b386f",
-      "title": "Thanksgiving at Americana Kitchen",
-      "summary": "Celebrate Thanksgiving with a festive holiday buffet featuring chef-carved rosemary and butter-basted turkey, roasted honey baked ham, and herb-roasted ribeye alongside seasonal salads, hearty sides, and decadent desserts.\n\nEnjoy warm autumn décor, festive cocktails, and a bountiful spread of holiday favorites - the perfect way to gather and give thanks.\n\nMimosas, Bellinis and Bloody Marys by the glass $17. Bottomless option for $27\n\n\n\n$98 per adult\n\n$35 for kids ages 6-12\n\nKids 5 and under eat ",
-      "starts_at": "2026-11-26T12:00:00-05:00",
-      "ends_at": "2026-11-26T13:30:00-05:00",
+      "id": "6abf66e6f04188da650791b15e0b3cdb1988a9fd",
+      "title": "Truffle Wine Dinner",
+      "summary": "Join us at **La Sponda** for an extraordinary evening in collaboration with **Osteria dalla Tre Panche**, celebrating the elegance and indulgence of white truffles through a specially curated tasting menu and exceptional Italian wines.\n\nBegin the evening with a canapé paired with **Guado al Tasso Vermentino**, followed by Wagyu Carpaccio with White Truffle and Tonnato Sauce, complemented by **Cervaro della Sala 2024**. Continue with Egg with White Truffle, paired with **Cuvée Royale Brut NV**, b",
+      "starts_at": "2026-11-24T18:45:00-05:00",
+      "ends_at": "2026-11-24T20:15:00-05:00",
       "all_day": false,
-      "venue": "Americana Kitchen at Loews Coral Gables Hotel",
-      "neighborhood": "Coral Gables",
-      "city": "Coral Gables",
-      "url": "https://resy.com/cities/miami-fl/events/thanksgiving-at-americana-kitchen-2026-11-26-6",
-      "rsvp_url": "https://resy.com/cities/miami-fl/events/thanksgiving-at-americana-kitchen-2026-11-26-6",
-      "image_url": "https://image.resy.com/3/003/2/65279/8b6a6de68b084eece36058f60a5f819542e402e9/jpg/640x360",
-      "access": "registration",
-      "industry": "culinary",
-      "categories": [
-        "culinary",
-        "hospitality"
-      ],
-      "access_tip": "Book on Resy as soon as listings drop — guest-chef nights often sell out the same week.",
-      "contact_url": "https://resy.com/cities/miami-fl/events",
-      "contact_email": null,
-      "ask_for": "Restaurant events team via Resy",
-      "score": 100,
-      "confidence": 0.9,
-      "why_it_matters": "Listed on Resy Experiences — book before hotel calendars catch it — luxury / hospitality keywords — at Americana Kitchen at Loews Coral Gables Hotel",
-      "source_id": "resy_experiences",
-      "source_name": "Resy Experiences · Miami",
-      "source_url": "https://resy.com/cities/miami-fl/events",
-      "first_seen_at": "2026-11-16T22:43:13.261535+00:00",
-      "last_seen_at": "2026-11-18T21:04:34.152603+00:00",
-      "lead_hours": 234,
-      "source_trail": [
-        {
-          "source_id": "resy_experiences",
-          "source_name": "Resy Experiences · Miami",
-          "seen_at": "2026-11-16T22:43:13.261535+00:00",
-          "url": "https://resy.com/cities/miami-fl/events/thanksgiving-at-americana-kitchen-2026-11-26-6"
-        }
-      ]
-    },
-    {
-      "id": "50ef8065c9f71fe30ca6587da9927eb0c23b9eab",
-      "title": "The Art of the Season: Miami Art Week Tasting Menu at Le Jardinier",
-      "summary": "**Monday, November 30th**\n**6PM - 9:30PM**\n**$190 per person plus Tax & Gratuity**\n\nCelebrate Miami Art Week at Michelin-starred Le Jardinier Miami from Monday, November 30th through Sunday, December 6th, with a 5-course tasting menu from Executive Chef James Friedberg and Chef de Cuisine Mario da Silva. Through color and flavor contrast, each art-inspired dish unfolds as part of a sequence of fall and winter creations.\n\nThe evening closes with the “Chef’s Kiss” from Executive Pastry Chef Salvat",
-      "starts_at": "2026-11-30T18:00:00-05:00",
-      "ends_at": "2026-11-30T20:00:00-05:00",
-      "all_day": false,
-      "venue": "Le Jardinier Miami",
+      "venue": "La Sponda Ristorante & Grill",
       "neighborhood": "Miami",
       "city": "Miami",
-      "url": "https://resy.com/cities/miami-fl/events/the-art-of-the-season-miami-art-week-tasting-menu-at-le-jardinier-2026-11-30-6",
-      "rsvp_url": "https://resy.com/cities/miami-fl/events/the-art-of-the-season-miami-art-week-tasting-menu-at-le-jardinier-2026-11-30-6",
-      "image_url": "https://image.resy.com/3/003/2/35005/123f2a5f37f0ab93290aacc9f9900fe18f44254c/jpg/640x360",
+      "url": "https://resy.com/cities/miami-fl/events/truffle-wine-dinner-2026-11-24-6",
+      "rsvp_url": "https://resy.com/cities/miami-fl/events/truffle-wine-dinner-2026-11-24-6",
+      "image_url": "https://image.resy.com/3/003/2/99006/0a97d951389152c0b2467fb04cbc74bb21c57ae4/jpg/640x360",
       "access": "registration",
       "industry": "culinary",
       "categories": [
@@ -770,35 +768,35 @@
       "ask_for": "Restaurant events team via Resy",
       "score": 100,
       "confidence": 0.9,
-      "why_it_matters": "Listed on Resy Experiences — book before hotel calendars catch it — luxury / hospitality keywords — at Le Jardinier Miami",
+      "why_it_matters": "Listed on Resy Experiences — book before hotel calendars catch it — luxury / hospitality keywords — at La Sponda Ristorante & Grill",
       "source_id": "resy_experiences",
       "source_name": "Resy Experiences · Miami",
       "source_url": "https://resy.com/cities/miami-fl/events",
-      "first_seen_at": "2026-11-17T21:29:03.905225+00:00",
-      "last_seen_at": "2026-11-18T21:04:34.152603+00:00",
-      "lead_hours": 313,
+      "first_seen_at": "2026-11-19T21:09:24.056424+00:00",
+      "last_seen_at": "2026-11-19T21:09:38.835415+00:00",
+      "lead_hours": 122,
       "source_trail": [
         {
           "source_id": "resy_experiences",
           "source_name": "Resy Experiences · Miami",
-          "seen_at": "2026-11-17T21:29:03.905225+00:00",
-          "url": "https://resy.com/cities/miami-fl/events/the-art-of-the-season-miami-art-week-tasting-menu-at-le-jardinier-2026-11-30-6"
+          "seen_at": "2026-11-19T21:09:24.056424+00:00",
+          "url": "https://resy.com/cities/miami-fl/events/truffle-wine-dinner-2026-11-24-6"
         }
       ]
     },
     {
-      "id": "042960a7e48c89b83ccfc57bb80fb8c6fae798e5",
-      "title": "Bay Club Comedy Night - Art Basel Edition",
-      "summary": "Welcome Back to Bay Club Comedy Night! We’ve been bringing the laughs longer than most Miami flings last — and we’re just getting started.\n\nCome laugh, sip, snack, and vibe with us. 21+ Only.   Strictly 21+. Guests must arrive by 8:30 PM to guarantee entry.\nTickets will not be accepted after 8:45 PM — no exceptions.\n\nWe want everyone to enjoy the full comedy experience without interruptions, so please plan ahead and arrive on time. Trust us — you don’t want to miss the opening laughs or lose you",
-      "starts_at": "2026-11-30T20:30:00-05:00",
-      "ends_at": "2026-11-30T22:30:00-05:00",
+      "id": "3245572f4aa08c1daa3cde944de0769f3a1737a6",
+      "title": "Pasta Omakase",
+      "summary": "Pasta Omakase continues! A collection of specialty crudos and pastas. Brought to you by chefs Mike Pirolo & Trevor Zwaan.\n\nBar seating only. Begins promptly at 6:30 PM. We are unfortunately not able to modify this menu.",
+      "starts_at": "2026-11-25T18:30:00-05:00",
+      "ends_at": "2026-11-25T20:00:00-05:00",
       "all_day": false,
-      "venue": "Lucali Miami",
+      "venue": "Macchialina Taverna Rustica",
       "neighborhood": "Miami Beach",
       "city": "Miami Beach",
-      "url": "https://resy.com/cities/miami-fl/events/bay-club-comedy-night-art-basel-edition-2026-11-30-6",
-      "rsvp_url": "https://resy.com/cities/miami-fl/events/bay-club-comedy-night-art-basel-edition-2026-11-30-6",
-      "image_url": "https://image.resy.com/3/003/2/89393/6a6ecb2507e8512c6365344d37c884099af4d70c/jpg/640x360",
+      "url": "https://resy.com/cities/miami-fl/events/pasta-omakase-2026-11-25-6",
+      "rsvp_url": "https://resy.com/cities/miami-fl/events/pasta-omakase-2026-11-25-6",
+      "image_url": "https://image.resy.com/3/003/2/8803/91bd5e3f2a032ba4699878d704328000b38e03c9/jpg/640x360",
       "access": "registration",
       "industry": "culinary",
       "categories": [
@@ -811,19 +809,19 @@
       "ask_for": "Restaurant events team via Resy",
       "score": 100,
       "confidence": 0.9,
-      "why_it_matters": "Listed on Resy Experiences — book before hotel calendars catch it — luxury + networking keywords — at Lucali Miami",
+      "why_it_matters": "Listed on Resy Experiences — book before hotel calendars catch it — luxury / hospitality keywords — at Macchialina Taverna Rustica",
       "source_id": "resy_experiences",
       "source_name": "Resy Experiences · Miami",
       "source_url": "https://resy.com/cities/miami-fl/events",
-      "first_seen_at": "2026-11-18T21:04:18.965345+00:00",
-      "last_seen_at": "2026-11-18T21:04:34.152603+00:00",
-      "lead_hours": 292,
+      "first_seen_at": "2026-11-19T21:09:24.056459+00:00",
+      "last_seen_at": "2026-11-19T21:09:38.835415+00:00",
+      "lead_hours": 146,
       "source_trail": [
         {
           "source_id": "resy_experiences",
           "source_name": "Resy Experiences · Miami",
-          "seen_at": "2026-11-18T21:04:18.965345+00:00",
-          "url": "https://resy.com/cities/miami-fl/events/bay-club-comedy-night-art-basel-edition-2026-11-30-6"
+          "seen_at": "2026-11-19T21:09:24.056459+00:00",
+          "url": "https://resy.com/cities/miami-fl/events/pasta-omakase-2026-11-25-6"
         }
       ]
     },
@@ -858,7 +856,7 @@
       "source_name": "Faena Miami Beach",
       "source_url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/thanksgiving-at-faena-miami-beach",
       "first_seen_at": "2026-11-14T18:38:12.835307+00:00",
-      "last_seen_at": "2026-11-18T21:04:34.152603+00:00",
+      "last_seen_at": "2026-11-19T21:09:38.835415+00:00",
       "lead_hours": 291,
       "source_trail": [
         {
@@ -866,6 +864,48 @@
           "source_name": "Faena Miami Beach",
           "seen_at": "2026-11-14T18:38:12.835307+00:00",
           "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/thanksgiving-dinner-at-faena-miami-beach"
+        }
+      ]
+    },
+    {
+      "id": "3a675850a877bb14f80f5087a2e67d6cafdeb131",
+      "title": "Backgammon Society — Rare Collects x Yellowpop Collab",
+      "summary": "Official Backgammon Society Miami tournament at Rare Collects x Yellowpop Collab.",
+      "starts_at": "2026-12-30T19:00:00-05:00",
+      "ends_at": null,
+      "all_day": false,
+      "venue": "Rare Collects x Yellowpop Collab",
+      "neighborhood": "Miami",
+      "city": "Miami",
+      "url": "https://www.thebackgammonsociety.com/tournaments/miami/rare-collects-x-yellowpop-collab",
+      "rsvp_url": "https://www.thebackgammonsociety.com/tournaments/miami/rare-collects-x-yellowpop-collab",
+      "image_url": "https://budyxfmlimzpkgcjzmbi.supabase.co/storage/v1/object/public/tournament-images/55adf33f-a4eb-4bab-a728-2a23b56731cd/78179d95d4ba763e23d885ec4fef674b6937ee39020a417262d1870ebf8131c8.png",
+      "access": "registration",
+      "industry": "sports",
+      "categories": [
+        "hospitality",
+        "networking",
+        "sports"
+      ],
+      "access_tip": "Register on the official Backgammon Society tournament page. For members-club venues, ask the tournament host and the venue membership or concierge team.",
+      "contact_url": "https://www.thebackgammonsociety.com/",
+      "contact_email": null,
+      "ask_for": "The Backgammon Society",
+      "score": 96,
+      "confidence": 0.9,
+      "why_it_matters": "From The Backgammon Society — luxury / hospitality keywords — at Rare Collects x Yellowpop Collab",
+      "source_id": "backgammon_society",
+      "source_name": "The Backgammon Society",
+      "source_url": "https://www.thebackgammonsociety.com/",
+      "first_seen_at": "2026-11-19T21:09:27.814067+00:00",
+      "last_seen_at": "2026-11-19T21:09:38.835415+00:00",
+      "lead_hours": 986,
+      "source_trail": [
+        {
+          "source_id": "backgammon_society",
+          "source_name": "The Backgammon Society",
+          "seen_at": "2026-11-19T21:09:27.814067+00:00",
+          "url": "https://www.thebackgammonsociety.com/tournaments/miami/rare-collects-x-yellowpop-collab"
         }
       ]
     },
@@ -900,7 +940,7 @@
       "source_name": "Faena Miami Beach",
       "source_url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/thanksgiving-at-faena-miami-beach",
       "first_seen_at": "2026-11-14T18:38:12.834534+00:00",
-      "last_seen_at": "2026-11-18T21:04:34.152603+00:00",
+      "last_seen_at": "2026-11-19T21:09:38.835415+00:00",
       "lead_hours": 292,
       "source_trail": [
         {
@@ -942,7 +982,7 @@
       "source_name": "Faena Miami Beach",
       "source_url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/thanksgiving-at-faena-miami-beach",
       "first_seen_at": "2026-11-14T18:38:12.834908+00:00",
-      "last_seen_at": "2026-11-18T21:04:34.152603+00:00",
+      "last_seen_at": "2026-11-19T21:09:38.835415+00:00",
       "lead_hours": 292,
       "source_trail": [
         {
@@ -984,7 +1024,7 @@
       "source_name": "Eater Miami",
       "source_url": "https://miami.eater.com/rss/index.xml",
       "first_seen_at": "2026-10-30T18:23:37.970494+00:00",
-      "last_seen_at": "2026-11-18T21:04:34.152603+00:00",
+      "last_seen_at": "2026-11-19T21:09:38.835415+00:00",
       "lead_hours": null,
       "source_trail": [
         {
@@ -996,44 +1036,44 @@
       ]
     },
     {
-      "id": "782950e7846415d62f04ee3dd402b1ffcda35e77",
-      "title": "Sweat Records is bringing a “GTA VI” album pop-up to Miami",
-      "summary": "Opening Nov. 20, the Rockstar Games and Atlantic Records collaboration features vinyl, limited-edition merchandise, and Vice City-inspired art installations.",
-      "starts_at": null,
+      "id": "ee95305a0bc1c739e94d2d222646a6e2eb90c413",
+      "title": "Backgammon Society — Soho Beach House",
+      "summary": "Official Backgammon Society Miami tournament at Soho Beach House.",
+      "starts_at": "2027-01-20T19:00:00-05:00",
       "ends_at": null,
       "all_day": false,
-      "venue": "",
+      "venue": "Soho Beach House",
       "neighborhood": "Miami",
       "city": "Miami",
-      "url": "https://www.miaminewtimes.com/music/sweat-records-is-bringing-a-gta-vi-album-pop-up-to-miami-40598538/",
-      "rsvp_url": "https://www.miaminewtimes.com/music/sweat-records-is-bringing-a-gta-vi-album-pop-up-to-miami-40598538/",
-      "image_url": null,
-      "access": "public",
-      "industry": "culinary",
+      "url": "https://www.thebackgammonsociety.com/tournaments/miami/soho-beach-house-27",
+      "rsvp_url": "https://www.thebackgammonsociety.com/tournaments/miami/soho-beach-house-27",
+      "image_url": "https://budyxfmlimzpkgcjzmbi.supabase.co/storage/v1/object/public/tournament-images/480bc043-2c6a-44f4-ae9d-0c638aaac0bf/f62f2c8610ab92e478f09141edd4550e4c6be4b6b718c1d2fd42019e39982a1b.png",
+      "access": "members",
+      "industry": "sports",
       "categories": [
-        "culinary",
-        "culture",
-        "editorial"
+        "hospitality",
+        "networking",
+        "sports"
       ],
-      "access_tip": "Open the official source for current admission details. Reserve early if a booking option is shown.",
-      "contact_url": "https://www.miaminewtimes.com/music/sweat-records-is-bringing-a-gta-vi-album-pop-up-to-miami-40598538/",
+      "access_tip": "Register on the official Backgammon Society tournament page. For members-club venues, ask the tournament host and the venue membership or concierge team.",
+      "contact_url": "https://www.thebackgammonsociety.com/",
       "contact_email": null,
-      "ask_for": "",
-      "score": 88,
-      "confidence": 0.6,
-      "why_it_matters": "From Miami New Times · Food — luxury + networking keywords",
-      "source_id": "miami_new_times_food",
-      "source_name": "Miami New Times · Food",
-      "source_url": "https://www.miaminewtimes.com/miami/Rss.xml",
-      "first_seen_at": "2026-11-18T21:04:18.055975+00:00",
-      "last_seen_at": "2026-11-18T21:04:34.152603+00:00",
-      "lead_hours": null,
+      "ask_for": "The Backgammon Society",
+      "score": 86,
+      "confidence": 0.9,
+      "why_it_matters": "From The Backgammon Society — members access — luxury / hospitality keywords — at Soho Beach House",
+      "source_id": "backgammon_society",
+      "source_name": "The Backgammon Society",
+      "source_url": "https://www.thebackgammonsociety.com/",
+      "first_seen_at": "2026-11-19T21:09:27.814673+00:00",
+      "last_seen_at": "2026-11-19T21:09:38.835415+00:00",
+      "lead_hours": 1490,
       "source_trail": [
         {
-          "source_id": "miami_new_times_food",
-          "source_name": "Miami New Times · Food",
-          "seen_at": "2026-11-18T21:04:18.055975+00:00",
-          "url": "https://www.miaminewtimes.com/music/sweat-records-is-bringing-a-gta-vi-album-pop-up-to-miami-40598538/"
+          "source_id": "backgammon_society",
+          "source_name": "The Backgammon Society",
+          "seen_at": "2026-11-19T21:09:27.814673+00:00",
+          "url": "https://www.thebackgammonsociety.com/tournaments/miami/soho-beach-house-27"
         }
       ]
     },
@@ -1068,7 +1108,7 @@
       "source_name": "Eater Miami",
       "source_url": "https://miami.eater.com/rss/index.xml",
       "first_seen_at": "2026-10-12T21:28:12.732047+00:00",
-      "last_seen_at": "2026-11-18T21:04:34.152603+00:00",
+      "last_seen_at": "2026-11-19T21:09:38.835415+00:00",
       "lead_hours": null,
       "source_trail": [
         {
@@ -1110,7 +1150,7 @@
       "source_name": "Backgammon Social Miami",
       "source_url": "https://luma.com/backgammonsocialmiami",
       "first_seen_at": "2026-10-26T19:00:33.733949+00:00",
-      "last_seen_at": "2026-11-18T21:04:34.152603+00:00",
+      "last_seen_at": "2026-11-19T21:09:38.835415+00:00",
       "lead_hours": 580,
       "source_trail": [
         {
@@ -1151,7 +1191,7 @@
       "source_name": "Haute Living",
       "source_url": "https://hauteliving.com/feed/",
       "first_seen_at": "2026-11-18T21:04:13.797637+00:00",
-      "last_seen_at": "2026-11-18T21:04:34.152603+00:00",
+      "last_seen_at": "2026-11-19T21:09:38.835415+00:00",
       "lead_hours": null,
       "source_trail": [
         {
@@ -1192,7 +1232,7 @@
       "source_name": "The Standard Spa Miami Beach",
       "source_url": "https://www.standardhotels.com/happenings",
       "first_seen_at": "2026-10-31T17:29:47.992717+00:00",
-      "last_seen_at": "2026-11-18T21:04:34.152603+00:00",
+      "last_seen_at": "2026-11-19T21:09:38.835415+00:00",
       "lead_hours": 527,
       "source_trail": [
         {
@@ -1200,47 +1240,6 @@
           "source_name": "The Standard Spa Miami Beach",
           "seen_at": "2026-10-31T17:29:47.992717+00:00",
           "url": "https://www.standardhotels.com/miami/happenings/leggera-pop-up"
-        }
-      ]
-    },
-    {
-      "id": "26a73477dd00fbd76d737e695124cef097dc1dde",
-      "title": "Friendsgiving Bingo Night",
-      "summary": "Friendsgiving gets a competitive twist at The Standard! Round up your friends for a special edition of Bingo Night at Café Standard with some seriously good prizes up for grabs. Because nothing says gratitude like a little healthy competition. Big prizes to be announced soon!",
-      "starts_at": "2026-11-18T12:00:00-05:00",
-      "ends_at": null,
-      "all_day": false,
-      "venue": "The Standard Spa Miami Beach",
-      "neighborhood": "Miami Beach",
-      "city": "Miami Beach",
-      "url": "https://www.standardhotels.com/miami/happenings/friendsgiving-bingo-night",
-      "rsvp_url": "https://www.standardhotels.com/miami/happenings/friendsgiving-bingo-night",
-      "image_url": null,
-      "access": "public",
-      "industry": "hospitality",
-      "categories": [
-        "hospitality",
-        "luxury"
-      ],
-      "access_tip": "Book directly from the official happening. For private-event access, contact the hotel's official events team.",
-      "contact_url": "https://www.standardhotels.com/miami/properties/miami-beach",
-      "contact_email": "MiamiEvents@StandardMiami.com",
-      "ask_for": "The Standard Miami Events Team or Spa Concierge",
-      "score": 74,
-      "confidence": 0.9,
-      "why_it_matters": "From The Standard Spa Miami Beach — luxury / hospitality keywords — at The Standard Spa Miami Beach",
-      "source_id": "the_standard_miami",
-      "source_name": "The Standard Spa Miami Beach",
-      "source_url": "https://www.standardhotels.com/happenings",
-      "first_seen_at": "2026-11-01T18:14:45.758590+00:00",
-      "last_seen_at": "2026-11-18T21:04:34.152603+00:00",
-      "lead_hours": 406,
-      "source_trail": [
-        {
-          "source_id": "the_standard_miami",
-          "source_name": "The Standard Spa Miami Beach",
-          "seen_at": "2026-11-01T18:14:45.758590+00:00",
-          "url": "https://www.standardhotels.com/miami/happenings/friendsgiving-bingo-night"
         }
       ]
     },
@@ -1275,7 +1274,7 @@
       "source_name": "SOBEWFF",
       "source_url": "https://corporate.sobewff.org/",
       "first_seen_at": "2026-11-18T21:04:16.781350+00:00",
-      "last_seen_at": "2026-11-18T21:04:34.152603+00:00",
+      "last_seen_at": "2026-11-19T21:09:38.835415+00:00",
       "lead_hours": 2378,
       "source_trail": [
         {
@@ -1283,6 +1282,48 @@
           "source_name": "SOBEWFF",
           "seen_at": "2026-11-18T21:04:16.781350+00:00",
           "url": "https://sobewff.org/events/toc/"
+        }
+      ]
+    },
+    {
+      "id": "87acd9dcd5b9d8e20ba57a1c7e0d931e7680d860",
+      "title": "Tacos & Tequila hosted by Aarón Sánchez February 27, 2027 7:30 PM",
+      "summary": "Favorite Event Tacos & Tequila hosted by Aarón Sánchez February 27, 2027 7:30 PM",
+      "starts_at": "2027-02-27T00:00:00+00:00",
+      "ends_at": null,
+      "all_day": false,
+      "venue": "",
+      "neighborhood": "Miami",
+      "city": "Miami",
+      "url": "https://sobewff.org/events/tacos/",
+      "rsvp_url": "https://sobewff.org/events/tacos/",
+      "image_url": null,
+      "access": "public",
+      "industry": "culinary",
+      "categories": [
+        "culinary",
+        "luxury",
+        "networking"
+      ],
+      "access_tip": "Buy or reserve only through the official SOBEWFF event page; high-demand dinners sell out early.",
+      "contact_url": "https://sobewff.org/events/",
+      "contact_email": null,
+      "ask_for": "",
+      "score": 73,
+      "confidence": 0.8,
+      "why_it_matters": "From SOBEWFF — luxury / hospitality keywords",
+      "source_id": "sobewff",
+      "source_name": "SOBEWFF",
+      "source_url": "https://corporate.sobewff.org/",
+      "first_seen_at": "2026-11-19T21:09:21.765404+00:00",
+      "last_seen_at": "2026-11-19T21:09:38.835415+00:00",
+      "lead_hours": 2378,
+      "source_trail": [
+        {
+          "source_id": "sobewff",
+          "source_name": "SOBEWFF",
+          "seen_at": "2026-11-19T21:09:21.765404+00:00",
+          "url": "https://sobewff.org/events/tacos/"
         }
       ]
     },
@@ -1316,7 +1357,7 @@
       "source_name": "The Standard Spa Miami Beach",
       "source_url": "https://www.standardhotels.com/happenings",
       "first_seen_at": "2026-11-15T19:13:24.549497+00:00",
-      "last_seen_at": "2026-11-18T21:04:34.152603+00:00",
+      "last_seen_at": "2026-11-19T21:09:38.835415+00:00",
       "lead_hours": 213,
       "source_trail": [
         {
@@ -1358,7 +1399,7 @@
       "source_name": "Backgammon Social Miami",
       "source_url": "https://luma.com/backgammonsocialmiami",
       "first_seen_at": "2026-10-30T18:23:38.875506+00:00",
-      "last_seen_at": "2026-11-18T21:04:34.152603+00:00",
+      "last_seen_at": "2026-11-19T21:09:38.835415+00:00",
       "lead_hours": 605,
       "source_trail": [
         {
@@ -1399,7 +1440,7 @@
       "source_name": "The Bass",
       "source_url": "https://thebass.org/events/?ical=1",
       "first_seen_at": "2026-10-26T19:00:25.816750+00:00",
-      "last_seen_at": "2026-11-18T21:04:34.152603+00:00",
+      "last_seen_at": "2026-11-19T21:09:38.835415+00:00",
       "lead_hours": 896,
       "source_trail": [
         {
@@ -1440,7 +1481,7 @@
       "source_name": "Beacon Council RSS",
       "source_url": "https://www.beaconcouncil.com/events/feed/",
       "first_seen_at": "2026-11-09T22:50:53.261145+00:00",
-      "last_seen_at": "2026-11-18T21:04:34.152603+00:00",
+      "last_seen_at": "2026-11-19T21:09:38.835415+00:00",
       "lead_hours": 754,
       "source_trail": [
         {
