@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-19T21:09:55.320038+00:00",
+  "generated_at": "2026-11-20T20:54:48.784834+00:00",
   "timezone": "America/New_York",
   "version": 1,
-  "event_count": 22,
+  "event_count": 23,
   "industries": [
     "hospitality",
     "sports",
@@ -272,6 +272,54 @@
       "basis": "Public caption or professional role text; no face recognition or private contact data."
     },
     {
+      "id": "cb06ca3ff7d15d0f",
+      "name": "Gabriela Medina",
+      "role": "Recurring name in curated event coverage",
+      "organization": "Miami luxury and industry network",
+      "industry": "hospitality",
+      "priority": 79,
+      "mentions": 5,
+      "event_count": 3,
+      "why_connect": "Published in 5 World Red Eye caption(s) across 3 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
+      "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
+      "source_name": "World Red Eye",
+      "source_urls": [
+        "https://worldredeye.com/2026/06/dinner-with-franciacorta-at-the-delano-in-miami-beach/",
+        "https://worldredeye.com/2026/11/a-night-of-love-gala-benefiting-a-work-in-progress-and-love-foundation-at-faena-forum/",
+        "https://worldredeye.com/2026/11/bal-harbour-shops-west-shops-unveiling-holiday-celebration/"
+      ],
+      "event_titles": [
+        "A Night of Love Gala Benefiting A Work in Progress and Love Foundation at the Faena Forum",
+        "Bal Harbour Shops West Shops Unveiling & Holiday Celebration",
+        "Dinner with Franciacorta at The Delano in Miami Beach"
+      ],
+      "basis": "Public caption or professional role text; no face recognition or private contact data."
+    },
+    {
+      "id": "06e7315f456d91fa",
+      "name": "Georges Coupet",
+      "role": "Recurring name in curated event coverage",
+      "organization": "Miami luxury and industry network",
+      "industry": "hospitality",
+      "priority": 78,
+      "mentions": 3,
+      "event_count": 3,
+      "why_connect": "Published in 3 World Red Eye caption(s) across 3 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
+      "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
+      "source_name": "World Red Eye",
+      "source_urls": [
+        "https://worldredeye.com/2026/06/dinner-with-franciacorta-at-the-delano-in-miami-beach/",
+        "https://worldredeye.com/2026/11/a-night-of-love-gala-benefiting-a-work-in-progress-and-love-foundation-at-faena-forum/",
+        "https://worldredeye.com/2026/11/bal-harbour-shops-west-shops-unveiling-holiday-celebration/"
+      ],
+      "event_titles": [
+        "A Night of Love Gala Benefiting A Work in Progress and Love Foundation at the Faena Forum",
+        "Bal Harbour Shops West Shops Unveiling & Holiday Celebration",
+        "Dinner with Franciacorta at The Delano in Miami Beach"
+      ],
+      "basis": "Public caption or professional role text; no face recognition or private contact data."
+    },
+    {
       "id": "62820920c24f0ae7",
       "name": "Steven Meiner",
       "role": "Recurring name in curated event coverage",
@@ -316,6 +364,50 @@
       "basis": "Public caption or professional role text; no face recognition or private contact data."
     },
     {
+      "id": "dcb6f44df1522742",
+      "name": "David Grutman",
+      "role": "Recurring name in curated event coverage",
+      "organization": "Miami luxury and industry network",
+      "industry": "hospitality",
+      "priority": 72,
+      "mentions": 6,
+      "event_count": 2,
+      "why_connect": "Published in 6 World Red Eye caption(s) across 2 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
+      "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
+      "source_name": "World Red Eye",
+      "source_urls": [
+        "https://worldredeye.com/2026/11/a-night-of-love-gala-benefiting-a-work-in-progress-and-love-foundation-at-faena-forum/",
+        "https://worldredeye.com/2026/11/gekko-hosts-rockstar-games-official-gta-vi-launch-celebration/"
+      ],
+      "event_titles": [
+        "A Night of Love Gala Benefiting A Work in Progress and Love Foundation at the Faena Forum",
+        "Gekkō Hosts Rockstar Games Official GTA VI Launch Celebration"
+      ],
+      "basis": "Public caption or professional role text; no face recognition or private contact data."
+    },
+    {
+      "id": "8c21fd6f6c2d1fc0",
+      "name": "Gianfranco Berardinelli",
+      "role": "Recurring name in curated event coverage",
+      "organization": "Miami luxury and industry network",
+      "industry": "hospitality",
+      "priority": 71,
+      "mentions": 5,
+      "event_count": 2,
+      "why_connect": "Published in 5 World Red Eye caption(s) across 2 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
+      "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
+      "source_name": "World Red Eye",
+      "source_urls": [
+        "https://worldredeye.com/2026/06/dinner-with-franciacorta-at-the-delano-in-miami-beach/",
+        "https://worldredeye.com/2026/11/bal-harbour-shops-west-shops-unveiling-holiday-celebration/"
+      ],
+      "event_titles": [
+        "Bal Harbour Shops West Shops Unveiling & Holiday Celebration",
+        "Dinner with Franciacorta at The Delano in Miami Beach"
+      ],
+      "basis": "Public caption or professional role text; no face recognition or private contact data."
+    },
+    {
       "id": "9d78a6c3ea84dd8f",
       "name": "Rodney Barreto",
       "role": "Recurring name in curated event coverage",
@@ -332,6 +424,26 @@
       ],
       "event_titles": [
         "World Red Eye Preview Dinner Hosted by Seth Browarnik at Gigi Rigolatto Celebrating Delano"
+      ],
+      "basis": "Public caption or professional role text; no face recognition or private contact data."
+    },
+    {
+      "id": "2cd240d55a306d4c",
+      "name": "Leo Holder",
+      "role": "Recurring name in curated event coverage",
+      "organization": "Miami luxury and industry network",
+      "industry": "hospitality",
+      "priority": 69,
+      "mentions": 15,
+      "event_count": 1,
+      "why_connect": "Published in 15 World Red Eye caption(s) across 1 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
+      "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
+      "source_name": "World Red Eye",
+      "source_urls": [
+        "https://worldredeye.com/2026/11/geoffrey-holder-black-magic-exhibition-preview-at-the-museum-of-contemporary-art/"
+      ],
+      "event_titles": [
+        "Geoffrey Holder: Black Magic Exhibition Preview at the Museum of Contemporary Art"
       ],
       "basis": "Public caption or professional role text; no face recognition or private contact data."
     },
@@ -396,28 +508,6 @@
       "basis": "Public caption or professional role text; no face recognition or private contact data."
     },
     {
-      "id": "645f5c79cb4731b4",
-      "name": "Christy Martin",
-      "role": "Recurring name in curated event coverage",
-      "organization": "Miami luxury and industry network",
-      "industry": "hospitality",
-      "priority": 68,
-      "mentions": 2,
-      "event_count": 2,
-      "why_connect": "Published in 2 World Red Eye caption(s) across 2 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
-      "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
-      "source_name": "World Red Eye",
-      "source_urls": [
-        "https://worldredeye.com/2026/05/world-red-eye-preview-dinner-hosted-by-seth-browarnik-at-gigi-rigolatto-celebrating-delano/",
-        "https://worldredeye.com/2026/11/rose-day-at-the-setai-miami-beach-2/"
-      ],
-      "event_titles": [
-        "Women of Tomorrow® Mentor & Scholarship Program Host Rosé Day® Luncheon at the Setai Miami Beach",
-        "World Red Eye Preview Dinner Hosted by Seth Browarnik at Gigi Rigolatto Celebrating Delano"
-      ],
-      "basis": "Public caption or professional role text; no face recognition or private contact data."
-    },
-    {
       "id": "bbb1369e336dfd3f",
       "name": "Alejandra Castillo",
       "role": "Recurring name in curated event coverage",
@@ -434,6 +524,26 @@
       ],
       "event_titles": [
         "Delano Residences Miami Launch"
+      ],
+      "basis": "Public caption or professional role text; no face recognition or private contact data."
+    },
+    {
+      "id": "a61addd034ccb3f6",
+      "name": "Erica Moiah James",
+      "role": "Recurring name in curated event coverage",
+      "organization": "Miami luxury and industry network",
+      "industry": "hospitality",
+      "priority": 68,
+      "mentions": 11,
+      "event_count": 1,
+      "why_connect": "Published in 11 World Red Eye caption(s) across 1 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
+      "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
+      "source_name": "World Red Eye",
+      "source_urls": [
+        "https://worldredeye.com/2026/11/geoffrey-holder-black-magic-exhibition-preview-at-the-museum-of-contemporary-art/"
+      ],
+      "event_titles": [
+        "Geoffrey Holder: Black Magic Exhibition Preview at the Museum of Contemporary Art"
       ],
       "basis": "Public caption or professional role text; no face recognition or private contact data."
     },
@@ -476,156 +586,15 @@
         "World Red Eye Preview Dinner Hosted by Seth Browarnik at Gigi Rigolatto Celebrating Delano"
       ],
       "basis": "Public caption or professional role text; no face recognition or private contact data."
-    },
-    {
-      "id": "ac8585c20fee65bb",
-      "name": "Verónica Gorson",
-      "role": "Recurring name in curated event coverage",
-      "organization": "Miami luxury and industry network",
-      "industry": "hospitality",
-      "priority": 67,
-      "mentions": 10,
-      "event_count": 1,
-      "why_connect": "Published in 10 World Red Eye caption(s) across 1 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
-      "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
-      "source_name": "World Red Eye",
-      "source_urls": [
-        "https://worldredeye.com/2026/04/delano-residences-miami-launch/"
-      ],
-      "event_titles": [
-        "Delano Residences Miami Launch"
-      ],
-      "basis": "Public caption or professional role text; no face recognition or private contact data."
-    },
-    {
-      "id": "57fd34ebcd2b6fe2",
-      "name": "Lyndsey Meade",
-      "role": "Recurring name in curated event coverage",
-      "organization": "Miami luxury and industry network",
-      "industry": "hospitality",
-      "priority": 66,
-      "mentions": 9,
-      "event_count": 1,
-      "why_connect": "Published in 9 World Red Eye caption(s) across 1 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
-      "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
-      "source_name": "World Red Eye",
-      "source_urls": [
-        "https://worldredeye.com/2026/11/body-hot-pilates-expands-its-miami-footprint-with-new-midtown-flagship/"
-      ],
-      "event_titles": [
-        "BODY Hot Pilates Expands Its Miami Footprint With New Midtown Flagship"
-      ],
-      "basis": "Public caption or professional role text; no face recognition or private contact data."
-    },
-    {
-      "id": "4442c07fbb3b2533",
-      "name": "Robert Rivani",
-      "role": "Recurring name in curated event coverage",
-      "organization": "Miami luxury and industry network",
-      "industry": "hospitality",
-      "priority": 66,
-      "mentions": 9,
-      "event_count": 1,
-      "why_connect": "Published in 9 World Red Eye caption(s) across 1 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
-      "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
-      "source_name": "World Red Eye",
-      "source_urls": [
-        "https://worldredeye.com/2026/05/world-red-eye-preview-dinner-hosted-by-seth-browarnik-at-gigi-rigolatto-celebrating-delano/"
-      ],
-      "event_titles": [
-        "World Red Eye Preview Dinner Hosted by Seth Browarnik at Gigi Rigolatto Celebrating Delano"
-      ],
-      "basis": "Public caption or professional role text; no face recognition or private contact data."
-    },
-    {
-      "id": "4ef0d988fe48ffde",
-      "name": "Daniel De La Vega",
-      "role": "Recurring name in curated event coverage",
-      "organization": "Miami luxury and industry network",
-      "industry": "hospitality",
-      "priority": 65,
-      "mentions": 8,
-      "event_count": 1,
-      "why_connect": "Published in 8 World Red Eye caption(s) across 1 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
-      "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
-      "source_name": "World Red Eye",
-      "source_urls": [
-        "https://worldredeye.com/2026/05/world-red-eye-preview-dinner-hosted-by-seth-browarnik-at-gigi-rigolatto-celebrating-delano/"
-      ],
-      "event_titles": [
-        "World Red Eye Preview Dinner Hosted by Seth Browarnik at Gigi Rigolatto Celebrating Delano"
-      ],
-      "basis": "Public caption or professional role text; no face recognition or private contact data."
-    },
-    {
-      "id": "0ca2ef09782ada2a",
-      "name": "Valerio Morabito",
-      "role": "Recurring name in curated event coverage",
-      "organization": "Miami luxury and industry network",
-      "industry": "hospitality",
-      "priority": 65,
-      "mentions": 8,
-      "event_count": 1,
-      "why_connect": "Published in 8 World Red Eye caption(s) across 1 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
-      "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
-      "source_name": "World Red Eye",
-      "source_urls": [
-        "https://worldredeye.com/2026/05/world-red-eye-preview-dinner-hosted-by-seth-browarnik-at-gigi-rigolatto-celebrating-delano/"
-      ],
-      "event_titles": [
-        "World Red Eye Preview Dinner Hosted by Seth Browarnik at Gigi Rigolatto Celebrating Delano"
-      ],
-      "basis": "Public caption or professional role text; no face recognition or private contact data."
     }
   ],
   "events": [
-    {
-      "id": "8f5df5c59f8d5de1a920824b72008427757f37a3",
-      "title": "AVIV Hummus Making Class",
-      "summary": "Join us for an intimate Hummus Making Class led by Chef De Cuisine Moritz in AVIV. Learn the art of crafting our signature hummus step by step, paired with curated sips and chef-selected AVIV bites.\n\n\n\nTicket Includes:\n\n**Hummus-making demonstration**\n\n**Choice of one AVIV cocktail or mocktail**\n\n**Tasting of chef-selected bites:**\n\n*- Hummus Tehina: Whipped Herb Tehina, Paprika, Extra Virgin Olive Oil*\n\n*- House Made Saluf Bread*\n\n*- Salatim: Beets with Tehina, Cannellini and Corn, Cabbage with",
-      "starts_at": "2026-11-19T18:00:00-05:00",
-      "ends_at": "2026-11-19T19:00:00-05:00",
-      "all_day": false,
-      "venue": "AVIV",
-      "neighborhood": "Miami Beach",
-      "city": "Miami Beach",
-      "url": "https://resy.com/cities/miami-fl/events/aviv-hummus-making-class-2026-11-19-6",
-      "rsvp_url": "https://resy.com/cities/miami-fl/events/aviv-hummus-making-class-2026-11-19-6",
-      "image_url": "https://image.resy.com/3/003/2/87357/87e911dadd7d37e365a9bd09b232355e7d2b7582/jpg/640x360",
-      "access": "registration",
-      "industry": "culinary",
-      "categories": [
-        "culinary",
-        "hospitality"
-      ],
-      "access_tip": "Book on Resy as soon as listings drop — guest-chef nights often sell out the same week.",
-      "contact_url": "https://resy.com/cities/miami-fl/events",
-      "contact_email": null,
-      "ask_for": "Restaurant events team via Resy",
-      "score": 100,
-      "confidence": 0.9,
-      "why_it_matters": "Listed on Resy Experiences — book before hotel calendars catch it — luxury / hospitality keywords — at AVIV",
-      "source_id": "resy_experiences",
-      "source_name": "Resy Experiences · Miami",
-      "source_url": "https://resy.com/cities/miami-fl/events",
-      "first_seen_at": "2026-11-15T19:13:24.582647+00:00",
-      "last_seen_at": "2026-11-19T21:09:38.835415+00:00",
-      "lead_hours": 99,
-      "source_trail": [
-        {
-          "source_id": "resy_experiences",
-          "source_name": "Resy Experiences · Miami",
-          "seen_at": "2026-11-15T19:13:24.582647+00:00",
-          "url": "https://resy.com/cities/miami-fl/events/aviv-hummus-making-class-2026-11-19-6"
-        }
-      ]
-    },
     {
       "id": "e00d0a7673dc617d4133cc0863b1d85440d9842e",
       "title": "Exclusive Wine Tasting Experience",
       "summary": "*A multi-sensory journey of flavor, aroma, and texture.*",
       "starts_at": "2026-11-20T15:00:00-05:00",
-      "ends_at": "2026-11-20T15:45:00-05:00",
+      "ends_at": "2026-11-20T17:30:00-05:00",
       "all_day": false,
       "venue": "Hakkasan Miami",
       "neighborhood": "Miami",
@@ -650,7 +619,7 @@
       "source_name": "Resy Experiences · Miami",
       "source_url": "https://resy.com/cities/miami-fl/events",
       "first_seen_at": "2026-11-19T21:09:24.056298+00:00",
-      "last_seen_at": "2026-11-19T21:09:38.835415+00:00",
+      "last_seen_at": "2026-11-20T20:54:31.088189+00:00",
       "lead_hours": 22,
       "source_trail": [
         {
@@ -691,7 +660,7 @@
       "source_name": "Resy Experiences · Miami",
       "source_url": "https://resy.com/cities/miami-fl/events",
       "first_seen_at": "2026-11-19T21:09:24.056324+00:00",
-      "last_seen_at": "2026-11-19T21:09:38.835415+00:00",
+      "last_seen_at": "2026-11-20T20:54:31.088189+00:00",
       "lead_hours": 30,
       "source_trail": [
         {
@@ -732,7 +701,7 @@
       "source_name": "Resy Experiences · Miami",
       "source_url": "https://resy.com/cities/miami-fl/events",
       "first_seen_at": "2026-11-15T19:13:24.582822+00:00",
-      "last_seen_at": "2026-11-19T21:09:38.835415+00:00",
+      "last_seen_at": "2026-11-20T20:54:31.088189+00:00",
       "lead_hours": 169,
       "source_trail": [
         {
@@ -773,7 +742,7 @@
       "source_name": "Resy Experiences · Miami",
       "source_url": "https://resy.com/cities/miami-fl/events",
       "first_seen_at": "2026-11-19T21:09:24.056424+00:00",
-      "last_seen_at": "2026-11-19T21:09:38.835415+00:00",
+      "last_seen_at": "2026-11-20T20:54:31.088189+00:00",
       "lead_hours": 122,
       "source_trail": [
         {
@@ -814,7 +783,7 @@
       "source_name": "Resy Experiences · Miami",
       "source_url": "https://resy.com/cities/miami-fl/events",
       "first_seen_at": "2026-11-19T21:09:24.056459+00:00",
-      "last_seen_at": "2026-11-19T21:09:38.835415+00:00",
+      "last_seen_at": "2026-11-20T20:54:31.088189+00:00",
       "lead_hours": 146,
       "source_trail": [
         {
@@ -822,6 +791,47 @@
           "source_name": "Resy Experiences · Miami",
           "seen_at": "2026-11-19T21:09:24.056459+00:00",
           "url": "https://resy.com/cities/miami-fl/events/pasta-omakase-2026-11-25-6"
+        }
+      ]
+    },
+    {
+      "id": "aaa37f0e8e3d18086cb48ec3354f1cd513753fa2",
+      "title": "An Autumn Table: Thanksgiving at Le Jardinier",
+      "summary": "**Thursday, November 26th**\n**12pm - 9pm**\n\n**$185 per person plus Tax & Gratuity**\n\nCelebrate Thanksgiving at Le Jardinier on Thursday, November 26th, with a 3-course prix fixe menu from Executive Chef James Friedberg and Chef de Cuisine Mario da Silva that bring the flavors of fall to the table.\n\nDelight in a Deviled Egg amuse-bouche before savoring a first course such as Butternut Squash Velouté, followed by Braised Beef Cheek with Port wine sauce or a traditional Organic Turkey with cranberr",
+      "starts_at": "2026-11-26T12:00:00-05:00",
+      "ends_at": "2026-11-26T14:00:00-05:00",
+      "all_day": false,
+      "venue": "Le Jardinier Miami",
+      "neighborhood": "Miami",
+      "city": "Miami",
+      "url": "https://resy.com/cities/miami-fl/events/an-autumn-table-thanksgiving-at-le-jardinier-2026-11-26-6",
+      "rsvp_url": "https://resy.com/cities/miami-fl/events/an-autumn-table-thanksgiving-at-le-jardinier-2026-11-26-6",
+      "image_url": "https://image.resy.com/3/003/2/35005/123f2a5f37f0ab93290aacc9f9900fe18f44254c/jpg/640x360",
+      "access": "registration",
+      "industry": "culinary",
+      "categories": [
+        "culinary",
+        "hospitality"
+      ],
+      "access_tip": "Book on Resy as soon as listings drop — guest-chef nights often sell out the same week.",
+      "contact_url": "https://resy.com/cities/miami-fl/events",
+      "contact_email": null,
+      "ask_for": "Restaurant events team via Resy",
+      "score": 100,
+      "confidence": 0.9,
+      "why_it_matters": "Listed on Resy Experiences — book before hotel calendars catch it — luxury / hospitality keywords — at Le Jardinier Miami",
+      "source_id": "resy_experiences",
+      "source_name": "Resy Experiences · Miami",
+      "source_url": "https://resy.com/cities/miami-fl/events",
+      "first_seen_at": "2026-11-20T20:54:15.030662+00:00",
+      "last_seen_at": "2026-11-20T20:54:31.088189+00:00",
+      "lead_hours": 140,
+      "source_trail": [
+        {
+          "source_id": "resy_experiences",
+          "source_name": "Resy Experiences · Miami",
+          "seen_at": "2026-11-20T20:54:15.030662+00:00",
+          "url": "https://resy.com/cities/miami-fl/events/an-autumn-table-thanksgiving-at-le-jardinier-2026-11-26-6"
         }
       ]
     },
@@ -849,20 +859,104 @@
       "contact_url": "https://forms.rosemembers.faena.com/membership-interest",
       "contact_email": null,
       "ask_for": "Faena Miami Beach",
-      "score": 97,
+      "score": 100,
       "confidence": 0.98,
       "why_it_matters": "Listed on Faena Miami Beach — luxury / hospitality keywords — at Campo at Casa Faena",
       "source_id": "faena",
       "source_name": "Faena Miami Beach",
       "source_url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/thanksgiving-at-faena-miami-beach",
       "first_seen_at": "2026-11-14T18:38:12.835307+00:00",
-      "last_seen_at": "2026-11-19T21:09:38.835415+00:00",
+      "last_seen_at": "2026-11-20T20:54:31.088189+00:00",
       "lead_hours": 291,
       "source_trail": [
         {
           "source_id": "faena",
           "source_name": "Faena Miami Beach",
           "seen_at": "2026-11-14T18:38:12.835307+00:00",
+          "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/thanksgiving-dinner-at-faena-miami-beach"
+        }
+      ]
+    },
+    {
+      "id": "b464c72b3fd7839f4f2099bfdb743330014d6173",
+      "title": "Thanksgiving at Los Fuegos by Francis Mallmann",
+      "summary": "Live-fire Thanksgiving dinner at Los Fuegos by Francis Mallmann, Faena Miami Beach: Wood-Fired Wild Mushrooms, Colorado Lamb Loin, Slow-Cooked Turkey Pamplona with chestnut and sourdough stuffing and black truffle gravy, and Autumn Sweet Medley desserts.",
+      "starts_at": "2026-11-26T18:30:00-05:00",
+      "ends_at": "2026-11-26T22:30:00-05:00",
+      "all_day": false,
+      "venue": "Los Fuegos by Francis Mallmann at Faena Miami Beach",
+      "neighborhood": "Miami Beach",
+      "city": "Miami Beach",
+      "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/thanksgiving-dinner-at-faena-miami-beach",
+      "rsvp_url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/thanksgiving-dinner-at-faena-miami-beach",
+      "image_url": "https://www.faena.com/sites/default/files/styles/hero/public/2026-11/Thanksgiving%20-%20Faena%20Header2.jpg",
+      "access": "public",
+      "industry": "hospitality",
+      "categories": [
+        "hospitality",
+        "luxury",
+        "nightlife"
+      ],
+      "access_tip": "Use the event booking link for public programming. For Faena Rose events, submit the official membership-interest form.",
+      "contact_url": "https://forms.rosemembers.faena.com/membership-interest",
+      "contact_email": null,
+      "ask_for": "Faena Miami Beach",
+      "score": 97,
+      "confidence": 0.98,
+      "why_it_matters": "Listed on Faena Miami Beach — luxury / hospitality keywords — at Los Fuegos by Francis Mallmann at Faena Miami Beach",
+      "source_id": "faena",
+      "source_name": "Faena Miami Beach",
+      "source_url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/thanksgiving-at-faena-miami-beach",
+      "first_seen_at": "2026-11-14T18:38:12.834534+00:00",
+      "last_seen_at": "2026-11-20T20:54:31.088189+00:00",
+      "lead_hours": 292,
+      "source_trail": [
+        {
+          "source_id": "faena",
+          "source_name": "Faena Miami Beach",
+          "seen_at": "2026-11-14T18:38:12.834534+00:00",
+          "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/thanksgiving-dinner-at-faena-miami-beach"
+        }
+      ]
+    },
+    {
+      "id": "244adc915bc49c4205dde62a50ff4bbe411b3d43",
+      "title": "Thanksgiving at Pao by Paul Qui",
+      "summary": "Asian-inspired Thanksgiving dinner at Pao by Paul Qui, Faena Miami Beach: Scallop Crudo with wagyu caramel, Pumpkin Risotto with truffle and burrata, Heritage Turkey Breast with cranberry-stuffed morels and duck tamari gravy, and Sweet Harvest desserts.",
+      "starts_at": "2026-11-26T18:30:00-05:00",
+      "ends_at": "2026-11-26T23:00:00-05:00",
+      "all_day": false,
+      "venue": "Pao by Paul Qui at Faena Miami Beach",
+      "neighborhood": "Miami Beach",
+      "city": "Miami Beach",
+      "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/thanksgiving-dinner-at-faena-miami-beach",
+      "rsvp_url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/thanksgiving-dinner-at-faena-miami-beach",
+      "image_url": "https://www.faena.com/sites/default/files/styles/hero/public/2026-11/Thanksgiving%20-%20Faena%20Header2.jpg",
+      "access": "public",
+      "industry": "hospitality",
+      "categories": [
+        "hospitality",
+        "luxury",
+        "nightlife"
+      ],
+      "access_tip": "Use the event booking link for public programming. For Faena Rose events, submit the official membership-interest form.",
+      "contact_url": "https://forms.rosemembers.faena.com/membership-interest",
+      "contact_email": null,
+      "ask_for": "Faena Miami Beach",
+      "score": 97,
+      "confidence": 0.98,
+      "why_it_matters": "Listed on Faena Miami Beach — luxury / hospitality keywords — at Pao by Paul Qui at Faena Miami Beach",
+      "source_id": "faena",
+      "source_name": "Faena Miami Beach",
+      "source_url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/thanksgiving-at-faena-miami-beach",
+      "first_seen_at": "2026-11-14T18:38:12.834908+00:00",
+      "last_seen_at": "2026-11-20T20:54:31.088189+00:00",
+      "lead_hours": 292,
+      "source_trail": [
+        {
+          "source_id": "faena",
+          "source_name": "Faena Miami Beach",
+          "seen_at": "2026-11-14T18:38:12.834908+00:00",
           "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/thanksgiving-dinner-at-faena-miami-beach"
         }
       ]
@@ -898,7 +992,7 @@
       "source_name": "The Backgammon Society",
       "source_url": "https://www.thebackgammonsociety.com/",
       "first_seen_at": "2026-11-19T21:09:27.814067+00:00",
-      "last_seen_at": "2026-11-19T21:09:38.835415+00:00",
+      "last_seen_at": "2026-11-20T20:54:31.088189+00:00",
       "lead_hours": 986,
       "source_trail": [
         {
@@ -910,86 +1004,44 @@
       ]
     },
     {
-      "id": "b464c72b3fd7839f4f2099bfdb743330014d6173",
-      "title": "Thanksgiving at Los Fuegos by Francis Mallmann",
-      "summary": "Live-fire Thanksgiving dinner at Los Fuegos by Francis Mallmann, Faena Miami Beach: Wood-Fired Wild Mushrooms, Colorado Lamb Loin, Slow-Cooked Turkey Pamplona with chestnut and sourdough stuffing and black truffle gravy, and Autumn Sweet Medley desserts.",
-      "starts_at": "2026-11-26T18:30:00-05:00",
-      "ends_at": "2026-11-26T22:30:00-05:00",
+      "id": "dddf25870b27d311ae7d3cd1364283a1ac42e5c5",
+      "title": "303 Studio Special Reception Presented by One Love Art",
+      "summary": "",
+      "starts_at": "2026-12-04T18:00:00-05:00",
+      "ends_at": "2026-12-04T21:00:00-05:00",
       "all_day": false,
-      "venue": "Los Fuegos by Francis Mallmann at Faena Miami Beach",
-      "neighborhood": "Miami Beach",
-      "city": "Miami Beach",
-      "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/thanksgiving-dinner-at-faena-miami-beach",
-      "rsvp_url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/thanksgiving-dinner-at-faena-miami-beach",
-      "image_url": "https://www.faena.com/sites/default/files/styles/hero/public/2026-11/Thanksgiving%20-%20Faena%20Header2.jpg",
+      "venue": "Celia's kitchen and Social Bar",
+      "neighborhood": "Miami",
+      "city": "Miami",
+      "url": "https://luma.com/ekyem6hh",
+      "rsvp_url": "https://luma.com/ekyem6hh",
+      "image_url": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/uploads/6o/f6226261-5478-40f1-b32a-95742212ffdc.png",
       "access": "public",
-      "industry": "hospitality",
+      "industry": "culinary",
       "categories": [
+        "culinary",
         "hospitality",
-        "luxury",
-        "nightlife"
+        "networking"
       ],
-      "access_tip": "Use the event booking link for public programming. For Faena Rose events, submit the official membership-interest form.",
-      "contact_url": "https://forms.rosemembers.faena.com/membership-interest",
+      "access_tip": "Chef collabs and restaurant pop-ups often sell out same-day — reserve on Luma or call the venue directly.",
+      "contact_url": null,
       "contact_email": null,
-      "ask_for": "Faena Miami Beach",
-      "score": 91,
-      "confidence": 0.98,
-      "why_it_matters": "Listed on Faena Miami Beach — luxury / hospitality keywords — at Los Fuegos by Francis Mallmann at Faena Miami Beach",
-      "source_id": "faena",
-      "source_name": "Faena Miami Beach",
-      "source_url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/thanksgiving-at-faena-miami-beach",
-      "first_seen_at": "2026-11-14T18:38:12.834534+00:00",
-      "last_seen_at": "2026-11-19T21:09:38.835415+00:00",
-      "lead_hours": 292,
+      "ask_for": "One Love Art, Yuseph Zapata, Juan Salazar, NFTCLT",
+      "score": 90,
+      "confidence": 0.9,
+      "why_it_matters": "From Luma Miami · Food & Chef — luxury / hospitality keywords — at Celia's kitchen and Social Bar",
+      "source_id": "luma_culinary_miami",
+      "source_name": "Luma Miami · Food & Chef",
+      "source_url": "https://luma.com/miami",
+      "first_seen_at": "2026-11-20T20:54:14.386257+00:00",
+      "last_seen_at": "2026-11-20T20:54:31.088189+00:00",
+      "lead_hours": 338,
       "source_trail": [
         {
-          "source_id": "faena",
-          "source_name": "Faena Miami Beach",
-          "seen_at": "2026-11-14T18:38:12.834534+00:00",
-          "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/thanksgiving-dinner-at-faena-miami-beach"
-        }
-      ]
-    },
-    {
-      "id": "244adc915bc49c4205dde62a50ff4bbe411b3d43",
-      "title": "Thanksgiving at Pao by Paul Qui",
-      "summary": "Asian-inspired Thanksgiving dinner at Pao by Paul Qui, Faena Miami Beach: Scallop Crudo with wagyu caramel, Pumpkin Risotto with truffle and burrata, Heritage Turkey Breast with cranberry-stuffed morels and duck tamari gravy, and Sweet Harvest desserts.",
-      "starts_at": "2026-11-26T18:30:00-05:00",
-      "ends_at": "2026-11-26T23:00:00-05:00",
-      "all_day": false,
-      "venue": "Pao by Paul Qui at Faena Miami Beach",
-      "neighborhood": "Miami Beach",
-      "city": "Miami Beach",
-      "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/thanksgiving-dinner-at-faena-miami-beach",
-      "rsvp_url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/thanksgiving-dinner-at-faena-miami-beach",
-      "image_url": "https://www.faena.com/sites/default/files/styles/hero/public/2026-11/Thanksgiving%20-%20Faena%20Header2.jpg",
-      "access": "public",
-      "industry": "hospitality",
-      "categories": [
-        "hospitality",
-        "luxury",
-        "nightlife"
-      ],
-      "access_tip": "Use the event booking link for public programming. For Faena Rose events, submit the official membership-interest form.",
-      "contact_url": "https://forms.rosemembers.faena.com/membership-interest",
-      "contact_email": null,
-      "ask_for": "Faena Miami Beach",
-      "score": 91,
-      "confidence": 0.98,
-      "why_it_matters": "Listed on Faena Miami Beach — luxury / hospitality keywords — at Pao by Paul Qui at Faena Miami Beach",
-      "source_id": "faena",
-      "source_name": "Faena Miami Beach",
-      "source_url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/thanksgiving-at-faena-miami-beach",
-      "first_seen_at": "2026-11-14T18:38:12.834908+00:00",
-      "last_seen_at": "2026-11-19T21:09:38.835415+00:00",
-      "lead_hours": 292,
-      "source_trail": [
-        {
-          "source_id": "faena",
-          "source_name": "Faena Miami Beach",
-          "seen_at": "2026-11-14T18:38:12.834908+00:00",
-          "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/thanksgiving-dinner-at-faena-miami-beach"
+          "source_id": "luma_culinary_miami",
+          "source_name": "Luma Miami · Food & Chef",
+          "seen_at": "2026-11-20T20:54:14.386257+00:00",
+          "url": "https://luma.com/ekyem6hh"
         }
       ]
     },
@@ -1024,7 +1076,7 @@
       "source_name": "Eater Miami",
       "source_url": "https://miami.eater.com/rss/index.xml",
       "first_seen_at": "2026-10-30T18:23:37.970494+00:00",
-      "last_seen_at": "2026-11-19T21:09:38.835415+00:00",
+      "last_seen_at": "2026-11-20T20:54:31.088189+00:00",
       "lead_hours": null,
       "source_trail": [
         {
@@ -1066,7 +1118,7 @@
       "source_name": "The Backgammon Society",
       "source_url": "https://www.thebackgammonsociety.com/",
       "first_seen_at": "2026-11-19T21:09:27.814673+00:00",
-      "last_seen_at": "2026-11-19T21:09:38.835415+00:00",
+      "last_seen_at": "2026-11-20T20:54:31.088189+00:00",
       "lead_hours": 1490,
       "source_trail": [
         {
@@ -1074,6 +1126,47 @@
           "source_name": "The Backgammon Society",
           "seen_at": "2026-11-19T21:09:27.814673+00:00",
           "url": "https://www.thebackgammonsociety.com/tournaments/miami/soho-beach-house-27"
+        }
+      ]
+    },
+    {
+      "id": "76ca026683628e7f7731fd0e58200e63a68d6314",
+      "title": "Wyclef Jean and Lauryn Hill Are Turning The Score Into an Art Show at Art Basel",
+      "summary": "Wyclef Jean and Lauryn Hill reunite to celebrate 30 years of The Score at Faena Forum on December 5 for The Fourth Space during Art Basel. The post Wyclef Jean and Lauryn Hill Are Turning The Score Into an Art Show at Art Basel appeared first on Haute Living .",
+      "starts_at": null,
+      "ends_at": null,
+      "all_day": false,
+      "venue": "",
+      "neighborhood": "Miami",
+      "city": "Miami",
+      "url": "https://hauteliving.com/2026/11/wyclef-jean-lauryn-hill-reunite-art-basel-miami-the-fourth-space/803335/",
+      "rsvp_url": "https://hauteliving.com/2026/11/wyclef-jean-lauryn-hill-reunite-art-basel-miami-the-fourth-space/803335/",
+      "image_url": null,
+      "access": "public",
+      "industry": "art_fashion",
+      "categories": [
+        "editorial",
+        "luxury"
+      ],
+      "access_tip": "Open the official source for current admission details. Reserve early if a booking option is shown.",
+      "contact_url": "https://hauteliving.com/2026/11/wyclef-jean-lauryn-hill-reunite-art-basel-miami-the-fourth-space/803335/",
+      "contact_email": null,
+      "ask_for": "The named event host, brand publicist, or venue communications team in the source article",
+      "score": 84,
+      "confidence": 0.6,
+      "why_it_matters": "Early editorial signal from Haute Living — luxury + networking keywords",
+      "source_id": "haute_living",
+      "source_name": "Haute Living",
+      "source_url": "https://hauteliving.com/feed/",
+      "first_seen_at": "2026-11-20T20:54:10.479947+00:00",
+      "last_seen_at": "2026-11-20T20:54:31.088189+00:00",
+      "lead_hours": null,
+      "source_trail": [
+        {
+          "source_id": "haute_living",
+          "source_name": "Haute Living",
+          "seen_at": "2026-11-20T20:54:10.479947+00:00",
+          "url": "https://hauteliving.com/2026/11/wyclef-jean-lauryn-hill-reunite-art-basel-miami-the-fourth-space/803335/"
         }
       ]
     },
@@ -1108,7 +1201,7 @@
       "source_name": "Eater Miami",
       "source_url": "https://miami.eater.com/rss/index.xml",
       "first_seen_at": "2026-10-12T21:28:12.732047+00:00",
-      "last_seen_at": "2026-11-19T21:09:38.835415+00:00",
+      "last_seen_at": "2026-11-20T20:54:31.088189+00:00",
       "lead_hours": null,
       "source_trail": [
         {
@@ -1116,48 +1209,6 @@
           "source_name": "Eater Miami",
           "seen_at": "2026-10-12T21:28:12.732047+00:00",
           "url": "https://miami.eater.com/maps/miami-best-restaurants-38"
-        }
-      ]
-    },
-    {
-      "id": "9ae36d3cae7069dd51a21b823e3ba70e310de3c1",
-      "title": "Backgammon Social x The Moore - Tournament Night",
-      "summary": "",
-      "starts_at": "2026-11-19T19:00:00-05:00",
-      "ends_at": "2026-11-19T23:00:00-05:00",
-      "all_day": false,
-      "venue": "4040 NE 2nd Ave, Miami, FL 33137, USA",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://luma.com/backga-jzo8",
-      "rsvp_url": "https://luma.com/backga-jzo8",
-      "image_url": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/api-uploads/0a/b0a5d9a2-1342-4cfa-89d5-a5bc15db698e.jpg",
-      "access": "public",
-      "industry": "sports",
-      "categories": [
-        "hospitality",
-        "networking",
-        "sports"
-      ],
-      "access_tip": "Register through the official Backgammon Social Miami Luma calendar. The event co-host shown on the event page is the correct person to request.",
-      "contact_url": "https://luma.com/backgammonsocialmiami",
-      "contact_email": null,
-      "ask_for": "Backgammon Social, Lydia Menendez, Alfredo Ponce de Leon, Emi",
-      "score": 78,
-      "confidence": 0.9,
-      "why_it_matters": "From Backgammon Social Miami — luxury / hospitality keywords — at 4040 NE 2nd Ave, Miami, FL 33137, USA",
-      "source_id": "backgammon_social_miami",
-      "source_name": "Backgammon Social Miami",
-      "source_url": "https://luma.com/backgammonsocialmiami",
-      "first_seen_at": "2026-10-26T19:00:33.733949+00:00",
-      "last_seen_at": "2026-11-19T21:09:38.835415+00:00",
-      "lead_hours": 580,
-      "source_trail": [
-        {
-          "source_id": "backgammon_social_miami",
-          "source_name": "Backgammon Social Miami",
-          "seen_at": "2026-10-26T19:00:33.733949+00:00",
-          "url": "https://luma.com/backga-jzo8"
         }
       ]
     },
@@ -1191,7 +1242,7 @@
       "source_name": "Haute Living",
       "source_url": "https://hauteliving.com/feed/",
       "first_seen_at": "2026-11-18T21:04:13.797637+00:00",
-      "last_seen_at": "2026-11-19T21:09:38.835415+00:00",
+      "last_seen_at": "2026-11-20T20:54:31.088189+00:00",
       "lead_hours": null,
       "source_trail": [
         {
@@ -1232,7 +1283,7 @@
       "source_name": "The Standard Spa Miami Beach",
       "source_url": "https://www.standardhotels.com/happenings",
       "first_seen_at": "2026-10-31T17:29:47.992717+00:00",
-      "last_seen_at": "2026-11-19T21:09:38.835415+00:00",
+      "last_seen_at": "2026-11-20T20:54:31.088189+00:00",
       "lead_hours": 527,
       "source_trail": [
         {
@@ -1274,7 +1325,7 @@
       "source_name": "SOBEWFF",
       "source_url": "https://corporate.sobewff.org/",
       "first_seen_at": "2026-11-18T21:04:16.781350+00:00",
-      "last_seen_at": "2026-11-19T21:09:38.835415+00:00",
+      "last_seen_at": "2026-11-20T20:54:31.088189+00:00",
       "lead_hours": 2378,
       "source_trail": [
         {
@@ -1282,48 +1333,6 @@
           "source_name": "SOBEWFF",
           "seen_at": "2026-11-18T21:04:16.781350+00:00",
           "url": "https://sobewff.org/events/toc/"
-        }
-      ]
-    },
-    {
-      "id": "87acd9dcd5b9d8e20ba57a1c7e0d931e7680d860",
-      "title": "Tacos & Tequila hosted by Aarón Sánchez February 27, 2027 7:30 PM",
-      "summary": "Favorite Event Tacos & Tequila hosted by Aarón Sánchez February 27, 2027 7:30 PM",
-      "starts_at": "2027-02-27T00:00:00+00:00",
-      "ends_at": null,
-      "all_day": false,
-      "venue": "",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://sobewff.org/events/tacos/",
-      "rsvp_url": "https://sobewff.org/events/tacos/",
-      "image_url": null,
-      "access": "public",
-      "industry": "culinary",
-      "categories": [
-        "culinary",
-        "luxury",
-        "networking"
-      ],
-      "access_tip": "Buy or reserve only through the official SOBEWFF event page; high-demand dinners sell out early.",
-      "contact_url": "https://sobewff.org/events/",
-      "contact_email": null,
-      "ask_for": "",
-      "score": 73,
-      "confidence": 0.8,
-      "why_it_matters": "From SOBEWFF — luxury / hospitality keywords",
-      "source_id": "sobewff",
-      "source_name": "SOBEWFF",
-      "source_url": "https://corporate.sobewff.org/",
-      "first_seen_at": "2026-11-19T21:09:21.765404+00:00",
-      "last_seen_at": "2026-11-19T21:09:38.835415+00:00",
-      "lead_hours": 2378,
-      "source_trail": [
-        {
-          "source_id": "sobewff",
-          "source_name": "SOBEWFF",
-          "seen_at": "2026-11-19T21:09:21.765404+00:00",
-          "url": "https://sobewff.org/events/tacos/"
         }
       ]
     },
@@ -1357,7 +1366,7 @@
       "source_name": "The Standard Spa Miami Beach",
       "source_url": "https://www.standardhotels.com/happenings",
       "first_seen_at": "2026-11-15T19:13:24.549497+00:00",
-      "last_seen_at": "2026-11-19T21:09:38.835415+00:00",
+      "last_seen_at": "2026-11-20T20:54:31.088189+00:00",
       "lead_hours": 213,
       "source_trail": [
         {
@@ -1399,7 +1408,7 @@
       "source_name": "Backgammon Social Miami",
       "source_url": "https://luma.com/backgammonsocialmiami",
       "first_seen_at": "2026-10-30T18:23:38.875506+00:00",
-      "last_seen_at": "2026-11-19T21:09:38.835415+00:00",
+      "last_seen_at": "2026-11-20T20:54:31.088189+00:00",
       "lead_hours": 605,
       "source_trail": [
         {
@@ -1440,7 +1449,7 @@
       "source_name": "The Bass",
       "source_url": "https://thebass.org/events/?ical=1",
       "first_seen_at": "2026-10-26T19:00:25.816750+00:00",
-      "last_seen_at": "2026-11-19T21:09:38.835415+00:00",
+      "last_seen_at": "2026-11-20T20:54:31.088189+00:00",
       "lead_hours": 896,
       "source_trail": [
         {
@@ -1448,6 +1457,48 @@
           "source_name": "The Bass",
           "seen_at": "2026-10-26T19:00:25.816750+00:00",
           "url": "https://thebass.org/event/miami-art-week-exhibition-opening-reception/"
+        }
+      ]
+    },
+    {
+      "id": "4e7a02f8cd1988a8235d3088c0a8301ae94adb14",
+      "title": "The Art of Play",
+      "summary": "",
+      "starts_at": "2026-12-01T18:00:00-05:00",
+      "ends_at": "2026-12-01T21:00:00-05:00",
+      "all_day": false,
+      "venue": "400 Vinyl Room",
+      "neighborhood": "Miami",
+      "city": "Miami",
+      "url": "https://posh.vip/e/the-art-of-play",
+      "rsvp_url": "https://posh.vip/e/the-art-of-play",
+      "image_url": null,
+      "access": "public",
+      "industry": "sports",
+      "categories": [
+        "hospitality",
+        "networking",
+        "sports"
+      ],
+      "access_tip": "Register through the official Backgammon Social Miami Luma calendar. The event co-host shown on the event page is the correct person to request.",
+      "contact_url": "https://luma.com/backgammonsocialmiami",
+      "contact_email": null,
+      "ask_for": "Posh x Backgammon Social",
+      "score": 58,
+      "confidence": 0.8,
+      "why_it_matters": "From Backgammon Social Miami — at 400 Vinyl Room",
+      "source_id": "backgammon_social_miami",
+      "source_name": "Backgammon Social Miami",
+      "source_url": "https://luma.com/backgammonsocialmiami",
+      "first_seen_at": "2026-11-20T20:54:15.497986+00:00",
+      "last_seen_at": "2026-11-20T20:54:31.088189+00:00",
+      "lead_hours": 266,
+      "source_trail": [
+        {
+          "source_id": "backgammon_social_miami",
+          "source_name": "Backgammon Social Miami",
+          "seen_at": "2026-11-20T20:54:15.497986+00:00",
+          "url": "https://posh.vip/e/the-art-of-play"
         }
       ]
     },
@@ -1481,7 +1532,7 @@
       "source_name": "Beacon Council RSS",
       "source_url": "https://www.beaconcouncil.com/events/feed/",
       "first_seen_at": "2026-11-09T22:50:53.261145+00:00",
-      "last_seen_at": "2026-11-19T21:09:38.835415+00:00",
+      "last_seen_at": "2026-11-20T20:54:31.088189+00:00",
       "lead_hours": 754,
       "source_trail": [
         {
