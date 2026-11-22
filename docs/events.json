@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-21T19:55:21.662712+00:00",
+  "generated_at": "2026-11-22T20:07:16.922850+00:00",
   "timezone": "America/New_York",
   "version": 1,
-  "event_count": 23,
+  "event_count": 24,
   "industries": [
     "hospitality",
     "sports",
@@ -590,47 +590,6 @@
   ],
   "events": [
     {
-      "id": "12f8b8a845b908d013e7f48c6a9f1c0cc3b77e29",
-      "title": "Exclusive Wine Tasting Experience",
-      "summary": "*A multi-sensory journey of flavor, aroma, and texture.*",
-      "starts_at": "2026-11-21T15:00:00-05:00",
-      "ends_at": "2026-11-21T17:30:00-05:00",
-      "all_day": false,
-      "venue": "Hakkasan Miami",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://resy.com/cities/miami-fl/events/exclusive-wine-tasting-experience-2026-11-21-6",
-      "rsvp_url": "https://resy.com/cities/miami-fl/events/exclusive-wine-tasting-experience-2026-11-21-6",
-      "image_url": "https://image.resy.com/3/003/2/93714/3a62529ac81adbb946f1fecabe4cddca1a912523/jpg/640x360",
-      "access": "registration",
-      "industry": "culinary",
-      "categories": [
-        "culinary",
-        "hospitality"
-      ],
-      "access_tip": "Book on Resy as soon as listings drop — guest-chef nights often sell out the same week.",
-      "contact_url": "https://resy.com/cities/miami-fl/events",
-      "contact_email": null,
-      "ask_for": "Restaurant events team via Resy",
-      "score": 100,
-      "confidence": 0.9,
-      "why_it_matters": "Listed on Resy Experiences — book before hotel calendars catch it — luxury / hospitality keywords — at Hakkasan Miami",
-      "source_id": "resy_experiences",
-      "source_name": "Resy Experiences · Miami",
-      "source_url": "https://resy.com/cities/miami-fl/events",
-      "first_seen_at": "2026-11-21T19:54:47.885599+00:00",
-      "last_seen_at": "2026-11-21T19:55:03.928235+00:00",
-      "lead_hours": 0,
-      "source_trail": [
-        {
-          "source_id": "resy_experiences",
-          "source_name": "Resy Experiences · Miami",
-          "seen_at": "2026-11-21T19:54:47.885599+00:00",
-          "url": "https://resy.com/cities/miami-fl/events/exclusive-wine-tasting-experience-2026-11-21-6"
-        }
-      ]
-    },
-    {
       "id": "8020ca3f868ffa3c32043c911084dfa4f3eb8016",
       "title": "Dinner Anniversary Series #4",
       "summary": "Celebrate Miss Crispy Rice’s second anniversary in Coral Gables with an unforgettable 16-course omakase collaboration featuring some of our favorite Miami chefs. Each evening’s guest chefs will join us behind the omakase bar, preparing and presenting their courses directly to you. Four Sundays, four unique chef lineups, and an intimate celebration of food, friendship, and Miami’s culinary community. Service Fee is included in lieu of gratuity.",
@@ -660,7 +619,7 @@
       "source_name": "Resy Experiences · Miami",
       "source_url": "https://resy.com/cities/miami-fl/events",
       "first_seen_at": "2026-11-15T19:13:24.582822+00:00",
-      "last_seen_at": "2026-11-21T19:55:03.928235+00:00",
+      "last_seen_at": "2026-11-22T20:06:59.286605+00:00",
       "lead_hours": 169,
       "source_trail": [
         {
@@ -701,7 +660,7 @@
       "source_name": "Resy Experiences · Miami",
       "source_url": "https://resy.com/cities/miami-fl/events",
       "first_seen_at": "2026-11-19T21:09:24.056424+00:00",
-      "last_seen_at": "2026-11-21T19:55:03.928235+00:00",
+      "last_seen_at": "2026-11-22T20:06:59.286605+00:00",
       "lead_hours": 122,
       "source_trail": [
         {
@@ -717,7 +676,7 @@
       "title": "Pasta Omakase",
       "summary": "Pasta Omakase continues! A collection of specialty crudos and pastas. Brought to you by chefs Mike Pirolo & Trevor Zwaan.\n\nBar seating only. Begins promptly at 6:30 PM. We are unfortunately not able to modify this menu.",
       "starts_at": "2026-11-25T18:30:00-05:00",
-      "ends_at": "2026-11-25T19:00:00-05:00",
+      "ends_at": "2026-11-25T20:00:00-05:00",
       "all_day": false,
       "venue": "Macchialina Taverna Rustica",
       "neighborhood": "Miami Beach",
@@ -742,7 +701,7 @@
       "source_name": "Resy Experiences · Miami",
       "source_url": "https://resy.com/cities/miami-fl/events",
       "first_seen_at": "2026-11-19T21:09:24.056459+00:00",
-      "last_seen_at": "2026-11-21T19:55:03.928235+00:00",
+      "last_seen_at": "2026-11-22T20:06:59.286605+00:00",
       "lead_hours": 146,
       "source_trail": [
         {
@@ -783,7 +742,7 @@
       "source_name": "Resy Experiences · Miami",
       "source_url": "https://resy.com/cities/miami-fl/events",
       "first_seen_at": "2026-11-20T20:54:15.030662+00:00",
-      "last_seen_at": "2026-11-21T19:55:03.928235+00:00",
+      "last_seen_at": "2026-11-22T20:06:59.286605+00:00",
       "lead_hours": 140,
       "source_trail": [
         {
@@ -824,7 +783,7 @@
       "source_name": "Resy Experiences · Miami",
       "source_url": "https://resy.com/cities/miami-fl/events",
       "first_seen_at": "2026-11-21T19:54:47.885758+00:00",
-      "last_seen_at": "2026-11-21T19:55:03.928235+00:00",
+      "last_seen_at": "2026-11-22T20:06:59.286605+00:00",
       "lead_hours": 117,
       "source_trail": [
         {
@@ -832,6 +791,47 @@
           "source_name": "Resy Experiences · Miami",
           "seen_at": "2026-11-21T19:54:47.885758+00:00",
           "url": "https://resy.com/cities/miami-fl/events/thanksgiving-at-americana-kitchen-2026-11-26-6"
+        }
+      ]
+    },
+    {
+      "id": "cc0d54cb70e6191c12c00bf474e4dd63c2fe180f",
+      "title": "Thanksgiving To-Go",
+      "summary": "We’re starting with butternut squash soup, then house-roasted turkey with plenty of gravy. On the side there’s cranberry stuffing, mashed potatoes, sweet potatoes, and Brussels sprouts. For dessert, pick pecan or pumpkin pie.\n\nOrders can be placed through Resy or in person at Pastis, now until November 23rd.\n\nPlease plan to pick up your Thanksgiving To Go or your beautiful pie on the 26th between 3–5 PM. ⁠\n\nOur kitchen handles nuts, gluten, dairy, and eggs.\n\nHappy Thanksgiving!",
+      "starts_at": "2026-11-26T15:00:00-05:00",
+      "ends_at": "2026-11-26T17:00:00-05:00",
+      "all_day": false,
+      "venue": "Pastis - Wynwood",
+      "neighborhood": "Wynwood",
+      "city": "Miami",
+      "url": "https://resy.com/cities/miami-fl/events/thanksgiving-to-go-2026-11-26-6",
+      "rsvp_url": "https://resy.com/cities/miami-fl/events/thanksgiving-to-go-2026-11-26-6",
+      "image_url": "https://image.resy.com/3/003/2/66878/30f2b94059c292214e832a30a0bee4e8cdfdc6e3/jpg/640x360",
+      "access": "registration",
+      "industry": "culinary",
+      "categories": [
+        "culinary",
+        "hospitality"
+      ],
+      "access_tip": "Book on Resy as soon as listings drop — guest-chef nights often sell out the same week.",
+      "contact_url": "https://resy.com/cities/miami-fl/events",
+      "contact_email": null,
+      "ask_for": "Restaurant events team via Resy",
+      "score": 100,
+      "confidence": 0.9,
+      "why_it_matters": "Listed on Resy Experiences — book before hotel calendars catch it — luxury / hospitality keywords — at Pastis - Wynwood",
+      "source_id": "resy_experiences",
+      "source_name": "Resy Experiences · Miami",
+      "source_url": "https://resy.com/cities/miami-fl/events",
+      "first_seen_at": "2026-11-22T20:06:42.599025+00:00",
+      "last_seen_at": "2026-11-22T20:06:59.286605+00:00",
+      "lead_hours": 95,
+      "source_trail": [
+        {
+          "source_id": "resy_experiences",
+          "source_name": "Resy Experiences · Miami",
+          "seen_at": "2026-11-22T20:06:42.599025+00:00",
+          "url": "https://resy.com/cities/miami-fl/events/thanksgiving-to-go-2026-11-26-6"
         }
       ]
     },
@@ -866,7 +866,7 @@
       "source_name": "Faena Miami Beach",
       "source_url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/thanksgiving-at-faena-miami-beach",
       "first_seen_at": "2026-11-14T18:38:12.835307+00:00",
-      "last_seen_at": "2026-11-21T19:55:03.928235+00:00",
+      "last_seen_at": "2026-11-22T20:06:59.286605+00:00",
       "lead_hours": 291,
       "source_trail": [
         {
@@ -908,7 +908,7 @@
       "source_name": "Faena Miami Beach",
       "source_url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/thanksgiving-at-faena-miami-beach",
       "first_seen_at": "2026-11-14T18:38:12.834534+00:00",
-      "last_seen_at": "2026-11-21T19:55:03.928235+00:00",
+      "last_seen_at": "2026-11-22T20:06:59.286605+00:00",
       "lead_hours": 292,
       "source_trail": [
         {
@@ -950,7 +950,7 @@
       "source_name": "Faena Miami Beach",
       "source_url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/thanksgiving-at-faena-miami-beach",
       "first_seen_at": "2026-11-14T18:38:12.834908+00:00",
-      "last_seen_at": "2026-11-21T19:55:03.928235+00:00",
+      "last_seen_at": "2026-11-22T20:06:59.286605+00:00",
       "lead_hours": 292,
       "source_trail": [
         {
@@ -992,7 +992,7 @@
       "source_name": "The Backgammon Society",
       "source_url": "https://www.thebackgammonsociety.com/",
       "first_seen_at": "2026-11-19T21:09:27.814067+00:00",
-      "last_seen_at": "2026-11-21T19:55:03.928235+00:00",
+      "last_seen_at": "2026-11-22T20:06:59.286605+00:00",
       "lead_hours": 986,
       "source_trail": [
         {
@@ -1034,7 +1034,7 @@
       "source_name": "Luma Miami · Food & Chef",
       "source_url": "https://luma.com/miami",
       "first_seen_at": "2026-11-20T20:54:14.386257+00:00",
-      "last_seen_at": "2026-11-21T19:55:03.928235+00:00",
+      "last_seen_at": "2026-11-22T20:06:59.286605+00:00",
       "lead_hours": 338,
       "source_trail": [
         {
@@ -1076,7 +1076,7 @@
       "source_name": "Eater Miami",
       "source_url": "https://miami.eater.com/rss/index.xml",
       "first_seen_at": "2026-10-30T18:23:37.970494+00:00",
-      "last_seen_at": "2026-11-21T19:55:03.928235+00:00",
+      "last_seen_at": "2026-11-22T20:06:59.286605+00:00",
       "lead_hours": null,
       "source_trail": [
         {
@@ -1084,6 +1084,48 @@
           "source_name": "Eater Miami",
           "seen_at": "2026-10-30T18:23:37.970494+00:00",
           "url": "https://miami.eater.com/maps/best-miami-cocktail-bars-guide-map"
+        }
+      ]
+    },
+    {
+      "id": "2a567d063a7a3b1eafa5acf73f4d60d12f7d7651",
+      "title": "Classic Cuban Cocktail Master Class hosted by Cantinero Julio Cabrera February 27, 2027 1:00 PM",
+      "summary": "Favorite Event Classic Cuban Cocktail Master Class hosted by Cantinero Julio Cabrera February 27, 2027 1:00 PM",
+      "starts_at": "2027-02-27T00:00:00+00:00",
+      "ends_at": null,
+      "all_day": false,
+      "venue": "",
+      "neighborhood": "Miami",
+      "city": "Miami",
+      "url": "https://sobewff.org/events/cuban/",
+      "rsvp_url": "https://sobewff.org/events/cuban/",
+      "image_url": null,
+      "access": "public",
+      "industry": "culinary",
+      "categories": [
+        "culinary",
+        "luxury",
+        "networking"
+      ],
+      "access_tip": "Buy or reserve only through the official SOBEWFF event page; high-demand dinners sell out early.",
+      "contact_url": "https://sobewff.org/events/",
+      "contact_email": null,
+      "ask_for": "",
+      "score": 89,
+      "confidence": 0.8,
+      "why_it_matters": "From SOBEWFF — luxury / hospitality keywords",
+      "source_id": "sobewff",
+      "source_name": "SOBEWFF",
+      "source_url": "https://corporate.sobewff.org/",
+      "first_seen_at": "2026-11-22T20:06:41.697796+00:00",
+      "last_seen_at": "2026-11-22T20:06:59.286605+00:00",
+      "lead_hours": 2307,
+      "source_trail": [
+        {
+          "source_id": "sobewff",
+          "source_name": "SOBEWFF",
+          "seen_at": "2026-11-22T20:06:41.697796+00:00",
+          "url": "https://sobewff.org/events/cuban/"
         }
       ]
     },
@@ -1118,7 +1160,7 @@
       "source_name": "The Backgammon Society",
       "source_url": "https://www.thebackgammonsociety.com/",
       "first_seen_at": "2026-11-19T21:09:27.814673+00:00",
-      "last_seen_at": "2026-11-21T19:55:03.928235+00:00",
+      "last_seen_at": "2026-11-22T20:06:59.286605+00:00",
       "lead_hours": 1490,
       "source_trail": [
         {
@@ -1159,7 +1201,7 @@
       "source_name": "Haute Living",
       "source_url": "https://hauteliving.com/feed/",
       "first_seen_at": "2026-11-20T20:54:10.479947+00:00",
-      "last_seen_at": "2026-11-21T19:55:03.928235+00:00",
+      "last_seen_at": "2026-11-22T20:06:59.286605+00:00",
       "lead_hours": null,
       "source_trail": [
         {
@@ -1201,7 +1243,7 @@
       "source_name": "Eater Miami",
       "source_url": "https://miami.eater.com/rss/index.xml",
       "first_seen_at": "2026-10-12T21:28:12.732047+00:00",
-      "last_seen_at": "2026-11-21T19:55:03.928235+00:00",
+      "last_seen_at": "2026-11-22T20:06:59.286605+00:00",
       "lead_hours": null,
       "source_trail": [
         {
@@ -1242,7 +1284,7 @@
       "source_name": "The Standard Spa Miami Beach",
       "source_url": "https://www.standardhotels.com/happenings",
       "first_seen_at": "2026-10-31T17:29:47.992717+00:00",
-      "last_seen_at": "2026-11-21T19:55:03.928235+00:00",
+      "last_seen_at": "2026-11-22T20:06:59.286605+00:00",
       "lead_hours": 527,
       "source_trail": [
         {
@@ -1283,7 +1325,7 @@
       "source_name": "Haute Living",
       "source_url": "https://hauteliving.com/feed/",
       "first_seen_at": "2026-11-18T21:04:13.797637+00:00",
-      "last_seen_at": "2026-11-21T19:55:03.928235+00:00",
+      "last_seen_at": "2026-11-22T20:06:59.286605+00:00",
       "lead_hours": null,
       "source_trail": [
         {
@@ -1295,44 +1337,43 @@
       ]
     },
     {
-      "id": "3503fe915f3fafab9eeedf574c47602bd9d960c7",
-      "title": "Coca-Cola presents Tournament of Champions LIVE hosted by Guy Fieri February 26, 2027 7:30 PM",
-      "summary": "Favorite Event Coca-Cola presents Tournament of Champions LIVE hosted by Guy Fieri February 26, 2027 7:30 PM",
-      "starts_at": "2027-02-26T00:00:00+00:00",
+      "id": "6005931d8c19d8cb8e992ca4007505bc42ebcf8b",
+      "title": "The Most Unexpected Show at Art Basel 2026 Comes From the NFL",
+      "summary": "The NFL hits Art Basel Miami with Andy Gotts' GLORIOUS portraits of Manning, Montana and Burrow, plus a private villa of art and talks. The post The Most Unexpected Show at Art Basel 2026 Comes From the NFL appeared first on Haute Living .",
+      "starts_at": null,
       "ends_at": null,
       "all_day": false,
       "venue": "",
       "neighborhood": "Miami",
       "city": "Miami",
-      "url": "https://sobewff.org/events/toc/",
-      "rsvp_url": "https://sobewff.org/events/toc/",
+      "url": "https://hauteliving.com/2026/11/nfl-art-basel-miami-2026-andy-gotts-glorious-artist-replay-villa/803472/",
+      "rsvp_url": "https://hauteliving.com/2026/11/nfl-art-basel-miami-2026-andy-gotts-glorious-artist-replay-villa/803472/",
       "image_url": null,
       "access": "public",
-      "industry": "culinary",
+      "industry": "art_fashion",
       "categories": [
-        "culinary",
-        "luxury",
-        "networking"
+        "editorial",
+        "luxury"
       ],
-      "access_tip": "Buy or reserve only through the official SOBEWFF event page; high-demand dinners sell out early.",
-      "contact_url": "https://sobewff.org/events/",
+      "access_tip": "Open the official source for current admission details. Reserve early if a booking option is shown.",
+      "contact_url": "https://hauteliving.com/2026/11/nfl-art-basel-miami-2026-andy-gotts-glorious-artist-replay-villa/803472/",
       "contact_email": null,
-      "ask_for": "",
-      "score": 73,
-      "confidence": 0.8,
-      "why_it_matters": "From SOBEWFF — luxury / hospitality keywords",
-      "source_id": "sobewff",
-      "source_name": "SOBEWFF",
-      "source_url": "https://corporate.sobewff.org/",
-      "first_seen_at": "2026-11-18T21:04:16.781350+00:00",
-      "last_seen_at": "2026-11-21T19:55:03.928235+00:00",
-      "lead_hours": 2378,
+      "ask_for": "The named event host, brand publicist, or venue communications team in the source article",
+      "score": 78,
+      "confidence": 0.6,
+      "why_it_matters": "Early editorial signal from Haute Living — luxury / hospitality keywords",
+      "source_id": "haute_living",
+      "source_name": "Haute Living",
+      "source_url": "https://hauteliving.com/feed/",
+      "first_seen_at": "2026-11-22T20:06:38.766948+00:00",
+      "last_seen_at": "2026-11-22T20:06:59.286605+00:00",
+      "lead_hours": null,
       "source_trail": [
         {
-          "source_id": "sobewff",
-          "source_name": "SOBEWFF",
-          "seen_at": "2026-11-18T21:04:16.781350+00:00",
-          "url": "https://sobewff.org/events/toc/"
+          "source_id": "haute_living",
+          "source_name": "Haute Living",
+          "seen_at": "2026-11-22T20:06:38.766948+00:00",
+          "url": "https://hauteliving.com/2026/11/nfl-art-basel-miami-2026-andy-gotts-glorious-artist-replay-villa/803472/"
         }
       ]
     },
@@ -1366,7 +1407,7 @@
       "source_name": "The Standard Spa Miami Beach",
       "source_url": "https://www.standardhotels.com/happenings",
       "first_seen_at": "2026-11-15T19:13:24.549497+00:00",
-      "last_seen_at": "2026-11-21T19:55:03.928235+00:00",
+      "last_seen_at": "2026-11-22T20:06:59.286605+00:00",
       "lead_hours": 213,
       "source_trail": [
         {
@@ -1408,7 +1449,7 @@
       "source_name": "Backgammon Social Miami",
       "source_url": "https://luma.com/backgammonsocialmiami",
       "first_seen_at": "2026-10-30T18:23:38.875506+00:00",
-      "last_seen_at": "2026-11-21T19:55:03.928235+00:00",
+      "last_seen_at": "2026-11-22T20:06:59.286605+00:00",
       "lead_hours": 605,
       "source_trail": [
         {
@@ -1449,7 +1490,7 @@
       "source_name": "The Bass",
       "source_url": "https://thebass.org/events/?ical=1",
       "first_seen_at": "2026-10-26T19:00:25.816750+00:00",
-      "last_seen_at": "2026-11-21T19:55:03.928235+00:00",
+      "last_seen_at": "2026-11-22T20:06:59.286605+00:00",
       "lead_hours": 896,
       "source_trail": [
         {
@@ -1491,7 +1532,7 @@
       "source_name": "Backgammon Social Miami",
       "source_url": "https://luma.com/backgammonsocialmiami",
       "first_seen_at": "2026-11-20T20:54:15.497986+00:00",
-      "last_seen_at": "2026-11-21T19:55:03.928235+00:00",
+      "last_seen_at": "2026-11-22T20:06:59.286605+00:00",
       "lead_hours": 266,
       "source_trail": [
         {
@@ -1532,7 +1573,7 @@
       "source_name": "Beacon Council RSS",
       "source_url": "https://www.beaconcouncil.com/events/feed/",
       "first_seen_at": "2026-11-09T22:50:53.261145+00:00",
-      "last_seen_at": "2026-11-21T19:55:03.928235+00:00",
+      "last_seen_at": "2026-11-22T20:06:59.286605+00:00",
       "lead_hours": 754,
       "source_trail": [
         {
