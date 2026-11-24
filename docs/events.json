@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T20:07:16.922850+00:00",
+  "generated_at": "2026-11-24T00:34:24.069908+00:00",
   "timezone": "America/New_York",
   "version": 1,
   "event_count": 24,
@@ -272,78 +272,6 @@
       "basis": "Public caption or professional role text; no face recognition or private contact data."
     },
     {
-      "id": "8c21fd6f6c2d1fc0",
-      "name": "Gianfranco Berardinelli",
-      "role": "Recurring name in curated event coverage",
-      "organization": "Miami luxury and industry network",
-      "industry": "hospitality",
-      "priority": 79,
-      "mentions": 6,
-      "event_count": 3,
-      "why_connect": "Published in 6 World Red Eye caption(s) across 3 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
-      "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
-      "source_name": "World Red Eye",
-      "source_urls": [
-        "https://worldredeye.com/2026/06/dinner-with-franciacorta-at-the-delano-in-miami-beach/",
-        "https://worldredeye.com/2026/11/first-look-at-the-jade-trau-luis-morais-collaboration/",
-        "https://worldredeye.com/2026/11/bal-harbour-shops-west-shops-unveiling-holiday-celebration/"
-      ],
-      "event_titles": [
-        "Bal Harbour Shops West Shops Unveiling & Holiday Celebration",
-        "Dinner with Franciacorta at The Delano in Miami Beach",
-        "First Look at the Jade Trau & Luis Morais Collaboration"
-      ],
-      "basis": "Public caption or professional role text; no face recognition or private contact data."
-    },
-    {
-      "id": "cb06ca3ff7d15d0f",
-      "name": "Gabriela Medina",
-      "role": "Recurring name in curated event coverage",
-      "organization": "Miami luxury and industry network",
-      "industry": "hospitality",
-      "priority": 79,
-      "mentions": 5,
-      "event_count": 3,
-      "why_connect": "Published in 5 World Red Eye caption(s) across 3 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
-      "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
-      "source_name": "World Red Eye",
-      "source_urls": [
-        "https://worldredeye.com/2026/06/dinner-with-franciacorta-at-the-delano-in-miami-beach/",
-        "https://worldredeye.com/2026/11/a-night-of-love-gala-benefiting-a-work-in-progress-and-love-foundation-at-faena-forum/",
-        "https://worldredeye.com/2026/11/bal-harbour-shops-west-shops-unveiling-holiday-celebration/"
-      ],
-      "event_titles": [
-        "A Night of Love Gala Benefiting A Work in Progress and Love Foundation at the Faena Forum",
-        "Bal Harbour Shops West Shops Unveiling & Holiday Celebration",
-        "Dinner with Franciacorta at The Delano in Miami Beach"
-      ],
-      "basis": "Public caption or professional role text; no face recognition or private contact data."
-    },
-    {
-      "id": "06e7315f456d91fa",
-      "name": "Georges Coupet",
-      "role": "Recurring name in curated event coverage",
-      "organization": "Miami luxury and industry network",
-      "industry": "hospitality",
-      "priority": 78,
-      "mentions": 3,
-      "event_count": 3,
-      "why_connect": "Published in 3 World Red Eye caption(s) across 3 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
-      "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
-      "source_name": "World Red Eye",
-      "source_urls": [
-        "https://worldredeye.com/2026/06/dinner-with-franciacorta-at-the-delano-in-miami-beach/",
-        "https://worldredeye.com/2026/11/a-night-of-love-gala-benefiting-a-work-in-progress-and-love-foundation-at-faena-forum/",
-        "https://worldredeye.com/2026/11/bal-harbour-shops-west-shops-unveiling-holiday-celebration/"
-      ],
-      "event_titles": [
-        "A Night of Love Gala Benefiting A Work in Progress and Love Foundation at the Faena Forum",
-        "Bal Harbour Shops West Shops Unveiling & Holiday Celebration",
-        "Dinner with Franciacorta at The Delano in Miami Beach"
-      ],
-      "basis": "Public caption or professional role text; no face recognition or private contact data."
-    },
-    {
       "id": "62820920c24f0ae7",
       "name": "Steven Meiner",
       "role": "Recurring name in curated event coverage",
@@ -384,6 +312,72 @@
       "event_titles": [
         "Delano Residences Miami Launch",
         "World Red Eye Preview Dinner Hosted by Seth Browarnik at Gigi Rigolatto Celebrating Delano"
+      ],
+      "basis": "Public caption or professional role text; no face recognition or private contact data."
+    },
+    {
+      "id": "9c32351e6d67909a",
+      "name": "Erin Newberg",
+      "role": "Recurring name in curated event coverage",
+      "organization": "Miami luxury and industry network",
+      "industry": "hospitality",
+      "priority": 74,
+      "mentions": 8,
+      "event_count": 2,
+      "why_connect": "Published in 8 World Red Eye caption(s) across 2 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
+      "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
+      "source_name": "World Red Eye",
+      "source_urls": [
+        "https://worldredeye.com/2026/06/dinner-with-franciacorta-at-the-delano-in-miami-beach/",
+        "https://worldredeye.com/2026/11/creators-casa/"
+      ],
+      "event_titles": [
+        "Dinner with Franciacorta at The Delano in Miami Beach",
+        "Launch of Creator’s Casa"
+      ],
+      "basis": "Public caption or professional role text; no face recognition or private contact data."
+    },
+    {
+      "id": "8c21fd6f6c2d1fc0",
+      "name": "Gianfranco Berardinelli",
+      "role": "Recurring name in curated event coverage",
+      "organization": "Miami luxury and industry network",
+      "industry": "hospitality",
+      "priority": 71,
+      "mentions": 5,
+      "event_count": 2,
+      "why_connect": "Published in 5 World Red Eye caption(s) across 2 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
+      "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
+      "source_name": "World Red Eye",
+      "source_urls": [
+        "https://worldredeye.com/2026/06/dinner-with-franciacorta-at-the-delano-in-miami-beach/",
+        "https://worldredeye.com/2026/11/creators-casa/"
+      ],
+      "event_titles": [
+        "Dinner with Franciacorta at The Delano in Miami Beach",
+        "Launch of Creator’s Casa"
+      ],
+      "basis": "Public caption or professional role text; no face recognition or private contact data."
+    },
+    {
+      "id": "cb06ca3ff7d15d0f",
+      "name": "Gabriela Medina",
+      "role": "Recurring name in curated event coverage",
+      "organization": "Miami luxury and industry network",
+      "industry": "hospitality",
+      "priority": 70,
+      "mentions": 4,
+      "event_count": 2,
+      "why_connect": "Published in 4 World Red Eye caption(s) across 2 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
+      "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
+      "source_name": "World Red Eye",
+      "source_urls": [
+        "https://worldredeye.com/2026/06/dinner-with-franciacorta-at-the-delano-in-miami-beach/",
+        "https://worldredeye.com/2026/11/a-night-of-love-gala-benefiting-a-work-in-progress-and-love-foundation-at-faena-forum/"
+      ],
+      "event_titles": [
+        "A Night of Love Gala Benefiting A Work in Progress and Love Foundation at the Faena Forum",
+        "Dinner with Franciacorta at The Delano in Miami Beach"
       ],
       "basis": "Public caption or professional role text; no face recognition or private contact data."
     },
@@ -464,6 +458,28 @@
       ],
       "event_titles": [
         "Delano Residences Miami Launch"
+      ],
+      "basis": "Public caption or professional role text; no face recognition or private contact data."
+    },
+    {
+      "id": "06e7315f456d91fa",
+      "name": "Georges Coupet",
+      "role": "Recurring name in curated event coverage",
+      "organization": "Miami luxury and industry network",
+      "industry": "hospitality",
+      "priority": 68,
+      "mentions": 2,
+      "event_count": 2,
+      "why_connect": "Published in 2 World Red Eye caption(s) across 2 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
+      "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
+      "source_name": "World Red Eye",
+      "source_urls": [
+        "https://worldredeye.com/2026/06/dinner-with-franciacorta-at-the-delano-in-miami-beach/",
+        "https://worldredeye.com/2026/11/a-night-of-love-gala-benefiting-a-work-in-progress-and-love-foundation-at-faena-forum/"
+      ],
+      "event_titles": [
+        "A Night of Love Gala Benefiting A Work in Progress and Love Foundation at the Faena Forum",
+        "Dinner with Franciacorta at The Delano in Miami Beach"
       ],
       "basis": "Public caption or professional role text; no face recognition or private contact data."
     },
@@ -566,70 +582,9 @@
         "World Red Eye Preview Dinner Hosted by Seth Browarnik at Gigi Rigolatto Celebrating Delano"
       ],
       "basis": "Public caption or professional role text; no face recognition or private contact data."
-    },
-    {
-      "id": "4ef0d988fe48ffde",
-      "name": "Daniel De La Vega",
-      "role": "Recurring name in curated event coverage",
-      "organization": "Miami luxury and industry network",
-      "industry": "hospitality",
-      "priority": 65,
-      "mentions": 8,
-      "event_count": 1,
-      "why_connect": "Published in 8 World Red Eye caption(s) across 1 curated event(s); a possible warm-network connector, not a guaranteed decision-maker.",
-      "how_to_connect": "Use the named event host, sponsor, or venue as the introduction path. Reference the sourced event; no private contact data is used.",
-      "source_name": "World Red Eye",
-      "source_urls": [
-        "https://worldredeye.com/2026/05/world-red-eye-preview-dinner-hosted-by-seth-browarnik-at-gigi-rigolatto-celebrating-delano/"
-      ],
-      "event_titles": [
-        "World Red Eye Preview Dinner Hosted by Seth Browarnik at Gigi Rigolatto Celebrating Delano"
-      ],
-      "basis": "Public caption or professional role text; no face recognition or private contact data."
     }
   ],
   "events": [
-    {
-      "id": "8020ca3f868ffa3c32043c911084dfa4f3eb8016",
-      "title": "Dinner Anniversary Series #4",
-      "summary": "Celebrate Miss Crispy Rice’s second anniversary in Coral Gables with an unforgettable 16-course omakase collaboration featuring some of our favorite Miami chefs. Each evening’s guest chefs will join us behind the omakase bar, preparing and presenting their courses directly to you. Four Sundays, four unique chef lineups, and an intimate celebration of food, friendship, and Miami’s culinary community. Service Fee is included in lieu of gratuity.",
-      "starts_at": "2026-11-22T16:00:00-05:00",
-      "ends_at": "2026-11-22T20:00:00-05:00",
-      "all_day": false,
-      "venue": "Miss Crispy Rice",
-      "neighborhood": "Coral Gables",
-      "city": "Coral Gables",
-      "url": "https://resy.com/cities/miami-fl/events/dinner-anniversary-series-4-2026-11-22-6",
-      "rsvp_url": "https://resy.com/cities/miami-fl/events/dinner-anniversary-series-4-2026-11-22-6",
-      "image_url": "https://image.resy.com/3/003/2/72913/312254524dcd7d72081544f1f98d07bac0c854e4/jpg/640x360",
-      "access": "registration",
-      "industry": "culinary",
-      "categories": [
-        "culinary",
-        "hospitality"
-      ],
-      "access_tip": "Book on Resy as soon as listings drop — guest-chef nights often sell out the same week.",
-      "contact_url": "https://resy.com/cities/miami-fl/events",
-      "contact_email": null,
-      "ask_for": "Restaurant events team via Resy",
-      "score": 100,
-      "confidence": 0.9,
-      "why_it_matters": "Listed on Resy Experiences — book before hotel calendars catch it — luxury / hospitality keywords — at Miss Crispy Rice",
-      "source_id": "resy_experiences",
-      "source_name": "Resy Experiences · Miami",
-      "source_url": "https://resy.com/cities/miami-fl/events",
-      "first_seen_at": "2026-11-15T19:13:24.582822+00:00",
-      "last_seen_at": "2026-11-22T20:06:59.286605+00:00",
-      "lead_hours": 169,
-      "source_trail": [
-        {
-          "source_id": "resy_experiences",
-          "source_name": "Resy Experiences · Miami",
-          "seen_at": "2026-11-15T19:13:24.582822+00:00",
-          "url": "https://resy.com/cities/miami-fl/events/dinner-anniversary-series-4-2026-11-22-6"
-        }
-      ]
-    },
     {
       "id": "6abf66e6f04188da650791b15e0b3cdb1988a9fd",
       "title": "Truffle Wine Dinner",
@@ -660,7 +615,7 @@
       "source_name": "Resy Experiences · Miami",
       "source_url": "https://resy.com/cities/miami-fl/events",
       "first_seen_at": "2026-11-19T21:09:24.056424+00:00",
-      "last_seen_at": "2026-11-22T20:06:59.286605+00:00",
+      "last_seen_at": "2026-11-24T00:34:08.897207+00:00",
       "lead_hours": 122,
       "source_trail": [
         {
@@ -701,7 +656,7 @@
       "source_name": "Resy Experiences · Miami",
       "source_url": "https://resy.com/cities/miami-fl/events",
       "first_seen_at": "2026-11-19T21:09:24.056459+00:00",
-      "last_seen_at": "2026-11-22T20:06:59.286605+00:00",
+      "last_seen_at": "2026-11-24T00:34:08.897207+00:00",
       "lead_hours": 146,
       "source_trail": [
         {
@@ -742,7 +697,7 @@
       "source_name": "Resy Experiences · Miami",
       "source_url": "https://resy.com/cities/miami-fl/events",
       "first_seen_at": "2026-11-20T20:54:15.030662+00:00",
-      "last_seen_at": "2026-11-22T20:06:59.286605+00:00",
+      "last_seen_at": "2026-11-24T00:34:08.897207+00:00",
       "lead_hours": 140,
       "source_trail": [
         {
@@ -783,7 +738,7 @@
       "source_name": "Resy Experiences · Miami",
       "source_url": "https://resy.com/cities/miami-fl/events",
       "first_seen_at": "2026-11-21T19:54:47.885758+00:00",
-      "last_seen_at": "2026-11-22T20:06:59.286605+00:00",
+      "last_seen_at": "2026-11-24T00:34:08.897207+00:00",
       "lead_hours": 117,
       "source_trail": [
         {
@@ -791,6 +746,47 @@
           "source_name": "Resy Experiences · Miami",
           "seen_at": "2026-11-21T19:54:47.885758+00:00",
           "url": "https://resy.com/cities/miami-fl/events/thanksgiving-at-americana-kitchen-2026-11-26-6"
+        }
+      ]
+    },
+    {
+      "id": "18d434147dfd93f0f9888c507825624351a54f51",
+      "title": "Thanksgiving Dinner",
+      "summary": "This Thanksgiving, partake in an over-the-top feast at Miami’s most exclusive restaurant. Kickoff with classics like Caesar Salad alla ZZ and Mario’s Meatballs, before the main event: an extraordinary Glazed Turkey Breast with an abundance of sides. End with Pecan Pie and Pumpkin Cheesecake.  A 20% gratuity will be added to all reservations without preselected gratuity.  If you’d like to change the amount of your gratuity, please speak to a manager on site.\n\nWe offer both indoor and outdoor seat",
+      "starts_at": "2026-11-26T15:00:00-05:00",
+      "ends_at": "2026-11-26T17:00:00-05:00",
+      "all_day": false,
+      "venue": "Carbone Miami",
+      "neighborhood": "Miami",
+      "city": "Miami",
+      "url": "https://resy.com/cities/miami-fl/events/thanksgiving-dinner-2026-2026-11-26-03",
+      "rsvp_url": "https://resy.com/cities/miami-fl/events/thanksgiving-dinner-2026-2026-11-26-03",
+      "image_url": "https://image.resy.com/3/003/2/43225/5c1ee5ef6dc8babd265cc9dae53f0eba93eb1b82/jpg/640x360",
+      "access": "registration",
+      "industry": "culinary",
+      "categories": [
+        "culinary",
+        "hospitality"
+      ],
+      "access_tip": "Book on Resy as soon as listings drop — guest-chef nights often sell out the same week.",
+      "contact_url": "https://resy.com/cities/miami-fl/events",
+      "contact_email": null,
+      "ask_for": "Restaurant events team via Resy",
+      "score": 100,
+      "confidence": 0.9,
+      "why_it_matters": "Listed on Resy Experiences — book before hotel calendars catch it — luxury / hospitality keywords — at Carbone Miami",
+      "source_id": "resy_experiences",
+      "source_name": "Resy Experiences · Miami",
+      "source_url": "https://resy.com/cities/miami-fl/events",
+      "first_seen_at": "2026-11-24T00:33:52.989253+00:00",
+      "last_seen_at": "2026-11-24T00:34:08.897207+00:00",
+      "lead_hours": 67,
+      "source_trail": [
+        {
+          "source_id": "resy_experiences",
+          "source_name": "Resy Experiences · Miami",
+          "seen_at": "2026-11-24T00:33:52.989253+00:00",
+          "url": "https://resy.com/cities/miami-fl/events/thanksgiving-dinner-2026-2026-11-26-03"
         }
       ]
     },
@@ -824,7 +820,7 @@
       "source_name": "Resy Experiences · Miami",
       "source_url": "https://resy.com/cities/miami-fl/events",
       "first_seen_at": "2026-11-22T20:06:42.599025+00:00",
-      "last_seen_at": "2026-11-22T20:06:59.286605+00:00",
+      "last_seen_at": "2026-11-24T00:34:08.897207+00:00",
       "lead_hours": 95,
       "source_trail": [
         {
@@ -866,7 +862,7 @@
       "source_name": "Faena Miami Beach",
       "source_url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/thanksgiving-at-faena-miami-beach",
       "first_seen_at": "2026-11-14T18:38:12.835307+00:00",
-      "last_seen_at": "2026-11-22T20:06:59.286605+00:00",
+      "last_seen_at": "2026-11-24T00:34:08.897207+00:00",
       "lead_hours": 291,
       "source_trail": [
         {
@@ -908,7 +904,7 @@
       "source_name": "Faena Miami Beach",
       "source_url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/thanksgiving-at-faena-miami-beach",
       "first_seen_at": "2026-11-14T18:38:12.834534+00:00",
-      "last_seen_at": "2026-11-22T20:06:59.286605+00:00",
+      "last_seen_at": "2026-11-24T00:34:08.897207+00:00",
       "lead_hours": 292,
       "source_trail": [
         {
@@ -950,7 +946,7 @@
       "source_name": "Faena Miami Beach",
       "source_url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/thanksgiving-at-faena-miami-beach",
       "first_seen_at": "2026-11-14T18:38:12.834908+00:00",
-      "last_seen_at": "2026-11-22T20:06:59.286605+00:00",
+      "last_seen_at": "2026-11-24T00:34:08.897207+00:00",
       "lead_hours": 292,
       "source_trail": [
         {
@@ -992,7 +988,7 @@
       "source_name": "The Backgammon Society",
       "source_url": "https://www.thebackgammonsociety.com/",
       "first_seen_at": "2026-11-19T21:09:27.814067+00:00",
-      "last_seen_at": "2026-11-22T20:06:59.286605+00:00",
+      "last_seen_at": "2026-11-24T00:34:08.897207+00:00",
       "lead_hours": 986,
       "source_trail": [
         {
@@ -1034,7 +1030,7 @@
       "source_name": "Luma Miami · Food & Chef",
       "source_url": "https://luma.com/miami",
       "first_seen_at": "2026-11-20T20:54:14.386257+00:00",
-      "last_seen_at": "2026-11-22T20:06:59.286605+00:00",
+      "last_seen_at": "2026-11-24T00:34:08.897207+00:00",
       "lead_hours": 338,
       "source_trail": [
         {
@@ -1076,7 +1072,7 @@
       "source_name": "Eater Miami",
       "source_url": "https://miami.eater.com/rss/index.xml",
       "first_seen_at": "2026-10-30T18:23:37.970494+00:00",
-      "last_seen_at": "2026-11-22T20:06:59.286605+00:00",
+      "last_seen_at": "2026-11-24T00:34:08.897207+00:00",
       "lead_hours": null,
       "source_trail": [
         {
@@ -1084,48 +1080,6 @@
           "source_name": "Eater Miami",
           "seen_at": "2026-10-30T18:23:37.970494+00:00",
           "url": "https://miami.eater.com/maps/best-miami-cocktail-bars-guide-map"
-        }
-      ]
-    },
-    {
-      "id": "2a567d063a7a3b1eafa5acf73f4d60d12f7d7651",
-      "title": "Classic Cuban Cocktail Master Class hosted by Cantinero Julio Cabrera February 27, 2027 1:00 PM",
-      "summary": "Favorite Event Classic Cuban Cocktail Master Class hosted by Cantinero Julio Cabrera February 27, 2027 1:00 PM",
-      "starts_at": "2027-02-27T00:00:00+00:00",
-      "ends_at": null,
-      "all_day": false,
-      "venue": "",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://sobewff.org/events/cuban/",
-      "rsvp_url": "https://sobewff.org/events/cuban/",
-      "image_url": null,
-      "access": "public",
-      "industry": "culinary",
-      "categories": [
-        "culinary",
-        "luxury",
-        "networking"
-      ],
-      "access_tip": "Buy or reserve only through the official SOBEWFF event page; high-demand dinners sell out early.",
-      "contact_url": "https://sobewff.org/events/",
-      "contact_email": null,
-      "ask_for": "",
-      "score": 89,
-      "confidence": 0.8,
-      "why_it_matters": "From SOBEWFF — luxury / hospitality keywords",
-      "source_id": "sobewff",
-      "source_name": "SOBEWFF",
-      "source_url": "https://corporate.sobewff.org/",
-      "first_seen_at": "2026-11-22T20:06:41.697796+00:00",
-      "last_seen_at": "2026-11-22T20:06:59.286605+00:00",
-      "lead_hours": 2307,
-      "source_trail": [
-        {
-          "source_id": "sobewff",
-          "source_name": "SOBEWFF",
-          "seen_at": "2026-11-22T20:06:41.697796+00:00",
-          "url": "https://sobewff.org/events/cuban/"
         }
       ]
     },
@@ -1160,7 +1114,7 @@
       "source_name": "The Backgammon Society",
       "source_url": "https://www.thebackgammonsociety.com/",
       "first_seen_at": "2026-11-19T21:09:27.814673+00:00",
-      "last_seen_at": "2026-11-22T20:06:59.286605+00:00",
+      "last_seen_at": "2026-11-24T00:34:08.897207+00:00",
       "lead_hours": 1490,
       "source_trail": [
         {
@@ -1201,7 +1155,7 @@
       "source_name": "Haute Living",
       "source_url": "https://hauteliving.com/feed/",
       "first_seen_at": "2026-11-20T20:54:10.479947+00:00",
-      "last_seen_at": "2026-11-22T20:06:59.286605+00:00",
+      "last_seen_at": "2026-11-24T00:34:08.897207+00:00",
       "lead_hours": null,
       "source_trail": [
         {
@@ -1243,7 +1197,7 @@
       "source_name": "Eater Miami",
       "source_url": "https://miami.eater.com/rss/index.xml",
       "first_seen_at": "2026-10-12T21:28:12.732047+00:00",
-      "last_seen_at": "2026-11-22T20:06:59.286605+00:00",
+      "last_seen_at": "2026-11-24T00:34:08.897207+00:00",
       "lead_hours": null,
       "source_trail": [
         {
@@ -1251,47 +1205,6 @@
           "source_name": "Eater Miami",
           "seen_at": "2026-10-12T21:28:12.732047+00:00",
           "url": "https://miami.eater.com/maps/miami-best-restaurants-38"
-        }
-      ]
-    },
-    {
-      "id": "1f3bcfd6507b434fe5037ff41ca7cdfaff288809",
-      "title": "Leggera Pop Up",
-      "summary": "The Shop welcomes Leggera for a one-day pop-up featuring bohemian resortwear made to move from the ocean to the dance floor. Explore kaftans, reversible designs, kimono tops, convertible skirts, and coordinating sets that can be worn multiple ways.",
-      "starts_at": "2026-11-22T12:00:00-05:00",
-      "ends_at": null,
-      "all_day": false,
-      "venue": "The Standard Spa Miami Beach",
-      "neighborhood": "Miami Beach",
-      "city": "Miami Beach",
-      "url": "https://www.standardhotels.com/miami/happenings/leggera-pop-up",
-      "rsvp_url": "https://www.standardhotels.com/miami/happenings/leggera-pop-up",
-      "image_url": null,
-      "access": "public",
-      "industry": "hospitality",
-      "categories": [
-        "hospitality",
-        "luxury"
-      ],
-      "access_tip": "Book directly from the official happening. For private-event access, contact the hotel's official events team.",
-      "contact_url": "https://www.standardhotels.com/miami/properties/miami-beach",
-      "contact_email": "MiamiEvents@StandardMiami.com",
-      "ask_for": "The Standard Miami Events Team or Spa Concierge",
-      "score": 82,
-      "confidence": 0.9,
-      "why_it_matters": "From The Standard Spa Miami Beach — luxury / hospitality keywords — at The Standard Spa Miami Beach",
-      "source_id": "the_standard_miami",
-      "source_name": "The Standard Spa Miami Beach",
-      "source_url": "https://www.standardhotels.com/happenings",
-      "first_seen_at": "2026-10-31T17:29:47.992717+00:00",
-      "last_seen_at": "2026-11-22T20:06:59.286605+00:00",
-      "lead_hours": 527,
-      "source_trail": [
-        {
-          "source_id": "the_standard_miami",
-          "source_name": "The Standard Spa Miami Beach",
-          "seen_at": "2026-10-31T17:29:47.992717+00:00",
-          "url": "https://www.standardhotels.com/miami/happenings/leggera-pop-up"
         }
       ]
     },
@@ -1325,7 +1238,7 @@
       "source_name": "Haute Living",
       "source_url": "https://hauteliving.com/feed/",
       "first_seen_at": "2026-11-18T21:04:13.797637+00:00",
-      "last_seen_at": "2026-11-22T20:06:59.286605+00:00",
+      "last_seen_at": "2026-11-24T00:34:08.897207+00:00",
       "lead_hours": null,
       "source_trail": [
         {
@@ -1366,7 +1279,7 @@
       "source_name": "Haute Living",
       "source_url": "https://hauteliving.com/feed/",
       "first_seen_at": "2026-11-22T20:06:38.766948+00:00",
-      "last_seen_at": "2026-11-22T20:06:59.286605+00:00",
+      "last_seen_at": "2026-11-24T00:34:08.897207+00:00",
       "lead_hours": null,
       "source_trail": [
         {
@@ -1400,14 +1313,14 @@
       "contact_url": "https://www.standardhotels.com/miami/properties/miami-beach",
       "contact_email": "MiamiEvents@StandardMiami.com",
       "ask_for": "The Standard Miami Events Team or Spa Concierge",
-      "score": 68,
+      "score": 74,
       "confidence": 0.9,
       "why_it_matters": "From The Standard Spa Miami Beach — luxury / hospitality keywords — at The Standard Spa Miami Beach",
       "source_id": "the_standard_miami",
       "source_name": "The Standard Spa Miami Beach",
       "source_url": "https://www.standardhotels.com/happenings",
       "first_seen_at": "2026-11-15T19:13:24.549497+00:00",
-      "last_seen_at": "2026-11-22T20:06:59.286605+00:00",
+      "last_seen_at": "2026-11-24T00:34:08.897207+00:00",
       "lead_hours": 213,
       "source_trail": [
         {
@@ -1415,6 +1328,48 @@
           "source_name": "The Standard Spa Miami Beach",
           "seen_at": "2026-11-15T19:13:24.549497+00:00",
           "url": "https://www.standardhotels.com/miami/happenings/art-basel-2026"
+        }
+      ]
+    },
+    {
+      "id": "9e4122711bea62df59f7aa8e149d4e0b091a324f",
+      "title": "Exclusive: Beloved Miami pasta spot is opening in Coconut Grove",
+      "summary": "A popular Miami restaurant known for its handmade pasta dishes will open a second location in Coconut Grove this December.",
+      "starts_at": null,
+      "ends_at": null,
+      "all_day": false,
+      "venue": "",
+      "neighborhood": "Coconut Grove",
+      "city": "Miami",
+      "url": "https://www.miaminewtimes.com/food-drink/award-winning-miami-pasta-spot-is-opening-in-coconut-grove-40599754/",
+      "rsvp_url": "https://www.miaminewtimes.com/food-drink/award-winning-miami-pasta-spot-is-opening-in-coconut-grove-40599754/",
+      "image_url": null,
+      "access": "public",
+      "industry": "culinary",
+      "categories": [
+        "culinary",
+        "culture",
+        "editorial"
+      ],
+      "access_tip": "Open the official source for current admission details. Reserve early if a booking option is shown.",
+      "contact_url": "https://www.miaminewtimes.com/food-drink/award-winning-miami-pasta-spot-is-opening-in-coconut-grove-40599754/",
+      "contact_email": null,
+      "ask_for": "",
+      "score": 71,
+      "confidence": 0.5,
+      "why_it_matters": "From Miami New Times · Food — networking keywords",
+      "source_id": "miami_new_times_food",
+      "source_name": "Miami New Times · Food",
+      "source_url": "https://www.miaminewtimes.com/miami/Rss.xml",
+      "first_seen_at": "2026-11-24T00:33:51.964730+00:00",
+      "last_seen_at": "2026-11-24T00:34:08.897207+00:00",
+      "lead_hours": null,
+      "source_trail": [
+        {
+          "source_id": "miami_new_times_food",
+          "source_name": "Miami New Times · Food",
+          "seen_at": "2026-11-24T00:33:51.964730+00:00",
+          "url": "https://www.miaminewtimes.com/food-drink/award-winning-miami-pasta-spot-is-opening-in-coconut-grove-40599754/"
         }
       ]
     },
@@ -1441,15 +1396,15 @@
       "access_tip": "Register through the official Backgammon Social Miami Luma calendar. The event co-host shown on the event page is the correct person to request.",
       "contact_url": "https://luma.com/backgammonsocialmiami",
       "contact_email": null,
-      "ask_for": "Backgammon Social, Lydia Menendez, Isabella Pacheco",
-      "score": 64,
+      "ask_for": "Backgammon Social, Lydia Menendez, Jeremias Barillas",
+      "score": 70,
       "confidence": 0.8,
       "why_it_matters": "From Backgammon Social Miami — at 1801 Collins Ave, Miami Beach, FL 33139, USA",
       "source_id": "backgammon_social_miami",
       "source_name": "Backgammon Social Miami",
       "source_url": "https://luma.com/backgammonsocialmiami",
       "first_seen_at": "2026-10-30T18:23:38.875506+00:00",
-      "last_seen_at": "2026-11-22T20:06:59.286605+00:00",
+      "last_seen_at": "2026-11-24T00:34:08.897207+00:00",
       "lead_hours": 605,
       "source_trail": [
         {
@@ -1490,7 +1445,7 @@
       "source_name": "The Bass",
       "source_url": "https://thebass.org/events/?ical=1",
       "first_seen_at": "2026-10-26T19:00:25.816750+00:00",
-      "last_seen_at": "2026-11-22T20:06:59.286605+00:00",
+      "last_seen_at": "2026-11-24T00:34:08.897207+00:00",
       "lead_hours": 896,
       "source_trail": [
         {
@@ -1498,6 +1453,46 @@
           "source_name": "The Bass",
           "seen_at": "2026-10-26T19:00:25.816750+00:00",
           "url": "https://thebass.org/event/miami-art-week-exhibition-opening-reception/"
+        }
+      ]
+    },
+    {
+      "id": "2215960163ae05fc8c67e2380520bda664bf3093",
+      "title": "View our Event Calendar",
+      "summary": "Home » Resort Home » View our Event Calendar » November 2026",
+      "starts_at": "2026-11-24T00:00:00+00:00",
+      "ends_at": null,
+      "all_day": false,
+      "venue": "",
+      "neighborhood": "Miami",
+      "city": "Miami",
+      "url": "https://www.loewshotels.com/miami-beach/event-calendar",
+      "rsvp_url": "https://www.loewshotels.com/miami-beach/event-calendar",
+      "image_url": null,
+      "access": "public",
+      "industry": "hospitality",
+      "categories": [
+        "hospitality"
+      ],
+      "access_tip": "Open the official source for current admission details. Reserve early if a booking option is shown.",
+      "contact_url": "https://www.loewshotels.com/miami-beach/event-calendar",
+      "contact_email": null,
+      "ask_for": "",
+      "score": 60,
+      "confidence": 0.7,
+      "why_it_matters": "From Loews Miami Beach",
+      "source_id": "loews_miami",
+      "source_name": "Loews Miami Beach",
+      "source_url": "https://www.loewshotels.com/miami-beach/event-calendar",
+      "first_seen_at": "2026-11-24T00:33:47.476532+00:00",
+      "last_seen_at": "2026-11-24T00:34:08.897207+00:00",
+      "lead_hours": -1,
+      "source_trail": [
+        {
+          "source_id": "loews_miami",
+          "source_name": "Loews Miami Beach",
+          "seen_at": "2026-11-24T00:33:47.476532+00:00",
+          "url": "https://www.loewshotels.com/miami-beach/event-calendar"
         }
       ]
     },
@@ -1532,7 +1527,7 @@
       "source_name": "Backgammon Social Miami",
       "source_url": "https://luma.com/backgammonsocialmiami",
       "first_seen_at": "2026-11-20T20:54:15.497986+00:00",
-      "last_seen_at": "2026-11-22T20:06:59.286605+00:00",
+      "last_seen_at": "2026-11-24T00:34:08.897207+00:00",
       "lead_hours": 266,
       "source_trail": [
         {
@@ -1573,7 +1568,7 @@
       "source_name": "Beacon Council RSS",
       "source_url": "https://www.beaconcouncil.com/events/feed/",
       "first_seen_at": "2026-11-09T22:50:53.261145+00:00",
-      "last_seen_at": "2026-11-22T20:06:59.286605+00:00",
+      "last_seen_at": "2026-11-24T00:34:08.897207+00:00",
       "lead_hours": 754,
       "source_trail": [
         {
