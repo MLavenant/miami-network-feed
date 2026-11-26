@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T22:07:29.506986+00:00",
+  "generated_at": "2026-11-26T22:06:10.354342+00:00",
   "timezone": "America/New_York",
   "version": 1,
   "event_count": 21,
@@ -578,18 +578,18 @@
   ],
   "events": [
     {
-      "id": "0ab0f2c9ed7a6ffa6739bc4ef810ee34eecbef1d",
-      "title": "Thanksgiving Catered by Flora",
-      "summary": "Let FLORA bring the warmth of a homemade holiday feast to your table, with a thoughtfully prepared menu featuring herb-roasted turkey, bacon & sage stuffing, roasted Brussels sprouts, cranberry orange relish, seasonal greens, and your choice of creamy mashed potatoes or maple-roasted sweet potatoes. $60 per person | Minimum order of 2 meal packages ($120).\n\nSimply purchase your meal packages through Resy and pick up your feast at FLORA on Wednesday, November 25, between 4–6 PM, ready to enjoy wi",
-      "starts_at": "2026-11-25T16:00:00-05:00",
-      "ends_at": "2026-11-25T18:00:00-05:00",
+      "id": "742cedfd1b67779838535be4f239d91ff966b200",
+      "title": "Thanksgiving Dinner",
+      "summary": "This Thanksgiving, join us at Carbone Vino for a one-of-a-kind Thanksgiving Supper. Seasonal offerings include Glazed Turkey Breast, Cornbread Stuffing, Pumpkin Cheesecake, and more holiday favorites. A 20% gratuity will be added to all reservations without preselected gratuity.  If you’d like to change the amount of your gratuity, please speak to a manager on site.\n\nWe encourage guests to dress for the occasion. No shorts, open-toed shoes, or tank tops. Athletic wear and baseball caps are prohi",
+      "starts_at": "2026-11-26T14:00:00-05:00",
+      "ends_at": "2026-11-26T21:00:00-05:00",
       "all_day": false,
-      "venue": "FLORA",
-      "neighborhood": "Miami",
+      "venue": "CARBONE VINO Coconut Grove",
+      "neighborhood": "Coconut Grove",
       "city": "Miami",
-      "url": "https://resy.com/cities/miami-fl/events/thanksgiving-catered-by-flora-2026-11-25-6",
-      "rsvp_url": "https://resy.com/cities/miami-fl/events/thanksgiving-catered-by-flora-2026-11-25-6",
-      "image_url": "https://image.resy.com/3/003/2/80717/0752aebd7fb816d65b0ce8e2b382886df8b8e77d/jpg/640x360",
+      "url": "https://resy.com/cities/miami-fl/events/thanksgiving-dinner-2026-11-26-6",
+      "rsvp_url": "https://resy.com/cities/miami-fl/events/thanksgiving-dinner-2026-11-26-6",
+      "image_url": "https://image.resy.com/3/003/2/86433/34fdd8efce6d13c2ddadd5ee288fbc9c7951663a/jpg/640x360",
       "access": "registration",
       "industry": "culinary",
       "categories": [
@@ -602,35 +602,35 @@
       "ask_for": "Restaurant events team via Resy",
       "score": 100,
       "confidence": 0.9,
-      "why_it_matters": "Listed on Resy Experiences — book before hotel calendars catch it — luxury / hospitality keywords — at FLORA",
+      "why_it_matters": "Listed on Resy Experiences — book before hotel calendars catch it — luxury / hospitality keywords — at CARBONE VINO Coconut Grove",
       "source_id": "resy_experiences",
       "source_name": "Resy Experiences · Miami",
       "source_url": "https://resy.com/cities/miami-fl/events",
-      "first_seen_at": "2026-11-24T22:53:49.812893+00:00",
-      "last_seen_at": "2026-11-25T22:07:14.341488+00:00",
-      "lead_hours": 22,
+      "first_seen_at": "2026-11-26T22:05:38.564744+00:00",
+      "last_seen_at": "2026-11-26T22:05:55.205926+00:00",
+      "lead_hours": -4,
       "source_trail": [
         {
           "source_id": "resy_experiences",
           "source_name": "Resy Experiences · Miami",
-          "seen_at": "2026-11-24T22:53:49.812893+00:00",
-          "url": "https://resy.com/cities/miami-fl/events/thanksgiving-catered-by-flora-2026-11-25-6"
+          "seen_at": "2026-11-26T22:05:38.564744+00:00",
+          "url": "https://resy.com/cities/miami-fl/events/thanksgiving-dinner-2026-11-26-6"
         }
       ]
     },
     {
-      "id": "3245572f4aa08c1daa3cde944de0769f3a1737a6",
-      "title": "Pasta Omakase",
-      "summary": "Pasta Omakase continues! A collection of specialty crudos and pastas. Brought to you by chefs Mike Pirolo & Trevor Zwaan.\n\nBar seating only. Begins promptly at 6:30 PM. We are unfortunately not able to modify this menu.",
-      "starts_at": "2026-11-25T18:30:00-05:00",
-      "ends_at": "2026-11-25T19:00:00-05:00",
+      "id": "2353055247896fd4074729d3c0bdbe142090e5b3",
+      "title": "Thanksgiving Experience",
+      "summary": "Join us on Thursday, November 26th, from 2:00 PM to 9:00 PM, for an indulgent all-you-can-eat buffet crafted to delight every palate. Our expansive spread will feature a fresh salad station with seasonal ingredients, an impressive raw bar, chef-attended carving stations serving up succulent prime rib, traditional roasted turkey, and more, and a variety of classic Thanksgiving sides from creamy mashed potatoes to herb stuffing and cranberry sauce, an assortment of decadent desserts to complete yo",
+      "starts_at": "2026-11-26T14:00:00-05:00",
+      "ends_at": "2026-11-26T20:30:00-05:00",
       "all_day": false,
-      "venue": "Macchialina Taverna Rustica",
+      "venue": "Vida",
       "neighborhood": "Miami Beach",
       "city": "Miami Beach",
-      "url": "https://resy.com/cities/miami-fl/events/pasta-omakase-2026-11-25-6",
-      "rsvp_url": "https://resy.com/cities/miami-fl/events/pasta-omakase-2026-11-25-6",
-      "image_url": "https://image.resy.com/3/003/2/8803/91bd5e3f2a032ba4699878d704328000b38e03c9/jpg/640x360",
+      "url": "https://resy.com/cities/miami-fl/events/thanksgiving-experience-2026-11-26-6",
+      "rsvp_url": "https://resy.com/cities/miami-fl/events/thanksgiving-experience-2026-11-26-6",
+      "image_url": "https://image.resy.com/3/003/2/93711/bbeae764db024c1797aa69e9e616e3db1444bbb0/jpg/640x360",
       "access": "registration",
       "industry": "culinary",
       "categories": [
@@ -643,183 +643,19 @@
       "ask_for": "Restaurant events team via Resy",
       "score": 100,
       "confidence": 0.9,
-      "why_it_matters": "Listed on Resy Experiences — book before hotel calendars catch it — luxury / hospitality keywords — at Macchialina Taverna Rustica",
+      "why_it_matters": "Listed on Resy Experiences — book before hotel calendars catch it — luxury / hospitality keywords — at Vida",
       "source_id": "resy_experiences",
       "source_name": "Resy Experiences · Miami",
       "source_url": "https://resy.com/cities/miami-fl/events",
-      "first_seen_at": "2026-11-19T21:09:24.056459+00:00",
-      "last_seen_at": "2026-11-25T22:07:14.341488+00:00",
-      "lead_hours": 146,
+      "first_seen_at": "2026-11-26T22:05:38.564722+00:00",
+      "last_seen_at": "2026-11-26T22:05:55.205926+00:00",
+      "lead_hours": -4,
       "source_trail": [
         {
           "source_id": "resy_experiences",
           "source_name": "Resy Experiences · Miami",
-          "seen_at": "2026-11-19T21:09:24.056459+00:00",
-          "url": "https://resy.com/cities/miami-fl/events/pasta-omakase-2026-11-25-6"
-        }
-      ]
-    },
-    {
-      "id": "aaa37f0e8e3d18086cb48ec3354f1cd513753fa2",
-      "title": "An Autumn Table: Thanksgiving at Le Jardinier",
-      "summary": "**Thursday, November 26th**\n**12pm - 9pm**\n\n**$185 per person plus Tax & Gratuity**\n\nCelebrate Thanksgiving at Le Jardinier on Thursday, November 26th, with a 3-course prix fixe menu from Executive Chef James Friedberg and Chef de Cuisine Mario da Silva that bring the flavors of fall to the table.\n\nDelight in a Deviled Egg amuse-bouche before savoring a first course such as Butternut Squash Velouté, followed by Braised Beef Cheek with Port wine sauce or a traditional Organic Turkey with cranberr",
-      "starts_at": "2026-11-26T12:00:00-05:00",
-      "ends_at": "2026-11-26T14:00:00-05:00",
-      "all_day": false,
-      "venue": "Le Jardinier Miami",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://resy.com/cities/miami-fl/events/an-autumn-table-thanksgiving-at-le-jardinier-2026-11-26-6",
-      "rsvp_url": "https://resy.com/cities/miami-fl/events/an-autumn-table-thanksgiving-at-le-jardinier-2026-11-26-6",
-      "image_url": "https://image.resy.com/3/003/2/35005/123f2a5f37f0ab93290aacc9f9900fe18f44254c/jpg/640x360",
-      "access": "registration",
-      "industry": "culinary",
-      "categories": [
-        "culinary",
-        "hospitality"
-      ],
-      "access_tip": "Book on Resy as soon as listings drop — guest-chef nights often sell out the same week.",
-      "contact_url": "https://resy.com/cities/miami-fl/events",
-      "contact_email": null,
-      "ask_for": "Restaurant events team via Resy",
-      "score": 100,
-      "confidence": 0.9,
-      "why_it_matters": "Listed on Resy Experiences — book before hotel calendars catch it — luxury / hospitality keywords — at Le Jardinier Miami",
-      "source_id": "resy_experiences",
-      "source_name": "Resy Experiences · Miami",
-      "source_url": "https://resy.com/cities/miami-fl/events",
-      "first_seen_at": "2026-11-20T20:54:15.030662+00:00",
-      "last_seen_at": "2026-11-25T22:07:14.341488+00:00",
-      "lead_hours": 140,
-      "source_trail": [
-        {
-          "source_id": "resy_experiences",
-          "source_name": "Resy Experiences · Miami",
-          "seen_at": "2026-11-20T20:54:15.030662+00:00",
-          "url": "https://resy.com/cities/miami-fl/events/an-autumn-table-thanksgiving-at-le-jardinier-2026-11-26-6"
-        }
-      ]
-    },
-    {
-      "id": "c8f49c38520e26e74a7d0b83c0b81972533b386f",
-      "title": "Thanksgiving at Americana Kitchen",
-      "summary": "Celebrate Thanksgiving with a festive holiday buffet featuring chef-carved rosemary and butter-basted turkey, roasted honey baked ham, and herb-roasted ribeye alongside seasonal salads, hearty sides, and decadent desserts.\n\nEnjoy warm autumn décor, festive cocktails, and a bountiful spread of holiday favorites - the perfect way to gather and give thanks.\n\nMimosas, Bellinis and Bloody Marys by the glass $17. Bottomless option for $27\n\n\n\n$98 per adult\n\n$35 for kids ages 6-12\n\nKids 5 and under eat ",
-      "starts_at": "2026-11-26T12:00:00-05:00",
-      "ends_at": "2026-11-26T13:30:00-05:00",
-      "all_day": false,
-      "venue": "Americana Kitchen at Loews Coral Gables Hotel",
-      "neighborhood": "Coral Gables",
-      "city": "Coral Gables",
-      "url": "https://resy.com/cities/miami-fl/events/thanksgiving-at-americana-kitchen-2026-11-26-6",
-      "rsvp_url": "https://resy.com/cities/miami-fl/events/thanksgiving-at-americana-kitchen-2026-11-26-6",
-      "image_url": "https://image.resy.com/3/003/2/65279/8b6a6de68b084eece36058f60a5f819542e402e9/jpg/640x360",
-      "access": "registration",
-      "industry": "culinary",
-      "categories": [
-        "culinary",
-        "hospitality"
-      ],
-      "access_tip": "Book on Resy as soon as listings drop — guest-chef nights often sell out the same week.",
-      "contact_url": "https://resy.com/cities/miami-fl/events",
-      "contact_email": null,
-      "ask_for": "Restaurant events team via Resy",
-      "score": 100,
-      "confidence": 0.9,
-      "why_it_matters": "Listed on Resy Experiences — book before hotel calendars catch it — luxury / hospitality keywords — at Americana Kitchen at Loews Coral Gables Hotel",
-      "source_id": "resy_experiences",
-      "source_name": "Resy Experiences · Miami",
-      "source_url": "https://resy.com/cities/miami-fl/events",
-      "first_seen_at": "2026-11-21T19:54:47.885758+00:00",
-      "last_seen_at": "2026-11-25T22:07:14.341488+00:00",
-      "lead_hours": 117,
-      "source_trail": [
-        {
-          "source_id": "resy_experiences",
-          "source_name": "Resy Experiences · Miami",
-          "seen_at": "2026-11-21T19:54:47.885758+00:00",
-          "url": "https://resy.com/cities/miami-fl/events/thanksgiving-at-americana-kitchen-2026-11-26-6"
-        }
-      ]
-    },
-    {
-      "id": "2d99895a42334382a4adac2278da14091ce9ca98",
-      "title": "Thanksgiving Day",
-      "summary": "Cancellation Policy: We kindly ask that you cancel 48-hours in advance of the reservation time to avoid a late cancellation or non-attendance fee of $50 per person.\n\nValet is located in front of restaurant, and is $20 per vehicle.\n\nLate Arrival: Please contact us if running late, We hold tables for up to 15 minutes past the reservation time.\n\nSeating: We kindly ask that the entire party is present to being seated.\n\nCorkage: Regretfully corkage is not permitted. Join us for Thanksgiving, whether ",
-      "starts_at": "2026-11-26T12:30:00-05:00",
-      "ends_at": "2026-11-26T14:30:00-05:00",
-      "all_day": false,
-      "venue": "LPM Miami",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://resy.com/cities/miami-fl/events/thanksgiving-day-2026-11-26-6",
-      "rsvp_url": "https://resy.com/cities/miami-fl/events/thanksgiving-day-2026-11-26-6",
-      "image_url": "https://image.resy.com/3/003/2/99833/69d34927c64e48eb770268b07e58f5ebfcb61d3f/jpg/640x360",
-      "access": "registration",
-      "industry": "culinary",
-      "categories": [
-        "culinary",
-        "hospitality"
-      ],
-      "access_tip": "Book on Resy as soon as listings drop — guest-chef nights often sell out the same week.",
-      "contact_url": "https://resy.com/cities/miami-fl/events",
-      "contact_email": null,
-      "ask_for": "Restaurant events team via Resy",
-      "score": 100,
-      "confidence": 0.9,
-      "why_it_matters": "Listed on Resy Experiences — book before hotel calendars catch it — luxury / hospitality keywords — at LPM Miami",
-      "source_id": "resy_experiences",
-      "source_name": "Resy Experiences · Miami",
-      "source_url": "https://resy.com/cities/miami-fl/events",
-      "first_seen_at": "2026-11-25T22:06:58.204072+00:00",
-      "last_seen_at": "2026-11-25T22:07:14.341488+00:00",
-      "lead_hours": 19,
-      "source_trail": [
-        {
-          "source_id": "resy_experiences",
-          "source_name": "Resy Experiences · Miami",
-          "seen_at": "2026-11-25T22:06:58.204072+00:00",
-          "url": "https://resy.com/cities/miami-fl/events/thanksgiving-day-2026-11-26-6"
-        }
-      ]
-    },
-    {
-      "id": "a2114182c11764f9c9e7e9d90bbf06754a28579e",
-      "title": "Thanksgivings 2026",
-      "summary": "Celebrate Thanksgiving with family and friends at Semilla! Enjoy a delicious holiday menu thoughtfully prepared by our chef, featuring traditional Thanksgiving favorites with a French-inspired twist.\n\n**Thanksgiving Menu  $88++ per person**\n\n**Family Style Starters**\n\nApple Wedge Salad with Turkey Bacon\n\nHeirloom Carrot & Sweet Potato Soup\n\nBaked Brie & Cranberry en Croûte\n\n**Entree & Sides**\n\nOrganic Turkey Breast Roulade Stuffed with Chanterelle Mushrooms\n\nCreamy Potatoes au Gratin\n\nOrganic Gr",
-      "starts_at": "2026-11-26T13:00:00-05:00",
-      "ends_at": "2026-11-26T14:30:00-05:00",
-      "all_day": false,
-      "venue": "Semilla Eatery & Bar",
-      "neighborhood": "Miami Beach",
-      "city": "Miami Beach",
-      "url": "https://resy.com/cities/miami-fl/events/thanksgivings-2026-2026-11-26-6",
-      "rsvp_url": "https://resy.com/cities/miami-fl/events/thanksgivings-2026-2026-11-26-6",
-      "image_url": "https://image.resy.com/3/003/2/68559/fe7f267fc6dc835dc4639490235ae8e790681ff3/jpg/640x360",
-      "access": "registration",
-      "industry": "culinary",
-      "categories": [
-        "culinary",
-        "hospitality"
-      ],
-      "access_tip": "Book on Resy as soon as listings drop — guest-chef nights often sell out the same week.",
-      "contact_url": "https://resy.com/cities/miami-fl/events",
-      "contact_email": null,
-      "ask_for": "Restaurant events team via Resy",
-      "score": 100,
-      "confidence": 0.9,
-      "why_it_matters": "Listed on Resy Experiences — book before hotel calendars catch it — luxury / hospitality keywords — at Semilla Eatery & Bar",
-      "source_id": "resy_experiences",
-      "source_name": "Resy Experiences · Miami",
-      "source_url": "https://resy.com/cities/miami-fl/events",
-      "first_seen_at": "2026-11-25T22:06:58.204084+00:00",
-      "last_seen_at": "2026-11-25T22:07:14.341488+00:00",
-      "lead_hours": 19,
-      "source_trail": [
-        {
-          "source_id": "resy_experiences",
-          "source_name": "Resy Experiences · Miami",
-          "seen_at": "2026-11-25T22:06:58.204084+00:00",
-          "url": "https://resy.com/cities/miami-fl/events/thanksgivings-2026-2026-11-26-6"
+          "seen_at": "2026-11-26T22:05:38.564722+00:00",
+          "url": "https://resy.com/cities/miami-fl/events/thanksgiving-experience-2026-11-26-6"
         }
       ]
     },
@@ -854,7 +690,7 @@
       "source_name": "Faena Miami Beach",
       "source_url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/thanksgiving-at-faena-miami-beach",
       "first_seen_at": "2026-11-14T18:38:12.835307+00:00",
-      "last_seen_at": "2026-11-25T22:07:14.341488+00:00",
+      "last_seen_at": "2026-11-26T22:05:55.205926+00:00",
       "lead_hours": 291,
       "source_trail": [
         {
@@ -862,6 +698,88 @@
           "source_name": "Faena Miami Beach",
           "seen_at": "2026-11-14T18:38:12.835307+00:00",
           "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/thanksgiving-dinner-at-faena-miami-beach"
+        }
+      ]
+    },
+    {
+      "id": "a2114182c11764f9c9e7e9d90bbf06754a28579e",
+      "title": "Thanksgivings 2026",
+      "summary": "Celebrate Thanksgiving with family and friends at Semilla! Enjoy a delicious holiday menu thoughtfully prepared by our chef, featuring traditional Thanksgiving favorites with a French-inspired twist.\n\n**Thanksgiving Menu  $88++ per person**\n\n**Family Style Starters**\n\nApple Wedge Salad with Turkey Bacon\n\nHeirloom Carrot & Sweet Potato Soup\n\nBaked Brie & Cranberry en Croûte\n\n**Entree & Sides**\n\nOrganic Turkey Breast Roulade Stuffed with Chanterelle Mushrooms\n\nCreamy Potatoes au Gratin\n\nOrganic Gr",
+      "starts_at": "2026-11-26T17:45:00-05:00",
+      "ends_at": "2026-11-26T19:15:00-05:00",
+      "all_day": false,
+      "venue": "Semilla Eatery & Bar",
+      "neighborhood": "Miami Beach",
+      "city": "Miami Beach",
+      "url": "https://resy.com/cities/miami-fl/events/thanksgivings-2026-2026-11-26-6",
+      "rsvp_url": "https://resy.com/cities/miami-fl/events/thanksgivings-2026-2026-11-26-6",
+      "image_url": "https://image.resy.com/3/003/2/68559/fe7f267fc6dc835dc4639490235ae8e790681ff3/jpg/640x360",
+      "access": "registration",
+      "industry": "culinary",
+      "categories": [
+        "culinary",
+        "hospitality"
+      ],
+      "access_tip": "Book on Resy as soon as listings drop — guest-chef nights often sell out the same week.",
+      "contact_url": "https://resy.com/cities/miami-fl/events",
+      "contact_email": null,
+      "ask_for": "Restaurant events team via Resy",
+      "score": 100,
+      "confidence": 0.9,
+      "why_it_matters": "Listed on Resy Experiences — book before hotel calendars catch it — luxury / hospitality keywords — at Semilla Eatery & Bar",
+      "source_id": "resy_experiences",
+      "source_name": "Resy Experiences · Miami",
+      "source_url": "https://resy.com/cities/miami-fl/events",
+      "first_seen_at": "2026-11-25T22:06:58.204084+00:00",
+      "last_seen_at": "2026-11-26T22:05:55.205926+00:00",
+      "lead_hours": 24,
+      "source_trail": [
+        {
+          "source_id": "resy_experiences",
+          "source_name": "Resy Experiences · Miami",
+          "seen_at": "2026-11-25T22:06:58.204084+00:00",
+          "url": "https://resy.com/cities/miami-fl/events/thanksgivings-2026-2026-11-26-6"
+        }
+      ]
+    },
+    {
+      "id": "03c434d570813c415029e25068cfb0b22c18a910",
+      "title": "Thanksgiving",
+      "summary": "**From 26th to 29th November** This Thanksgiving, GAIA embraces the spirit of togetherness through the warmth and generosity of Grecian hospitality.\n\nA selection of specially curated dishes inspired by the occasion complements the à la carte menu, bringing seasonal flavors and a festive touch to the table.\n\n\n\nIn an intimate and inviting atmosphere, the experience celebrates meaningful moments and the simple pleasure of gathering with loved ones.\n\nFrom 26th to 29th November",
+      "starts_at": "2026-11-26T18:00:00-05:00",
+      "ends_at": "2026-11-26T20:00:00-05:00",
+      "all_day": false,
+      "venue": "GAIA Miami",
+      "neighborhood": "Miami Beach",
+      "city": "Miami Beach",
+      "url": "https://resy.com/cities/miami-fl/events/thanksgiving-2026-11-26-6",
+      "rsvp_url": "https://resy.com/cities/miami-fl/events/thanksgiving-2026-11-26-6",
+      "image_url": "https://image.resy.com/3/003/2/95798/c4c826a43be0e26bb9eb1e1ffc4b6099c074a92c/jpg/640x360",
+      "access": "registration",
+      "industry": "culinary",
+      "categories": [
+        "culinary",
+        "hospitality"
+      ],
+      "access_tip": "Book on Resy as soon as listings drop — guest-chef nights often sell out the same week.",
+      "contact_url": "https://resy.com/cities/miami-fl/events",
+      "contact_email": null,
+      "ask_for": "Restaurant events team via Resy",
+      "score": 100,
+      "confidence": 0.9,
+      "why_it_matters": "Listed on Resy Experiences — book before hotel calendars catch it — luxury + networking keywords — at GAIA Miami",
+      "source_id": "resy_experiences",
+      "source_name": "Resy Experiences · Miami",
+      "source_url": "https://resy.com/cities/miami-fl/events",
+      "first_seen_at": "2026-11-26T22:05:38.564782+00:00",
+      "last_seen_at": "2026-11-26T22:05:55.205926+00:00",
+      "lead_hours": 0,
+      "source_trail": [
+        {
+          "source_id": "resy_experiences",
+          "source_name": "Resy Experiences · Miami",
+          "seen_at": "2026-11-26T22:05:38.564782+00:00",
+          "url": "https://resy.com/cities/miami-fl/events/thanksgiving-2026-11-26-6"
         }
       ]
     },
@@ -896,7 +814,7 @@
       "source_name": "Faena Miami Beach",
       "source_url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/thanksgiving-at-faena-miami-beach",
       "first_seen_at": "2026-11-14T18:38:12.834534+00:00",
-      "last_seen_at": "2026-11-25T22:07:14.341488+00:00",
+      "last_seen_at": "2026-11-26T22:05:55.205926+00:00",
       "lead_hours": 292,
       "source_trail": [
         {
@@ -938,7 +856,7 @@
       "source_name": "Faena Miami Beach",
       "source_url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/thanksgiving-at-faena-miami-beach",
       "first_seen_at": "2026-11-14T18:38:12.834908+00:00",
-      "last_seen_at": "2026-11-25T22:07:14.341488+00:00",
+      "last_seen_at": "2026-11-26T22:05:55.205926+00:00",
       "lead_hours": 292,
       "source_trail": [
         {
@@ -946,6 +864,88 @@
           "source_name": "Faena Miami Beach",
           "seen_at": "2026-11-14T18:38:12.834908+00:00",
           "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/thanksgiving-dinner-at-faena-miami-beach"
+        }
+      ]
+    },
+    {
+      "id": "aaa37f0e8e3d18086cb48ec3354f1cd513753fa2",
+      "title": "An Autumn Table: Thanksgiving at Le Jardinier",
+      "summary": "**Thursday, November 26th**\n**12pm - 9pm**\n\n**$185 per person plus Tax & Gratuity**\n\nCelebrate Thanksgiving at Le Jardinier on Thursday, November 26th, with a 3-course prix fixe menu from Executive Chef James Friedberg and Chef de Cuisine Mario da Silva that bring the flavors of fall to the table.\n\nDelight in a Deviled Egg amuse-bouche before savoring a first course such as Butternut Squash Velouté, followed by Braised Beef Cheek with Port wine sauce or a traditional Organic Turkey with cranberr",
+      "starts_at": "2026-11-26T20:15:00-05:00",
+      "ends_at": "2026-11-26T22:15:00-05:00",
+      "all_day": false,
+      "venue": "Le Jardinier Miami",
+      "neighborhood": "Miami",
+      "city": "Miami",
+      "url": "https://resy.com/cities/miami-fl/events/an-autumn-table-thanksgiving-at-le-jardinier-2026-11-26-6",
+      "rsvp_url": "https://resy.com/cities/miami-fl/events/an-autumn-table-thanksgiving-at-le-jardinier-2026-11-26-6",
+      "image_url": "https://image.resy.com/3/003/2/35005/123f2a5f37f0ab93290aacc9f9900fe18f44254c/jpg/640x360",
+      "access": "registration",
+      "industry": "culinary",
+      "categories": [
+        "culinary",
+        "hospitality"
+      ],
+      "access_tip": "Book on Resy as soon as listings drop — guest-chef nights often sell out the same week.",
+      "contact_url": "https://resy.com/cities/miami-fl/events",
+      "contact_email": null,
+      "ask_for": "Restaurant events team via Resy",
+      "score": 100,
+      "confidence": 0.9,
+      "why_it_matters": "Listed on Resy Experiences — book before hotel calendars catch it — luxury / hospitality keywords — at Le Jardinier Miami",
+      "source_id": "resy_experiences",
+      "source_name": "Resy Experiences · Miami",
+      "source_url": "https://resy.com/cities/miami-fl/events",
+      "first_seen_at": "2026-11-20T20:54:15.030662+00:00",
+      "last_seen_at": "2026-11-26T22:05:55.205926+00:00",
+      "lead_hours": 148,
+      "source_trail": [
+        {
+          "source_id": "resy_experiences",
+          "source_name": "Resy Experiences · Miami",
+          "seen_at": "2026-11-20T20:54:15.030662+00:00",
+          "url": "https://resy.com/cities/miami-fl/events/an-autumn-table-thanksgiving-at-le-jardinier-2026-11-26-6"
+        }
+      ]
+    },
+    {
+      "id": "2d99895a42334382a4adac2278da14091ce9ca98",
+      "title": "Thanksgiving Day",
+      "summary": "Cancellation Policy: We kindly ask that you cancel 48-hours in advance of the reservation time to avoid a late cancellation or non-attendance fee of $50 per person.\n\nValet is located in front of restaurant, and is $20 per vehicle.\n\nLate Arrival: Please contact us if running late, We hold tables for up to 15 minutes past the reservation time.\n\nSeating: We kindly ask that the entire party is present to being seated.\n\nCorkage: Regretfully corkage is not permitted. Join us for Thanksgiving, whether ",
+      "starts_at": "2026-11-26T21:30:00-05:00",
+      "ends_at": "2026-11-26T23:30:00-05:00",
+      "all_day": false,
+      "venue": "LPM Miami",
+      "neighborhood": "Miami",
+      "city": "Miami",
+      "url": "https://resy.com/cities/miami-fl/events/thanksgiving-day-2026-11-26-6",
+      "rsvp_url": "https://resy.com/cities/miami-fl/events/thanksgiving-day-2026-11-26-6",
+      "image_url": "https://image.resy.com/3/003/2/99833/69d34927c64e48eb770268b07e58f5ebfcb61d3f/jpg/640x360",
+      "access": "registration",
+      "industry": "culinary",
+      "categories": [
+        "culinary",
+        "hospitality"
+      ],
+      "access_tip": "Book on Resy as soon as listings drop — guest-chef nights often sell out the same week.",
+      "contact_url": "https://resy.com/cities/miami-fl/events",
+      "contact_email": null,
+      "ask_for": "Restaurant events team via Resy",
+      "score": 100,
+      "confidence": 0.9,
+      "why_it_matters": "Listed on Resy Experiences — book before hotel calendars catch it — luxury / hospitality keywords — at LPM Miami",
+      "source_id": "resy_experiences",
+      "source_name": "Resy Experiences · Miami",
+      "source_url": "https://resy.com/cities/miami-fl/events",
+      "first_seen_at": "2026-11-25T22:06:58.204072+00:00",
+      "last_seen_at": "2026-11-26T22:05:55.205926+00:00",
+      "lead_hours": 28,
+      "source_trail": [
+        {
+          "source_id": "resy_experiences",
+          "source_name": "Resy Experiences · Miami",
+          "seen_at": "2026-11-25T22:06:58.204072+00:00",
+          "url": "https://resy.com/cities/miami-fl/events/thanksgiving-day-2026-11-26-6"
         }
       ]
     },
@@ -980,7 +980,7 @@
       "source_name": "The Backgammon Society",
       "source_url": "https://www.thebackgammonsociety.com/",
       "first_seen_at": "2026-11-19T21:09:27.814067+00:00",
-      "last_seen_at": "2026-11-25T22:07:14.341488+00:00",
+      "last_seen_at": "2026-11-26T22:05:55.205926+00:00",
       "lead_hours": 986,
       "source_trail": [
         {
@@ -1022,7 +1022,7 @@
       "source_name": "Luma Miami · Food & Chef",
       "source_url": "https://luma.com/miami",
       "first_seen_at": "2026-11-20T20:54:14.386257+00:00",
-      "last_seen_at": "2026-11-25T22:07:14.341488+00:00",
+      "last_seen_at": "2026-11-26T22:05:55.205926+00:00",
       "lead_hours": 338,
       "source_trail": [
         {
@@ -1064,7 +1064,7 @@
       "source_name": "Eater Miami",
       "source_url": "https://miami.eater.com/rss/index.xml",
       "first_seen_at": "2026-10-30T18:23:37.970494+00:00",
-      "last_seen_at": "2026-11-25T22:07:14.341488+00:00",
+      "last_seen_at": "2026-11-26T22:05:55.205926+00:00",
       "lead_hours": null,
       "source_trail": [
         {
@@ -1106,7 +1106,7 @@
       "source_name": "Luma Miami · Food & Chef",
       "source_url": "https://luma.com/miami",
       "first_seen_at": "2026-11-24T22:53:48.790826+00:00",
-      "last_seen_at": "2026-11-25T22:07:14.341488+00:00",
+      "last_seen_at": "2026-11-26T22:05:55.205926+00:00",
       "lead_hours": 120,
       "source_trail": [
         {
@@ -1148,7 +1148,7 @@
       "source_name": "The Backgammon Society",
       "source_url": "https://www.thebackgammonsociety.com/",
       "first_seen_at": "2026-11-19T21:09:27.814673+00:00",
-      "last_seen_at": "2026-11-25T22:07:14.341488+00:00",
+      "last_seen_at": "2026-11-26T22:05:55.205926+00:00",
       "lead_hours": 1490,
       "source_trail": [
         {
@@ -1189,7 +1189,7 @@
       "source_name": "Haute Living",
       "source_url": "https://hauteliving.com/feed/",
       "first_seen_at": "2026-11-20T20:54:10.479947+00:00",
-      "last_seen_at": "2026-11-25T22:07:14.341488+00:00",
+      "last_seen_at": "2026-11-26T22:05:55.205926+00:00",
       "lead_hours": null,
       "source_trail": [
         {
@@ -1231,7 +1231,7 @@
       "source_name": "Eater Miami",
       "source_url": "https://miami.eater.com/rss/index.xml",
       "first_seen_at": "2026-10-12T21:28:12.732047+00:00",
-      "last_seen_at": "2026-11-25T22:07:14.341488+00:00",
+      "last_seen_at": "2026-11-26T22:05:55.205926+00:00",
       "lead_hours": null,
       "source_trail": [
         {
@@ -1272,7 +1272,7 @@
       "source_name": "Haute Living",
       "source_url": "https://hauteliving.com/feed/",
       "first_seen_at": "2026-11-22T20:06:38.766948+00:00",
-      "last_seen_at": "2026-11-25T22:07:14.341488+00:00",
+      "last_seen_at": "2026-11-26T22:05:55.205926+00:00",
       "lead_hours": null,
       "source_trail": [
         {
@@ -1280,6 +1280,47 @@
           "source_name": "Haute Living",
           "seen_at": "2026-11-22T20:06:38.766948+00:00",
           "url": "https://hauteliving.com/2026/11/nfl-art-basel-miami-2026-andy-gotts-glorious-artist-replay-villa/803472/"
+        }
+      ]
+    },
+    {
+      "id": "e967fea3512d4b619a9e18f5fdde20dbe9b591dd",
+      "title": "MIAMI ART WEEK | EXHIBITION OPENING RECEPTION",
+      "summary": "",
+      "starts_at": "2026-12-02T20:00:00-08:00",
+      "ends_at": "2026-12-02T22:00:00-08:00",
+      "all_day": false,
+      "venue": "",
+      "neighborhood": "Miami",
+      "city": "Miami",
+      "url": "https://thebass.org/event/miami-art-week-exhibition-opening-reception/",
+      "rsvp_url": "https://thebass.org/event/miami-art-week-exhibition-opening-reception/",
+      "image_url": null,
+      "access": "public",
+      "industry": "art_fashion",
+      "categories": [
+        "art",
+        "culture"
+      ],
+      "access_tip": "Open the official source for current admission details. Reserve early if a booking option is shown.",
+      "contact_url": "https://thebass.org/event/miami-art-week-exhibition-opening-reception/",
+      "contact_email": null,
+      "ask_for": "The Bass Membership or Development Team for private dinners and patron previews",
+      "score": 70,
+      "confidence": 0.9,
+      "why_it_matters": "From The Bass — luxury + networking keywords",
+      "source_id": "the_bass",
+      "source_name": "The Bass",
+      "source_url": "https://thebass.org/events/?ical=1",
+      "first_seen_at": "2026-10-26T19:00:25.816750+00:00",
+      "last_seen_at": "2026-11-26T22:05:55.205926+00:00",
+      "lead_hours": 896,
+      "source_trail": [
+        {
+          "source_id": "the_bass",
+          "source_name": "The Bass",
+          "seen_at": "2026-10-26T19:00:25.816750+00:00",
+          "url": "https://thebass.org/event/miami-art-week-exhibition-opening-reception/"
         }
       ]
     },
@@ -1313,7 +1354,7 @@
       "source_name": "World Red Eye",
       "source_url": "https://worldredeye.com/feed/",
       "first_seen_at": "2026-11-24T22:53:42.616511+00:00",
-      "last_seen_at": "2026-11-25T22:07:14.341488+00:00",
+      "last_seen_at": "2026-11-26T22:05:55.205926+00:00",
       "lead_hours": null,
       "source_trail": [
         {
@@ -1355,7 +1396,7 @@
       "source_name": "Backgammon Social Miami",
       "source_url": "https://luma.com/backgammonsocialmiami",
       "first_seen_at": "2026-11-20T20:54:15.497986+00:00",
-      "last_seen_at": "2026-11-25T22:07:14.341488+00:00",
+      "last_seen_at": "2026-11-26T22:05:55.205926+00:00",
       "lead_hours": 266,
       "source_trail": [
         {
@@ -1363,47 +1404,6 @@
           "source_name": "Backgammon Social Miami",
           "seen_at": "2026-11-20T20:54:15.497986+00:00",
           "url": "https://posh.vip/e/the-art-of-play"
-        }
-      ]
-    },
-    {
-      "id": "e967fea3512d4b619a9e18f5fdde20dbe9b591dd",
-      "title": "MIAMI ART WEEK | EXHIBITION OPENING RECEPTION",
-      "summary": "",
-      "starts_at": "2026-12-02T20:00:00-08:00",
-      "ends_at": "2026-12-02T22:00:00-08:00",
-      "all_day": false,
-      "venue": "",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://thebass.org/event/miami-art-week-exhibition-opening-reception/",
-      "rsvp_url": "https://thebass.org/event/miami-art-week-exhibition-opening-reception/",
-      "image_url": null,
-      "access": "public",
-      "industry": "art_fashion",
-      "categories": [
-        "art",
-        "culture"
-      ],
-      "access_tip": "Open the official source for current admission details. Reserve early if a booking option is shown.",
-      "contact_url": "https://thebass.org/event/miami-art-week-exhibition-opening-reception/",
-      "contact_email": null,
-      "ask_for": "The Bass Membership or Development Team for private dinners and patron previews",
-      "score": 64,
-      "confidence": 0.9,
-      "why_it_matters": "From The Bass — luxury + networking keywords",
-      "source_id": "the_bass",
-      "source_name": "The Bass",
-      "source_url": "https://thebass.org/events/?ical=1",
-      "first_seen_at": "2026-10-26T19:00:25.816750+00:00",
-      "last_seen_at": "2026-11-25T22:07:14.341488+00:00",
-      "lead_hours": 896,
-      "source_trail": [
-        {
-          "source_id": "the_bass",
-          "source_name": "The Bass",
-          "seen_at": "2026-10-26T19:00:25.816750+00:00",
-          "url": "https://thebass.org/event/miami-art-week-exhibition-opening-reception/"
         }
       ]
     },
@@ -1437,7 +1437,7 @@
       "source_name": "Beacon Council RSS",
       "source_url": "https://www.beaconcouncil.com/events/feed/",
       "first_seen_at": "2026-11-09T22:50:53.261145+00:00",
-      "last_seen_at": "2026-11-25T22:07:14.341488+00:00",
+      "last_seen_at": "2026-11-26T22:05:55.205926+00:00",
       "lead_hours": 754,
       "source_trail": [
         {
