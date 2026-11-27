@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-26T22:06:10.354342+00:00",
+  "generated_at": "2026-11-27T21:48:31.648346+00:00",
   "timezone": "America/New_York",
   "version": 1,
-  "event_count": 21,
+  "event_count": 25,
   "industries": [
     "hospitality",
     "sports",
@@ -578,18 +578,18 @@
   ],
   "events": [
     {
-      "id": "742cedfd1b67779838535be4f239d91ff966b200",
-      "title": "Thanksgiving Dinner",
-      "summary": "This Thanksgiving, join us at Carbone Vino for a one-of-a-kind Thanksgiving Supper. Seasonal offerings include Glazed Turkey Breast, Cornbread Stuffing, Pumpkin Cheesecake, and more holiday favorites. A 20% gratuity will be added to all reservations without preselected gratuity.  If you’d like to change the amount of your gratuity, please speak to a manager on site.\n\nWe encourage guests to dress for the occasion. No shorts, open-toed shoes, or tank tops. Athletic wear and baseball caps are prohi",
-      "starts_at": "2026-11-26T14:00:00-05:00",
-      "ends_at": "2026-11-26T21:00:00-05:00",
+      "id": "7598f9073327a491d3e76b7e6436116bdc3582b0",
+      "title": "Exclusive Wine Tasting Experience",
+      "summary": "*A multi-sensory journey of flavor, aroma, and texture.*",
+      "starts_at": "2026-11-27T15:00:00-05:00",
+      "ends_at": "2026-11-27T17:30:00-05:00",
       "all_day": false,
-      "venue": "CARBONE VINO Coconut Grove",
-      "neighborhood": "Coconut Grove",
+      "venue": "Hakkasan Miami",
+      "neighborhood": "Miami",
       "city": "Miami",
-      "url": "https://resy.com/cities/miami-fl/events/thanksgiving-dinner-2026-11-26-6",
-      "rsvp_url": "https://resy.com/cities/miami-fl/events/thanksgiving-dinner-2026-11-26-6",
-      "image_url": "https://image.resy.com/3/003/2/86433/34fdd8efce6d13c2ddadd5ee288fbc9c7951663a/jpg/640x360",
+      "url": "https://resy.com/cities/miami-fl/events/exclusive-wine-tasting-experience-2026-11-27-6",
+      "rsvp_url": "https://resy.com/cities/miami-fl/events/exclusive-wine-tasting-experience-2026-11-27-6",
+      "image_url": "https://image.resy.com/3/003/2/93714/3a62529ac81adbb946f1fecabe4cddca1a912523/jpg/640x360",
       "access": "registration",
       "industry": "culinary",
       "categories": [
@@ -602,35 +602,35 @@
       "ask_for": "Restaurant events team via Resy",
       "score": 100,
       "confidence": 0.9,
-      "why_it_matters": "Listed on Resy Experiences — book before hotel calendars catch it — luxury / hospitality keywords — at CARBONE VINO Coconut Grove",
+      "why_it_matters": "Listed on Resy Experiences — book before hotel calendars catch it — luxury / hospitality keywords — at Hakkasan Miami",
       "source_id": "resy_experiences",
       "source_name": "Resy Experiences · Miami",
       "source_url": "https://resy.com/cities/miami-fl/events",
-      "first_seen_at": "2026-11-26T22:05:38.564744+00:00",
-      "last_seen_at": "2026-11-26T22:05:55.205926+00:00",
-      "lead_hours": -4,
+      "first_seen_at": "2026-11-27T21:48:00.414113+00:00",
+      "last_seen_at": "2026-11-27T21:48:16.529306+00:00",
+      "lead_hours": -2,
       "source_trail": [
         {
           "source_id": "resy_experiences",
           "source_name": "Resy Experiences · Miami",
-          "seen_at": "2026-11-26T22:05:38.564744+00:00",
-          "url": "https://resy.com/cities/miami-fl/events/thanksgiving-dinner-2026-11-26-6"
+          "seen_at": "2026-11-27T21:48:00.414113+00:00",
+          "url": "https://resy.com/cities/miami-fl/events/exclusive-wine-tasting-experience-2026-11-27-6"
         }
       ]
     },
     {
-      "id": "2353055247896fd4074729d3c0bdbe142090e5b3",
-      "title": "Thanksgiving Experience",
-      "summary": "Join us on Thursday, November 26th, from 2:00 PM to 9:00 PM, for an indulgent all-you-can-eat buffet crafted to delight every palate. Our expansive spread will feature a fresh salad station with seasonal ingredients, an impressive raw bar, chef-attended carving stations serving up succulent prime rib, traditional roasted turkey, and more, and a variety of classic Thanksgiving sides from creamy mashed potatoes to herb stuffing and cranberry sauce, an assortment of decadent desserts to complete yo",
-      "starts_at": "2026-11-26T14:00:00-05:00",
-      "ends_at": "2026-11-26T20:30:00-05:00",
+      "id": "e66eaee00649fc5316ca99405a23e798cfa5b654",
+      "title": "Embers Over South Beach – A Woodfire Grill Dinner Experience",
+      "summary": "Fire. Flavor. Miami nights.\n\nExperience the spirit of the Argentine asado reimagined for South Beach at Loews Miami Beach Hotel. Set beneath the palms on our poolside, oceanfront terrace, this open-flame dining experience features an expansive wood fire grill menu of prime steaks, fresh seafood and house-made sausages alongside vibrant crudos, seasonal salads and more.\n\nWith smoky flavors, handcrafted cocktails and ocean breezes setting the tone, it’s an al fresco evening designed for nights to ",
+      "starts_at": "2026-11-28T18:00:00-05:00",
+      "ends_at": "2026-11-28T20:00:00-05:00",
       "all_day": false,
-      "venue": "Vida",
+      "venue": "Preston's Market at Loews Miami Beach Hotel",
       "neighborhood": "Miami Beach",
       "city": "Miami Beach",
-      "url": "https://resy.com/cities/miami-fl/events/thanksgiving-experience-2026-11-26-6",
-      "rsvp_url": "https://resy.com/cities/miami-fl/events/thanksgiving-experience-2026-11-26-6",
-      "image_url": "https://image.resy.com/3/003/2/93711/bbeae764db024c1797aa69e9e616e3db1444bbb0/jpg/640x360",
+      "url": "https://resy.com/cities/miami-fl/events/embers-over-south-beach-a-woodfire-grill-dinner-experience-2026-11-28-7",
+      "rsvp_url": "https://resy.com/cities/miami-fl/events/embers-over-south-beach-a-woodfire-grill-dinner-experience-2026-11-28-7",
+      "image_url": "https://image.resy.com/3/003/2/32639/5d10a20264148e1569dbf48d85dfc01bdc77cf10/jpg/640x360",
       "access": "registration",
       "industry": "culinary",
       "categories": [
@@ -643,77 +643,35 @@
       "ask_for": "Restaurant events team via Resy",
       "score": 100,
       "confidence": 0.9,
-      "why_it_matters": "Listed on Resy Experiences — book before hotel calendars catch it — luxury / hospitality keywords — at Vida",
+      "why_it_matters": "Listed on Resy Experiences — book before hotel calendars catch it — luxury / hospitality keywords — at Preston's Market at Loews Miami Beach Hotel",
       "source_id": "resy_experiences",
       "source_name": "Resy Experiences · Miami",
       "source_url": "https://resy.com/cities/miami-fl/events",
-      "first_seen_at": "2026-11-26T22:05:38.564722+00:00",
-      "last_seen_at": "2026-11-26T22:05:55.205926+00:00",
-      "lead_hours": -4,
+      "first_seen_at": "2026-11-27T21:48:00.414196+00:00",
+      "last_seen_at": "2026-11-27T21:48:16.529306+00:00",
+      "lead_hours": 25,
       "source_trail": [
         {
           "source_id": "resy_experiences",
           "source_name": "Resy Experiences · Miami",
-          "seen_at": "2026-11-26T22:05:38.564722+00:00",
-          "url": "https://resy.com/cities/miami-fl/events/thanksgiving-experience-2026-11-26-6"
+          "seen_at": "2026-11-27T21:48:00.414196+00:00",
+          "url": "https://resy.com/cities/miami-fl/events/embers-over-south-beach-a-woodfire-grill-dinner-experience-2026-11-28-7"
         }
       ]
     },
     {
-      "id": "1b2c337e6f998c458f4a54e258a6aa4fc437d2f4",
-      "title": "Thanksgiving at Campo, Casa Faena",
-      "summary": "Latin-inspired Thanksgiving dinner at Campo, Casa Faena: Roasted Turkey Roulade with squash blossom and spinach, hibiscus cranberry sauce, Roasted Sweet Potato in Hoja Sauce and Charred Brussels Sprouts.",
-      "starts_at": "2026-11-26T17:30:00-05:00",
-      "ends_at": "2026-11-26T22:00:00-05:00",
+      "id": "28c024dfb35883bb68ae1f1293657d76b8a94697",
+      "title": "Cin Cin Brunch | Bottomless Cocktails $35",
+      "summary": "This Sunday, November 29, we're open from 12pm to 3pm with two menus to choose from: our regular lunch menu and our new brunch menu. Add the Cin Cin Brunch to your table: for $35 per person, enjoy two hours of bottomless brunch cocktails, including Mimosa, Aperol Spritz, Di Capri Limoncello Spritz, Espresso Martini and Bloody Mary. The Cin Cin Brunch is paid at the restaurant. Save the date: next Sunday, December 6, live jazz during brunch & lunch at LITO. This booking reserves your table for lu",
+      "starts_at": "2026-11-29T12:00:00-05:00",
+      "ends_at": "2026-11-29T15:00:00-05:00",
       "all_day": false,
-      "venue": "Campo at Casa Faena",
-      "neighborhood": "Miami Beach",
-      "city": "Miami Beach",
-      "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/thanksgiving-dinner-at-faena-miami-beach",
-      "rsvp_url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/thanksgiving-dinner-at-faena-miami-beach",
-      "image_url": "https://www.faena.com/sites/default/files/styles/hero/public/2026-11/Thanksgiving%20-%20Faena%20Header2.jpg",
-      "access": "public",
-      "industry": "hospitality",
-      "categories": [
-        "hospitality",
-        "luxury",
-        "nightlife"
-      ],
-      "access_tip": "Use the event booking link for public programming. For Faena Rose events, submit the official membership-interest form.",
-      "contact_url": "https://forms.rosemembers.faena.com/membership-interest",
-      "contact_email": null,
-      "ask_for": "Faena Miami Beach",
-      "score": 100,
-      "confidence": 0.98,
-      "why_it_matters": "Listed on Faena Miami Beach — luxury / hospitality keywords — at Campo at Casa Faena",
-      "source_id": "faena",
-      "source_name": "Faena Miami Beach",
-      "source_url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/thanksgiving-at-faena-miami-beach",
-      "first_seen_at": "2026-11-14T18:38:12.835307+00:00",
-      "last_seen_at": "2026-11-26T22:05:55.205926+00:00",
-      "lead_hours": 291,
-      "source_trail": [
-        {
-          "source_id": "faena",
-          "source_name": "Faena Miami Beach",
-          "seen_at": "2026-11-14T18:38:12.835307+00:00",
-          "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/thanksgiving-dinner-at-faena-miami-beach"
-        }
-      ]
-    },
-    {
-      "id": "a2114182c11764f9c9e7e9d90bbf06754a28579e",
-      "title": "Thanksgivings 2026",
-      "summary": "Celebrate Thanksgiving with family and friends at Semilla! Enjoy a delicious holiday menu thoughtfully prepared by our chef, featuring traditional Thanksgiving favorites with a French-inspired twist.\n\n**Thanksgiving Menu  $88++ per person**\n\n**Family Style Starters**\n\nApple Wedge Salad with Turkey Bacon\n\nHeirloom Carrot & Sweet Potato Soup\n\nBaked Brie & Cranberry en Croûte\n\n**Entree & Sides**\n\nOrganic Turkey Breast Roulade Stuffed with Chanterelle Mushrooms\n\nCreamy Potatoes au Gratin\n\nOrganic Gr",
-      "starts_at": "2026-11-26T17:45:00-05:00",
-      "ends_at": "2026-11-26T19:15:00-05:00",
-      "all_day": false,
-      "venue": "Semilla Eatery & Bar",
-      "neighborhood": "Miami Beach",
-      "city": "Miami Beach",
-      "url": "https://resy.com/cities/miami-fl/events/thanksgivings-2026-2026-11-26-6",
-      "rsvp_url": "https://resy.com/cities/miami-fl/events/thanksgivings-2026-2026-11-26-6",
-      "image_url": "https://image.resy.com/3/003/2/68559/fe7f267fc6dc835dc4639490235ae8e790681ff3/jpg/640x360",
+      "venue": "Lito Miami",
+      "neighborhood": "Miami",
+      "city": "Miami",
+      "url": "https://resy.com/cities/miami-fl/events/cin-cin-brunch-bottomless-cocktails-35-2026-11-29-6",
+      "rsvp_url": "https://resy.com/cities/miami-fl/events/cin-cin-brunch-bottomless-cocktails-35-2026-11-29-6",
+      "image_url": "https://image.resy.com/3/003/2/99726/506fe5e5cbd65cf2040ee6ad868ab14422b090be/jpg/640x360",
       "access": "registration",
       "industry": "culinary",
       "categories": [
@@ -726,159 +684,34 @@
       "ask_for": "Restaurant events team via Resy",
       "score": 100,
       "confidence": 0.9,
-      "why_it_matters": "Listed on Resy Experiences — book before hotel calendars catch it — luxury / hospitality keywords — at Semilla Eatery & Bar",
+      "why_it_matters": "Listed on Resy Experiences — book before hotel calendars catch it — luxury / hospitality keywords — at Lito Miami",
       "source_id": "resy_experiences",
       "source_name": "Resy Experiences · Miami",
       "source_url": "https://resy.com/cities/miami-fl/events",
-      "first_seen_at": "2026-11-25T22:06:58.204084+00:00",
-      "last_seen_at": "2026-11-26T22:05:55.205926+00:00",
-      "lead_hours": 24,
+      "first_seen_at": "2026-11-27T21:48:00.414258+00:00",
+      "last_seen_at": "2026-11-27T21:48:16.529306+00:00",
+      "lead_hours": 43,
       "source_trail": [
         {
           "source_id": "resy_experiences",
           "source_name": "Resy Experiences · Miami",
-          "seen_at": "2026-11-25T22:06:58.204084+00:00",
-          "url": "https://resy.com/cities/miami-fl/events/thanksgivings-2026-2026-11-26-6"
+          "seen_at": "2026-11-27T21:48:00.414258+00:00",
+          "url": "https://resy.com/cities/miami-fl/events/cin-cin-brunch-bottomless-cocktails-35-2026-11-29-6"
         }
       ]
     },
     {
-      "id": "03c434d570813c415029e25068cfb0b22c18a910",
-      "title": "Thanksgiving",
-      "summary": "**From 26th to 29th November** This Thanksgiving, GAIA embraces the spirit of togetherness through the warmth and generosity of Grecian hospitality.\n\nA selection of specially curated dishes inspired by the occasion complements the à la carte menu, bringing seasonal flavors and a festive touch to the table.\n\n\n\nIn an intimate and inviting atmosphere, the experience celebrates meaningful moments and the simple pleasure of gathering with loved ones.\n\nFrom 26th to 29th November",
-      "starts_at": "2026-11-26T18:00:00-05:00",
-      "ends_at": "2026-11-26T20:00:00-05:00",
-      "all_day": false,
-      "venue": "GAIA Miami",
-      "neighborhood": "Miami Beach",
-      "city": "Miami Beach",
-      "url": "https://resy.com/cities/miami-fl/events/thanksgiving-2026-11-26-6",
-      "rsvp_url": "https://resy.com/cities/miami-fl/events/thanksgiving-2026-11-26-6",
-      "image_url": "https://image.resy.com/3/003/2/95798/c4c826a43be0e26bb9eb1e1ffc4b6099c074a92c/jpg/640x360",
-      "access": "registration",
-      "industry": "culinary",
-      "categories": [
-        "culinary",
-        "hospitality"
-      ],
-      "access_tip": "Book on Resy as soon as listings drop — guest-chef nights often sell out the same week.",
-      "contact_url": "https://resy.com/cities/miami-fl/events",
-      "contact_email": null,
-      "ask_for": "Restaurant events team via Resy",
-      "score": 100,
-      "confidence": 0.9,
-      "why_it_matters": "Listed on Resy Experiences — book before hotel calendars catch it — luxury + networking keywords — at GAIA Miami",
-      "source_id": "resy_experiences",
-      "source_name": "Resy Experiences · Miami",
-      "source_url": "https://resy.com/cities/miami-fl/events",
-      "first_seen_at": "2026-11-26T22:05:38.564782+00:00",
-      "last_seen_at": "2026-11-26T22:05:55.205926+00:00",
-      "lead_hours": 0,
-      "source_trail": [
-        {
-          "source_id": "resy_experiences",
-          "source_name": "Resy Experiences · Miami",
-          "seen_at": "2026-11-26T22:05:38.564782+00:00",
-          "url": "https://resy.com/cities/miami-fl/events/thanksgiving-2026-11-26-6"
-        }
-      ]
-    },
-    {
-      "id": "b464c72b3fd7839f4f2099bfdb743330014d6173",
-      "title": "Thanksgiving at Los Fuegos by Francis Mallmann",
-      "summary": "Live-fire Thanksgiving dinner at Los Fuegos by Francis Mallmann, Faena Miami Beach: Wood-Fired Wild Mushrooms, Colorado Lamb Loin, Slow-Cooked Turkey Pamplona with chestnut and sourdough stuffing and black truffle gravy, and Autumn Sweet Medley desserts.",
-      "starts_at": "2026-11-26T18:30:00-05:00",
-      "ends_at": "2026-11-26T22:30:00-05:00",
-      "all_day": false,
-      "venue": "Los Fuegos by Francis Mallmann at Faena Miami Beach",
-      "neighborhood": "Miami Beach",
-      "city": "Miami Beach",
-      "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/thanksgiving-dinner-at-faena-miami-beach",
-      "rsvp_url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/thanksgiving-dinner-at-faena-miami-beach",
-      "image_url": "https://www.faena.com/sites/default/files/styles/hero/public/2026-11/Thanksgiving%20-%20Faena%20Header2.jpg",
-      "access": "public",
-      "industry": "hospitality",
-      "categories": [
-        "hospitality",
-        "luxury",
-        "nightlife"
-      ],
-      "access_tip": "Use the event booking link for public programming. For Faena Rose events, submit the official membership-interest form.",
-      "contact_url": "https://forms.rosemembers.faena.com/membership-interest",
-      "contact_email": null,
-      "ask_for": "Faena Miami Beach",
-      "score": 100,
-      "confidence": 0.98,
-      "why_it_matters": "Listed on Faena Miami Beach — luxury / hospitality keywords — at Los Fuegos by Francis Mallmann at Faena Miami Beach",
-      "source_id": "faena",
-      "source_name": "Faena Miami Beach",
-      "source_url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/thanksgiving-at-faena-miami-beach",
-      "first_seen_at": "2026-11-14T18:38:12.834534+00:00",
-      "last_seen_at": "2026-11-26T22:05:55.205926+00:00",
-      "lead_hours": 292,
-      "source_trail": [
-        {
-          "source_id": "faena",
-          "source_name": "Faena Miami Beach",
-          "seen_at": "2026-11-14T18:38:12.834534+00:00",
-          "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/thanksgiving-dinner-at-faena-miami-beach"
-        }
-      ]
-    },
-    {
-      "id": "244adc915bc49c4205dde62a50ff4bbe411b3d43",
-      "title": "Thanksgiving at Pao by Paul Qui",
-      "summary": "Asian-inspired Thanksgiving dinner at Pao by Paul Qui, Faena Miami Beach: Scallop Crudo with wagyu caramel, Pumpkin Risotto with truffle and burrata, Heritage Turkey Breast with cranberry-stuffed morels and duck tamari gravy, and Sweet Harvest desserts.",
-      "starts_at": "2026-11-26T18:30:00-05:00",
-      "ends_at": "2026-11-26T23:00:00-05:00",
-      "all_day": false,
-      "venue": "Pao by Paul Qui at Faena Miami Beach",
-      "neighborhood": "Miami Beach",
-      "city": "Miami Beach",
-      "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/thanksgiving-dinner-at-faena-miami-beach",
-      "rsvp_url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/thanksgiving-dinner-at-faena-miami-beach",
-      "image_url": "https://www.faena.com/sites/default/files/styles/hero/public/2026-11/Thanksgiving%20-%20Faena%20Header2.jpg",
-      "access": "public",
-      "industry": "hospitality",
-      "categories": [
-        "hospitality",
-        "luxury",
-        "nightlife"
-      ],
-      "access_tip": "Use the event booking link for public programming. For Faena Rose events, submit the official membership-interest form.",
-      "contact_url": "https://forms.rosemembers.faena.com/membership-interest",
-      "contact_email": null,
-      "ask_for": "Faena Miami Beach",
-      "score": 100,
-      "confidence": 0.98,
-      "why_it_matters": "Listed on Faena Miami Beach — luxury / hospitality keywords — at Pao by Paul Qui at Faena Miami Beach",
-      "source_id": "faena",
-      "source_name": "Faena Miami Beach",
-      "source_url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/thanksgiving-at-faena-miami-beach",
-      "first_seen_at": "2026-11-14T18:38:12.834908+00:00",
-      "last_seen_at": "2026-11-26T22:05:55.205926+00:00",
-      "lead_hours": 292,
-      "source_trail": [
-        {
-          "source_id": "faena",
-          "source_name": "Faena Miami Beach",
-          "seen_at": "2026-11-14T18:38:12.834908+00:00",
-          "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/thanksgiving-dinner-at-faena-miami-beach"
-        }
-      ]
-    },
-    {
-      "id": "aaa37f0e8e3d18086cb48ec3354f1cd513753fa2",
-      "title": "An Autumn Table: Thanksgiving at Le Jardinier",
-      "summary": "**Thursday, November 26th**\n**12pm - 9pm**\n\n**$185 per person plus Tax & Gratuity**\n\nCelebrate Thanksgiving at Le Jardinier on Thursday, November 26th, with a 3-course prix fixe menu from Executive Chef James Friedberg and Chef de Cuisine Mario da Silva that bring the flavors of fall to the table.\n\nDelight in a Deviled Egg amuse-bouche before savoring a first course such as Butternut Squash Velouté, followed by Braised Beef Cheek with Port wine sauce or a traditional Organic Turkey with cranberr",
-      "starts_at": "2026-11-26T20:15:00-05:00",
-      "ends_at": "2026-11-26T22:15:00-05:00",
+      "id": "50ef8065c9f71fe30ca6587da9927eb0c23b9eab",
+      "title": "The Art of the Season: Miami Art Week Tasting Menu at Le Jardinier",
+      "summary": "**Monday, November 30th**\n**6PM - 9:30PM**\n**$190 per person plus Tax & Gratuity**\n\nCelebrate Miami Art Week at Michelin-starred Le Jardinier Miami from Monday, November 30th through Sunday, December 6th, with a 5-course tasting menu from Executive Chef James Friedberg and Chef de Cuisine Mario da Silva. Through color and flavor contrast, each art-inspired dish unfolds as part of a sequence of fall and winter creations.\n\nThe evening closes with the “Chef’s Kiss” from Executive Pastry Chef Salvat",
+      "starts_at": "2026-11-30T18:00:00-05:00",
+      "ends_at": "2026-11-30T20:00:00-05:00",
       "all_day": false,
       "venue": "Le Jardinier Miami",
       "neighborhood": "Miami",
       "city": "Miami",
-      "url": "https://resy.com/cities/miami-fl/events/an-autumn-table-thanksgiving-at-le-jardinier-2026-11-26-6",
-      "rsvp_url": "https://resy.com/cities/miami-fl/events/an-autumn-table-thanksgiving-at-le-jardinier-2026-11-26-6",
+      "url": "https://resy.com/cities/miami-fl/events/the-art-of-the-season-miami-art-week-tasting-menu-at-le-jardinier-2026-11-30-6",
+      "rsvp_url": "https://resy.com/cities/miami-fl/events/the-art-of-the-season-miami-art-week-tasting-menu-at-le-jardinier-2026-11-30-6",
       "image_url": "https://image.resy.com/3/003/2/35005/123f2a5f37f0ab93290aacc9f9900fe18f44254c/jpg/640x360",
       "access": "registration",
       "industry": "culinary",
@@ -896,31 +729,31 @@
       "source_id": "resy_experiences",
       "source_name": "Resy Experiences · Miami",
       "source_url": "https://resy.com/cities/miami-fl/events",
-      "first_seen_at": "2026-11-20T20:54:15.030662+00:00",
-      "last_seen_at": "2026-11-26T22:05:55.205926+00:00",
-      "lead_hours": 148,
+      "first_seen_at": "2026-11-27T21:48:00.414279+00:00",
+      "last_seen_at": "2026-11-27T21:48:16.529306+00:00",
+      "lead_hours": 73,
       "source_trail": [
         {
           "source_id": "resy_experiences",
           "source_name": "Resy Experiences · Miami",
-          "seen_at": "2026-11-20T20:54:15.030662+00:00",
-          "url": "https://resy.com/cities/miami-fl/events/an-autumn-table-thanksgiving-at-le-jardinier-2026-11-26-6"
+          "seen_at": "2026-11-27T21:48:00.414279+00:00",
+          "url": "https://resy.com/cities/miami-fl/events/the-art-of-the-season-miami-art-week-tasting-menu-at-le-jardinier-2026-11-30-6"
         }
       ]
     },
     {
-      "id": "2d99895a42334382a4adac2278da14091ce9ca98",
-      "title": "Thanksgiving Day",
-      "summary": "Cancellation Policy: We kindly ask that you cancel 48-hours in advance of the reservation time to avoid a late cancellation or non-attendance fee of $50 per person.\n\nValet is located in front of restaurant, and is $20 per vehicle.\n\nLate Arrival: Please contact us if running late, We hold tables for up to 15 minutes past the reservation time.\n\nSeating: We kindly ask that the entire party is present to being seated.\n\nCorkage: Regretfully corkage is not permitted. Join us for Thanksgiving, whether ",
-      "starts_at": "2026-11-26T21:30:00-05:00",
-      "ends_at": "2026-11-26T23:30:00-05:00",
+      "id": "042960a7e48c89b83ccfc57bb80fb8c6fae798e5",
+      "title": "Bay Club Comedy Night - Art Basel Edition",
+      "summary": "Welcome Back to Bay Club Comedy Night! We’ve been bringing the laughs longer than most Miami flings last — and we’re just getting started.\n\nCome laugh, sip, snack, and vibe with us. 21+ Only.   Strictly 21+. Guests must arrive by 8:30 PM to guarantee entry.\nTickets will not be accepted after 8:45 PM — no exceptions.\n\nWe want everyone to enjoy the full comedy experience without interruptions, so please plan ahead and arrive on time. Trust us — you don’t want to miss the opening laughs or lose you",
+      "starts_at": "2026-11-30T20:30:00-05:00",
+      "ends_at": "2026-11-30T22:30:00-05:00",
       "all_day": false,
-      "venue": "LPM Miami",
-      "neighborhood": "Miami",
-      "city": "Miami",
-      "url": "https://resy.com/cities/miami-fl/events/thanksgiving-day-2026-11-26-6",
-      "rsvp_url": "https://resy.com/cities/miami-fl/events/thanksgiving-day-2026-11-26-6",
-      "image_url": "https://image.resy.com/3/003/2/99833/69d34927c64e48eb770268b07e58f5ebfcb61d3f/jpg/640x360",
+      "venue": "Lucali Miami",
+      "neighborhood": "Miami Beach",
+      "city": "Miami Beach",
+      "url": "https://resy.com/cities/miami-fl/events/bay-club-comedy-night-art-basel-edition-2026-11-30-6",
+      "rsvp_url": "https://resy.com/cities/miami-fl/events/bay-club-comedy-night-art-basel-edition-2026-11-30-6",
+      "image_url": "https://image.resy.com/3/003/2/89393/6a6ecb2507e8512c6365344d37c884099af4d70c/jpg/640x360",
       "access": "registration",
       "industry": "culinary",
       "categories": [
@@ -933,19 +766,60 @@
       "ask_for": "Restaurant events team via Resy",
       "score": 100,
       "confidence": 0.9,
-      "why_it_matters": "Listed on Resy Experiences — book before hotel calendars catch it — luxury / hospitality keywords — at LPM Miami",
+      "why_it_matters": "Listed on Resy Experiences — book before hotel calendars catch it — luxury + networking keywords — at Lucali Miami",
       "source_id": "resy_experiences",
       "source_name": "Resy Experiences · Miami",
       "source_url": "https://resy.com/cities/miami-fl/events",
-      "first_seen_at": "2026-11-25T22:06:58.204072+00:00",
-      "last_seen_at": "2026-11-26T22:05:55.205926+00:00",
-      "lead_hours": 28,
+      "first_seen_at": "2026-11-27T21:48:00.414297+00:00",
+      "last_seen_at": "2026-11-27T21:48:16.529306+00:00",
+      "lead_hours": 75,
       "source_trail": [
         {
           "source_id": "resy_experiences",
           "source_name": "Resy Experiences · Miami",
-          "seen_at": "2026-11-25T22:06:58.204072+00:00",
-          "url": "https://resy.com/cities/miami-fl/events/thanksgiving-day-2026-11-26-6"
+          "seen_at": "2026-11-27T21:48:00.414297+00:00",
+          "url": "https://resy.com/cities/miami-fl/events/bay-club-comedy-night-art-basel-edition-2026-11-30-6"
+        }
+      ]
+    },
+    {
+      "id": "c2ae3a65359547a1ddf950c404222f90c9522694",
+      "title": "Pasta Omakase",
+      "summary": "Pasta Omakase continues! A collection of specialty crudos and pastas. Brought to you by chefs Mike Pirolo & Trevor Zwaan.\n\nBar seating only. Begins promptly at 6:30 PM. We are unfortunately not able to modify this menu.",
+      "starts_at": "2026-12-02T18:30:00-05:00",
+      "ends_at": "2026-12-02T21:00:00-05:00",
+      "all_day": false,
+      "venue": "Macchialina Taverna Rustica",
+      "neighborhood": "Miami Beach",
+      "city": "Miami Beach",
+      "url": "https://resy.com/cities/miami-fl/events/pasta-omakase-2026-12-02-6",
+      "rsvp_url": "https://resy.com/cities/miami-fl/events/pasta-omakase-2026-12-02-6",
+      "image_url": "https://image.resy.com/3/003/2/8803/91bd5e3f2a032ba4699878d704328000b38e03c9/jpg/640x360",
+      "access": "registration",
+      "industry": "culinary",
+      "categories": [
+        "culinary",
+        "hospitality"
+      ],
+      "access_tip": "Book on Resy as soon as listings drop — guest-chef nights often sell out the same week.",
+      "contact_url": "https://resy.com/cities/miami-fl/events",
+      "contact_email": null,
+      "ask_for": "Restaurant events team via Resy",
+      "score": 100,
+      "confidence": 0.9,
+      "why_it_matters": "Listed on Resy Experiences — book before hotel calendars catch it — luxury / hospitality keywords — at Macchialina Taverna Rustica",
+      "source_id": "resy_experiences",
+      "source_name": "Resy Experiences · Miami",
+      "source_url": "https://resy.com/cities/miami-fl/events",
+      "first_seen_at": "2026-11-27T21:48:00.414392+00:00",
+      "last_seen_at": "2026-11-27T21:48:16.529306+00:00",
+      "lead_hours": 121,
+      "source_trail": [
+        {
+          "source_id": "resy_experiences",
+          "source_name": "Resy Experiences · Miami",
+          "seen_at": "2026-11-27T21:48:00.414392+00:00",
+          "url": "https://resy.com/cities/miami-fl/events/pasta-omakase-2026-12-02-6"
         }
       ]
     },
@@ -980,7 +854,7 @@
       "source_name": "The Backgammon Society",
       "source_url": "https://www.thebackgammonsociety.com/",
       "first_seen_at": "2026-11-19T21:09:27.814067+00:00",
-      "last_seen_at": "2026-11-26T22:05:55.205926+00:00",
+      "last_seen_at": "2026-11-27T21:48:16.529306+00:00",
       "lead_hours": 986,
       "source_trail": [
         {
@@ -988,6 +862,48 @@
           "source_name": "The Backgammon Society",
           "seen_at": "2026-11-19T21:09:27.814067+00:00",
           "url": "https://www.thebackgammonsociety.com/tournaments/miami/rare-collects-x-yellowpop-collab"
+        }
+      ]
+    },
+    {
+      "id": "daaf37630e96c16827e6db15178fa2167c262960",
+      "title": "Chef Collective: Paul Qui x Brad Kilgore",
+      "summary": "For one night only, celebrated culinary talents come together at Pao by Paul Qui for an exclusive dining experience.James Beard Award-winning Chef Paul Qui welcomes acclaimed Chef Brad Kilgore alongside Pao’s Chef Mauricio for an evening of culinary discovery. Together, the chefs bring their distinctive styles, innovative techniques and creative perspectives to a specially curated menu celebrating their collective artistry.",
+      "starts_at": "2026-12-10T18:30:00-05:00",
+      "ends_at": null,
+      "all_day": false,
+      "venue": "Faena Miami Beach",
+      "neighborhood": "Miami Beach",
+      "city": "Miami Beach",
+      "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/chef-collective-paul-qui-x-brad-kilgore",
+      "rsvp_url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/chef-collective-paul-qui-x-brad-kilgore",
+      "image_url": null,
+      "access": "public",
+      "industry": "hospitality",
+      "categories": [
+        "hospitality",
+        "luxury",
+        "nightlife"
+      ],
+      "access_tip": "Use the event booking link for public programming. For Faena Rose events, submit the official membership-interest form.",
+      "contact_url": "https://forms.rosemembers.faena.com/membership-interest",
+      "contact_email": null,
+      "ask_for": "Faena Theater box office for public tickets; Faena Rose Membership Team for Rose programming",
+      "score": 92,
+      "confidence": 0.98,
+      "why_it_matters": "Listed on Faena Miami Beach — luxury / hospitality keywords — at Faena Miami Beach",
+      "source_id": "faena",
+      "source_name": "Faena Miami Beach",
+      "source_url": "https://www.faena.com/miami-beach/things-to-do",
+      "first_seen_at": "2026-11-27T21:48:14.023815+00:00",
+      "last_seen_at": "2026-11-27T21:48:16.529306+00:00",
+      "lead_hours": 313,
+      "source_trail": [
+        {
+          "source_id": "faena",
+          "source_name": "Faena Miami Beach",
+          "seen_at": "2026-11-27T21:48:14.023815+00:00",
+          "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/chef-collective-paul-qui-x-brad-kilgore"
         }
       ]
     },
@@ -1014,7 +930,7 @@
       "access_tip": "Chef collabs and restaurant pop-ups often sell out same-day — reserve on Luma or call the venue directly.",
       "contact_url": null,
       "contact_email": null,
-      "ask_for": "One Love Art, Yuseph Zapata, Juan Salazar, NFTCLT",
+      "ask_for": "One Love Art, Yuseph Zapata, Juan Salazar, N3XTCULTURE",
       "score": 90,
       "confidence": 0.9,
       "why_it_matters": "From Luma Miami · Food & Chef — luxury / hospitality keywords — at Celia's kitchen and Social Bar",
@@ -1022,7 +938,7 @@
       "source_name": "Luma Miami · Food & Chef",
       "source_url": "https://luma.com/miami",
       "first_seen_at": "2026-11-20T20:54:14.386257+00:00",
-      "last_seen_at": "2026-11-26T22:05:55.205926+00:00",
+      "last_seen_at": "2026-11-27T21:48:16.529306+00:00",
       "lead_hours": 338,
       "source_trail": [
         {
@@ -1064,7 +980,7 @@
       "source_name": "Eater Miami",
       "source_url": "https://miami.eater.com/rss/index.xml",
       "first_seen_at": "2026-10-30T18:23:37.970494+00:00",
-      "last_seen_at": "2026-11-26T22:05:55.205926+00:00",
+      "last_seen_at": "2026-11-27T21:48:16.529306+00:00",
       "lead_hours": null,
       "source_trail": [
         {
@@ -1072,6 +988,48 @@
           "source_name": "Eater Miami",
           "seen_at": "2026-10-30T18:23:37.970494+00:00",
           "url": "https://miami.eater.com/maps/best-miami-cocktail-bars-guide-map"
+        }
+      ]
+    },
+    {
+      "id": "4df1a32e167532a0ca4de1783b09313f08573e73",
+      "title": "Mahjong & Mingle at Wan’s Mandarin House February 28, 2027 12:00 PM",
+      "summary": "Favorite Event Mahjong & Mingle at Wan’s Mandarin House February 28, 2027 12:00 PM",
+      "starts_at": "2027-02-28T00:00:00+00:00",
+      "ends_at": null,
+      "all_day": false,
+      "venue": "",
+      "neighborhood": "Miami",
+      "city": "Miami",
+      "url": "https://sobewff.org/events/mahjong2/",
+      "rsvp_url": "https://sobewff.org/events/mahjong2/",
+      "image_url": null,
+      "access": "public",
+      "industry": "culinary",
+      "categories": [
+        "culinary",
+        "luxury",
+        "networking"
+      ],
+      "access_tip": "Buy or reserve only through the official SOBEWFF event page; high-demand dinners sell out early.",
+      "contact_url": "https://sobewff.org/events/",
+      "contact_email": null,
+      "ask_for": "",
+      "score": 89,
+      "confidence": 0.8,
+      "why_it_matters": "From SOBEWFF — luxury / hospitality keywords",
+      "source_id": "sobewff",
+      "source_name": "SOBEWFF",
+      "source_url": "https://corporate.sobewff.org/",
+      "first_seen_at": "2026-11-27T21:47:58.791959+00:00",
+      "last_seen_at": "2026-11-27T21:48:16.529306+00:00",
+      "lead_hours": 2210,
+      "source_trail": [
+        {
+          "source_id": "sobewff",
+          "source_name": "SOBEWFF",
+          "seen_at": "2026-11-27T21:47:58.791959+00:00",
+          "url": "https://sobewff.org/events/mahjong2/"
         }
       ]
     },
@@ -1106,7 +1064,7 @@
       "source_name": "Luma Miami · Food & Chef",
       "source_url": "https://luma.com/miami",
       "first_seen_at": "2026-11-24T22:53:48.790826+00:00",
-      "last_seen_at": "2026-11-26T22:05:55.205926+00:00",
+      "last_seen_at": "2026-11-27T21:48:16.529306+00:00",
       "lead_hours": 120,
       "source_trail": [
         {
@@ -1148,7 +1106,7 @@
       "source_name": "The Backgammon Society",
       "source_url": "https://www.thebackgammonsociety.com/",
       "first_seen_at": "2026-11-19T21:09:27.814673+00:00",
-      "last_seen_at": "2026-11-26T22:05:55.205926+00:00",
+      "last_seen_at": "2026-11-27T21:48:16.529306+00:00",
       "lead_hours": 1490,
       "source_trail": [
         {
@@ -1189,7 +1147,7 @@
       "source_name": "Haute Living",
       "source_url": "https://hauteliving.com/feed/",
       "first_seen_at": "2026-11-20T20:54:10.479947+00:00",
-      "last_seen_at": "2026-11-26T22:05:55.205926+00:00",
+      "last_seen_at": "2026-11-27T21:48:16.529306+00:00",
       "lead_hours": null,
       "source_trail": [
         {
@@ -1231,7 +1189,7 @@
       "source_name": "Eater Miami",
       "source_url": "https://miami.eater.com/rss/index.xml",
       "first_seen_at": "2026-10-12T21:28:12.732047+00:00",
-      "last_seen_at": "2026-11-26T22:05:55.205926+00:00",
+      "last_seen_at": "2026-11-27T21:48:16.529306+00:00",
       "lead_hours": null,
       "source_trail": [
         {
@@ -1272,7 +1230,7 @@
       "source_name": "Haute Living",
       "source_url": "https://hauteliving.com/feed/",
       "first_seen_at": "2026-11-22T20:06:38.766948+00:00",
-      "last_seen_at": "2026-11-26T22:05:55.205926+00:00",
+      "last_seen_at": "2026-11-27T21:48:16.529306+00:00",
       "lead_hours": null,
       "source_trail": [
         {
@@ -1313,7 +1271,7 @@
       "source_name": "The Bass",
       "source_url": "https://thebass.org/events/?ical=1",
       "first_seen_at": "2026-10-26T19:00:25.816750+00:00",
-      "last_seen_at": "2026-11-26T22:05:55.205926+00:00",
+      "last_seen_at": "2026-11-27T21:48:16.529306+00:00",
       "lead_hours": 896,
       "source_trail": [
         {
@@ -1354,7 +1312,7 @@
       "source_name": "World Red Eye",
       "source_url": "https://worldredeye.com/feed/",
       "first_seen_at": "2026-11-24T22:53:42.616511+00:00",
-      "last_seen_at": "2026-11-26T22:05:55.205926+00:00",
+      "last_seen_at": "2026-11-27T21:48:16.529306+00:00",
       "lead_hours": null,
       "source_trail": [
         {
@@ -1362,6 +1320,88 @@
           "source_name": "World Red Eye",
           "seen_at": "2026-11-24T22:53:42.616511+00:00",
           "url": "https://worldredeye.com/2026/11/wre-news-alex-pirez-and-chef-dani-garcia-to-open-munroes-february-2027/"
+        }
+      ]
+    },
+    {
+      "id": "835ea2715ade06a6fa35f41de30aa0db78f22d3d",
+      "title": "Pop-Up with Donde Esteban",
+      "summary": "Donde Esteban is a Colombian resortwear brand inspired by the spirit of an endless summer. Blending Caribbean and Mediterranean influences, the collection features vibrant printed silks, colorful knitwear and relaxed unisex silhouettes.Shop a selection of their pieces on property for a limited time.",
+      "starts_at": "2026-12-01T12:00:00-05:00",
+      "ends_at": null,
+      "all_day": false,
+      "venue": "The Standard Spa Miami Beach",
+      "neighborhood": "Miami Beach",
+      "city": "Miami Beach",
+      "url": "https://www.standardhotels.com/miami/happenings/donde-esteban-pop-up-december-2026",
+      "rsvp_url": "https://www.standardhotels.com/miami/happenings/donde-esteban-pop-up-december-2026",
+      "image_url": null,
+      "access": "public",
+      "industry": "hospitality",
+      "categories": [
+        "hospitality",
+        "luxury"
+      ],
+      "access_tip": "Book directly from the official happening. For private-event access, contact the hotel's official events team.",
+      "contact_url": "https://www.standardhotels.com/miami/properties/miami-beach",
+      "contact_email": "MiamiEvents@StandardMiami.com",
+      "ask_for": "The Standard Miami Events Team or Spa Concierge",
+      "score": 68,
+      "confidence": 0.9,
+      "why_it_matters": "From The Standard Spa Miami Beach — luxury / hospitality keywords — at The Standard Spa Miami Beach",
+      "source_id": "the_standard_miami",
+      "source_name": "The Standard Spa Miami Beach",
+      "source_url": "https://www.standardhotels.com/happenings",
+      "first_seen_at": "2026-11-27T21:48:00.507875+00:00",
+      "last_seen_at": "2026-11-27T21:48:16.529306+00:00",
+      "lead_hours": 91,
+      "source_trail": [
+        {
+          "source_id": "the_standard_miami",
+          "source_name": "The Standard Spa Miami Beach",
+          "seen_at": "2026-11-27T21:48:00.507875+00:00",
+          "url": "https://www.standardhotels.com/miami/happenings/donde-esteban-pop-up-december-2026"
+        }
+      ]
+    },
+    {
+      "id": "c07123ee5f2fb9e6a87cea6d627cebb6eaa27f28",
+      "title": "Pop-Up with Kasiopya",
+      "summary": "Kasiopya is a family and women-owned slow fashion label specializing in natural fibers and botanical silk prints. Using plants grown and foraged right here in Miami, the brand captures the colors and silhouettes of our tropical surroundings directly onto silk.Shop the collection at The Shop for two",
+      "starts_at": "2026-12-03T12:00:00-05:00",
+      "ends_at": null,
+      "all_day": false,
+      "venue": "The Standard Spa Miami Beach",
+      "neighborhood": "Miami Beach",
+      "city": "Miami Beach",
+      "url": "https://www.standardhotels.com/miami/happenings/kasiopya-pop-up",
+      "rsvp_url": "https://www.standardhotels.com/miami/happenings/kasiopya-pop-up",
+      "image_url": null,
+      "access": "public",
+      "industry": "hospitality",
+      "categories": [
+        "hospitality",
+        "luxury"
+      ],
+      "access_tip": "Book directly from the official happening. For private-event access, contact the hotel's official events team.",
+      "contact_url": "https://www.standardhotels.com/miami/properties/miami-beach",
+      "contact_email": "MiamiEvents@StandardMiami.com",
+      "ask_for": "The Standard Miami Events Team or Spa Concierge",
+      "score": 68,
+      "confidence": 0.9,
+      "why_it_matters": "From The Standard Spa Miami Beach — luxury / hospitality keywords — at The Standard Spa Miami Beach",
+      "source_id": "the_standard_miami",
+      "source_name": "The Standard Spa Miami Beach",
+      "source_url": "https://www.standardhotels.com/happenings",
+      "first_seen_at": "2026-11-27T21:48:01.652317+00:00",
+      "last_seen_at": "2026-11-27T21:48:16.529306+00:00",
+      "lead_hours": 139,
+      "source_trail": [
+        {
+          "source_id": "the_standard_miami",
+          "source_name": "The Standard Spa Miami Beach",
+          "seen_at": "2026-11-27T21:48:01.652317+00:00",
+          "url": "https://www.standardhotels.com/miami/happenings/kasiopya-pop-up"
         }
       ]
     },
@@ -1396,7 +1436,7 @@
       "source_name": "Backgammon Social Miami",
       "source_url": "https://luma.com/backgammonsocialmiami",
       "first_seen_at": "2026-11-20T20:54:15.497986+00:00",
-      "last_seen_at": "2026-11-26T22:05:55.205926+00:00",
+      "last_seen_at": "2026-11-27T21:48:16.529306+00:00",
       "lead_hours": 266,
       "source_trail": [
         {
@@ -1404,6 +1444,129 @@
           "source_name": "Backgammon Social Miami",
           "seen_at": "2026-11-20T20:54:15.497986+00:00",
           "url": "https://posh.vip/e/the-art-of-play"
+        }
+      ]
+    },
+    {
+      "id": "4b8c9b4e9fdbdd4f9eb1845614b7f2499edceeb7",
+      "title": "Pop-Up with Bather",
+      "summary": "Meet Bather, a menswear brand making swim trunks worth wearing beyond the pool. Designed for travel and everyday life, its signature swimwear pairs contemporary prints with an exceptionally soft liner and quick-drying fabric.",
+      "starts_at": "2026-12-05T12:00:00-05:00",
+      "ends_at": null,
+      "all_day": false,
+      "venue": "The Standard Spa Miami Beach",
+      "neighborhood": "Miami Beach",
+      "city": "Miami Beach",
+      "url": "https://www.standardhotels.com/miami/happenings/bather-pop-up",
+      "rsvp_url": "https://www.standardhotels.com/miami/happenings/bather-pop-up",
+      "image_url": null,
+      "access": "public",
+      "industry": "hospitality",
+      "categories": [
+        "hospitality",
+        "luxury"
+      ],
+      "access_tip": "Book directly from the official happening. For private-event access, contact the hotel's official events team.",
+      "contact_url": "https://www.standardhotels.com/miami/properties/miami-beach",
+      "contact_email": "MiamiEvents@StandardMiami.com",
+      "ask_for": "The Standard Miami Events Team or Spa Concierge",
+      "score": 62,
+      "confidence": 0.9,
+      "why_it_matters": "From The Standard Spa Miami Beach — luxury / hospitality keywords — at The Standard Spa Miami Beach",
+      "source_id": "the_standard_miami",
+      "source_name": "The Standard Spa Miami Beach",
+      "source_url": "https://www.standardhotels.com/happenings",
+      "first_seen_at": "2026-11-27T21:48:02.943877+00:00",
+      "last_seen_at": "2026-11-27T21:48:16.529306+00:00",
+      "lead_hours": 187,
+      "source_trail": [
+        {
+          "source_id": "the_standard_miami",
+          "source_name": "The Standard Spa Miami Beach",
+          "seen_at": "2026-11-27T21:48:02.943877+00:00",
+          "url": "https://www.standardhotels.com/miami/happenings/bather-pop-up"
+        }
+      ]
+    },
+    {
+      "id": "571336cce053a196a8db384fb4a72d839aad91a2",
+      "title": "Pop-Up with rag & bone",
+      "summary": "Rag & bone, the renowned New York label blends classic British tailoring with American workwear and an understated downtown aesthetic. Shop its signature denim alongside contemporary womenswear and menswear.",
+      "starts_at": "2026-12-12T12:00:00-05:00",
+      "ends_at": null,
+      "all_day": false,
+      "venue": "The Standard Spa Miami Beach",
+      "neighborhood": "Miami Beach",
+      "city": "Miami Beach",
+      "url": "https://www.standardhotels.com/miami/happenings/rag-bone-pop-up",
+      "rsvp_url": "https://www.standardhotels.com/miami/happenings/rag-bone-pop-up",
+      "image_url": null,
+      "access": "public",
+      "industry": "hospitality",
+      "categories": [
+        "hospitality",
+        "luxury"
+      ],
+      "access_tip": "Book directly from the official happening. For private-event access, contact the hotel's official events team.",
+      "contact_url": "https://www.standardhotels.com/miami/properties/miami-beach",
+      "contact_email": "MiamiEvents@StandardMiami.com",
+      "ask_for": "The Standard Miami Events Team or Spa Concierge",
+      "score": 62,
+      "confidence": 0.9,
+      "why_it_matters": "From The Standard Spa Miami Beach — luxury / hospitality keywords — at The Standard Spa Miami Beach",
+      "source_id": "the_standard_miami",
+      "source_name": "The Standard Spa Miami Beach",
+      "source_url": "https://www.standardhotels.com/happenings",
+      "first_seen_at": "2026-11-27T21:48:04.248127+00:00",
+      "last_seen_at": "2026-11-27T21:48:16.529306+00:00",
+      "lead_hours": 355,
+      "source_trail": [
+        {
+          "source_id": "the_standard_miami",
+          "source_name": "The Standard Spa Miami Beach",
+          "seen_at": "2026-11-27T21:48:04.248127+00:00",
+          "url": "https://www.standardhotels.com/miami/happenings/rag-bone-pop-up"
+        }
+      ]
+    },
+    {
+      "id": "9d34698282695c8b697e4581907e2c7fd90a6fe3",
+      "title": "Pop-Up with Phantasmagoria",
+      "summary": "Phantasmagoria is a luxury resortwear label known for statement caftans and dresses in pure silk crepe, Italian silk blends, intricate brocade and soft cotton terry. Bold colors, distinctive prints and flowing silhouettes define its made-to-order pieces, crafted in the US, with select designs",
+      "starts_at": "2026-12-19T12:00:00-05:00",
+      "ends_at": null,
+      "all_day": false,
+      "venue": "The Standard Spa Miami Beach",
+      "neighborhood": "Miami Beach",
+      "city": "Miami Beach",
+      "url": "https://www.standardhotels.com/miami/happenings/phantasmagoria-pop-up",
+      "rsvp_url": "https://www.standardhotels.com/miami/happenings/phantasmagoria-pop-up",
+      "image_url": null,
+      "access": "public",
+      "industry": "hospitality",
+      "categories": [
+        "hospitality",
+        "luxury"
+      ],
+      "access_tip": "Book directly from the official happening. For private-event access, contact the hotel's official events team.",
+      "contact_url": "https://www.standardhotels.com/miami/properties/miami-beach",
+      "contact_email": "MiamiEvents@StandardMiami.com",
+      "ask_for": "The Standard Miami Events Team or Spa Concierge",
+      "score": 62,
+      "confidence": 0.9,
+      "why_it_matters": "From The Standard Spa Miami Beach — luxury / hospitality keywords — at The Standard Spa Miami Beach",
+      "source_id": "the_standard_miami",
+      "source_name": "The Standard Spa Miami Beach",
+      "source_url": "https://www.standardhotels.com/happenings",
+      "first_seen_at": "2026-11-27T21:48:05.414763+00:00",
+      "last_seen_at": "2026-11-27T21:48:16.529306+00:00",
+      "lead_hours": 523,
+      "source_trail": [
+        {
+          "source_id": "the_standard_miami",
+          "source_name": "The Standard Spa Miami Beach",
+          "seen_at": "2026-11-27T21:48:05.414763+00:00",
+          "url": "https://www.standardhotels.com/miami/happenings/phantasmagoria-pop-up"
         }
       ]
     },
@@ -1437,7 +1600,7 @@
       "source_name": "Beacon Council RSS",
       "source_url": "https://www.beaconcouncil.com/events/feed/",
       "first_seen_at": "2026-11-09T22:50:53.261145+00:00",
-      "last_seen_at": "2026-11-26T22:05:55.205926+00:00",
+      "last_seen_at": "2026-11-27T21:48:16.529306+00:00",
       "lead_hours": 754,
       "source_trail": [
         {
